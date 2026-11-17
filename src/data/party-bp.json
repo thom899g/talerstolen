@@ -1,0 +1,418 @@
+{
+  "id": "bp",
+  "letter": "H",
+  "name": "Borgernes Parti",
+  "short": "BP",
+  "founded": "2024",
+  "foundedNote": "Partiet blev stiftet i 2024 af Lars Boje Mathiesen, der i marts 2023 var blevet afsat og ekskluderet som formand for Nye Borgerlige. Navnet Borgernes Parti – Lars Boje Mathiesen blev godkendt 28. august 2024.",
+  "leader": {
+    "name": "Lars Boje Mathiesen",
+    "title": "Partiformand og eneste folketingsmedlem for partiet",
+    "since": "2024",
+    "born": "1975",
+    "bio": "Født 1975 i Skive og opvokset i Ribe. Folkeskolelærer til 2019 og freelancemusiker fra 2001. Medlem af Liberal Alliance i Aarhus Byråd fra 2013 og forlod partiet i 2016. Valgt til Folketinget for Nye Borgerlige i 2019 og 2022. Formand i februar 2023, afsat og ekskluderet i marts 2023. Stiftede Borgernes Parti i 2024 og meldte sig i december 2025 som statsministerkandidat."
+  },
+  "role": "opposition",
+  "roleNote": "Borgernes Parti er uden for regeringen og er ikke støtteparti. Partiet har kun ét folketingsmedlem, Lars Boje Mathiesen. De tre andre partivalgte er i dag løsgængere: Jacob Harris (ekskluderet 28. marts 2026), Emilie Schytte (udmeldt 4. april 2026) og Nadja Natalie Isaksen (udmeldt 3. maj 2026). Partiet har ansat Morten Dehn som politisk ordfører, men han er ikke folketingsmedlem.",
+  "ideology": [
+    "Liberalisme (økonomisk)",
+    "Anti-establishment",
+    "Restriktiv udlændingepolitik"
+  ],
+  "euGroup": "Ingen mandater i Europa-Parlamentet",
+  "website": "https://borgernesparti.dk",
+  "oneLiner": "Liberal økonomi, restriktiv udlændingepolitik og magten tilbage til borgerne, stiftet af Lars Boje Mathiesen i 2024.",
+  "summary": "Borgernes Parti vil give magten tilbage til borgerne, og det er partiets kerneslogan. Partiet vil have mindre stat og mindre kontrol og bureaukrati, og det vil have en stram udlændingepolitik med 'Danmark skal forblive dansk' som ledetema. Det taler mod det, partiet kalder klimahysteri, og vil have mere atomkraft og en energipolitik, der ikke bygger på vind og sol alene. Partiet er bevidst anti-establishment og vil have en forvaltningsdomstol. Ved valget i 2026 fik partiet 2,1 pct. og fire mandater, men tre af dem er i dag løsgængere, og partiet har kun ét folketingsmedlem tilbage.",
+  "pitch": "Vi er for dem, der føler, at systemet ikke lytter til dem. Vi vil have magten tilbage til borgerne, lavere skatter og en stram udlændingepolitik, og vi tør sige det højt. Vi er ikke en del af det gamle establishment, og vi lover kun det, vi kan holde.",
+  "critique": "Kritikerne siger, at partiet er et enkeltmandsprojekt, der er afhængigt af Lars Boje Mathiesens person. De peger på, at tre af de fire valgte medlemmer har forladt partiet inden for fem uger efter valget. Mathiesen har den laveste personlige popularitet, som Epinion nogensinde har målt på en dansk topolitiker. Analytikere i Politiken, Berlingske og B.T. kalder kollapset uden fortilfælde. Altinget-debattører peger på, at partier bygget på én karismatisk person hurtigt falder.",
+  "keyIssues": [
+    {
+      "title": "Magten tilbage til borgerne",
+      "detail": "Partiets kerneslogan. Partiet vil have en forvaltningsdomstol og mindre stat, og det vil have lavere skatter og mindre bureaukrati. Det er partiets generelle linje, uden at alle dele er udmøntet i konkrete forslag."
+    },
+    {
+      "title": "Danmark skal forblive dansk",
+      "detail": "Partiets stærkeste tema er udlændinge og integration. Partiet taler om massiv indvandring og fejlslagen integration. Under overskriften 'Befri Danmark fra Islam' har partiet stemt for at afskaffe koranloven (B 6, 1. oktober 2026)."
+    },
+    {
+      "title": "Et opgør med klimahysteriet",
+      "detail": "Partiet siger, at Danmark ikke har en klimakrise, men en energikrise. Det vil have billigere energi og mener, at grøn energi fra vind og sol er dyr og ustabil. Partiet har også argumenteret for atomkraft."
+    },
+    {
+      "title": "Frihed og ansvar",
+      "detail": "Partiet vil have frie borgere med ansvar for egen lykke. Det har også fremsat idéen om at begrænse folketingsperioderne til ti år (februar 2024)."
+    }
+  ],
+  "positions": {
+    "udlaendinge": {
+      "score": 5,
+      "text": "Partiet siger, at Danmark skal forblive dansk, og at landet er truet af massiv indvandring og fejlslagen integration. Det stemte 1. oktober 2026 for at afskaffe koranloven. Det har fremsat forslaget B 38 om at fratage en person dansk indfødsret (11. november 2026)."
+    },
+    "oekonomi": {
+      "score": 4,
+      "text": "Partiet vil have mindre stat, lavere skatter og mindre kontrol og bureaukrati. Det stemte 12. november 2026 for nulmoms på bøger og afskaffelse af kaffeafgiften (L 36 A og B)."
+    },
+    "arbejdsmarked": {
+      "score": 3,
+      "text": "Partiets linje er mindre stat og større ansvar for egen lykke. Der er ingen konkrete arbejdsmarkedsforslag i partiets fremsatte forslag i efteråret 2026."
+    },
+    "velfaerd": {
+      "score": 3,
+      "text": "Partiets generelle linje er mindre stat og mere ansvar hos borgerne. Partiets hjemmeside har ingen konkrete velfærdsforslag."
+    },
+    "sundhed": {
+      "score": 3,
+      "text": "Partiets hjemmeside har et afsnit om sundhedspolitik, men uden konkrete forslag. Den generelle linje om mindre stat gælder også her."
+    },
+    "klima": {
+      "score": 5,
+      "text": "Partiet siger, at Danmark ikke har en klimakrise, men en energikrise. Det afviser, at grøn energi kan sikre forsyningen, og det har argumenteret for atomkraft."
+    },
+    "natur_landbrug": {
+      "score": 3,
+      "text": "Natur, miljø og landbrug er nævnt på partiets hjemmeside, men uden konkrete forslag."
+    },
+    "eu": {
+      "score": 4,
+      "text": "Partiet har ingen mandater i Europa-Parlamentet. I Folketinget stemte det 27. august 2026 imod EU's migrations- og asylpagt (L 15), sammen med DF, DD og LA."
+    },
+    "forsvar": {
+      "score": 3,
+      "text": "Forsvar er nævnt på partiets hjemmeside som område, men uden konkret indhold."
+    },
+    "ret": {
+      "score": 4,
+      "text": "Partiet vil have en forvaltningsdomstol. Det stemte for at fratage en person dansk indfødsret med forslaget B 38 (11. november 2026)."
+    },
+    "bolig": {
+      "score": 3,
+      "text": "Boligpolitik har ingen konkrete forslag på partiets hjemmeside. Den generelle linje om mindre regulering gælder også her."
+    },
+    "uddannelse": {
+      "score": 3,
+      "text": "Uddannelse har ingen konkrete forslag på partiets hjemmeside. Den generelle linje om mindre stat gælder også her."
+    }
+  },
+  "history": [
+    {
+      "year": "2019",
+      "event": "Lars Boje Mathiesen vælges til Folketinget for Nye Borgerlige."
+    },
+    {
+      "year": "2023",
+      "event": "Mathiesen bliver formand for Nye Borgerlige i februar, men bliver afsat og ekskluderet i marts 2023."
+    },
+    {
+      "year": "2024",
+      "event": "I april annoncerer Mathiesen et nyt parti. Navnet Borgernes Parti – Lars Boje Mathiesen godkendes 28. august 2024, og partiet indsamler i december 2024 omkring 20.000 underskrifter."
+    },
+    {
+      "year": "2025",
+      "event": "I marts præsenteres Allan Feldt som første kandidat. Han trækker sig i september 2025. I december 2025 meldte Mathiesen sig som statsministerkandidat."
+    },
+    {
+      "year": "2026",
+      "event": "Ved folketingsvalget 24. marts 2026 fik partiet 2,1 pct. og fire mandater: Lars Boje Mathiesen, Jacob Harris, Nadja Natalie Isaksen og Emilie Schytte."
+    },
+    {
+      "year": "2026",
+      "event": "Den 28. marts 2026 ekskluderes Jacob Harris. Partiet begrunder det med, at han brød den loyalitetserklæring, han havde underskrevet, og gav urigtige oplysninger. Det kom samtidig frem, at en kurator havde indstillet ham og hans hustru til konkurskarantæne. Harris bliver som løsgænger i Folketinget."
+    },
+    {
+      "year": "2026",
+      "event": "Den 4. april 2026 melder Emilie Schytte sig ud af partiet. Hun siger, at hun ikke længere kan stå inde for partiets retorik. Hun bliver som løsgænger i Folketinget."
+    },
+    {
+      "year": "2026",
+      "event": "Den 3. maj 2026 melder Nadja Natalie Isaksen sig ud af partiet. Hun siger, at partiet ikke er blevet, som hun håbede, at der mangler et ordentligt grundlag for politisk arbejde, og at fokus har flyttet sig fra politik. Hun bliver som løsgænger i Folketinget."
+    },
+    {
+      "year": "2026",
+      "event": "Analytikere i Politiken, Berlingske og B.T. kalder kollapset uden fortilfælde. Mathiesen er tilbage som eneste medlem af partiets folketingsgruppe."
+    },
+    {
+      "year": "2026",
+      "event": "Den 2. juli 2026 ansætter partiet Morten Dehn som politisk ordfører. Han er ikke folketingsmedlem, og han skal hjælpe Mathiesen med det parlamentariske arbejde."
+    },
+    {
+      "year": "2026",
+      "event": "Ved Voxmeter 9. nov. 2026 står partiet til 0,4 pct., ned fra 2,1 pct. ved valget."
+    }
+  ],
+  "people": [
+    {
+      "name": "Lars Boje Mathiesen",
+      "role": "Partiformand og eneste folketingsmedlem for partiet",
+      "note": "Har stiftet partiet og er valgt i Østjylland. Statutterne giver ham en fireårig formandsperiode og vetoret."
+    },
+    {
+      "name": "Morten Dehn",
+      "role": "Politisk ordfører, ikke folketingsmedlem",
+      "note": "Ansat 2. juli 2026 for at hjælpe formanden med det parlamentariske arbejde."
+    },
+    {
+      "name": "Jacob Harris",
+      "role": "Løsgænger i Folketinget, valgt for BP i 2026",
+      "note": "Ekskluderet 28. marts 2026. Han fik 2.307 personlige stemmer."
+    },
+    {
+      "name": "Emilie Schytte",
+      "role": "Løsgænger i Folketinget, valgt for BP i 2026",
+      "note": "Meldte sig ud 4. april 2026 og kritiserede partiets formand. Hun fik 533 personlige stemmer."
+    },
+    {
+      "name": "Nadja Natalie Isaksen",
+      "role": "Løsgænger i Folketinget, valgt for BP i 2026",
+      "note": "Meldte sig ud 3. maj 2026. Hun fik 1.301 personlige stemmer. Navnet staves også Nadja Natalie Isaksen."
+    },
+    {
+      "name": "Cecilie Liv Hansen",
+      "role": "Løsgænger i Folketinget, kom fra Liberal Alliance",
+      "note": "Er ikke valgt for Borgernes Parti. Hun blev ekskluderet fra Liberal Alliance og sidder som uafhængig."
+    },
+    {
+      "name": "Preben Bang Henriksen",
+      "role": "Løsgænger i Folketinget, tidligere Venstre",
+      "note": "Sidder som uafhængig og er ikke valgt for Borgernes Parti."
+    }
+  ],
+  "voters": {
+    "summary": "Borgernes Parti er et protestparti, der samler op efter Nye Borgerlige. Vælgerne er typisk misfornøjede med det etablerede politiske system og bor oftere uden for de største byer. Partiet står i Voxmeter 9. nov. 2026 til 0,4 pct., ned fra 2,1 pct. ved valget.",
+    "strongholds": "Uden for de største byer, især i Østjylland, hvor Mathiesen blev valgt.",
+    "demographics": "Vælgerne er typisk utilfredse med de etablerede partier og har en blandet uddannelsesprofil, som for protestpartier i almindelighed."
+  },
+  "election2026": {
+    "note": "Partiet fik 2,1 pct. og fire mandater ved valget 24. marts 2026 og kom over spærregrænsen efter midnat. Efter valget brød partiet hurtigt sammen: tre af de fire valgte forlod partiet eller blev ekskluderet inden for fem uger. Analytikere kalder det uden fortilfælde, og Altinget peger på, at et parti bygget op omkring én person mangler organisation og en bred bevægelse."
+  },
+  "strengths": [
+    "Kom i Folketinget ved valget i 2026",
+    "Klar anti-establishment-profil, der appellerer til vælgere, der føler sig overset",
+    "Tydelig linje på udlændinge og klima med få, enkle budskaber"
+  ],
+  "weaknesses": [
+    "Afhængigt af én person, Lars Boje Mathiesen, med ét folketingsmedlem tilbage",
+    "Tre af de fire valgte medlemmer er forladt partiet inden for fem uger",
+    "Rekordlav personlig popularitet for Mathiesen ifølge Epinion",
+    "Statutterne giver formanden fire år og vetoret, hvilket gør det svært at afsætte ham"
+  ],
+  "internalTensions": [
+    {
+      "title": "Frafald efter valget",
+      "detail": "Jacob Harris blev ekskluderet 28. marts 2026, Emilie Schytte meldte sig ud 4. april og Nadja Natalie Isaksen 3. maj. Partiets folketingsgruppe er dermed reduceret til formanden alene."
+    },
+    {
+      "title": "Formandens løn og vetoret",
+      "detail": "I april 2026 var formandens løn og partiets vedtægter omstridte. Vedtægterne giver Mathiesen fire år som formand, en vetoret og mulighed for en millionløn. Harris kritiserede, at Mathiesen først rådede ham til at tage orlov og siden pressede ham til at træde tilbage."
+    },
+    {
+      "title": "Rasmus Munch Søndergaard",
+      "detail": "Søndergaard udviklede meget af partiets udlændingepolitik, men faldt senere ud med Mathiesen."
+    }
+  ],
+  "typicalArguments": [
+    {
+      "claim": "Magten skal tilbage til borgerne, og det politiske establishment har lyttet for lidt til vælgerne.",
+      "counter": "Kritikere siger, at partiet selv er et enkeltmandsprojekt, og at en anti-establishment-linje ikke er et program."
+    },
+    {
+      "claim": "Danmark skal forblive dansk, og udlændingepolitikken skal strammes.",
+      "counter": "Modstandere siger, at en stram linje uden konkrete lovforslag er et slogan, og at partiet ikke har vist, hvordan den skal gennemføres."
+    },
+    {
+      "claim": "Klimapolitikken er blevet til hysteri, og Danmark har en energikrise, ikke en klimakrise.",
+      "counter": "Kritikere mener, at partiet afviser klimavidenskaben, og at det mangler et troværdigt alternativ til grøn energi."
+    },
+    {
+      "claim": "Mindre stat og lavere skatter giver borgerne mere frihed.",
+      "counter": "Modstandere siger, at lavere skatter betyder ringere velfærd, og at partiet ikke har vist, hvordan det finansieres."
+    }
+  ],
+  "vsDF": {
+    "agree": [
+      "Afskaffelse af koranloven: BP og DF stemte begge for (B 6, 1. oktober 2026). Forslaget blev forkastet.",
+      "BP og DF stemte begge imod EU's migrations- og asylpagt (L 15, 27. august 2026), imod gødningsloven (L 5) og imod V 1 (8. oktober 2026)."
+    ],
+    "disagree": [
+      "Grønlandsk spiralsag (L 11, 27. august 2026): BP stemte for godtgørelse, mens DF stemte imod.",
+      "Id-kort på byggepladser (L 19, 3. september 2026): DF stemte for, mens BP stemte imod.",
+      "Rykkergebyr ved told- og skatteforvaltningen (L 8, 3. september 2026): DF stemte for, mens BP stemte imod.",
+      "Organisation: BP er bygget op om én person med ét folketingsmedlem tilbage. DF er stiftet i 1995 og har en stabil parlamentarisk gruppe. Altinget (19. maj 2026) peger på, at BP's problem er personafhængigheden."
+    ],
+    "note": "BP og DF deler en restriktiv udlændingepolitik og en anti-establishment-retorik. Forskellen ligger i organisation og økonomi: BP er et personligt projekt med en liberal økonomi, mens DF er et etableret parti med en historisk velfærdsprofil. BP's klimalinje er tydeligere end DF's i partiets egne udsagn."
+  },
+  "vocabulary": [
+    {
+      "term": "Magten tilbage til borgerne",
+      "meaning": "Partiets kerneslogan."
+    },
+    {
+      "term": "Forvaltningsdomstol",
+      "meaning": "Et domstolsnet, der prøver forvaltningens afgørelser. Partiet vil have det."
+    },
+    {
+      "term": "Klimahysteri",
+      "meaning": "Partiets betegnelse for en klimapolitik, det mener er overdreven."
+    },
+    {
+      "term": "Løsgænger",
+      "meaning": "Folketingsmedlem, der ikke længere er medlem af sit oprindelige parti."
+    }
+  ],
+  "funFacts": [
+    "Partiet fik 4 mandater ved valget i 2026, men var i maj 2026 nede på ét, da tre medlemmer forlod partiet eller blev ekskluderet.",
+    "Partiet havde oprindeligt foreslået navnet Danmarks Bedste Parti, men det blev afvist i juni 2024.",
+    "Morten Dehn er politisk ordfører uden at være folketingsmedlem, hvilket gør BP til det eneste parti i Folketinget med en politisk ordfører uden for Folketinget."
+  ],
+  "currentDebates": [
+    {
+      "title": "Fratagelse af dansk indfødsret: BP's forslag",
+      "date": "2026-11-11",
+      "topic": "udlaendinge",
+      "summary": "Lars Boje Mathiesen har fremsat forslaget B 38, der pålægger regeringen hurtigst muligt at fratage Nkumba Ludovic Tshiembe dansk indfødsret. Forslaget er opdateret i Folketingets system 11. november 2026. Det er et af de få forslag, partiet har fremsat, hvor partiet selv er første underskriver.",
+      "positions": [
+        {
+          "who": "Lars Boje Mathiesen (BP)",
+          "says": "Regeringen skal hurtigst muligt fratage Nkumba Ludovic Tshiembe dansk indfødsret (B 38)."
+        }
+      ],
+      "whyItMatters": "Forslaget viser, hvordan partiet bruger sin ene folketingsmandat til et enkeltsagsforslag om udlændinge.",
+      "sources": [
+        {
+          "title": "B 38: Om fratagelse af dansk indfødsret for Nkumba Ludovic Tshiembe (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B38/index.htm"
+        }
+      ]
+    },
+    {
+      "title": "Nulmoms på bøger og afskaffelse af kaffeafgiften",
+      "date": "2026-11-12",
+      "topic": "oekonomi",
+      "summary": "Folketinget vedtog 12. november 2026 L 36 B om nulmoms på bøger med 93 stemmer, og L 36 A om afskaffelse af kaffeafgiften med 96 stemmer. BP stemte for begge lovforslag. DD stemte imod nulmoms på bøger, mens DF stemte for begge.",
+      "positions": [
+        {
+          "who": "Borgernes Parti",
+          "says": "Stemte for nulmoms på bøger (L 36 B) og for afskaffelse af kaffeafgiften (L 36 A)."
+        }
+      ],
+      "whyItMatters": "Det er en af få økonomiske afstemninger, hvor BP's skatteprofil er synlig.",
+      "sources": [
+        {
+          "title": "L 36 B og L 36 A (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"
+        }
+      ]
+    },
+    {
+      "title": "Åbningsredegørelsen: BP stemte imod",
+      "date": "2026-10-08",
+      "topic": "andet",
+      "summary": "Folketinget vedtog 8. oktober 2026 statsministerens åbningsredegørelse med 69 stemmer mod 44. Borgernes Parti stemte imod sammen med V, DF, LA, K og DD.",
+      "positions": [
+        {
+          "who": "Borgernes Parti",
+          "says": "Stemte imod statsministerens åbningsredegørelse (V 1)."
+        }
+      ],
+      "whyItMatters": "Det viser, at BP står i opposition, og at partiet stemmer sammen med de borgerlige partier mod regeringen.",
+      "sources": [
+        {
+          "title": "V 1: Statsministerens åbningsredegørelse (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/vedtagelse/V1/index.htm"
+        }
+      ]
+    },
+    {
+      "title": "Afskaffelse af koranloven",
+      "date": "2026-10-01",
+      "topic": "udlaendinge",
+      "summary": "Forslaget B 6 om at afskaffe koranloven blev forkastet 1. oktober 2026 med 64 stemmer imod og 45 for. BP stemte for sammen med DF, K, DD, LA, EL, ALT og tre løsgængere. S, SF, V, M og RV stemte imod.",
+      "positions": [
+        {
+          "who": "Borgernes Parti",
+          "says": "Stemte for at afskaffe koranloven (B 6)."
+        }
+      ],
+      "whyItMatters": "Det er en af få afstemninger, hvor BP og Enhedslisten stemte samme vej, og den viser BP's linje på religion og integration.",
+      "sources": [
+        {
+          "title": "B 6: Om at afskaffe koranloven (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B6/index.htm"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Borgernes Parti, forside",
+      "url": "https://borgernesparti.dk"
+    },
+    {
+      "title": "Borgernes Parti (lex.dk)",
+      "url": "https://lex.dk/Borgernes_Parti"
+    },
+    {
+      "title": "Lars Boje Mathiesen (lex.dk)",
+      "url": "https://lex.dk/Lars_Boje_Mathiesen"
+    },
+    {
+      "title": "Borgernes Parti (da.wikipedia)",
+      "url": "https://da.wikipedia.org/wiki/Borgernes_Parti"
+    },
+    {
+      "title": "Folketingets forslag fra BP (oda.ft.dk)",
+      "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B38/index.htm"
+    },
+    {
+      "title": "Folketingets afstemninger (oda.ft.dk)",
+      "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"
+    },
+    {
+      "title": "Overblik: De har forladt Borgernes Parti (TV 2)",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-02-26-folketingsvalg-2026/overblik--de-har-forladt-borgernes-parti?entry=a081d35d-62ef-4db3-ac05-d8972f66ee6d"
+    },
+    {
+      "title": "Nadja Natalie Isaksen forlader Borgernes Parti (TV 2, 3. maj 2026)",
+      "url": "https://nyheder.tv2.dk/politik/2026-05-03-nadja-natalie-isaksen-forlader-borgernes-parti"
+    },
+    {
+      "title": "Nyvalgt folketingskandidat smidt ud af Borgernes Parti (DR, 28. mar. 2026)",
+      "url": "https://www.dr.dk/nyheder/politik/folketingsvalg/nyvalgt-folketingskandidat-borgernes-parti-smidt-ud-af-partiet"
+    },
+    {
+      "title": "Analytikere: Nedsmeltning i Borgernes Parti er uden fortilfælde (Nordjyske, 4. maj 2026)",
+      "url": "https://nordjyske.dk/nyheder/politik/analytikere-nedsmeltning-i-borgenes-parti-er-uden-fortilfaelde/6022176"
+    },
+    {
+      "title": "Borgernes Partis kollaps viser, at indignation ikke er nok (Altinget, 4. maj 2026)",
+      "url": "https://www.altinget.dk/artikel/borgernes-partis-kollaps-viser-at-indignation-ikke-er-nok-til-at-bygge-et-politisk-projekt"
+    },
+    {
+      "title": "Historiestuderende: Lars Bojes kollaps er del af en europæisk tendens (Altinget, 19. maj 2026)",
+      "url": "https://www.altinget.dk/artikel/historiestuderende-lars-bojes-kollaps-er-del-af-en-europaeisk-tendens"
+    },
+    {
+      "title": "Borgernes Parti ansætter politisk ordfører (Altinget, 2. jul. 2026)",
+      "url": "https://www.altinget.dk/christiansborg/artikel/borgernes-parti-ansaetter-politisk-ordfoerer"
+    },
+    {
+      "title": "Lars Boje lover at give den gas i Folketinget (Altinget, 1. apr. 2026)",
+      "url": "https://www.altinget.dk/christiansborg/artikel/lars-boje-vil-ryste-de-etablerede-partier-jeg-skylder-ikke-nogen-noget"
+    },
+    {
+      "title": "Lars Boje freder sig selv (TV 2, 8. apr. 2026)",
+      "url": "https://nyheder.tv2.dk/politik/2026-04-08-lars-boje-freder-sig-selv-kan-ikke-vaeltes-i-fire-aar"
+    },
+    {
+      "title": "Partifælle forsvarer Lars Bojes løn (TV 2, 11. apr. 2026)",
+      "url": "https://nyheder.tv2.dk/politik/2026-04-11-partifaelle-forsvarer-lars-bojes-loen-720000-kroner-er-ingen-penge-i-vore-dage"
+    },
+    {
+      "title": "Vedtægter sikrer Lars Boje fire år som formand (Altinget)",
+      "url": "https://www.altinget.dk/christiansborg/artikel/lars-boje-mathiesen-faar-fire-aar-paa-posten-vetoret-og-mulighed-for-millionloen-i-nye-vedtaegter-for-borgernes-parti"
+    },
+    {
+      "title": "Voxmeter-målinger (politpro.eu)",
+      "url": "https://politpro.eu/da/danmark/analyseinstitutter/voxmeter"
+    }
+  ]
+}

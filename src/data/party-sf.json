@@ -1,0 +1,250 @@
+{
+  "id": "sf",
+  "letter": "F",
+  "name": "Socialistisk Folkeparti",
+  "short": "SF",
+  "founded": "1959",
+  "foundedNote": "SF blev stiftet 15. februar 1959 efter et brud med Danmarks Kommunistiske Parti. Aksel Larsen var blevet ekskluderet fra DKP i november 1958, og striden handlede om partiets uafhængighed af det sovjetiske kommunistparti.",
+  "leader": {
+    "name": "Pia Olsen Dyhr",
+    "title": "Formand og økonomi- og indenrigsminister",
+    "since": "2014",
+    "born": "1971",
+    "bio": "Formand for SF siden februar 2014, efter Annette Vilhelmsen. Hun var handelsminister i Helle Thorning-Schmidts regering fra 2011 og transportminister fra 2013 til 2014. I 2026 blev hun økonomi- og indenrigsminister i firkløverregeringen, SF's første ministerpost siden 2014. Hun har sagt, at Lars Løkke Rasmussen har „reformeret sig selv“, og det har skabt debat i SF's bagland."
+  },
+  "role": "regering",
+  "roleNote": "SF sidder i firkløverregeringen sammen med Socialdemokratiet, Moderaterne og Radikale Venstre fra 3. juni 2026. SF var uden for regeringen fra 2014 til 2026. Regeringen er en mindretalsregering, der støttes af Enhedslisten og Alternativet.",
+  "ideology": ["socialistisk", "grøn", "velfærdsstat"],
+  "euGroup": "De Grønne/Den Europæiske Frie Alliance (Greens/EFA)",
+  "youth": {
+    "name": "SFU (Socialistisk Folkeparti Ungdom)",
+    "note": "Partiets ungdomsorganisation."
+  },
+  "website": "https://sf.dk",
+  "oneLiner": "Grøn socialistisk venstrefløj, der er tilbage i regering for første gang siden 2014.",
+  "summary": "SF vil have en stærk offentlig velfærd, et grønnere Danmark og rent drikkevand, og partiet vil have et nationalt sprøjteforbud på sårbare grundvandsområder. SF prioriterer børn og unges trivsel, en ny finansiering af folkeskolen og flere penge til sundhed for sårbare grupper. SF er mere EU-positiv og mere klimaambitiøs end de borgerlige partier, men i firkløverregeringen har partiet accepteret stramme regler for udlændinge på kontanthjælp og førtidspension, som det før valget var imod.",
+  "pitch": "Vi er tilbage i regering for første gang siden 2014, og vi bruger det til at gøre noget for drikkevandet, børnenes trivsel og de syge og nedslidte. Vi har fået et nationalt sprøjteforbud på de sårbare grundvandsområder med i aftalen og et klimamål på 85 procent i 2035. Vi er ikke kommet igennem med alt, men vi sikrer en grøn og social politik.",
+  "critique": "Kritikere mener, at SF har kompromitteret sine principper ved at gå i regering med Lars Løkke Rasmussen og acceptere skattelettelser for topskatteydere og erhvervslivet. SF's bagland er ifølge kommentatorer skeptisk over for Løkke, især i den økonomiske politik. Partiet har også accepteret stramme regler for udlændinge, som det før valget var imod. Borgerlige kritikere peger på, at velfærds- og klimakrav koster penge.",
+  "keyIssues": [
+    {
+      "title": "Sprøjteforbud og rent drikkevand",
+      "detail": "Grundlaget lover et nationalt sprøjteforbud på sårbare grundvandsdannende områder, som også omfatter slam og forurenet jord. Lovgivningen skal fremsættes i Folketinget i 2026, og forbuddet skal indføres gradvist. Nitratgrænsen skal sænkes til myndighedernes anbefalede grænseværdi. Grundlaget siger selv, at forbuddet vil ramme de enkelte grundejere forskelligt."
+    },
+    {
+      "title": "Trivsel og folkeskole",
+      "detail": "Grundlaget lover en ny finansiering af folkeskolen med en mere ensartet grundfinansiering, så skoler i hele landet får samme basisvilkår. Der skal være flere lærere, og partiet vil sætte ind mod mistrivsel og langvarigt skolefravær. Der nedsættes en ekspertkommission for trivselsøkonomi. Pia Olsen Dyhr har sagt, at en stor trivselsreform for børn og unge lå på bordet i forhandlingerne, men den blev ikke en del af aftalen."
+    },
+    {
+      "title": "Udlændinge på kontanthjælp og førtidspension",
+      "detail": "SF og Radikale Venstre tilsluttede sig i juni 2026 strammere regler for indvandrere på kontanthjælp og førtidspension, som er aftaler fra den tidligere SVM-regering. Før valget var begge partier imod stramningerne. SF's beskæftigelsesordfører, Kirsten Normann Andersen, siger, at det er normalt, at et regeringsparti accepterer aftaler, det ikke selv går ind for."
+    },
+    {
+      "title": "Gratis tandpleje og sundhed for sårbare",
+      "detail": "Grundlaget har som ambition, at tandpleje skal være gratis for hele befolkningen. Det starter med sårbare grupper og førtidspensionister. Lovforslag L 64 gør tandpleje vederlagsfri for kontanthjælpsmodtagere og andre på kontanthjælpsniveau. Lovforslaget udmønter en aftale om en ny model for voksentandplejen, som SF var med i."
+    },
+    {
+      "title": "Tidlig pension for nedslidte",
+      "detail": "Grundlaget siger, at aldersgrænsen for tidlig pension ikke hæves, som det ellers var forudsat 1. januar 2027, og at ydelsen hæves, så den bliver ensartet med seniorpensionen. Lovforslag L 98 hæver ydelsen med 3.162 kr. pr. måned og fastholder aldersgrænsen på 64 år for årgangene 1963-1965. FH og Ældre Sagen mener, at finanslovsforslaget for 2027 gør det sværere at få seniorpension for nedslidte."
+    },
+    {
+      "title": "Klima og grøn omstilling",
+      "detail": "Grundlaget lover en reduktion af drivhusgasserne på mindst 85 procent i 2035 i forhold til 1990, en mere gennemgribende elektrificering og et mere ambitiøst klimamål. Målet står i grundlaget, som SF er med til at underskrive."
+    }
+  ],
+  "positions": {
+    "udlaendinge": {"score": 3, "text": "SF er mere åben end S og de borgerlige, men har i juni 2026 accepteret strammere regler for udlændinge på kontanthjælp og førtidspension. SF stemte den 3. september 2026 for L 17 A om skærpet udvisning ved ubetinget fængselsstraf og for L 15 om EU's migrationspagt den 27. august 2026. Partiet står bag grundlagets „stramme og faste udlændingepolitik“."},
+    "oekonomi": {"score": 2, "text": "SF vil have mere offentlig velfærd og en skat, der rammer de rigeste hårdere. Grundlaget afskaffer dog toptopskatten og mellemskatten og sænker selskabsskatten. Det er et kompromis, SF er med til at stå bag i regeringen. Den 12. november 2026 vedtog Folketinget L 36 om afskaffelse af kaffeafgiften og nulmoms på bøger, med SF for."},
+    "arbejdsmarked": {"score": 2, "text": "SF vil have tryghed for nedslidte og syge. Lovforslag L 98 hæver ydelsen for tidlig pension med 3.162 kr. pr. måned og fastholder aldersgrænsen på 64 år for årgangene 1963-1965. Samtidig lemper grundlaget modregningsreglerne for efterløn og tidlig pension, så det bliver mere attraktivt at arbejde længere."},
+    "velfaerd": {"score": 1, "text": "SF vil have flere offentlige kroner og flere ansatte i velfærden. Grundlaget lover et løft til de pensionister, der har mindst, og en 2040-strategi for ældreområdet. Der skal også være et Velfærdsforlig 2.0, der samler bredt om velfærd og pension."},
+    "sundhed": {"score": 1, "text": "SF vil styrke den offentlige sundhedssektor. Lovforslag L 64 gør tandpleje vederlagsfri for kontanthjælpsmodtagere og andre på kontanthjælpsniveau, og grundlaget vil have en ny Forebyggelsesfond. Gratis tandpleje for alle er et langsigtet mål."},
+    "klima": {"score": 2, "text": "Grundlaget lover en reduktion af drivhusgasser på mindst 85 procent i 2035 og en mere gennemgribende elektrificering. Det er et ambitiøst klimamål, som SF er med til at stå bag."},
+    "natur_landbrug": {"score": 1, "text": "SF har fået et nationalt sprøjteforbud på sårbare grundvandsområder med i grundlaget, og nitratgrænsen skal sænkes. Folketinget vedtog 3. september 2026 L 5 om næringsstoffer i land- og skovbrug, og SF stemte for. DF stemte imod."},
+    "eu": {"score": 2, "text": "SF er EU-positiv og sidder i gruppen De Grønne/EFA i Europa-Parlamentet. Den 27. august 2026 stemte SF for L 15 om EU's migrationspagt."},
+    "forsvar": {"score": 3, "text": "SF er med til at stå bag, at Danmark indfrier NATO-målet i 2030, og at udgifterne til forsvar og beredskab skal være mindst 5 procent af BNP i 2030, heraf 3,5 procent til forsvar."},
+    "ret": {"score": 3, "text": "SF stemte for L 17 A om skærpet udvisning ved ubetinget fængselsstraf den 3. september 2026. Grundlaget vil revidere reglerne for straffesagsgæld, så det kan betale sig at tage et job efter afsoning."},
+    "bolig": {"score": 2, "text": "SF er med til at stå bag Boligplan 2030 med en forpligtende aftale om at udbygge boligmassen i hovedstaden og flere plejeboliger. Lovforslag L 86 fastsætter anvendelsen af Landsbyggefondens midler i 2027."},
+    "uddannelse": {"score": 1, "text": "SF vil have en ny finansiering af folkeskolen, der sikrer samme basisvilkår overalt i landet, og flere lærere. Grundlaget investerer også i daginstitutioner og SFO."}
+  },
+  "history": [
+    {"year": "1959", "event": "SF stiftes 15. februar efter et brud med DKP."},
+    {"year": "1960", "event": "Partiet vinder 11 mandater ved sit første folketingsvalg."},
+    {"year": "1966", "event": "SF støtter den socialdemokratiske „røde regering“. Venstresocialisterne bryder ud i 1967, og regeringen mister flertallet."},
+    {"year": "1979", "event": "SF indfører kønskvoter som det første parti og får repræsentation i Europa-Parlamentet."},
+    {"year": "1994", "event": "SF støtter Poul Nyrup Rasmussens regeringer frem til 2001 uden selv at sidde i regeringen."},
+    {"year": "2011", "event": "SF går ind i Helle Thorning-Schmidts regering."},
+    {"year": "2014", "event": "SF forlader regeringen i januar 2014, og Pia Olsen Dyhr vælges til formand i februar 2014."},
+    {"year": "2019", "event": "SF bliver et af tre støtteparter for Mette Frederiksens første regering, uden selv at sidde i regeringen."},
+    {"year": "2024", "event": "SF bliver Danmarks største parti ved valget til Europa-Parlamentet med 17,4 procent."},
+    {"year": "2026", "event": "Ved folketingsvalget 24. marts 2026 får SF 11,58 procent og 20 mandater, fem flere end i 2022. Den 3. juni 2026 går partiet ind i firkløverregeringen, første gang siden 2014."}
+  ],
+  "people": [
+    {"name": "Pia Olsen Dyhr", "role": "Formand og økonomi- og indenrigsminister", "note": "Har været SF's formand siden 2014 og er partiets mest centrale person i regeringen."},
+    {"name": "Karina Lorentzen Dehnhardt", "role": "By-, land- og transportminister fra 27. oktober 2026", "note": "Overtog ministeriet efter Signe Munk, der gik på sygeorlov med stress."},
+    {"name": "Jacob Mark", "role": "Børne-, ældre- og boligminister", "note": "Har ansvaret for børne-, ældre- og boligpolitikken, som er centrale for SF."},
+    {"name": "Maria Reumert Gjerding", "role": "Miljøminister", "note": "Har ansvaret for miljøpolitikken, herunder sprøjteforbuddet, som grundlaget lover."},
+    {"name": "Lisbeth Bech-Nielsen", "role": "Minister for samfundssikkerhed og beredskab", "note": "Står for beredskabet i en tid med sikkerhedstrusler."},
+    {"name": "Theresa Berg Andersen", "role": "Gruppeformand", "note": "Har erklæret fuld opbakning til Pia Olsen Dyhr og det fælles projekt."},
+    {"name": "Kirsten Normann Andersen", "role": "Beskæftigelsesordfører", "note": "Har forsvaret partiets accept af stramme regler for udlændinge på kontanthjælp."}
+  ],
+  "voters": {
+    "summary": "SF's vælgere er historisk overrepræsenteret blandt yngre vælgere, offentligt ansatte og personer med en videregående uddannelse. Kvinder har ofte stemt på SF i højere grad end mænd. Partiet har en stærk tilslutning blandt vælgere, der prioriterer klima og velfærd højt.",
+    "strongholds": "Partiets stærkeste fodfæste har historisk været i byerne og i de universitetsbyer, hvor der er mange studerende og offentligt ansatte.",
+    "demographics": "Vælgerne er typisk yngre end gennemsnittet, har ofte en videregående uddannelse og er ofte ansat i den offentlige sektor. Kvinder er stærkere repræsenteret end mænd."
+  },
+  "election2026": {
+    "note": "SF fik 11,58 procent (413.306 stemmer) og 20 mandater ved valget 24. marts 2026, fem flere end i 2022. Partiet var største parti ved valget til Europa-Parlamentet i 2024 med 17,4 procent. Efter valget har partiet ifølge en overskrift på Voxmeter 3. november 2026 målt sin laveste måling siden 2022."
+  },
+  "strengths": [
+    "Stærk profil på klima, natur og drikkevand, som har opbakning i en stor del af vælgerne.",
+    "Har fået sprøjteforbuddet og klimamålet med i en regering, hvor S er det dominerende parti.",
+    "EU-positiv profil og en stærk gruppe i Europa-Parlamentet.",
+    "Pia Olsen Dyhr står stadig stærkt i partiet, selv om hendes image har fået skrammer."
+  ],
+  "weaknesses": [
+    "Første gang i regering siden 2014, og partiet skal vise, at det kan levere resultater for vælgerne.",
+    "Har accepteret stramme udlændingeregler, som partiet før valget var imod.",
+    "Bagland og vælgere er ifølge kommentatorer skeptiske over for samarbejdet med Lars Løkke Rasmussen, især i den økonomiske politik.",
+    "Målinger efter valget har været lave, og partiet skal finde sit kerneprofil i regeringen."
+  ],
+  "internalTensions": [
+    {
+      "title": "Udlændinge: stramninger, som SF før var imod",
+      "detail": "I juni 2026 tilsluttede SF og Radikale Venstre sig strammere regler for indvandrere på kontanthjælp og førtidspension. Før valget var begge partier imod stramningerne. Det er et punkt, hvor partiets bagland kan reagere."
+    },
+    {
+      "title": "Løkke i regering",
+      "detail": "Kommentatorer skriver, at det er et følsomt punkt for SF's bagland, at Lars Løkke Rasmussen er i regering, især i den økonomiske politik. Pia Olsen Dyhr har argumenteret for, at Løkke har reformeret sig selv."
+    },
+    {
+      "title": "Skattelettelser og velfærd",
+      "detail": "Grundlaget afskaffer toptopskatten og mellemskatten og sænker selskabsskatten. SF skal forsvare kompromiset over for vælgere, der forventer mere omfordeling."
+    }
+  ],
+  "typicalArguments": [
+    {
+      "claim": "Vi har fået et nationalt sprøjteforbud, så drikkevandet bliver rent.",
+      "counter": "Landbruget og de grundejere, der bliver ramt, får større byrder. Grundlaget siger selv, at forbuddet rammer de enkelte grundejere forskelligt."
+    },
+    {
+      "claim": "Vi har sikret investeringer i folkeskolen og en indsats for børns trivsel.",
+      "counter": "En stor trivselsreform for børn og unge blev ikke en del af aftalen, og det var et ønske, SF selv havde."
+    },
+    {
+      "claim": "Vi har fået gratis tandpleje og større tryghed for pensionister.",
+      "counter": "Gratis tandpleje for alle er et langsigtet mål, og FH og Ældre Sagen mener, at finanslovsforslaget for 2027 gør det sværere at få seniorpension."
+    },
+    {
+      "claim": "Vi har forhindret en borgerlig skattepolitik.",
+      "counter": "Grundlaget afskaffer toptopskatten og mellemskatten og sænker selskabsskatten, og SF er med til at stå bag det."
+    }
+  ],
+  "vsDF": {
+    "agree": [
+      "Udvisning af kriminelle udlændinge: L 17 A om skærpet udvisning blev vedtaget 3. september 2026 med stemmer fra både SF og DF.",
+      "Afskaffelse af kaffeafgiften og nulmoms på bøger: L 36 B blev vedtaget 12. november 2026 med stemmer fra både SF og DF."
+    ],
+    "disagree": [
+      "Store bededag: 1. oktober 2026 stemte SF imod B 3, DF's forslag om at genindføre store bededag. DF stemte for.",
+      "Koranloven: 1. oktober 2026 stemte SF imod B 6, DF's forslag om at afskaffe koranloven. DF stemte for.",
+      "EU's migrationspagt: 27. august 2026 stemte SF for L 15, mens DF stemte imod.",
+      "Landbrug: 3. september 2026 stemte SF for L 5 om næringsstoffer i land- og skovbrug, mens DF stemte imod."
+    ],
+    "note": "Afstemningerne står i oda.ft.dk-filen for de seneste 30 afstemninger. DF har efter valget droppet kravet om at komme i regering, og DF arbejder for en blå regering."
+  },
+  "vocabulary": [
+    {"term": "Sprøjteforbud", "meaning": "Et forbud mod sprøjtemidler på sårbare grundvandsdannende områder. Det skal beskytte drikkevandet."},
+    {"term": "Trivselsøkonomi", "meaning": "En ekspertkommission skal se på, hvordan trivsel, social sammenhæng og økonomi kan måles og prioriteres sammen."},
+    {"term": "Røde regering", "meaning": "En regering af S og de venstreorienterede partier. Pia Olsen Dyhr har talt for en rød regering i valgkampen."},
+    {"term": "Firkløverregeringen", "meaning": "Regeringen af S, SF, Moderaterne og Radikale Venstre, dannet 3. juni 2026."},
+    {"term": "Velfærdsforlig 2.0", "meaning": "Et planlagt bredt forlig om velfærd og pension efter en trepartsaftale."}
+  ],
+  "funFacts": [
+    "SF blev dannet i 1959 efter et brud med det kommunistiske parti, og de første år var præget af uenighed om Sovjetunionen.",
+    "SF var ifølge lex.dk det første parti i Danmark med kønskvoter, fra 1979.",
+    "I 2024 blev SF Danmarks største parti ved Europa-Parlamentsvalget med 17,4 procent."
+  ],
+  "currentDebates": [
+    {
+      "title": "Højere tidlig pension og fastholdt aldersgrænse: L 98",
+      "date": "2026-11-13",
+      "topic": "arbejdsmarked",
+      "summary": "Lovforslag L 98 hæver ydelsen for tidlig pension med 3.162 kr. pr. måned, så den kommer på niveau med seniorpensionen for gifte og samlevende. Aldersgrænsen på 64 år fastholdes for årgangene 1963-1965. Forslaget udmønter dele af regeringens initiativer, som SF er med til at stå bag.",
+      "positions": [
+        {"who": "Regeringen (SF er med)", "says": "Ydelsen hæves med 3.162 kr. pr. måned, og aldersgrænsen for årgangene 1963-1965 fastholdes på 64 år."}
+      ],
+      "whyItMatters": "Det er en af de få sager, hvor SF's ønske om tryghed for nedslidte er med i regeringens konkrete forslag.",
+      "sources": [
+        {"title": "L 98: Forhøjelse af ydelsen på tidlig pension (Folketinget, opdateret 13.11.2026)", "url": "https://www.ft.dk/samling/20261/lovforslag/L98/index.htm"}
+      ]
+    },
+    {
+      "title": "Gratis tandpleje for kontanthjælpsmodtagere: L 64",
+      "date": "2026-11-12",
+      "topic": "sundhed",
+      "summary": "Lovforslag L 64 gør tandpleje vederlagsfri for kontanthjælpsmodtagere og andre på kontanthjælpsniveau. Den årlige egenbetaling på 600 kr. og den delvise dækning afskaffes, så kommunen betaler hele egenbetalingen. Lovforslaget udmønter en aftale om en ny model for voksentandplejen, som SF var med i.",
+      "positions": [
+        {"who": "SF", "says": "SF var en af parterne i aftalen om den nye model for voksentandplejen."}
+      ],
+      "whyItMatters": "Det er en konkret udmøntning af SF's krav om bedre sundhed for sårbare grupper.",
+      "sources": [
+        {"title": "L 64: Vederlagsfri tandpleje for kontanthjælpsmodtagere m.fl. (Folketinget, opdateret 12.11.2026)", "url": "https://www.ft.dk/samling/20261/lovforslag/L64/index.htm"}
+      ]
+    },
+    {
+      "title": "Store bededag: DF's forslag forkastet",
+      "date": "2026-10-01",
+      "topic": "andet",
+      "summary": "Folketinget forkastede B 3, DF's beslutningsforslag om at genindføre store bededag som helligdag. 62 stemte imod, herunder SF, S, M, EL, RV og ALT. 37 stemte for, herunder DF, LA, K, DD og BP. V stemte hverken for eller imod.",
+      "positions": [
+        {"who": "SF", "says": "Stemte imod B 3."},
+        {"who": "Dansk Folkeparti", "says": "Stemte for B 3."}
+      ],
+      "whyItMatters": "Det er en klar forskel mellem SF og DF, og en afstemning SF har stemt imod, mens regeringen har lovet at genindføre store bededag fra 2030.",
+      "sources": [
+        {"title": "B 3: Om at genindføre store bededag som helligdag (Folketinget)", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B3/index.htm"}
+      ]
+    },
+    {
+      "title": "EU's migrations- og asylpagt: L 15",
+      "date": "2026-08-27",
+      "topic": "udlaendinge",
+      "summary": "Folketinget vedtog L 15 om gennemførelse af dele af EU's pagt om migration og asyl med 77 stemmer for, herunder SF, S, V, M, K, EL og RV. 31 stemte imod, herunder DF, LA, DD, ALT og BP.",
+      "positions": [
+        {"who": "SF", "says": "Stemte for L 15."},
+        {"who": "Dansk Folkeparti", "says": "Stemte imod L 15."}
+      ],
+      "whyItMatters": "Det er en afstemning, hvor SF og DF stod på hver sin side om EU's asylpolitik.",
+      "sources": [
+        {"title": "L 15: Gennemførelse af dele af EU's pagt om migration og asyl (Folketinget)", "url": "https://www.ft.dk/samling/20261/lovforslag/L15/index.htm"}
+      ]
+    },
+    {
+      "title": "Landbrug og næringsstoffer: L 5",
+      "date": "2026-09-03",
+      "topic": "natur_landbrug",
+      "summary": "Folketinget vedtog L 5 om bæredygtig forvaltning af næringsstoffer og drivhusgasser i land- og skovbruget med 119 stemmer for, herunder SF, S, V, LA, M, K, EL, RV og ALT. 34 stemte imod, herunder DF, DD og BP.",
+      "positions": [
+        {"who": "SF", "says": "Stemte for L 5."},
+        {"who": "Dansk Folkeparti", "says": "Stemte imod L 5."}
+      ],
+      "whyItMatters": "Forslaget fik et klart flertal, og DF stemte imod.",
+      "sources": [
+        {"title": "L 5: Bæredygtig forvaltning af næringsstoffer og drivhusgasser i land- og skovbruget (Folketinget)", "url": "https://www.ft.dk/samling/20261/lovforslag/L5/index.htm"}
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Socialistisk Folkeparti (lex.dk)", "url": "https://lex.dk/Socialistisk_Folkeparti"},
+    {"title": "Pia Olsen Dyhr (lex.dk)", "url": "https://lex.dk/Pia_Olsen_Dyhr"},
+    {"title": "Regeringen Mette Frederiksen III (lex.dk)", "url": "https://lex.dk/Regeringen_Mette_Frederiksen_III"},
+    {"title": "Folketingsvalget 2026 (da.wikipedia.org)", "url": "https://da.wikipedia.org/wiki/Folketingsvalget_2026"},
+    {"title": "Det politiske grundlag for firkløverregeringen (Statsministeriet, juni 2026)", "url": "https://stm.dk/media/rc1ktdmg/det-politiske-grundlag-for-firkloeverregeringen.pdf"},
+    {"title": "Altinget: SF og Radikale tilslutter sig strammere regler for indvandrere på kontanthjælp og førtidspension (11.6.2026)", "url": "https://www.altinget.dk/arbejdsmarked/artikel/sf-og-radikale-tilslutter-sig-strammere-regler-for-indvandrere-paa-kontanthjaelp-og-foertidspension"},
+    {"title": "Altinget: Messerschmidts nye indpisker har en plan (16.7.2026)", "url": "https://www.altinget.dk/christiansborg/artikel/messerschmidts-nye-indpisker-har-en-plan-der-skal-lokke-utilfredse-sfere-og-socialdemokrater-over-til-df"},
+    {"title": "Altinget: Stor rokade i SF's ordførerskaber (3.11.2026)", "url": "https://www.altinget.dk/artikel/stor-rokade-i-sfs-ordfoererskaber"},
+    {"title": "Voxmeter", "url": "https://www.voxmeter.dk"},
+    {"title": "FH: Gode takter i finanslovsforslag (Ritzau, 9.10.2026)", "url": "https://via.ritzau.dk/pressemeddelelse/15216180/fh-gode-takter-i-finanslovsforslag?lang=da"},
+    {"title": "Ældre Sagen: 2026 besparelser på seniorpensionen droppet", "url": "https://www.aeldresagen.dk/maerkesager-og-resultater/resultater/politiske-resultater/2026-besparelser-paa-seniorpensionen-droppet"},
+    {"title": "SF's hjemmeside", "url": "https://sf.dk"}
+  ]
+}

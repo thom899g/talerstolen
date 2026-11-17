@@ -1,0 +1,127 @@
+{
+  "partyMeta": {
+    "el":  {"order": 1,  "color": "#E6801A", "on": "#12161C", "blok": "rød"},
+    "sf":  {"order": 2,  "color": "#E07EA8", "on": "#12161C", "blok": "rød"},
+    "alt": {"order": 3,  "color": "#2B8738", "on": "#FFFFFF", "blok": "rød"},
+    "s":   {"order": 4,  "color": "#A82721", "on": "#FFFFFF", "blok": "rød"},
+    "rv":  {"order": 5,  "color": "#733280", "on": "#FFFFFF", "blok": "rød"},
+    "m":   {"order": 6,  "color": "#B48CD2", "on": "#12161C", "blok": "midten"},
+    "k":   {"order": 7,  "color": "#96B226", "on": "#12161C", "blok": "blå"},
+    "v":   {"order": 8,  "color": "#254264", "on": "#FFFFFF", "blok": "blå"},
+    "la":  {"order": 9,  "color": "#3FB2BE", "on": "#12161C", "blok": "blå"},
+    "dd":  {"order": 10, "color": "#7896D2", "on": "#12161C", "blok": "blå"},
+    "df":  {"order": 11, "color": "#EAC73E", "on": "#12161C", "blok": "blå"},
+    "bp":  {"order": 12, "color": "#5F6B7A", "on": "#FFFFFF", "blok": "blå"}
+  },
+  "pseudo": {
+    "na":  {"letter": "NA", "name": "Nordatlantiske mandater", "short": "Grønland og Færøerne", "color": "#9AA3B2", "on": "#12161C"},
+    "ufg": {"letter": "UFG", "name": "Uden for folketingsgrupperne", "short": "Løsgængere", "color": "#C9CED8", "on": "#12161C"}
+  },
+  "topics": [
+    {"id": "udlaendinge",    "name": "Udlændinge & integration", "lo": "Mest åben",            "hi": "Strammest"},
+    {"id": "oekonomi",       "name": "Økonomi & skat",           "lo": "Mest omfordeling",     "hi": "Lavest skat"},
+    {"id": "arbejdsmarked",  "name": "Arbejdsmarked & pension",  "lo": "Mest tryghed",         "hi": "Mest arbejdsudbud"},
+    {"id": "velfaerd",       "name": "Velfærd & ældre",          "lo": "Mest offentligt",      "hi": "Mest frit valg"},
+    {"id": "sundhed",        "name": "Sundhed",                  "lo": "Kun offentligt",       "hi": "Mest privat"},
+    {"id": "klima",          "name": "Klima & energi",           "lo": "Hurtigst omstilling",  "hi": "Pris og forbruger først"},
+    {"id": "natur_landbrug", "name": "Natur & landbrug",         "lo": "Hårdest krav",         "hi": "Færrest krav"},
+    {"id": "eu",             "name": "EU",                       "lo": "Mest EU-positiv",      "hi": "Mest EU-skeptisk"},
+    {"id": "forsvar",        "name": "Forsvar & sikkerhed",      "lo": "Mindst oprustning",    "hi": "Mest oprustning"},
+    {"id": "ret",            "name": "Ret & straf",              "lo": "Forebyggelse",         "hi": "Hårdest straffe"},
+    {"id": "bolig",          "name": "Bolig",                    "lo": "Mest regulering",      "hi": "Mest marked"},
+    {"id": "uddannelse",     "name": "Børn & uddannelse",        "lo": "Mest lighed",          "hi": "Mest krav og frit valg"}
+  ],
+  "election": {
+    "date": "2026-03-24",
+    "results": {
+      "s": {"pct": 21.8, "seats": 38}, "sf": {"pct": 11.6, "seats": 20}, "v": {"pct": 10.1, "seats": 18},
+      "la": {"pct": 9.4, "seats": 16}, "df": {"pct": 9.1, "seats": 16}, "m": {"pct": 7.7, "seats": 14},
+      "k": {"pct": 7.6, "seats": 13}, "el": {"pct": 6.3, "seats": 11}, "rv": {"pct": 5.8, "seats": 10},
+      "dd": {"pct": 5.8, "seats": 10}, "alt": {"pct": 2.6, "seats": 5}, "bp": {"pct": 2.1, "seats": 4}
+    },
+    "source": {"title": "lex.dk: Folketingsvalg 2026", "url": "https://lex.dk/folketingsvalg_2026"}
+  },
+  "government": {
+    "name": "Regeringen Mette Frederiksen III",
+    "nick": "Firkløverregeringen",
+    "since": "2026-06-03",
+    "parties": ["s", "sf", "m", "rv"],
+    "support": ["el", "alt"],
+    "formation": "Dannet efter 69 dage og tre kongerunder. Troels Lund Poulsen (V) fik forsøget 8.–22. maj og opgav. Mindretalsregering med 82 mandater ved dannelsen.",
+    "basis": "Det politiske grundlag for firkløverregeringen (73 sider): grøn profil, sociale initiativer, skatte- og velfærdsreformer og et stærkere nordisk og europæisk forsvarssamarbejde.",
+    "ministers": [
+      {"name": "Mette Frederiksen", "party": "s", "post": "Statsminister"},
+      {"name": "Lars Løkke Rasmussen", "party": "m", "post": "Udenrigsminister"},
+      {"name": "Pia Olsen Dyhr", "party": "sf", "post": "Økonomi- og indenrigsminister"},
+      {"name": "Martin Lidegaard", "party": "rv", "post": "Erhvervs- og konkurrencekraftsminister"},
+      {"name": "Peter Hummelgaard", "party": "s", "post": "Finansminister"},
+      {"name": "Nicolai Wammen", "party": "s", "post": "Justitsminister"},
+      {"name": "Christina Egelund", "party": "m", "post": "Forsknings-, uddannelses- og digitaliseringsminister"},
+      {"name": "Samira Nawa", "party": "rv", "post": "Klima-, energi- og forsyningsminister"},
+      {"name": "Jacob Mark", "party": "sf", "post": "Børne-, ældre- og boligminister"},
+      {"name": "Morten Bødskov", "party": "s", "post": "Udlændinge- og integrationsminister"},
+      {"name": "Magnus Heunicke", "party": "s", "post": "Undervisningsminister"},
+      {"name": "Ane Halsboe-Jørgensen", "party": "s", "post": "Beskæftigelsesminister og minister for ligestilling"},
+      {"name": "Jeppe Bruus", "party": "s", "post": "Forsvarsminister"},
+      {"name": "Jakob Engel-Schmidt", "party": "m", "post": "Skatte- og vækstminister"},
+      {"name": "Ida Auken", "party": "s", "post": "Sundheds- og kirkeminister"},
+      {"name": "Christian Rabjerg Madsen", "party": "s", "post": "Minister for natur og dyrevelfærd"},
+      {"name": "Zenia Stampe", "party": "rv", "post": "Kulturminister"},
+      {"name": "Lisbeth Bech-Nielsen", "party": "sf", "post": "Minister for samfundssikkerhed og beredskab"},
+      {"name": "Monika Rubin", "party": "m", "post": "Socialminister og minister for nordisk samarbejde"},
+      {"name": "Maria Reumert Gjerding", "party": "sf", "post": "Miljøminister"},
+      {"name": "Karina Lorentzen Dehnhardt", "party": "sf", "post": "By-, land- og transportminister (siden 27. okt. 2026)"}
+    ],
+    "source": {"title": "lex.dk: Regeringen Mette Frederiksen III", "url": "https://lex.dk/Regeringen_Mette_Frederiksen_III"}
+  },
+  "hooks": [
+    {"name": "Anklagen", "how": "Start midt i konflikten. Første sætning er en indvending, ikke en præsentation.", "ex": "»Du stemmer DF. Så du synes ikke, jeg hører til her?«"},
+    {"name": "Tallet", "how": "Ét rigtigt tal, sagt langsomt, vist på skærmen med kilde. Aldrig et tal du ikke kan dokumentere.", "ex": "»93 for. 15 imod. Her er de to partier, der stemte nej til billigere bøger.«"},
+    {"name": "Indrømmelsen", "how": "Giv modparten et point i første sætning. Det er sjældent i politik, så folk bliver hængende.", "ex": "»Jeg er DF'er, og her er den ene ting, venstrefløjen har ret i.«"},
+    {"name": "Rollebyttet", "how": "Lad DF'eren forsvare modpartens holdning i 20 sekunder, og omvendt. Viser at du kan stoffet.", "ex": "»30 sekunder: DF'eren skal overbevise dig om at stemme Enhedslisten.«"},
+    {"name": "Ja eller nej", "how": "Stil et spørgsmål politikere plejer at tale udenom, og kræv ét ord først, forklaring bagefter.", "ex": "»Ja eller nej: Skal en læge fra Syrien, der har boet her i 10 år, kunne sendes hjem?«"},
+    {"name": "Myten", "how": "Lov et antal punkter. Folk bliver for at se den sidste.", "ex": "»3 ting folk tror om DF, som er forkerte. Og 1 der passer.«"},
+    {"name": "Væddemålet", "how": "Sæt et ur på skærmen. En tidsfrist holder seeren til det sidste sekund.", "ex": "»Giv mig 40 sekunder til at ændre din mening om remigration.«"},
+    {"name": "Nyheden", "how": "Tag noget fra Folketinget i denne uge, og forklar det før medierne har tygget det færdigt.", "ex": "»I torsdags stemte Folketinget om det her. Du har ikke hørt om det. Det burde du.«"},
+    {"name": "Dilemmaet", "how": "Tving et valg mellem to gode ting. Kommentarfeltet gør resten.", "ex": "»Du har én milliard. Ældreplejen eller forsvaret. Vælg.«"},
+    {"name": "Den personlige", "how": "Én sætning om dig selv, som ingen anden kan kopiere. Brug den, når emnet rammer dit eget liv.", "ex": "»Jeg er selv vokset op mellem to kulturer. Derfor irriterer den her debat mig.«"}
+  ],
+  "moves": [
+    {"name": "Stålmand først", "text": "Gengiv modpartens stærkeste argument, så modparten selv ville nikke. Først derefter svarer du. Det gør dit svar mere troværdigt og gør det svært at kalde videoen ensidig."},
+    {"name": "Skel skarpt", "text": "Sig forskellen højt: kritik af kriminalitet og parallelsamfund er ikke kritik af mennesker med udenlandsk baggrund. Gå efter handlinger, aldrig ophav. Det er dit særkende, og det er det, de fleste videoer i genren mangler."},
+    {"name": "Ét tal, én kilde", "text": "Hold dig til ét tal pr. video. Vis det på skærmen, og læg kilden øverst i kommentarfeltet. Et tal du ikke kan linke til, bruger du ikke."},
+    {"name": "Lad personen vinde", "text": "Lad den vilkårlige person lande pointen i hver tredje eller fjerde video. Så tror seerne på, at kampen er ærlig, de gange DF'eren vinder."},
+    {"name": "Slut med et spørgsmål", "text": "Afslut med et åbent spørgsmål til seeren i stedet for en konklusion. Kommentarer er det, der løfter videoen i algoritmen."},
+    {"name": "Samme ramme hver gang", "text": "Samme åbning, samme to pladser, samme farve på hver rolle. Efter fem videoer genkender folk formatet på et halvt sekund."},
+    {"name": "Brug primærkilden", "text": "Afstemninger og forslag fra Folketinget er offentlige. »Sådan stemte de« slår »jeg har hørt at« hver gang, og du finder det under I dag."},
+    {"name": "Svar med video", "text": "Tag den skarpeste kritiske kommentar og svar på den i en ny video. Det giver gratis idéer og viser, at du tør tage imod."},
+    {"name": "Sig hvad du ikke ved", "text": "»Det ved jeg ikke, det finder jeg ud af til næste video« er bedre end at gætte. Det gør dig sværere at angribe og giver en grund til at følge med."}
+  ],
+  "checklist": [
+    "Hvert tal er tjekket mod kilden i dag, ikke efter hukommelsen.",
+    "Kilden står i caption eller øverste kommentar.",
+    "Ingen opdigtede citater fra rigtige politikere. Citér ordret, eller skriv »partiet mener«.",
+    "Det fremgår, at »DF'eren« er en rolle, og at du ikke taler på partiets vegne.",
+    "Kritikken går på handlinger og politik, ikke på grupper af mennesker.",
+    "Modpartens bedste argument er med, ikke en stråmand.",
+    "AI-genereret billede, stemme eller video er mærket som AI.",
+    "Klip fra tv eller Folketinget har kildeangivelse."
+  ],
+  "format": {
+    "name": "Vilkårlig person mod DF'er",
+    "pitch": "To roller, ét emne, under et minut. Den vilkårlige person stiller det spørgsmål, seeren selv sidder med. DF'eren svarer, som en dygtig DF'er faktisk ville svare. Du spiller begge.",
+    "rules": [
+      "0–3 sek.: hooket. Altid en indvending eller et tal.",
+      "3–20 sek.: personens bedste argument, uafbrudt.",
+      "20–45 sek.: DF'erens svar med ét tal og én kilde.",
+      "45–55 sek.: ét modspørgsmål hver vej.",
+      "Sidste 5 sek.: spørgsmål til seeren."
+    ]
+  },
+  "plan": [
+    {"when": "Uge 1–4", "title": "Lær stoffet og find formatet", "items": ["Kan forklare hvert af de 12 partier på 30 sekunder (tjek dig selv under Træn).", "Følg I dag-siden hver morgen i 10 minutter.", "Optag de første 5 videoer. De skal ikke være gode, de skal være lavet."]},
+    {"when": "Måned 2–3", "title": "Fast rytme", "items": ["3 videoer om ugen, samme ramme hver gang.", "Vælg 2 emner, du vil være den bedste til. Udlændinge og ét til.", "Meld dig ind i ungdomspartiet og mød op til to lokale møder. Sig ja til den første opgave, du bliver tilbudt."]},
+    {"when": "Måned 4–6", "title": "Bliv set af de rigtige", "items": ["Skriv to debatindlæg til en lokalavis eller Altinget.", "Tilbyd at lave video for en lokal kandidat eller et byrådsmedlem.", "Tag til landsmøde. Det er dér, folk i partiet lærer hinanden at kende."]},
+    {"when": "Måned 7–12", "title": "Tag en post", "items": ["Stil op til en bestyrelsespost i lokalforeningen eller ungdomspartiet.", "Følg ét folketingsudvalg tæt, og bliv den der ved mest om det.", "Sigt efter en plads på kandidatlisten til kommunalvalget i november 2029."]}
+  ]
+}

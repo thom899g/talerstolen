@@ -1,0 +1,190 @@
+{
+ "pay": [
+  {
+   "role": "Folketingsmedlem",
+   "amount": "ca. 1.100.000 kr./år (grundvederlag, niveau 31. marts 2026)",
+   "details": "Reguleres én gang årligt pr. 1. april. Reformen fra 2025 fjerner retten til tjenestemandspension for kommende folketingsmedlemmer og ministre og begrænser eftervederlaget for dem, der ikke bliver genvalgt.",
+   "source": {
+    "title": "Lov nr. 1756 af 29. december 2025 om Folketingets medlemmers vederlag (retsinformation)",
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1756/pdf"
+   }
+  },
+  {
+   "role": "Minister",
+   "amount": "ca. 2.053.000 kr./år (grundvederlag, niveau 31. marts 2026)",
+   "details": "Fastsat i lov nr. 1757 af 29. december 2025. Reguleres pr. 1. april.",
+   "source": {
+    "title": "Lov nr. 1757 af 29. december 2025 om ministres vederlag (retsinformation)",
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1757/pdf"
+   }
+  },
+  {
+   "role": "Statsminister",
+   "amount": "ca. 2,5 mio. kr./år",
+   "details": "Statsministeren får omkring 25 pct. mere end de øvrige ministre. Oven i kommer fri bil og tjenestebolig på Marienborg.",
+   "source": {
+    "title": "Lov nr. 1757 af 29. december 2025 om ministres vederlag (retsinformation)",
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1757/pdf"
+   }
+  },
+  {
+   "role": "Borgmester",
+   "amount": "ca. 1.384.000 kr./år (eksempel: Næstved Kommune, satser pr. 1. april 2025)",
+   "details": "Borgmestervederlaget fastsættes efter kommunens indbyggertal i vederlagsbekendtgørelsen (bekendtgørelse nr. 1325 af 13. november 2025, gældende fra 1. januar 2026).",
+   "source": {
+    "title": "Kommunale vederlag til medlemmer af Næstved Byråd 2026",
+    "url": "https://backoffice.naestved.dk/media/iqzkpnrd/kommunale-vederlag-til-medlemmer-af-naestved-byraad-2026.pdf"
+   }
+  },
+  {
+   "role": "Almindeligt byrådsmedlem",
+   "amount": "ca. 89.000-107.000 kr./år fast vederlag (niveau 2025, afhængig af kommunens størrelse)",
+   "details": "Det faste vederlag er lavest i mindre kommuner og 107.178 kr. i kommuner med over 80.000 indbyggere. Udvalgs- og formandsposter får tillæg.",
+   "source": {
+    "title": "Vederlagsbekendtgørelse (Sønderborg Kommune)",
+    "url": "https://sonderborgkommune.dk/sites/default/files/2025-11/Vederlagsbekendtg%C3%B8relsen.pdf"
+   }
+  },
+  {
+   "role": "Medlem af Europa-Parlamentet",
+   "amount": "ca. 11.255 EUR/md. brutto (grundløn)",
+   "details": "Nettoløn ca. 8.773 EUR/md. efter EU-skat. Samlet med godtgørelser ca. 18.000 EUR/md.",
+   "source": {
+    "title": "Exclusive: The Left group wants to halve MEP salaries (Euronews, 7.10.2026)",
+    "url": "https://www.euronews.com/2026/10/07/exclusive-the-left-group-wants-to-halve-mep-salaries"
+   }
+  }
+ ],
+ "howCandidatesAreChosen": "Folketinget har 175 mandater i Danmark. 135 af dem er kredsmandater, og de resterende 40 er tillægsmandater, som fordeles på landsplan efter partiernes samlede stemmer. Grønland og Færøerne har hver to mandater. Kandidaterne stiller op i en opstillingskreds eller en storkreds, og partierne laver en liste. Ved sideordnet opstilling står flere kandidater fra samme parti i samme kreds, og de personlige stemmer afgør, hvem der bliver valgt først. Man kan blive valgt uden at vinde sin kreds, hvis partiets samlede stemmetal giver mandat via tillægsmandaterne og listerækkefølgen.",
+ "typicalRoutes": [
+  {
+   "route": "Ungdomsparti, så Folketinget",
+   "details": "Den mest brugte vej. Mette Frederiksen var aktiv i DSU og blev valgt til Folketinget i 2001 som 24-årig. Alex Vanopslagh var landsformand for Liberal Alliances Ungdom 2014-2016, kom i Københavns Borgerrepræsentation i 2018 og blev folketingsmedlem og politisk leder i 2019. Ungdomspartiet giver netværk, træning i at tale og en plads i køen, når kandidaterne skal findes."
+  },
+  {
+   "route": "Byråd, så Folketinget",
+   "details": "Mange begynder lokalt, fordi et byrådsvalg kræver langt færre stemmer. Lars Løkke Rasmussen blev valgt til byrådet i Græsted-Gilleleje som 22-årig i 1986, kom i Folketinget i 1994 og var amtsborgmester 1998-2001. Jacob Mark (SF) blev valgt til Køge Byråd som 18-årig og kom i Folketinget i 2015."
+  },
+  {
+   "route": "Europa-Parlamentet som springbræt",
+   "details": "Et EP-valg er ét stort landsdækkende personvalg, så en kendt profil kan samle stemmer fra hele landet. Morten Messerschmidt kom i Folketinget i 2005 som 24-årig, blev valgt til Europa-Parlamentet i 2009 og fik i 2014 465.758 personlige stemmer, det højeste antal ved et dansk valg. Anders Vistisen sad i Europa-Parlamentet for DF og sidder nu i folketingsgruppen."
+  },
+  {
+   "route": "Kendt udefra, hentet ind",
+   "details": "Partier henter også folk, som allerede har et publikum: journalister, debattører, erhvervsfolk og profiler fra sociale medier. Det er den hurtigste vej, men den kræver, at du har noget, partiet mangler: et publikum, en sag du ejer, eller en vælgergruppe de ikke selv kan nå."
+  }
+ ],
+ "youngestMFs": [
+  {
+   "name": "Sofie Therese Svendsen",
+   "party": "K (Det Konservative Folkeparti)",
+   "age": "23 på valgdagen 24.3.2026",
+   "howTheyGotIn": "Valgt ved folketingsvalget 24. marts 2026. Hun er det yngste medlem af det nye Folketing."
+  },
+  {
+   "name": "Ellen Emilie Mindegaard-Müllertz",
+   "party": "M (Moderaterne)",
+   "age": "24",
+   "howTheyGotIn": "Valgt ved folketingsvalget 24. marts 2026. Hun er det yngste medlem for Moderaterne."
+  }
+ ],
+ "socialMediaRoutes": [
+  {
+   "name": "Alex Vanopslagh (LA)",
+   "note": "Hans valgkamp på TikTok ved folketingsvalget 2022 er dokumenteret i et speciale fra Aalborg Universitet, der beskriver en parasocial kontakt med vælgerne. Et speciale fra RUC finder, at partiets TikTok-tilstedeværelse ikke påvirkede valgresultatet væsentligt.",
+   "source": {
+    "title": "Politiktok: et casestudie af Liberal Alliances anvendelse af TikTok under folketingsvalget 2022 (Aalborg Universitet)",
+    "url": "https://projekter.aau.dk/politiktok-et-casestudie-af-liberal-alliances-anvendelse-af-tiktok-under-folketingsvalget-2022-708917a0.html"
+   }
+  },
+  {
+   "name": "Dansk Folkeparti",
+   "note": "Ifølge en forsker fra Københavns Universitet har DF overtaget en meme-præget stil fra Liberal Alliance og har haft en udtalt opmærksomhedsstrategi på sociale medier.",
+   "source": {
+    "title": "Forsker: virale memes og populærkultur er blevet våben i moderne politisk kommunikation (Altinget)",
+    "url": "https://www.altinget.dk/kultur/artikel/forsker-virale-memes-og-populaerkultur-er-blevet-vaaben-i-moderne-politisk-kommunikation"
+   }
+  },
+  {
+   "name": "Mette Frederiksen (S) og Troels Lund Poulsen (V)",
+   "note": "Ifølge en Altinget-analyse af partiledernes sociale medier har Mette Frederiksen 932.000 følgere samlet på Facebook og Instagram, mens Troels Lund Poulsen har 33.000. Det viser rækkeviddeforskellen mellem to partiledere, men ikke gennembruddet.",
+   "source": {
+    "title": "Some-ekspert: Mette Frederiksen har en atombombe, mens Troels Lund har en slangebøsse (Altinget)",
+    "url": "https://www.altinget.dk/artikel/some-ekspert-mette-frederiksen-har-en-atombombe-mens-troels-lund-har-en-slangeboesse-det-kan-afgoere-valget"
+   }
+  }
+ ],
+ "upcomingElections": [
+  {
+   "what": "Folketingsvalg",
+   "when": "senest 2030-03-24",
+   "note": "Næste folketingsvalg skal holdes senest fire år efter valget den 24. marts 2026."
+  },
+  {
+   "what": "Kommunal- og regionsvalg",
+   "when": "2029-11-20",
+   "note": "Holdes tredje tirsdag i november hvert fjerde år. Næste valg er 20. november 2029."
+  },
+  {
+   "what": "Europa-Parlamentsvalg",
+   "when": "juni 2029",
+   "note": "Vælger medlemmer til Europa-Parlamentet for de næste fem år."
+  }
+ ],
+ "otherPoliticalJobs": [
+  {
+   "job": "Særlig rådgiver",
+   "pay": "Lønnen er ikke oplyst i de kilder, der er brugt.",
+   "note": "Ansat af en minister uden for den faste embedsstand."
+  },
+  {
+   "job": "Politisk konsulent eller pressemedarbejder i et parti",
+   "pay": "Lønnen er ikke oplyst i de kilder, der er brugt.",
+   "note": "Ansættelser i partisekretariater og folketingsgrupper."
+  },
+  {
+   "job": "Byrådsmedlem",
+   "pay": "ca. 89.000-107.000 kr./år fast vederlag (niveau 2025)",
+   "note": "Typisk et deltidshverv ved siden af et andet job."
+  },
+  {
+   "job": "Borgmester",
+   "pay": "ca. 1.384.000 kr./år i Næstved Kommune (satser pr. 1. april 2025)",
+   "note": "Eftervederlag: i København udbetales 1,5 gange sidste månedsvederlag for hvert påbegyndt år som borgmester (kommunens notat)."
+  },
+  {
+   "job": "Medlem af Europa-Parlamentet",
+   "pay": "ca. 11.255 EUR/md. brutto (grundløn)",
+   "note": "Kræver en europæisk valgliste. Valget afholdes hvert femte år."
+  }
+ ],
+ "contentLandscape": {
+  "summary": "I en Altinget-debatartikel skriver en erhvervsforsker, at sociale medier har overtaget den politiske kommunikation. Han peger på, at unge førstegangsvælgere primært eksponeres for én politiker og én platform.",
+  "rules": "EU's forordning 2024/900 om gennemsigtighed i politisk reklame (TTPA) gælder fra oktober 2025. Politisk reklame skal mærkes, og gennemsigtighedsmeddelelsen skal oplyse afsender, udgifter og finansiering. Målretning med personfølsomme data er forbudt i politisk reklame, og målretning med andre personoplysninger kræver et særskilt samtykke (recitalerne 56, 57, 77, 78 og 82).",
+  "sources": [
+   {
+    "title": "Forordning (EU) 2024/900 om gennemsigtighed i politisk reklame (EUR-Lex)",
+    "url": "https://eur-lex.europa.eu/eli/reg/2024/900/oj"
+   },
+   {
+    "title": "Erhvervsforsker: De sociale medier har endeligt overtaget vores demokrati (Altinget)",
+    "url": "https://www.altinget.dk/uddannelse/artikel/erhvervsforsker-de-sociale-medier-har-endeligt-overtaget-vores-demokrati"
+   }
+  ]
+ },
+ "honestOdds": "Der var 933 opstillede kandidater ved folketingsvalget den 24. marts 2026, og 175 mandater blev fordelt. Det svarer til ca. 19 pct. af kandidaterne. Kvinder udgjorde 39,4 pct. af kandidaterne, som var 46,3 år i gennemsnit, og 65 kandidater (7,0 pct.) var under 25 år.",
+ "sources": [
+  {
+   "title": "Folketingskandidaterne er i gennemsnit 46 år (Danmarks Statistik, 18.3.2026)",
+   "url": "https://www.dst.dk/da/presse/Pressemeddelelser/2026/2026-03-18-folketingskandidaterne-er-i-gennemsnit-46-aar"
+  },
+  {
+   "title": "Kandidatstatistik 2026 (Danmarks Statistik)",
+   "url": "https://www.dst.dk/valg/Valg2546527/other/Kandidatstatistik%202026.pdf"
+  },
+  {
+   "title": "Politikerne stiger i løn og falder i pension: Her er aftalens detaljer (Altinget, 27.5.2025)",
+   "url": "https://www.altinget.dk/embedsvaerk/artikel/politikerne-stiger-i-loen-og-falder-i-pension-her-er-aftalens-detaljer"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "la",
+  "letter": "I",
+  "name": "Liberal Alliance",
+  "short": "LA",
+  "founded": "2008",
+  "foundedNote": "Liberal Alliance blev stiftet 28. august 2008. Partiets forløber, Ny Alliance, blev stiftet 7. maj 2007. LA er et markedsliberalt parti med fokus på lavere skat, mindre stat og personlig frihed.",
+  "leader": {"name": "Alex Vanopslagh", "title": "Politisk leder for Liberal Alliance", "since": "2019", "born": "1991", "bio": "Alex Vanopslagh er født 17. oktober 1991 i Frankrig. Han blev valgt til politisk leder for Liberal Alliance 9. juni 2019, med opbakning fra partiets folketingsgruppe. Han var tidligere formand for Liberal Alliances Ungdom. Partiet nåede over 15 % i målingerne i maj 2024, faldt herefter, og fik 9,4 % ved valget i 2026. Han er kendt for sin kampagne på TikTok, og han har sagt, at han vil være statsminister, hvis LA bliver det største blå parti."},
+  "role": "opposition",
+  "roleNote": "LA er i opposition til firkløverregeringen (S, SF, M og RV). Partiet har krævet en blå statsminister og har kritiseret regeringens skatteaftale med Dansk Folkeparti i november 2026.",
+  "ideology": ["liberalisme", "markedsøkonomi", "frihed og individ", "forsvar og oprustning"],
+  "euGroup": "EPP (Det Europæiske Folkeparti)",
+  "youth": {"name": "Liberal Alliances Ungdom (LAU)", "note": "Partiets ungdomsorganisation. Landsformand Tobias Jæger Pagh talte ved landsmødet 11. april 2026."},
+  "membersCount": "6.742 (2024)",
+  "website": "https://www.liberalalliance.dk",
+  "oneLiner": "Markedsliberalt parti med fokus på lavere skat, mindre stat og frihed, der har vokset blandt unge og vil lede den blå blok.",
+  "summary": "Liberal Alliance vil have lavere skat, mindre offentlig sektor og mere frihed for borgerne. Partiet vil have marked og konkurrence på områder som sundhed, uddannelse og boliger, og vil have en stærk stat i kerneopgaver som retssikkerhed og forsvar. LA er mere markedsliberal og mindre traditionelt konservativ end Venstre og Konservative. Partiet har særligt vundet opbakning blandt unge vælgere, både ved valget 2026 og i den digitale kampagne, og det vil lede den blå blok.",
+  "pitch": "Liberal Alliance vil have et Danmark med mere frihed, lavere skat og en mindre stat, der ikke blander sig i alt. Vi har vist, at unge og borgere vil have liberale løsninger. Vi vil have en blå regering, der leverer på skat, erhverv og ansvar, og vi venter ikke på, at andre tør.",
+  "critique": "Modstanderne siger, at LA's skattelettelser og fokus på marked rammer de svageste og svækker velfærden. Kritikerne peger på, at LA har en hård og polariserende stil, og at partiet tabte vælgere i 2024 efter debatten om kvindelig værnepligt. De mener også, at partiets statsministerdrøm splitter den blå blok, og at partiet er sårbart, fordi det er tæt knyttet til sin leder.",
+  "keyIssues": [
+    {"title": "Lavere skat og mindre stat", "detail": "LA vil have lavere skat på arbejde og virksomheder og en mindre offentlig sektor. Partiet mener, at det skal kunne betale sig at arbejde, og at den offentlige sektor skal effektiviseres. LA kritiserede i november 2026 regeringens skatteaftale med DF, fordi den ifølge LA gav DF lettelser på benzin og diesel i stedet for varige skattelettelser."},
+    {"title": "Forsvar og oprustning", "detail": "LA har fremlagt en finansieret oprustningsplan for forsvaret og argumenterer for, at forsvaret skal prioriteres over udgifter til velfærd. Det er en af partiets centrale mærkesager."},
+    {"title": "Blå statsminister og blå blok", "detail": "LA og Danmarksdemokraterne har stillet et ultimativt krav om en blå statsminister, ifølge Altinget 12. maj 2026. Vanopslagh har sagt, at han vil være statsminister, hvis LA bliver det største blå parti."},
+    {"title": "Stram asyl- og udlændingepolitik", "detail": "LA har i november 2026 fremsat forslag om at ophæve retten til at søge spontant asyl for personer uden for Danmarks nærområde (B 54), om at flygtninge ikke må få permanent opholdstilladelse direkte efter flygtningeopholdet (B 55), og om at trossamfund ikke må modtage kontante donationer på 15.000 kr. eller derover (B 56)."},
+    {"title": "Frihed for unge og digital kampagne", "detail": "LA har vundet opbakning blandt unge vælgere, bl.a. via TikTok. Partiet vil have frihed i uddannelse og boligmarkedet og har fremsat forslaget B 48 om at lovliggøre salg af håndkøbsmedicin via digitale platforme og leveringstjenester."}
+  ],
+  "positions": {
+    "udlaendinge": {"score": 5, "text": "LA vil have en stram udlændingepolitik. I november 2026 fremsatte partiet forslag om at ophæve retten til spontan asyl for personer uden for Danmarks nærområde (B 54) og om at stoppe direkte overgang fra flygtningestatus til permanent opholdstilladelse (B 55)."},
+    "oekonomi": {"score": 5, "text": "LA vil have lavest mulig skat og mindst mulig stat. Partiet vil have skattelettelser på arbejde og virksomheder og vil begrænse offentlige udgifter. Partiet kritiserede regeringens skatteaftale med DF i november 2026, fordi aftalen ikke gav varige skattelettelser."},
+    "arbejdsmarked": {"score": 4, "text": "LA vil have mere arbejdsudbud og lavere ydelser og mener, at det skal kunne betale sig at arbejde. Partiet vil have mere fleksibilitet på arbejdsmarkedet."},
+    "velfaerd": {"score": 4, "text": "LA vil have mere privat medvirken og valgfrihed i velfærden og vil effektivisere den offentlige sektor. Partiet vil have borgerne til at vælge leverandør og give konkurrence til det offentlige."},
+    "sundhed": {"score": 4, "text": "LA vil have mere privat medvirken og konkurrence i sundhedsvæsenet, så borgerne kan vælge behandling. Partiet vil have mindre offentlig styring af sundhedssystemet."},
+    "klima": {"score": 3, "text": "LA vil have en grøn omstilling, der er markedsbaseret og ikke rammer forbrugerne hårdt. Partiet vil have teknologi og konkurrence frem for afgifter."},
+    "natur_landbrug": {"score": 4, "text": "LA vil have færre krav til landbruget og mindre regulering og vil have markedet til at løse miljøproblemer."},
+    "eu": {"score": 2, "text": "LA er positiv over for EU og det indre marked og er ikke EU-skeptisk. Partiet lægger vægt på frihandel og et stærkt europæisk samarbejde om sikkerhed."},
+    "forsvar": {"score": 5, "text": "LA vil have en stor oprustning af forsvaret og har fremlagt en finansieret plan for oprustningen. Det er et af partiets klareste profilpunkter."},
+    "ret": {"score": 4, "text": "LA vil have hårdere straf for alvorlig kriminalitet og mere politi, og vil ophæve strafrabat, så betingede domme kan udløses (B 53). Samtidig vil partiet have retssikkerhed og begrænsninger på statens magt."},
+    "bolig": {"score": 5, "text": "LA vil have mere marked på boligområdet og færre reguleringer, så flere kan få en bolig."},
+    "uddannelse": {"score": 4, "text": "LA vil have krav, valgfrihed og privat konkurrence i uddannelsessystemet og vil give institutionerne og eleverne mere frihed."}
+  },
+  "history": [
+    {"year": "2007", "event": "Ny Alliance stiftes 7. maj 2007. Partiet bliver forløber for Liberal Alliance."},
+    {"year": "2008", "event": "Liberal Alliance stiftes 28. august 2008."},
+    {"year": "2019", "event": "9. juni 2019 vælges Alex Vanopslagh som politisk leder for partiet."},
+    {"year": "2022", "event": "Liberal Alliance får 7,9 % og 14 mandater ved folketingsvalget 2022."},
+    {"year": "2024", "event": "Pernille Vermund forlader Nye Borgerlige og slutter sig til Liberal Alliance i januar 2024."},
+    {"year": "2024", "event": "LA når ca. 15,2 % i Altingets snit i maj 2024, men falder til 11,9 % i september 2024. Altinget peger på debatten om kvindelig værnepligt og EU-valgkampen som årsager."},
+    {"year": "2026", "event": "Ved valget 24. marts 2026 får LA 9,4 % og 16 mandater, mod 7,9 % og 14 mandater i 2022."},
+    {"year": "2026", "event": "11. april 2026 holder LA landsmøde i Tivoli i København. Landsformanden for LA Ungdom Tobias Jæger Pagh taler."},
+    {"year": "2026", "event": "12. maj 2026 stiller Vanopslagh og Støjberg (DD) krav om en blå statsminister som et ultimativt krav."},
+    {"year": "2026", "event": "3. juni 2026 tiltræder firkløverregeringen. Vanopslagh kritiserer den nye regering for skjulte skattestigninger i en grundlovstale 5. juni 2026."},
+    {"year": "2026", "event": "12. november 2026: Regeringen og DF indgår en skatteaftale med lettelser på cirka 11 mia. kr., som Vanopslagh kritiserer, fordi DF ifølge ham var 'billigst til salg'."}
+  ],
+  "people": [
+    {"name": "Alex Vanopslagh", "role": "Politisk leder", "note": "Partiets ansigt udadtil og leder siden 2019. Han har krævet en blå statsminister og var central i kampagnen på TikTok."},
+    {"name": "Ole Birk Olesen", "role": "Gruppeformand og finansordfører", "note": "Leder LA's folketingsgruppe og er partiets finansordfører. Han deltog i regeringsforhandlingerne i maj 2026."},
+    {"name": "Pernille Vermund", "role": "Folketingsmedlem", "note": "Kom til LA fra Nye Borgerlige i januar 2024 og er medfremsætter af forslagene B 54, B 55 og B 56 om asyl og trossamfund."},
+    {"name": "Helena Artmann Andresen", "role": "Folketingsmedlem; børne- og undervisningsordfører, dyrevelfærdsordfører fra 2026", "note": "Medlem af LA's folketingsgruppe og lokalformand for LA Ungdom i Kolding."},
+    {"name": "Freja Brandhøj", "role": "Folketingsmedlem", "note": "Fremsætter af forslaget B 48 om salg af håndkøbsmedicin via digitale platforme."},
+    {"name": "Jens Meilvang", "role": "Folketingsmedlem", "note": "Fremsætter af forslaget B 53 om at udløse betingede domme og afskaffe strafrabat."}
+  ],
+  "voters": {
+    "summary": "LA har især vundet vælgere blandt unge og overtaget mange utilfredse Venstre-vælgere, ifølge Altinget. Partiet er populært blandt liberale og markedsorienterede vælgere.",
+    "strongholds": "Storbyerne og de yngre vælgere har været stærke for LA.",
+    "demographics": "LA's vælgere er især unge og mænd, ifølge Altinget."
+  },
+  "election2026": {"note": "LA fik 9,4 % og 16 mandater ved valget 24. marts 2026, mod 7,9 % og 14 mandater i 2022. Fremgangen skyldtes ifølge analyser, at LA hentede vælgere fra Venstre og var stærk på TikTok og blandt unge. Efter valget er LA i opposition, og partiet har krævet en blå statsminister."},
+  "strengths": ["Stærk på TikTok og blandt unge vælgere", "Klar markedsliberal profil på skat og velfærd", "Synlig og markant leder", "Evne til at hente vælgere fra Venstre ved valget 2026"],
+  "weaknesses": ["Stærkt knyttet til Vanopslagh som person", "Tilbagegang i målinger efter 2024", "Konfliktfyldt forhold til Venstre og Konservative", "Mange kritikere mener, at statsministerdrømmen splitter den blå blok"],
+  "internalTensions": [
+    {"title": "Statsministerdrømmen", "detail": "LA's krav om en blå statsminister har skabt kritik i den blå blok. Kritikerne siger, at drømmen splitter blokken, mens partiet på landsmødet i april 2026 fik ny opbakning til den."},
+    {"title": "Konkurrencen med Venstre", "detail": "LA har hentet mange vælgere fra Venstre og står i en konflikt om, hvem der skal være den førende borgerlige kraft. Det har også skabt spændinger om kvindelig værnepligt og om SVM-regeringen."}
+  ],
+  "typicalArguments": [
+    {"claim": "Lavere skat og mindre stat giver mere frihed og flere i arbejde.", "counter": "Kritikere mener, at skattelettelser rammer de svageste og svækker velfærden og offentlige serviceydelser."},
+    {"claim": "Asylreglerne skal strammes, så Danmark ikke tager imod flygtninge uden for Danmarks nærområde.", "counter": "Kritikere mener, at en sådan ordning er i strid med internationale forpligtelser og vil flytte problemet, ikke løse det."},
+    {"claim": "Unge vil have frihed og liberale løsninger, og vi taler deres sprog.", "counter": "Kritikere siger, at LA's appel til unge bygger på en TikTok-kampagne og ikke på holdbare politiske løsninger."},
+    {"claim": "Vi vil have en blå statsminister, så den blå blok kan vinde.", "counter": "Kritikere mener, at LA's statsministerdrøm splitter den blå blok og gør det svært at samle borgerlige vælgere."}
+  ],
+  "vsDF": {
+    "agree": ["Begge partier vil have en stram udlændingepolitik og krav til integration", "Begge stiller krav om en blå statsminister og en borgerlig regering"],
+    "disagree": ["LA er markedsliberal og vil have lavere skat og mindre stat, mens DF lægger større vægt på velfærd og ældre", "LA er positiv over for EU og frihandel, mens DF er EU-skeptisk", "LA vil have mere privat konkurrence i velfærden, mens DF er mere skeptisk over for privatisering"],
+    "note": "LA og DF er begge i den borgerlige opposition og deler kravet om en blå statsminister, men LA er langt mere liberal i økonomi og EU-politik, mens DF er mere velfærdsorienteret og EU-skeptisk. I november 2026 kritiserede Vanopslagh DF for at have været 'billigst til salg' i skatteaftalen med regeringen. DF's Anders Vistisen afviste kritikken og kaldte Vanopslagh 'rigtig bitter'."
+  },
+  "vocabulary": [
+    {"term": "Blå statsminister", "meaning": "Kravet om, at en borgerlig politiker skal være statsminister efter næste valg, typisk fra Venstre, Konservative eller LA."},
+    {"term": "Frihed", "meaning": "Partiets centrale begreb for individets ret til at vælge og bestemme over eget liv, uden at staten blander sig unødigt."},
+    {"term": "Ultimativt krav", "meaning": "LA og DD's krav om en blå statsminister, som ikke kan forhandles væk."}
+  ],
+  "funFacts": [
+    "Alex Vanopslagh har fået tilnavnet 'TikTok-kongen', fordi LA's kampagne i 2026 i høj grad foregik på TikTok.",
+    "LA nåede 15,2 % i Altingets snit i maj 2024, men faldt til 11,9 % i september 2024."
+  ],
+  "currentDebates": [
+    {
+      "title": "Forslag om at ophæve spontan asyl og stoppe direkte overgang til permanent ophold",
+      "date": "2026-11-13",
+      "topic": "udlaendinge",
+      "summary": "Liberal Alliance har fremsat tre beslutningsforslag den 13. november 2026: B 54 om at ophæve retten til at søge spontant asyl i Danmark for personer uden for Danmarks nærområde, B 55 om at flygtninge ikke skal kunne få permanent opholdstilladelse direkte efter flygtningeopholdet, og B 56 om at trossamfund ikke må modtage kontante donationer på 15.000 kr. eller derover. B 54 er fremsat af Pernille Vermund, Mads Strange og Alex Vanopslagh, og B 55 af Pernille Vermund og Alex Vanopslagh.",
+      "positions": [{"who": "Liberal Alliance", "says": "Forslagene skal stramme udlændinge- og trossamfundsreglerne, og LA vil have regeringen til at ændre loven."}],
+      "whyItMatters": "Forslagene viser LA's linje på udlændinge og er en del af partiets profil i opposition.",
+      "sources": [{"title": "B 54: ophæve retten til at søge spontant asyl (ft.dk, 13. nov. 2026)", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B54/index.htm"},
+        {"title": "B 55: flygtninge og permanent opholdstilladelse (ft.dk, 13. nov. 2026)", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B55/index.htm"}]
+    },
+    {
+      "title": "Forslag om salg af håndkøbsmedicin via digitale platforme",
+      "date": "2026-11-11",
+      "topic": "sundhed",
+      "summary": "Liberal Alliance har fremsat forslaget B 48 om at lovliggøre facilitering og salg af håndkøbsmedicin via digitale platforme og leveringstjenester. Forslaget er fremsat af Freja Brandhøj og Alex Vanopslagh og er en genfremsættelse af B 113 fra folketingsåret 2024-25.",
+      "positions": [{"who": "Liberal Alliance", "says": "Forslaget skal give brugere og registrerede butikker et mere fleksibelt og sikkert køb og salg af håndkøbsmedicin via digitale leveringstjenester."}],
+      "whyItMatters": "Forslaget er et konkret eksempel på LA's linje om marked og frihed i sundhedsområdet.",
+      "sources": [{"title": "B 48: lovliggøre salg af håndkøbsmedicin via digitale platforme (ft.dk, 11. nov. 2026)", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B48/index.htm"}]
+    },
+    {
+      "title": "Skatteaftale mellem regeringen og DF kritiseres af Vanopslagh",
+      "date": "2026-11-12",
+      "topic": "oekonomi",
+      "summary": "Regeringen og Dansk Folkeparti indgik 12. november 2026 en skatteaftale med lettelser for cirka 11 mia. kr. Aftalen omfatter sænket benzin- og dieselafgift i 2027, afskaffelse af mellemskatten fra 2029 og toptopskatten fra 2028 og en selskabsskattesænkning på 3 procentpoint. Vanopslagh kritiserede aftalen på X og sagde, at DF var 'billigst til salg', og at de blå partier ønskede varige skattelettelser, mens DF kun ville have lavere afgifter i ét år.",
+      "positions": [{"who": "Alex Vanopslagh", "says": "Regeringen valgte DF, fordi DF var 'billigst til salg'. De blå partier ønskede varige skattelettelser, mens DF kun ville have lavere afgifter i ét år."}],
+      "whyItMatters": "Aftalen viser, at LA står udenfor de aftaler, der laves med DF, og at LA's linje om varige skattelettelser ikke er blevet vedtaget.",
+      "sources": [{"title": "Ny skatteaftale på plads (TV 2, 12. nov. 2026)", "url": "https://nyheder.tv2.dk/live/politik/2026-11-12-ny-skatteaftale-paa-plads?entry=65e419b2-8a92-4210-aa30-9f21f9e9bce3"}]
+    }
+  ],
+  "sources": [
+    {"title": "Ny skatteaftale på plads (TV 2, 12. nov. 2026)", "url": "https://nyheder.tv2.dk/live/politik/2026-11-12-ny-skatteaftale-paa-plads?entry=65e419b2-8a92-4210-aa30-9f21f9e9bce3"},
+    {"title": "Liberal Alliance (Wikipedia)", "url": "https://da.wikipedia.org/wiki/Liberal_Alliance"},
+    {"title": "Alex Vanopslagh (Wikipedia)", "url": "https://da.wikipedia.org/wiki/Alex_Vanopslagh"},
+    {"title": "Folketingsvalget 2026 (Wikipedia)", "url": "https://da.wikipedia.org/wiki/Folketingsvalget_2026"},
+    {"title": "Folketingsvalget 2022 (Wikipedia)", "url": "https://da.wikipedia.org/wiki/Folketingsvalget_2022"},
+    {"title": "Ole Birk Olesen (Liberal Alliance)", "url": "https://www.liberalalliance.dk/politikere/ole-birk-olesen/"},
+    {"title": "Helena Artmann Andresen (Liberal Alliance)", "url": "https://www.liberalalliance.dk/helena-artmann-andresen/"},
+    {"title": "Støjberg og Vanopslagh nedtoner stridigheder med V (Altinget, 12. maj 2026)", "url": "https://www.altinget.dk/christiansborg/artikel/stoejberg-og-vanopslagh-nedtoner-stridigheder-med-v-vi-har-et-ultimativt-krav-og-det-er-en-blaa-statsminister"},
+    {"title": "Vanopslagh og LA går tilbage. Hvad er gået galt? (Altinget, 13. sept. 2024)", "url": "https://www.altinget.dk/artikel/vanopslagh-og-la-gaar-tilbage-hvad-er-gaaet-galt"},
+    {"title": "Tobias Jæger Pagh: tale ved Liberal Alliances landsmøde 2026 (Danske Taler)", "url": "https://www.dansketaler.dk/tale/tobias-jaeger-paghs-tale-ved-liberal-alliances-landsmode-2026.pdf"},
+    {"title": "Fire borgerlige partier klar med fælles alternativ til SVM-regeringen (Lovguiden, 8. jan. 2026)", "url": "https://www.lovguiden.dk/det-offentlige/liberal-alliance/2026-01-08-fire-borgerlige-partier-klar-med-faelles-alternativ-til-svm-regeringen"}
+  ]
+}

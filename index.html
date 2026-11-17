@@ -1,0 +1,1173 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Talerstolen – de danske partier forklaret</title>
+<meta name="description" content="De 12 danske partier forklaret ned i detaljen: mærkesager, holdninger emne for emne, aktuelle debatter og hvem der stemte hvad i Folketinget.">
+<meta property="og:title" content="Talerstolen">
+<meta property="og:description" content="De 12 danske partier forklaret ned i detaljen: mærkesager, holdninger emne for emne, aktuelle debatter og hvem der stemte hvad i Folketinget.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="da_DK">
+<meta name="theme-color" content="#F3F4F7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0E1115" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><rect width='24' height='24' rx='5' fill='%2312161C'/><path d='M7 10h10l-1.4 9H8.4L7 10Z' fill='white'/><path d='M5.6 10h12.8' stroke='white' stroke-width='1.9' stroke-linecap='round'/><path d='M12 10V6.2l2.4-1.3' stroke='white' stroke-width='1.4' stroke-linecap='round' fill='none'/><circle cx='15' cy='4.7' r='1.2' fill='white'/></svg>">
+<style>:root{color-scheme:light;padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap">
+<style>
+/* Layout: sticky top bar with section tabs, one centred 1120px column. Chrome stays ink-neutral so the
+   twelve party colours are the only colour on the page; a highlighter stroke marks video hooks. */
+:root{
+  --bg:#F3F4F7; --surface:#FFFFFF; --surface-2:#E8EAEF; --ink:#12161C; --ink-2:#434C5C; --ink-3:#6C7688; --line:#D8DCE4;
+  --marker:#FFE566; --live:#D93025; --good:#15784A; --bad:#B8322B; --ring:rgb(0 0 0 / .1);
+  --display:"Bricolage Grotesque","Avenir Next Condensed","Helvetica Neue",Arial,sans-serif;
+  --body:"Instrument Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --r:12px; --r-s:7px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0E1115; --surface:#161A20; --surface-2:#212730; --ink:#ECEEF2; --ink-2:#B1B9C6; --ink-3:#838C9C; --line:#2B323D;
+    --marker:#6A5810; --live:#FF6B5E; --good:#52C790; --bad:#FF8177; --ring:rgb(255 255 255 / .16); color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0E1115; --surface:#161A20; --surface-2:#212730; --ink:#ECEEF2; --ink-2:#B1B9C6; --ink-3:#838C9C; --line:#2B323D;
+  --marker:#6A5810; --live:#FF6B5E; --good:#52C790; --bad:#FF8177; --ring:rgb(255 255 255 / .16); color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:60;background:var(--bg)}
+h1,h2,h3,h4,p,ul,ol,dl,dd,figure{margin:0}
+ul,ol{padding:0;list-style:none}
+a{color:inherit}
+button,input,select,textarea{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--ink);outline-offset:2px;border-radius:4px}
+.wrap{max-width:1120px;margin-inline:auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+
+/* top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:var(--bg);border-bottom:1px solid var(--line)}
+.top-in{display:flex;align-items:center;gap:6px 14px;flex-wrap:wrap;padding-block:9px}
+.brand{display:flex;align-items:center;gap:9px;font-family:var(--display);font-weight:800;font-size:20px;letter-spacing:-.025em;text-decoration:none;margin-right:6px}
+.brand svg{width:24px;height:24px;flex:none}
+.nav{display:flex;gap:2px;flex:1 1 420px;min-width:0;overflow-x:auto;scrollbar-width:none;order:3}
+.nav::-webkit-scrollbar{display:none}
+.nav a{padding:7px 12px;border-radius:999px;font-weight:600;font-size:14.5px;color:var(--ink-2);text-decoration:none;white-space:nowrap}
+.nav a:hover{background:var(--surface-2);color:var(--ink)}
+.nav a[aria-current="page"]{background:var(--ink);color:var(--bg)}
+.sbtn{margin-left:auto;display:flex;align-items:center;gap:8px;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink-3);font-size:14px;font-weight:500}
+.sbtn kbd{font:600 11px var(--body);border:1px solid var(--line);border-radius:4px;padding:0 5px;color:var(--ink-3)}
+@media (min-width:900px){.nav{order:0;flex:1 1 auto}.sbtn{margin-left:0}}
+@media (max-width:520px){.sbtn span{display:none}.sbtn kbd{display:none}}
+
+main{padding-block:26px 64px;min-height:70vh}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(30px,5vw,46px);line-height:1.03;letter-spacing:-.035em;text-wrap:balance}
+h2{font-family:var(--display);font-weight:700;font-size:23px;line-height:1.15;letter-spacing:-.02em;text-wrap:balance}
+h3{font-size:16px;font-weight:700;line-height:1.3}
+h4{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.lead{font-size:18px;line-height:1.5;color:var(--ink-2);max-width:66ch}
+.muted{color:var(--ink-3)}
+.small{font-size:13.5px}
+.prose{max-width:68ch}
+.prose p+p{margin-top:.7em}
+.stack{display:flex;flex-direction:column;gap:14px}
+.stack-l{display:flex;flex-direction:column;gap:30px}
+.row{display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+.between{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:10px 18px}
+.grid2{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(0,1fr);gap:26px;align-items:start}
+.grid2e{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;align-items:start}
+@media (max-width:860px){.grid2,.grid2e{grid-template-columns:minmax(0,1fr)}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px}
+.hr{border:0;border-top:1px solid var(--line);margin:0}
+.mark{background:linear-gradient(transparent 58%,var(--marker) 58%);-webkit-box-decoration-break:clone;box-decoration-break:clone;padding:0 .08em}
+a.ext{text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+a.ext:hover{text-decoration-color:currentColor}
+
+/* party letter tile, modelled on the ballot's "Liste O" */
+.pl{--pc:#888;--pt:#fff;display:inline-grid;place-items:center;flex:none;width:28px;height:28px;border-radius:6px;background:var(--pc);color:var(--pt);font-family:var(--display);font-weight:800;font-size:15.5px;line-height:1;text-decoration:none;box-shadow:inset 0 0 0 1px var(--ring)}
+.pl.s{width:21px;height:21px;font-size:12px;border-radius:5px}
+.pl.l{width:44px;height:44px;font-size:25px;border-radius:9px}
+.pl.xl{width:76px;height:76px;font-size:44px;border-radius:15px}
+.pl.wide{width:auto;min-width:28px;padding:0 5px;font-size:10.5px;letter-spacing:.02em}
+.pl.s.wide{min-width:21px;font-size:9px;padding:0 4px}
+a.pl:hover{filter:brightness(1.08)}
+.tiles{display:inline-flex;flex-wrap:wrap;gap:3px;vertical-align:middle}
+
+.chip{display:inline-flex;align-items:center;gap:6px;padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-size:13.5px;font-weight:600;color:var(--ink-2);white-space:nowrap;text-decoration:none}
+button.chip:hover,a.chip:hover{border-color:var(--ink-3);color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chips.scroll{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin-inline:-2px;padding:2px}
+.tag{display:inline-block;font-size:11.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:2px 7px;border-radius:5px;background:var(--surface-2);color:var(--ink-2);white-space:nowrap}
+.tag.new{background:var(--ink);color:var(--bg)}
+.tag.gov{background:transparent;box-shadow:inset 0 0 0 1.5px var(--ink);color:var(--ink)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:9px 16px;border-radius:999px;border:1px solid var(--ink);background:var(--ink);color:var(--bg);font-weight:650;font-size:14.5px;text-decoration:none;white-space:nowrap}
+.btn:hover{opacity:.88}
+.btn.ghost{background:transparent;color:var(--ink);border-color:var(--line)}
+.btn.ghost:hover{border-color:var(--ink);opacity:1}
+.btn.sm{padding:6px 12px;font-size:13.5px}
+.btn[disabled]{opacity:.45;cursor:default}
+.tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid var(--line)}
+.tabs button{background:none;border:0;border-bottom:2.5px solid transparent;margin-bottom:-1px;padding:10px 12px;font-weight:650;font-size:15px;color:var(--ink-3);white-space:nowrap}
+.tabs button:hover{color:var(--ink)}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink)}
+select,input[type=text],textarea{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-s);padding:9px 11px;width:100%;min-width:0}
+textarea{resize:vertical;min-height:74px;line-height:1.45}
+label.f{display:flex;flex-direction:column;gap:5px;font-size:13px;font-weight:650;color:var(--ink-2);min-width:0}
+
+/* live status */
+.live{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-size:13.5px;font-weight:600;color:var(--ink-2)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--ink-3);flex:none}
+.live.ok .dot{background:var(--live);box-shadow:0 0 0 0 var(--live);animation:pulse 2.4s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--live) 55%,transparent)}70%{box-shadow:0 0 0 7px transparent}100%{box-shadow:0 0 0 0 transparent}}
+@media (prefers-reduced-motion:reduce){.live.ok .dot{animation:none}html{scroll-behavior:auto}}
+.note{border:1px dashed var(--line);border-radius:var(--r);padding:16px;color:var(--ink-3);font-size:14.5px}
+
+/* feed */
+.feed-list{display:flex;flex-direction:column}
+.fi{display:grid;grid-template-columns:54px minmax(0,1fr);gap:4px 12px;padding:13px 0;border-top:1px solid var(--line)}
+.fi:first-child{border-top:0}
+.fi time{font-size:13px;font-weight:600;color:var(--ink-3);font-variant-numeric:tabular-nums;padding-top:2px}
+.fi h3{font-size:15.5px;font-weight:650}
+.fi h3 a{text-decoration:none}
+.fi h3 a:hover{text-decoration:underline;text-underline-offset:3px}
+.fi .meta{display:flex;flex-wrap:wrap;align-items:center;gap:5px 8px;margin-top:5px;font-size:13px;color:var(--ink-3)}
+.fi p{font-size:14.5px;color:var(--ink-2);margin-top:3px}
+.vote{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:6px;font-size:13px;color:var(--ink-3)}
+.vote span{display:inline-flex;align-items:center;gap:5px}
+.vote b{color:var(--ink);font-variant-numeric:tabular-nums}
+
+/* hot debates + heat */
+.heat{display:inline-flex;gap:2px;vertical-align:middle}
+.heat i{width:4px;height:13px;border-radius:2px;background:var(--surface-2)}
+.heat i.on{background:var(--ink)}
+.hot li{border-top:1px solid var(--line)}
+.hot li:first-child{border-top:0}
+.hot a{display:grid;grid-template-columns:auto minmax(0,1fr);gap:2px 11px;align-items:baseline;padding:10px 0;text-decoration:none}
+.hot a:hover b{text-decoration:underline;text-underline-offset:3px}
+.hot b{font-weight:650;font-size:15px;line-height:1.3}
+.hot small{grid-column:2;color:var(--ink-3);font-size:13px}
+
+/* hemicycle + polls */
+.hemi{display:block;width:100%;max-width:540px;height:auto;margin-inline:auto}
+.hemi circle{stroke:var(--ring);stroke-width:1;transition:opacity .15s}
+.hemi text{fill:var(--ink);font-family:var(--display);text-anchor:middle}
+.legend{display:grid;grid-template-columns:repeat(auto-fill,minmax(78px,1fr));gap:6px 10px}
+.legend a{display:flex;align-items:center;gap:7px;text-decoration:none;font-size:13.5px;font-weight:600;color:var(--ink-2);padding:2px;border-radius:6px}
+.legend a:hover{color:var(--ink)}
+.legend b{font-variant-numeric:tabular-nums;color:var(--ink)}
+.blocs{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;color:var(--ink-2)}
+.blocs b{font-family:var(--display);font-size:20px;color:var(--ink);font-variant-numeric:tabular-nums;margin-right:4px}
+.poll{display:grid;grid-template-columns:auto minmax(0,1fr) auto auto;gap:7px 10px;align-items:center;font-size:13.5px;font-variant-numeric:tabular-nums}
+.poll .track{position:relative;height:14px;background:var(--surface-2);border-radius:3px}
+.poll .bar{position:absolute;inset:0 auto 0 0;border-radius:3px;box-shadow:inset 0 0 0 1px var(--ring)}
+.poll .tick{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--ink)}
+.poll .v{font-weight:700;text-align:right}
+.poll .d{text-align:right;color:var(--ink-3);min-width:38px}
+.poll .d.up{color:var(--good)} .poll .d.dn{color:var(--bad)}
+
+/* party grid */
+.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.pcard{display:grid;grid-template-columns:auto minmax(0,1fr);gap:4px 13px;padding:15px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);text-decoration:none;align-content:start}
+.pcard:hover{border-color:var(--ink-3)}
+.pcard .pl{grid-row:span 2}
+.pcard b{font-family:var(--display);font-size:18px;font-weight:700;letter-spacing:-.015em;line-height:1.15;overflow-wrap:anywhere;hyphens:auto}
+.pcard small{color:var(--ink-3);font-size:13px}
+.pcard p{grid-column:1/-1;font-size:14px;color:var(--ink-2);line-height:1.4;margin-top:6px}
+.pcard .row{grid-column:1/-1;margin-top:6px;gap:5px}
+.quick{display:flex;flex-wrap:wrap;gap:8px}
+
+/* party page */
+.phead{display:grid;grid-template-columns:auto minmax(0,1fr);gap:8px 18px;align-items:center}
+.phead .pl{grid-row:span 2}
+.facts{display:grid;grid-template-columns:auto minmax(0,1fr);gap:7px 14px;font-size:14.5px}
+.facts dt{color:var(--ink-3);font-weight:600;white-space:nowrap}
+.facts dd{min-width:0;overflow-wrap:anywhere}
+.issue{padding:13px 0;border-top:1px solid var(--line)}
+.issue:first-of-type{border-top:0;padding-top:4px}
+.issue p{color:var(--ink-2);margin-top:3px;font-size:15px}
+.voice{border-left:3px solid var(--pc,var(--ink));padding:2px 0 2px 14px}
+.voice.crit{border-left-color:var(--ink-3)}
+.voice p{font-size:15.5px;margin-top:6px}
+.topic{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr);gap:6px 20px;padding:14px 0;border-top:1px solid var(--line)}
+.topic:first-child{border-top:0}
+.topic p{color:var(--ink-2);font-size:15px}
+.topic button{background:none;border:0;padding:0;text-align:left;font-weight:700;font-size:15.5px}
+.topic button:hover{text-decoration:underline;text-underline-offset:3px}
+@media (max-width:640px){.topic{grid-template-columns:minmax(0,1fr)}}
+.dots{display:inline-flex;gap:4px;align-items:center}
+.dots i{width:9px;height:9px;border-radius:50%;background:var(--surface-2);box-shadow:inset 0 0 0 1px var(--line)}
+.dots i.on{background:var(--pc,var(--ink));box-shadow:inset 0 0 0 1px var(--ring);width:13px;height:13px}
+.ends{display:flex;justify-content:space-between;gap:10px;font-size:12px;color:var(--ink-3);margin-top:4px}
+.tl{display:grid;grid-template-columns:58px minmax(0,1fr);gap:0 14px}
+.tl dt{font-family:var(--display);font-weight:700;font-variant-numeric:tabular-nums;padding:9px 0;border-top:1px solid var(--line)}
+.tl dd{padding:9px 0;border-top:1px solid var(--line);font-size:15px;color:var(--ink-2)}
+.tl dt:first-of-type,.tl dt:first-of-type+dd{border-top:0}
+.person{display:grid;grid-template-columns:minmax(0,1fr);gap:1px;padding:10px 0;border-top:1px solid var(--line)}
+.person:first-child{border-top:0}
+.person small{color:var(--ink-3);font-size:13px;font-weight:600}
+.person p{font-size:14.5px;color:var(--ink-2)}
+.pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--surface)}
+.pair>div{padding:14px 16px}
+.pair>div+div{border-left:1px solid var(--line);background:color-mix(in srgb,var(--surface-2) 45%,var(--surface))}
+.pair p{font-size:15px;margin-top:5px}
+@media (max-width:640px){.pair{grid-template-columns:minmax(0,1fr)}.pair>div+div{border-left:0;border-top:1px solid var(--line)}}
+.plus li,.minus li,.bul li{position:relative;padding-left:20px;font-size:15px;color:var(--ink-2);margin-top:6px}
+.plus li::before{content:"+";position:absolute;left:2px;font-weight:800;color:var(--good)}
+.minus li::before{content:"−";position:absolute;left:2px;font-weight:800;color:var(--bad)}
+.bul li::before{content:"";position:absolute;left:5px;top:.62em;width:5px;height:5px;border-radius:50%;background:var(--ink-3)}
+.vocab{display:grid;grid-template-columns:minmax(0,200px) minmax(0,1fr);gap:0 16px}
+.vocab dt{font-weight:700;padding:9px 0;border-top:1px solid var(--line)}
+.vocab dd{padding:9px 0;border-top:1px solid var(--line);color:var(--ink-2);font-size:15px}
+.vocab dt:first-of-type,.vocab dt:first-of-type+dd{border-top:0}
+@media (max-width:560px){.vocab{grid-template-columns:minmax(0,1fr)}.vocab dd{border-top:0;padding-top:0}}
+.members{font-size:14.5px;color:var(--ink-2);line-height:1.7}
+
+/* accordion */
+.acc{border:1px solid var(--line);border-radius:var(--r);background:var(--surface);overflow:hidden}
+.acc+.acc{margin-top:10px}
+.acc>button{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 14px;width:100%;text-align:left;background:none;border:0;padding:15px 16px;align-items:start}
+.acc>button:hover h3{text-decoration:underline;text-underline-offset:3px}
+.acc>button .sub{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;margin-top:6px;font-size:13px;color:var(--ink-3)}
+.acc>button .chev{font-size:20px;line-height:1;color:var(--ink-3);transition:transform .15s}
+.acc[data-open] .chev{transform:rotate(45deg)}
+.acc-b{padding:2px 16px 18px;display:flex;flex-direction:column;gap:16px}
+.pos{display:grid;grid-template-columns:auto minmax(0,1fr);gap:8px 11px;align-items:start;font-size:14.5px}
+.pos p{color:var(--ink-2)}
+.pos b{color:var(--ink)}
+.srcs{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--ink-3)}
+.fact{font-size:14.5px;color:var(--ink-2);padding-left:14px;border-left:2px solid var(--line)}
+
+/* compare */
+.cols5{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
+.cols5>div{display:flex;flex-direction:column;align-items:center;gap:6px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r-s);padding:10px 4px;min-height:92px}
+.cols5 small{font-weight:700;color:var(--ink-3);font-size:12px}
+.duel{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,150px) minmax(0,1fr);gap:0 16px}
+.duel>*{padding:13px 0;border-top:1px solid var(--line);font-size:14.5px}
+.duel .mid{text-align:center;font-weight:700;font-size:13.5px}
+.duel .mid .dots{margin:5px 3px 0}
+.duel p{color:var(--ink-2)}
+@media (max-width:700px){.duel{grid-template-columns:minmax(0,1fr)}.duel>*{border-top:0;padding:4px 0}.duel .mid{border-top:1px solid var(--line);padding-top:14px;text-align:left}}
+.coal{display:grid;grid-template-columns:repeat(auto-fill,minmax(186px,1fr));gap:8px}
+.coal button{display:flex;align-items:center;gap:9px;padding:8px 10px;border:1px solid var(--line);border-radius:var(--r-s);background:var(--surface);font-weight:600;font-size:14px;text-align:left}
+.coal button[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.coal button b{margin-left:auto;font-variant-numeric:tabular-nums}
+.coal button span:not(.pl){min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.meter{position:relative;height:30px;background:var(--surface-2);border-radius:6px;overflow:hidden;display:flex}
+.meter span{height:100%;box-shadow:inset -1px 0 0 var(--ring)}
+.meter-line{position:relative;height:0}
+.meter-line::before{content:"";position:absolute;left:calc(90 / 179 * 100%);top:-36px;height:42px;width:2px;background:var(--ink)}
+.meter-line::after{content:"90";position:absolute;left:calc(90 / 179 * 100%);top:8px;transform:translateX(-50%);font-size:12px;font-weight:700}
+.big{font-family:var(--display);font-weight:800;font-size:44px;line-height:1;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
+.compass{width:100%;max-width:560px;height:auto;display:block;margin-inline:auto}
+.compass line{stroke:var(--line)}
+.compass .ax{fill:var(--ink-3);font:600 12px var(--body)}
+.compass text.lt{font:800 14px var(--display);text-anchor:middle;dominant-baseline:central;pointer-events:none}
+.compass circle{stroke:var(--ring)}
+
+/* video */
+.idea .hook{font-family:var(--display);font-weight:700;font-size:clamp(20px,2.6vw,26px);line-height:1.2;letter-spacing:-.02em;text-wrap:balance}
+.beats{display:grid;grid-template-columns:auto auto minmax(0,1fr);gap:7px 12px;font-size:15px;align-items:baseline}
+.beats time{font-size:12.5px;font-weight:700;color:var(--ink-3);font-variant-numeric:tabular-nums;white-space:nowrap}
+.who{font-size:11.5px;font-weight:800;letter-spacing:.05em;padding:2px 7px;border-radius:5px;white-space:nowrap;background:var(--surface-2);color:var(--ink)}
+.who.df{background:#EAC73E;color:#12161C}
+.who.scr{background:transparent;box-shadow:inset 0 0 0 1px var(--line);color:var(--ink-3)}
+.status{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--surface)}
+.status button{border:0;background:none;padding:5px 11px;font-size:13px;font-weight:650;color:var(--ink-3)}
+.status button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.script{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px;min-height:120px;font-size:15.5px}
+.script h4{margin:16px 0 6px}
+.script h4:first-child{margin-top:0}
+.script p{margin-top:5px}
+.script .ln{display:grid;grid-template-columns:74px minmax(0,1fr);gap:10px;align-items:baseline;margin-top:8px}
+.script li{position:relative;padding-left:18px;margin-top:4px}
+.script li::before{content:"";position:absolute;left:4px;top:.62em;width:5px;height:5px;border-radius:50%;background:var(--ink-3)}
+.formgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
+.hookcard{padding:14px 0;border-top:1px solid var(--line)}
+.hookcard:first-child{border-top:0}
+.hookcard q{display:block;font-family:var(--display);font-weight:650;font-size:17px;line-height:1.3;quotes:none;margin-top:6px}
+.check li{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px;align-items:start;padding:8px 0;border-top:1px solid var(--line);font-size:15px}
+.check li:first-child{border-top:0}
+.check input{width:18px;height:18px;margin-top:2px;accent-color:var(--ink)}
+
+/* train */
+.quiz{max-width:640px}
+.opts{display:flex;flex-direction:column;gap:8px}
+.opts button{display:flex;align-items:center;gap:10px;text-align:left;padding:12px 14px;border:1px solid var(--line);border-radius:var(--r-s);background:var(--surface);font-weight:600}
+.opts button:not([disabled]):hover{border-color:var(--ink)}
+.opts button.right{border-color:var(--good);box-shadow:inset 0 0 0 1px var(--good)}
+.opts button.wrong{border-color:var(--bad);box-shadow:inset 0 0 0 1px var(--bad)}
+.prog{height:5px;background:var(--surface-2);border-radius:3px;overflow:hidden}
+.prog i{display:block;height:100%;background:var(--ink)}
+.chat{display:flex;flex-direction:column;gap:10px}
+.bub{max-width:min(560px,88%);padding:11px 14px;border-radius:14px;background:var(--surface);border:1px solid var(--line);font-size:15.5px;white-space:pre-wrap;overflow-wrap:anywhere}
+.bub.me{align-self:flex-end;background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.coach{max-width:min(560px,88%);font-size:14px;color:var(--ink-2);padding-left:12px;border-left:2px solid var(--marker)}
+.send{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px;align-items:end}
+
+/* career */
+.paytable{width:100%;border-collapse:collapse;font-size:14.5px}
+.paytable th,.paytable td{text-align:left;padding:10px 12px 10px 0;border-top:1px solid var(--line);vertical-align:top}
+.paytable th{font-size:12px;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-3);border-top:0}
+.paytable td:nth-child(2){font-weight:700;white-space:nowrap}
+.scrollx{overflow-x:auto}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}
+.steps>div{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px}
+.steps small{font-weight:700;color:var(--ink-3);font-size:12.5px;letter-spacing:.06em;text-transform:uppercase}
+
+/* search */
+#search{position:fixed;inset:0;z-index:80;background:rgb(10 12 16 / .5);display:flex;justify-content:center;align-items:flex-start;padding:max(10vh,calc(env(safe-area-inset-top,0px) + 20px)) max(16px,env(safe-area-inset-right,0px)) 20px max(16px,env(safe-area-inset-left,0px))}
+.sbox{width:100%;max-width:580px;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:0 20px 60px rgb(0 0 0 / .3);display:flex;flex-direction:column;max-height:76vh}
+.sbox input{border:0;border-bottom:1px solid var(--line);border-radius:0;padding:16px 18px;font-size:17px;outline:0;background:transparent}
+.sres{overflow-y:auto}
+.sres a{display:grid;grid-template-columns:auto minmax(0,1fr);gap:0 12px;align-items:center;padding:10px 18px;text-decoration:none;border-top:1px solid var(--line)}
+.sres a:first-child{border-top:0}
+.sres a:hover,.sres a:focus{background:var(--surface-2);outline:0}
+.sres b{font-weight:650}
+.sres small{grid-column:2;color:var(--ink-3);font-size:13px}
+.sres .k{grid-row:span 2;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);width:62px}
+.foot{padding-block:22px 40px;border-top:1px solid var(--line);font-size:13px;color:var(--ink-3)}
+.toast{position:fixed;left:50%;bottom:calc(22px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:999px;font-size:14px;font-weight:600;z-index:90}
+</style>
+</head>
+<body>
+<noscript><p style="padding:24px;font:16px system-ui,sans-serif">Talerstolen kræver JavaScript for at vise partierne og de aktuelle debatter.</p></noscript>
+<script>window.TS_SITE = {"video": true, "career": true, "bank": true};</script>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#i-dag" aria-label="Talerstolen, forside">
+      <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 9h14l-2 12H7L5 9Z" fill="currentColor"/><path d="M3.5 9h17" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><path d="M12 9V4.2m0 0 3-1.7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="15.6" cy="2.4" r="1.5" fill="currentColor"/></svg>
+      Talerstolen
+    </a>
+    <nav class="nav" id="nav" aria-label="Sektioner"></nav>
+    <button class="sbtn" id="sopen" type="button" aria-label="Søg"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg><span>Søg parti, person, ord</span><kbd>/</kbd></button>
+  </div>
+</header>
+<main class="wrap" id="view"></main>
+<footer class="wrap foot" id="foot"></footer>
+<div id="search" hidden><div class="sbox" role="dialog" aria-label="Søg"><input id="sq" type="text" placeholder="Søg parti, person, mærkesag, ord …" autocomplete="off"><div class="sres" id="sres"></div></div></div>
+
+<script src="data.js"></script>
+<script>
+(() => {
+'use strict';
+const T = window.TS;
+const view = document.getElementById('view');
+document.documentElement.lang = 'da';
+/* HOSTED: siden kører som Claude-artifact (database + Claude). Ellers er den en selvstændig hjemmeside, der læser live/*.json. */
+const HOSTED = !!(window.claude && typeof window.claude.use === 'function');
+const HASAI = HOSTED;
+const SITE = Object.assign({ video: true, career: true, bank: true }, window.TS_SITE || {});
+if (!T) { view.innerHTML = '<p class="note">Siden kunne ikke indlæse sine data. Prøv at genindlæse.</p>'; return; }
+
+/* ---------- helpers ---------- */
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const safeUrl = u => { u = String(u || ''); return /^https:\/\/[^\s"'<>]+$/i.test(u) ? u : ''; };
+const ext = (u, text) => { const h = safeUrl(u); return h ? `<a class="ext" href="${esc(h)}" target="_blank" rel="noopener">${esc(text)}</a>` : esc(text); };
+const arr = x => Array.isArray(x) ? x : [];
+const MON = ['jan.', 'feb.', 'mar.', 'apr.', 'maj', 'juni', 'juli', 'aug.', 'sep.', 'okt.', 'nov.', 'dec.'];
+const MONL = ['januar', 'februar', 'marts', 'april', 'maj', 'juni', 'juli', 'august', 'september', 'oktober', 'november', 'december'];
+const DAYS = ['søndag', 'mandag', 'tirsdag', 'onsdag', 'torsdag', 'fredag', 'lørdag'];
+const dparse = s => { if (!s) return null; s = String(s); const d = new Date(s.length <= 10 ? s + 'T12:00:00' : s); return isNaN(d) ? null : d; };
+const dshort = s => { const d = dparse(s); return d ? d.getDate() + '. ' + MON[d.getMonth()] : ''; };
+const dlong = s => { const d = dparse(s); return d ? d.getDate() + '. ' + MONL[d.getMonth()] + ' ' + d.getFullYear() : ''; };
+const ago = s => { const d = dparse(s); if (!d) return ''; const m = (Date.now() - d) / 60000; if (m < 2) return 'lige nu'; if (m < 60) return 'for ' + Math.round(m) + ' min. siden'; const h = m / 60; if (h < 24) return 'for ' + Math.round(h) + ' t. siden'; const dd = h / 24; if (dd < 2) return 'i går'; if (dd < 14) return 'for ' + Math.round(dd) + ' dage siden'; return dshort(s); };
+const num = (n, dec) => (typeof n === 'number' && isFinite(n)) ? n.toLocaleString('da-DK', { minimumFractionDigits: dec || 0, maximumFractionDigits: dec || 0 }) : '–';
+const om = t => { t = String(t || '').replace(/^Om,?\s+/i, '').replace(/\.$/, ''); return t.charAt(0).toUpperCase() + t.slice(1); };
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const store = { get(k, d) { try { const v = localStorage.getItem('ts.' + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } }, set(k, v) { try { localStorage.setItem('ts.' + k, JSON.stringify(v)); } catch (e) { } } };
+
+const P = {}; T.parties.forEach(p => { P[p.id] = p; });
+const ORDER = T.parties.slice().sort((a, b) => a.order - b.order);
+const PS = T.pseudo || {};
+const TOP = {}; T.topics.forEach(t => { TOP[t.id] = t; });
+const GOV = new Set(T.government.parties), SUP = new Set(T.government.support);
+const meta = id => P[id] || PS[id] || null;
+const topicName = id => (TOP[id] && TOP[id].name) || 'Andet';
+const roleOf = id => GOV.has(id) ? 'Regering' : SUP.has(id) ? 'Støtteparti' : 'Opposition';
+function tile(id, size, noLink) {
+  const p = meta(id); if (!p) return '';
+  const cls = 'pl ' + (size || '') + (p.letter.length > 1 ? ' wide' : '');
+  const st = `--pc:${p.color};--pt:${p.on}`;
+  return P[id] && !noLink
+    ? `<a class="${cls}" style="${st}" href="#parti-${id}" title="${esc(p.name)}" aria-label="${esc(p.name)}">${esc(p.letter)}</a>`
+    : `<span class="${cls}" style="${st}" title="${esc(p.name)}">${esc(p.letter)}</span>`;
+}
+const tiles = (ids, size) => `<span class="tiles">${arr(ids).filter(meta).map(i => tile(i, size || 's')).join('')}</span>`;
+const dots = (score, color) => `<span class="dots" style="--pc:${color || 'var(--ink)'}" role="img" aria-label="${score} af 5">${[1, 2, 3, 4, 5].map(i => `<i${i === score ? ' class="on"' : ''}></i>`).join('')}</span>`;
+const heat = n => `<span class="heat" role="img" aria-label="Fylder ${n} af 5">${[1, 2, 3, 4, 5].map(i => `<i${i <= n ? ' class="on"' : ''}></i>`).join('')}</span>`;
+const srcs = list => { const l = arr(list).filter(s => s && safeUrl(s.url)); return l.length ? `<p class="srcs"><span>Kilder:</span>${l.map(s => ext(s.url, s.title || 'kilde')).join('')}</p>` : ''; };
+function toast(msg) { const t = document.createElement('div'); t.className = 'toast'; t.textContent = msg; document.body.appendChild(t); setTimeout(() => t.remove(), 2200); }
+async function copyText(text) { try { await navigator.clipboard.writeText(text); toast('Kopieret'); } catch (e) { toast('Kunne ikke kopiere. Markér teksten og kopiér selv.'); } }
+
+/* ---------- state ---------- */
+const VIEWS = [['i-dag', 'I dag'], ['partier', 'Partier'], ['sammenlign', 'Sammenlign'], ['debatter', 'Debatter'], ['video', 'Video'], ['traen', 'Træn'], ['vejen', 'Vejen ind']].filter(v => (v[0] !== 'video' || SITE.video) && (v[0] !== 'vejen' || SITE.career));
+const S = {
+  route: 'i-dag', party: null, ptab: 'overblik', open: new Set(), feedKind: 'alle', feedParty: 'alle', feedN: 12,
+  psort: 'fløj', cmp: 'emne', cmpTopic: 'udlaendinge', a: 'df', b: 's', coal: new Set(T.government.parties),
+  debTopic: 'alle', debParty: 'alle', vtab: 'ideer', ttab: 'quiz', busy: false, pending: false,
+  gen: { src: '', custom: '', person: 'Studerende', len: '45', tone: 'Skarp men fair', win: 'Uafgjort, seeren dømmer', text: '', err: '' },
+  quiz: null, spar: { me: 'df', opp: 's', topic: 'udlaendinge', turns: [], err: '' }, ask: {}, checks: {}
+};
+const L = { status: 'loading', meta: null, ft: null, national: null, partydebates: null, news: null, videos: null };
+const My = { data: { status: {}, scripts: [], quiz: { best: 0, rounds: 0, wrong: {} } }, ref: null, saving: false, dirty: false };
+const prevVisit = store.get('visit', null);
+store.set('visit', new Date().toISOString().slice(0, 10));
+Object.assign(My.data, store.get('my', {}));
+
+const seatsNow = () => (L.ft && L.ft.seats && Object.keys(L.ft.seats).length > 5) ? L.ft.seats : Object.fromEntries(Object.entries(T.election.results).map(([k, v]) => [k, v.seats]).concat([['na', 4]]));
+const seatOf = id => seatsNow()[id] || 0;
+const latestPoll = () => { const l = L.meta && L.meta.polls && arr(L.meta.polls.latest); return l && l.length ? l[0] : null; };
+const nat = () => arr(L.national && L.national.items);
+const pdeb = () => arr(L.partydebates && L.partydebates.items);
+const vids = () => arr(L.videos && L.videos.items);
+
+/* ---------- live status ---------- */
+function liveBadge() {
+  const up = L.meta && L.meta.updatedAt;
+  if (L.status === 'ok' && up) return `<span class="live ok" title="Seneste opdatering: ${esc(dlong(up))}"><i class="dot"></i>Opdateret ${esc(ago(up))}</span>`;
+  if (L.status === 'loading') return `<span class="live"><i class="dot"></i>Henter det nyeste …</span>`;
+  if (L.status === 'slow') return `<span class="live"><i class="dot"></i>Forbindelsen er langsom. Prøver stadig …</span>`;
+  if (L.status === 'empty') return `<span class="live"><i class="dot"></i>Venter på første opdatering</span>`;
+  return `<span class="live"><i class="dot"></i>${HOSTED ? 'Live-data vises kun, når du er logget ind på claude.ai' : 'Live-data kunne ikke hentes lige nu'}</span>`;
+}
+function liveNote(what) {
+  if (L.status === 'loading' || L.status === 'slow') return `<p class="note">Henter ${esc(what)} …</p>`;
+  if (L.status === 'off') return `<p class="note">${esc(what.charAt(0).toUpperCase() + what.slice(1))} ${HOSTED ? 'hentes live og kan ikke vises i denne visning. Åbn siden logget ind på claude.ai.' : 'kunne ikke hentes lige nu. Prøv at genindlæse siden.'}</p>`;
+  return `<p class="note">Der er ikke kommet ${esc(what)} ind endnu. De dukker op her ved næste opdatering.</p>`;
+}
+
+/* ---------- feed ---------- */
+function feedItems() {
+  const out = [];
+  arr(L.news && L.news.items).forEach(n => out.push({ kind: 'nyhed', date: n.date, parties: arr(n.parties), title: n.title, text: n.text, url: n.url, source: n.source }));
+  if (L.ft) {
+    arr(L.ft.votes).forEach(v => out.push({ kind: 'afstemning', date: v.date, parties: [].concat(arr(v.for), arr(v.against), arr(v.abstain)), v }));
+    arr(L.ft.proposals).forEach(p => out.push({ kind: 'forslag', date: p.date, parties: arr(p.parties), p }));
+    arr(L.ft.questions).forEach(q => out.push({ kind: 'spørgsmål', date: q.date, parties: arr(q.parties), q }));
+  }
+  const rank = { nyhed: 0, afstemning: 1, forslag: 2, 'spørgsmål': 3 };
+  return out.sort((a, b) => String(b.date).localeCompare(String(a.date)) || rank[a.kind] - rank[b.kind]);
+}
+function feedRow(it) {
+  const isNew = prevVisit && it.date && it.date > prevVisit;
+  const badge = isNew ? '<span class="tag new">Ny</span>' : '';
+  let body = '';
+  if (it.kind === 'nyhed') {
+    body = `<h3>${safeUrl(it.url) ? `<a href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title)}</h3>${it.text ? `<p>${esc(it.text)}</p>` : ''}
+      <div class="meta">${badge}${tiles(it.parties)}<span>${esc(it.source || 'Nyhed')}</span></div>`;
+  } else if (it.kind === 'afstemning') {
+    const v = it.v;
+    body = `<h3><a href="${esc(safeUrl(v.url))}" target="_blank" rel="noopener">${v.passed ? 'Vedtaget' : 'Forkastet'}: ${esc(om(v.title))}</a></h3>
+      <div class="vote"><span><b>${v.forN}</b> for ${tiles(v.for)}</span><span><b>${v.againstN}</b> imod ${tiles(v.against)}</span>${v.abstainN ? `<span><b>${v.abstainN}</b> hverken/eller ${tiles(v.abstain)}</span>` : ''}</div>
+      <div class="meta">${badge}<span class="tag">Afstemning</span><span>${esc(v.nr)} · ${esc(v.step)}</span></div>`;
+  } else if (it.kind === 'forslag') {
+    const p = it.p;
+    body = `<h3><a href="${esc(safeUrl(p.url))}" target="_blank" rel="noopener">${esc(om(p.title))}</a></h3>
+      <div class="meta">${badge}<span class="tag">${esc(p.kind)}</span>${p.gov ? '<span>Regeringen</span>' : tiles(p.parties)}<span>${esc(p.nr)}${p.by && !p.gov ? ' · ' + esc(p.by) : ''}${p.status ? ' · ' + esc(p.status) : ''}</span></div>`;
+  } else {
+    const q = it.q;
+    body = `<h3><a href="${esc(safeUrl(q.url))}" target="_blank" rel="noopener">${esc(q.long || q.title)}</a></h3>
+      <div class="meta">${badge}<span class="tag">Spørgsmål</span>${tiles(q.parties)}<span>${esc(q.by)} til ${esc(q.to)}</span></div>`;
+  }
+  return `<li class="fi"><time datetime="${esc(it.date)}">${esc(dshort(it.date))}</time><div>${body}</div></li>`;
+}
+function feedPanel(fixedParty) {
+  const kinds = fixedParty ? [['alle', 'Alt'], ['afstemning', 'Afstemninger'], ['forslag', 'Forslag'], ['spørgsmål', 'Spørgsmål']] : [['alle', 'Alt'], ['nyhed', 'Nyheder'], ['afstemning', 'Afstemninger'], ['forslag', 'Forslag'], ['spørgsmål', 'Spørgsmål']];
+  let items = feedItems();
+  if (fixedParty) items = items.filter(i => i.kind !== 'nyhed');
+  const party = fixedParty || S.feedParty;
+  if (party !== 'alle') items = items.filter(i => i.parties.includes(party));
+  items = S.feedKind === 'alle' ? items.filter(i => i.kind !== 'spørgsmål' || fixedParty) : items.filter(i => i.kind === S.feedKind);
+  const shown = items.slice(0, S.feedN);
+  const list = shown.length ? `<ul class="feed-list">${shown.map(feedRow).join('')}</ul>${items.length > shown.length ? `<button class="btn ghost sm" data-act="feed-more" type="button">Vis flere (${items.length - shown.length})</button>` : ''}`
+    : (L.news || L.ft ? `<p class="note">Intet at vise med det filter.</p>` : liveNote('nyheder og afstemninger'));
+  return `<div class="stack">
+    <div class="chips scroll" role="group" aria-label="Type">${kinds.map(([k, n]) => `<button class="chip" type="button" data-act="feed-kind" data-v="${k}" aria-pressed="${S.feedKind === k}">${n}</button>`).join('')}</div>
+    ${fixedParty ? '' : `<div class="row" role="group" aria-label="Parti"><button class="chip" type="button" data-act="feed-party" data-v="alle" aria-pressed="${S.feedParty === 'alle'}">Alle partier</button>${ORDER.map(p => `<button type="button" class="pl" style="--pc:${p.color};--pt:${p.on};border:0;${S.feedParty === p.id ? 'outline:2px solid var(--ink);outline-offset:2px' : (S.feedParty !== 'alle' ? 'opacity:.4' : '')}" data-act="feed-party" data-v="${p.id}" title="${esc(p.name)}" aria-label="${esc(p.name)}" aria-pressed="${S.feedParty === p.id}">${esc(p.letter)}</button>`).join('')}</div>`}
+    ${list}</div>`;
+}
+
+/* ---------- hemicycle + polls ---------- */
+const SEATORDER = ['el', 'sf', 'alt', 's', 'rv', 'm', 'na', 'k', 'v', 'la', 'dd', 'df', 'bp', 'ufg'];
+function hemicycle() {
+  const seats = seatsNow();
+  const total = SEATORDER.reduce((n, k) => n + (seats[k] || 0), 0);
+  const radii = [0, 1, 2, 3, 4, 5, 6].map(i => 96 + i * 26), sumR = radii.reduce((a, b) => a + b, 0);
+  const counts = radii.map(r => Math.round(total * r / sumR));
+  let diff = total - counts.reduce((a, b) => a + b, 0);
+  for (let i = radii.length - 1; diff !== 0; i = (i - 1 + radii.length) % radii.length) { counts[i] += Math.sign(diff); diff -= Math.sign(diff); }
+  const pts = [];
+  radii.forEach((r, i) => { const n = counts[i]; for (let j = 0; j < n; j++) { const a = Math.PI - (n === 1 ? Math.PI / 2 : j * Math.PI / (n - 1)); pts.push({ a, r: i, x: 270 + r * Math.cos(a), y: 262 - r * Math.sin(a) }); } });
+  pts.sort((p, q) => q.a - p.a || p.r - q.r);
+  let k = 0; const out = [];
+  SEATORDER.forEach(id => { const m = meta(id); for (let i = 0; i < (seats[id] || 0); i++) { const p = pts[k++]; if (p && m) out.push(`<circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="8.6" fill="${m.color}" data-p="${id}"><title>${esc(m.name)}</title></circle>`); } });
+  return `<svg class="hemi" id="hemi" viewBox="0 0 540 276" role="img" aria-label="Folketingets ${total} pladser fordelt på partier">${out.join('')}<text x="270" y="236" font-size="46" font-weight="800">${total}</text><text x="270" y="257" font-size="12.5" font-weight="600" style="font-family:var(--body);fill:var(--ink-3)">pladser · 90 giver flertal</text></svg>`;
+}
+function salen() {
+  const seats = seatsNow();
+  const sum = ids => ids.reduce((n, i) => n + (seats[i] || 0), 0);
+  const gov = sum([...GOV]), sup = sum([...SUP]), opp = sum(ORDER.filter(p => !GOV.has(p.id) && !SUP.has(p.id)).map(p => p.id));
+  const fromLive = L.ft && L.ft.seats;
+  return `<div class="stack">
+    <div class="between"><h2>Salen lige nu</h2><span class="small muted">${fromLive ? 'Folketingets egne tal, ' + esc(ago(L.ft.updatedAt)) : 'Valgresultatet 24. marts 2026'}</span></div>
+    ${hemicycle()}
+    <div class="blocs"><span><b>${gov}</b>regering</span><span><b>${sup}</b>støttepartier</span><span><b>${opp}</b>opposition</span><span><b>${(seats.na || 0)}</b>nordatlantiske</span>${seats.ufg ? `<span><b>${seats.ufg}</b>løsgængere</span>` : ''}</div>
+    <div class="legend" id="legend">${ORDER.map(p => `<a href="#parti-${p.id}" data-hl="${p.id}">${tile(p.id, 's', true)}<span>${esc(p.short)}</span><b>${seats[p.id] || 0}</b></a>`).join('')}</div>
+  </div>`;
+}
+function polls() {
+  const poll = latestPoll();
+  const res = T.election.results;
+  const rows = T.parties.map(p => ({ p, e: res[p.id].pct, v: poll && poll.numbers ? poll.numbers[p.id] : null })).sort((a, b) => (b.v == null ? b.e : b.v) - (a.v == null ? a.e : a.v));
+  const max = Math.max(24, ...rows.map(r => Math.max(r.e, r.v || 0))) + 1;
+  return `<div class="stack">
+    <div class="between"><h2>Målingerne</h2><span class="small muted">${poll ? esc(poll.institute) + ', ' + esc(dshort(poll.date)) : 'Valgresultat'}</span></div>
+    <div class="poll">${rows.map(r => { const val = r.v == null ? r.e : r.v, d = r.v == null ? null : r.v - r.e; return `${tile(r.p.id, 's')}<div class="track" title="${esc(r.p.name)}"><div class="bar" style="width:${(val / max * 100).toFixed(1)}%;background:${r.p.color}"></div><div class="tick" style="left:${(r.e / max * 100).toFixed(1)}%" title="Valget: ${num(r.e, 1)} %"></div></div><span class="v">${num(val, 1)} %</span><span class="d ${d == null ? '' : d > 0.05 ? 'up' : d < -0.05 ? 'dn' : ''}">${d == null ? '' : (d > 0 ? '+' : '') + num(d, 1)}</span>`; }).join('')}</div>
+    <p class="small muted">Søjlen er ${poll ? 'seneste måling' : 'valgresultatet'}. Den sorte streg er valget 24. marts 2026${poll ? ', og tallet til højre er ændringen siden' : ''}.${L.meta && L.meta.polls && L.meta.polls.note ? ' ' + esc(L.meta.polls.note) : ''}</p>
+  </div>`;
+}
+
+/* ---------- view: i dag ---------- */
+function ideaTeaser() {
+  const v = vids().find(x => (My.data.status[x.id] || 'idé') !== 'postet');
+  if (!v) return `<div class="card stack"><h4>Dagens videoidé</h4>${liveNote('videoidéer')}</div>`;
+  return `<div class="card stack idea"><div class="between"><h4>Dagens videoidé</h4><span class="small muted">${esc(topicName(v.topic))} · ${esc(v.length || '')}</span></div>
+    <p class="hook"><span class="mark">${esc(v.hook)}</span></p><p class="small" style="color:var(--ink-2)">${esc(v.angle || '')}</p>
+    <div class="row"><button class="btn sm" type="button" data-act="open-idea" data-v="${esc(v.id)}">Se hele idéen</button><a class="btn ghost sm" href="#video">Alle idéer</a></div></div>`;
+}
+function hotList() {
+  const items = nat().slice().sort((a, b) => (b.heat || 0) - (a.heat || 0) || String(b.lastDevelopment).localeCompare(String(a.lastDevelopment))).slice(0, 6);
+  if (!items.length) return `<div class="stack"><h2>Det skændes de om</h2>${liveNote('debatter')}</div>`;
+  return `<div class="stack"><div class="between"><h2>Det skændes de om</h2><a class="small ext" href="#debatter">Alle debatter</a></div>
+    <ul class="hot">${items.map(d => `<li><a href="#debatter" data-act="open-debate" data-v="${esc(d.id)}">${heat(d.heat || 1)}<b>${esc(d.title)}</b><small>${esc(topicName(d.topic))}${d.lastDevelopment ? ' · seneste nyt ' + esc(dshort(d.lastDevelopment)) : ''}</small></a></li>`).join('')}</ul></div>`;
+}
+function calendar() {
+  const today = new Date().toISOString().slice(0, 10);
+  const items = arr(L.meta && L.meta.calendar).filter(c => c.date >= today).sort((a, b) => a.date.localeCompare(b.date)).slice(0, 5);
+  if (!items.length) return '';
+  return `<div class="stack"><h2>Det sker snart</h2><dl class="tl" style="grid-template-columns:74px minmax(0,1fr)">${items.map(c => `<dt style="font-size:14px">${esc(dshort(c.date))}</dt><dd><b style="color:var(--ink)">${esc(c.event)}</b>${c.why ? '<br>' + esc(c.why) : ''}</dd>`).join('')}</dl></div>`;
+}
+function viewToday() {
+  const now = new Date();
+  return `<div class="stack-l">
+    <div class="between"><div class="stack" style="gap:6px"><p class="eyebrow">${DAYS[now.getDay()]} ${now.getDate()}. ${MONL[now.getMonth()]} ${now.getFullYear()}</p><h1>I dag i dansk politik</h1></div>${liveBadge()}</div>
+    <div class="grid2">
+      <section class="card stack" aria-label="Nyt siden sidst"><div class="between"><h2>Nyt siden sidst</h2><span class="small muted">Nyheder, afstemninger og forslag</span></div>${feedPanel()}</section>
+      <div class="stack-l">${SITE.video ? ideaTeaser() : ''}${hotList()}${calendar()}</div>
+    </div>
+    <hr class="hr">
+    <div class="grid2e"><section>${salen()}</section><section>${polls()}</section></div>
+  </div>`;
+}
+
+/* ---------- view: partier ---------- */
+function viewParties() {
+  let list = ORDER.slice();
+  if (S.psort === 'størst') list.sort((a, b) => seatOf(b.id) - seatOf(a.id));
+  if (S.psort === 'rolle') { const r = id => GOV.has(id) ? 0 : SUP.has(id) ? 1 : 2; list.sort((a, b) => r(a.id) - r(b.id) || a.order - b.order); }
+  const g = T.government;
+  return `<div class="stack-l">
+    <div class="stack"><h1>De 12 partier</h1><p class="lead">Hvert parti har et bogstav på stemmesedlen. Tryk på et parti for at se mærkesager, holdninger emne for emne, folk, historie, argumenter og hvad der rører sig lige nu.</p>
+      <div class="chips" role="group" aria-label="Sortering">${[['fløj', 'Venstre mod højre'], ['størst', 'Størst først'], ['rolle', 'Regering først']].map(([k, n]) => `<button class="chip" type="button" data-act="psort" data-v="${k}" aria-pressed="${S.psort === k}">${n}</button>`).join('')}</div></div>
+    <div class="pgrid">${list.map(p => `<a class="pcard" href="#parti-${p.id}">${tile(p.id, 'l', true)}<b>${esc(p.name)}</b><small>${esc(p.leader && p.leader.name || '')}</small><p>${esc(p.oneLiner)}</p><span class="row"><span class="tag${GOV.has(p.id) ? ' gov' : ''}">${roleOf(p.id)}</span><span class="tag">${seatOf(p.id)} mandater</span></span></a>`).join('')}</div>
+    <hr class="hr">
+    <div class="grid2e">
+      <section class="stack"><h2>${esc(g.nick)}</h2><p class="prose" style="color:var(--ink-2)">${tiles(g.parties, '')} er i regering sammen siden ${esc(dlong(g.since))}. ${esc(g.formation)} Støttepartierne er ${g.support.map(i => esc(P[i].name)).join(' og ')}.</p><p class="prose" style="color:var(--ink-2)">${esc(g.basis)}</p>${srcs([g.source])}</section>
+      <section class="stack"><div class="between"><h2>Ministrene</h2><span class="small muted">${g.ministers.length} i alt</span></div><ul>${g.ministers.map(m => `<li class="person" style="grid-template-columns:auto minmax(0,1fr);gap:1px 10px;align-items:center">${tile(m.party, 's')}<b style="font-weight:650">${esc(m.name)}</b><small style="grid-column:2">${esc(m.post)}</small></li>`).join('')}</ul></section>
+    </div>
+    <section class="stack"><h2>Sådan hænger Folketinget sammen</h2><div class="steps">
+      <div><small>179 pladser</small><p>175 vælges i Danmark, 2 i Grønland og 2 på Færøerne. Et flertal kræver 90.</p></div>
+      <div><small>Spærregrænsen</small><p>Et parti skal have 2 procent af stemmerne for at komme ind. Derfor ligger de mindste partier på 4 til 5 mandater.</p></div>
+      <div><small>Mindretalsregering</small><p>Regeringen har ikke selv 90 mandater. Den skal finde flertal fra sag til sag, typisk hos støttepartierne.</p></div>
+      <div><small>Blokke</small><p>Rød blok er partierne til venstre, blå blok dem til højre. Moderaterne placerer sig i midten og valgte i 2026 at gå med S, SF og Radikale.</p></div>
+    </div></section>
+  </div>`;
+}
+
+/* ---------- view: parti ---------- */
+function agreeWith(id) {
+  const votes = arr(L.ft && L.ft.votes); if (votes.length < 5) return null;
+  const side = (v, p) => arr(v.for).includes(p) ? 1 : arr(v.against).includes(p) ? -1 : arr(v.abstain).includes(p) ? 0 : null;
+  return T.parties.filter(q => q.id !== id).map(q => { let n = 0, same = 0; votes.forEach(v => { const a = side(v, id), b = side(v, q.id); if (a != null && b != null) { n++; if (a === b) same++; } }); return { id: q.id, n, pct: n ? Math.round(same / n * 100) : null }; }).filter(x => x.n >= 5).sort((a, b) => b.pct - a.pct);
+}
+function debateAcc(d, key, opts) {
+  const open = S.open.has(key);
+  const pp = d.partyPositions ? ORDER.filter(p => d.partyPositions[p.id]).map(p => `${tile(p.id, 's')}<p><b>${esc(p.short)}:</b> ${esc(d.partyPositions[p.id])}</p>`).join('') : arr(d.positions).map(x => `<span></span><p><b>${esc(x.who)}:</b> ${esc(x.says)}</p>`).join('');
+  return `<article class="acc"${open ? ' data-open' : ''} id="acc-${esc(key)}"><button type="button" data-act="toggle" data-v="${esc(key)}" aria-expanded="${open}">
+      <div><h3>${esc(d.title)}</h3><div class="sub">${d.heat ? heat(d.heat) : ''}${opts && opts.party ? tile(opts.party, 's', true) : ''}<span>${esc(topicName(d.topic))}</span>${(d.lastDevelopment || d.date) ? `<span>${esc(dshort(d.lastDevelopment || d.date))}</span>` : ''}</div></div><span class="chev" aria-hidden="true">+</span></button>
+    ${open ? `<div class="acc-b"><p class="prose">${esc(d.summary)}</p>
+      ${d.whyItMatters ? `<p class="fact"><b style="color:var(--ink)">Derfor betyder det noget:</b> ${esc(d.whyItMatters)}</p>` : ''}
+      ${arr(d.keyFacts).length ? `<div class="stack" style="gap:8px"><h4>Tal og fakta</h4>${arr(d.keyFacts).map(f => `<p class="fact">${esc(f.fact)} ${f.source && safeUrl(f.source.url) ? '<span class="small">(' + ext(f.source.url, f.source.title || 'kilde') + ')</span>' : ''}</p>`).join('')}</div>` : ''}
+      ${pp ? `<div class="stack" style="gap:8px"><h4>Hvem mener hvad</h4><div class="pos">${pp}</div></div>` : ''}
+      ${d.nextSteps ? `<p><b>Det sker nu:</b> <span style="color:var(--ink-2)">${esc(d.nextSteps)}</span></p>` : ''}
+      ${srcs(d.sources)}
+      ${HASAI ? `<div class="row">${SITE.video ? `<button class="btn sm" type="button" data-act="make-video" data-v="${esc(key)}">Lav video om det</button>` : ''}<button class="btn ghost sm" type="button" data-act="spar-on" data-v="${esc(key)}">Øv debatten</button></div>` : ''}</div>` : ''}</article>`;
+}
+function viewParty() {
+  const p = P[S.party], st = `--pc:${p.color};--pt:${p.on}`;
+  const res = T.election.results[p.id], poll = latestPoll(), pv = poll && poll.numbers ? poll.numbers[p.id] : null;
+  const tabs = [['overblik', 'Overblik'], ['politik', 'Politik'], ['aktuelt', 'Lige nu'], ['folk', 'Folk og historie'], ['debat', 'I debatten']];
+  if (p.id === 'df' && T.dfExtra && SITE.bank) tabs.push(['bank', 'Argumentbank']);
+  let body = '';
+  if (S.ptab === 'overblik') {
+    const ag = agreeWith(p.id);
+    body = `<div class="grid2"><div class="stack-l">
+        <p class="lead" style="color:var(--ink)">${esc(p.summary)}</p>
+        <section class="stack"><h2>Mærkesager</h2><div>${arr(p.keyIssues).map(k => `<div class="issue"><h3>${esc(k.title)}</h3><p>${esc(k.detail)}</p></div>`).join('')}</div></section>
+        <section class="grid2e" style="${st}"><div class="voice"><h4>Sådan sælger de sig selv</h4><p>${esc(p.pitch)}</p></div><div class="voice crit"><h4>Sådan lyder kritikken</h4><p>${esc(p.critique)}</p></div></section>
+        ${p.voters ? `<section class="stack"><h2>Hvem stemmer på dem?</h2><p class="prose" style="color:var(--ink-2)">${esc(p.voters.summary)}</p><dl class="facts">${p.voters.strongholds ? `<dt>Står stærkest</dt><dd>${esc(p.voters.strongholds)}</dd>` : ''}${p.voters.demographics ? `<dt>Typisk vælger</dt><dd>${esc(p.voters.demographics)}</dd>` : ''}</dl></section>` : ''}
+      </div>
+      <aside class="stack-l"><div class="card"><dl class="facts">
+        <dt>Bogstav</dt><dd>${esc(p.letter)}</dd><dt>Leder</dt><dd>${esc(p.leader.name)}${p.leader.since ? ' (siden ' + esc(p.leader.since) + ')' : ''}</dd>
+        <dt>Rolle</dt><dd>${roleOf(p.id)}</dd><dt>Mandater</dt><dd>${seatOf(p.id)}${seatOf(p.id) !== res.seats ? ' (valgt: ' + res.seats + ')' : ''}</dd>
+        <dt>Valget 2026</dt><dd>${num(res.pct, 1)} %</dd>${pv != null ? `<dt>Seneste måling</dt><dd>${num(pv, 1)} % <span class="muted">(${esc(poll.institute)})</span></dd>` : ''}
+        <dt>Stiftet</dt><dd>${esc(p.founded)}</dd>${arr(p.ideology).length ? `<dt>Ideologi</dt><dd>${esc(arr(p.ideology).join(', '))}</dd>` : ''}
+        ${p.euGroup ? `<dt>I EU</dt><dd>${esc(p.euGroup)}</dd>` : ''}${p.youth && p.youth.name ? `<dt>Ungdom</dt><dd>${esc(p.youth.name)}</dd>` : ''}${p.membersCount ? `<dt>Medlemmer</dt><dd>${esc(p.membersCount)}</dd>` : ''}
+        ${safeUrl(p.website) ? `<dt>Web</dt><dd>${ext(p.website, p.website.replace(/^https:\/\/(www\.)?/, '').replace(/\/$/, ''))}</dd>` : ''}</dl></div>
+        ${p.roleNote ? `<div class="stack" style="gap:6px"><h4>Rollen lige nu</h4><p class="small" style="color:var(--ink-2)">${esc(p.roleNote)}</p></div>` : ''}
+        ${p.election2026 && p.election2026.note ? `<div class="stack" style="gap:6px"><h4>Valget 2026</h4><p class="small" style="color:var(--ink-2)">${esc(p.election2026.note)}</p></div>` : ''}
+        ${ag && ag.length ? `<div class="stack" style="gap:8px"><h4>Stemmer oftest som</h4>${ag.slice(0, 3).map(x => `<div class="row" style="gap:10px">${tile(x.id, 's')}<span class="small"><b>${x.pct} %</b> enige med ${esc(P[x.id].nick)}</span></div>`).join('')}<h4 style="margin-top:6px">Stemmer sjældnest som</h4>${ag.slice(-2).reverse().map(x => `<div class="row" style="gap:10px">${tile(x.id, 's')}<span class="small"><b>${x.pct} %</b> enige med ${esc(P[x.id].nick)}</span></div>`).join('')}<p class="small muted">Ud fra de seneste ${arr(L.ft.votes).length} afstemninger i Folketinget.</p></div>` : ''}
+      </aside></div>`;
+  } else if (S.ptab === 'politik') {
+    body = `<div class="stack"><p class="muted small prose">Prikken viser, hvor partiet ligger på en skala fra 1 til 5. Skalaen er en forenklet vurdering, teksten er det vigtige. Tryk på et emne for at se alle partier side om side.</p>
+      <div>${T.topics.map(t => { const x = p.positions && p.positions[t.id]; if (!x) return ''; return `<div class="topic"><div><button type="button" data-act="cmp-topic" data-v="${t.id}">${esc(t.name)}</button><div style="margin-top:8px">${dots(x.score, p.color)}</div><div class="ends"><span>${esc(t.lo)}</span><span>${esc(t.hi)}</span></div></div><p>${esc(x.text)}</p></div>`; }).join('')}</div></div>`;
+  } else if (S.ptab === 'aktuelt') {
+    const ds = pdeb().filter(d => d.party === p.id), ns = nat().filter(d => d.partyPositions && d.partyPositions[p.id]);
+    body = `<div class="grid2"><div class="stack-l">
+        <section class="stack"><h2>Partiets egne sager</h2>${ds.length ? ds.map((d, i) => debateAcc(d, 'p-' + p.id + '-' + i)).join('') : liveNote('partiets aktuelle sager')}</section>
+        ${ns.length ? `<section class="stack"><h2>Hvor står de i de store debatter?</h2><div>${ns.slice(0, 8).map(d => `<div class="issue"><h3><a href="#debatter" data-act="open-debate" data-v="${esc(d.id)}" style="text-decoration:none">${esc(d.title)}</a></h3><p>${esc(d.partyPositions[p.id])}</p></div>`).join('')}</div></section>` : ''}
+      </div><section class="card stack"><h2>I Folketinget</h2>${feedPanel(p.id)}</section></div>`;
+  } else if (S.ptab === 'folk') {
+    const mem = L.ft && L.ft.members && arr(L.ft.members[p.id]);
+    body = `<div class="grid2"><div class="stack-l">
+        <section class="stack"><h2>${esc(p.leader.name)}</h2><p class="small muted">${esc(p.leader.title || 'Leder')}${p.leader.since ? ' siden ' + esc(p.leader.since) : ''}${p.leader.born ? ' · født ' + esc(p.leader.born) : ''}</p><p class="prose" style="color:var(--ink-2)">${esc(p.leader.bio)}</p></section>
+        <section class="stack"><h2>Folk du skal kende</h2><ul>${arr(p.people).map(x => `<li class="person"><b>${esc(x.name)}</b><small>${esc(x.role)}</small><p>${esc(x.note)}</p></li>`).join('')}</ul></section>
+        ${mem && mem.length ? `<section class="stack"><div class="between"><h2>Folketingsgruppen</h2><span class="small muted">${mem.length} medlemmer lige nu</span></div><p class="members">${mem.map(esc).join(' · ')}</p></section>` : ''}
+        ${arr(p.internalTensions).length ? `<section class="stack"><h2>Interne spændinger</h2><div>${arr(p.internalTensions).map(k => `<div class="issue"><h3>${esc(k.title)}</h3><p>${esc(k.detail)}</p></div>`).join('')}</div></section>` : ''}
+      </div><aside class="stack-l">
+        <section class="stack"><h2>Historien kort</h2>${p.foundedNote ? `<p class="small" style="color:var(--ink-2)">${esc(p.foundedNote)}</p>` : ''}<dl class="tl">${arr(p.history).map(h => `<dt>${esc(h.year)}</dt><dd>${esc(h.event)}</dd>`).join('')}</dl></section>
+        <section class="stack"><h4>Styrker</h4><ul class="plus">${arr(p.strengths).map(x => `<li>${esc(x)}</li>`).join('')}</ul><h4 style="margin-top:8px">Svagheder</h4><ul class="minus">${arr(p.weaknesses).map(x => `<li>${esc(x)}</li>`).join('')}</ul></section>
+        ${arr(p.funFacts).length ? `<section class="stack"><h4>Godt at vide</h4><ul class="bul">${arr(p.funFacts).map(x => `<li>${esc(x)}</li>`).join('')}</ul></section>` : ''}
+      </aside></div>`;
+  } else if (S.ptab === 'debat') {
+    const a = S.ask[p.id] || {};
+    body = `<div class="stack-l">
+      <section class="stack"><h2>Det siger de typisk. Og det får de igen.</h2><div class="stack" style="gap:10px">${arr(p.typicalArguments).map(x => `<div class="pair"><div><h4>${esc(p.nick)} siger</h4><p>${esc(x.claim)}</p></div><div><h4>Modsvaret</h4><p>${esc(x.counter)}</p></div></div>`).join('')}</div></section>
+      ${p.vsDF ? `<section class="stack"><h2>${esc(p.nick)} og Dansk Folkeparti</h2>${p.vsDF.note ? `<p class="prose" style="color:var(--ink-2)">${esc(p.vsDF.note)}</p>` : ''}<div class="grid2e"><div><h4>Enige om</h4><ul class="plus">${arr(p.vsDF.agree).map(x => `<li>${esc(x)}</li>`).join('')}</ul></div><div><h4>Uenige om</h4><ul class="minus">${arr(p.vsDF.disagree).map(x => `<li>${esc(x)}</li>`).join('')}</ul></div></div><div class="row"><button class="btn ghost sm" type="button" data-act="duel" data-v="${p.id}">Sammenlign emne for emne</button>${HASAI ? `<button class="btn ghost sm" type="button" data-act="spar-party" data-v="${p.id}">Øv en debat mod ${esc(p.nick)}</button>` : ''}</div></section>` : ''}
+      ${arr(p.vocabulary).length ? `<section class="stack"><h2>Ord de bruger</h2><dl class="vocab">${arr(p.vocabulary).map(v => `<dt>${esc(v.term)}</dt><dd>${esc(v.meaning)}</dd>`).join('')}</dl></section>` : ''}
+      ${HASAI ? `<section class="card stack"><div class="stack" style="gap:4px"><h2>Spørg om ${esc(p.nick)}</h2><p class="small muted">Claude svarer ud fra det, der står om partiet her på siden.</p></div>
+        <form class="send" data-form="ask" data-v="${p.id}"><input type="text" id="askq-${p.id}" name="q" placeholder="Fx: Hvad er forskellen på ${esc(p.nick)} og ${esc(p.id === 'df' ? 'Danmarksdemokraterne' : 'DF')}?" value="${esc(a.q || '')}" autocomplete="off"><button class="btn" type="submit"${AI.fn === null ? ' disabled' : ''}>Spørg</button></form>
+        ${AI.fn === null ? aiOff() : ''}<div id="askout-${p.id}" class="prose" style="white-space:pre-wrap;color:var(--ink-2)">${esc(a.text || a.err || '')}</div></section>` : ''}
+    </div>`;
+  } else if (S.ptab === 'bank') {
+    const x = T.dfExtra, j = x.joinDF || {};
+    body = `<div class="stack-l"><div class="stack"><p class="lead">De spørgsmål en DF'er får oftest, med partiets linje, det stærkeste argument, det stærkeste modargument og tal med kilde. Byg dine videoer herfra.</p></div>
+      <section>${arr(x.argumentBank).map((b, i) => { const key = 'bank-' + i, open = S.open.has(key); return `<article class="acc"${open ? ' data-open' : ''}><button type="button" data-act="toggle" data-v="${key}" aria-expanded="${open}"><div><h3>${esc(b.question)}</h3><div class="sub"><span>${esc(topicName(b.topic))}</span></div></div><span class="chev" aria-hidden="true">+</span></button>
+        ${open ? `<div class="acc-b"><p><b>DF's linje:</b> <span style="color:var(--ink-2)">${esc(b.dfPosition)}</span></p>
+          <div class="pair"><div><h4>DF's stærkeste argument</h4><p>${esc(b.dfBestArgument)}</p></div><div><h4>Stærkeste modargument</h4><p>${esc(b.bestCounter)}</p></div></div>
+          ${b.dfReply ? `<p class="fact"><b style="color:var(--ink)">Sådan svarer en dygtig DF'er:</b> ${esc(b.dfReply)}</p>` : ''}
+          ${arr(b.facts).length ? `<div class="stack" style="gap:8px"><h4>Tal du kan bruge</h4>${arr(b.facts).map(f => `<p class="fact">${esc(f.fact)} ${f.source && safeUrl(f.source.url) ? '<span class="small">(' + ext(f.source.url, f.source.title || 'kilde') + ')</span>' : ''}</p>`).join('')}</div>` : ''}
+          ${b.pitfall ? `<p><b>Pas på:</b> <span style="color:var(--ink-2)">${esc(b.pitfall)}</span></p>` : ''}
+          ${HASAI ? `<div class="row"><button class="btn sm" type="button" data-act="make-video" data-v="${key}">Lav video om det</button></div>` : ''}</div>` : ''}</article>`; }).join('')}</section>
+      ${x.dfOnSocialMedia ? `<section class="stack"><h2>DF på sociale medier</h2><p class="prose" style="color:var(--ink-2)">${esc(x.dfOnSocialMedia)}</p></section>` : ''}
+      ${(j.membership || j.dfu) ? `<section class="stack"><h2>Vil du selv ind i partiet?</h2><div class="steps">${j.membership ? `<div><small>Medlemskab</small><p>${esc(j.membership)}</p></div>` : ''}${j.dfu ? `<div><small>Ungdomspartiet</small><p>${esc(j.dfu)}</p></div>` : ''}${j.localOrg ? `<div><small>Lokalt</small><p>${esc(j.localOrg)}</p></div>` : ''}</div>${srcs(j.sources)}<p><a class="ext" href="#vejen">Se hele vejen ind i politik</a></p></section>` : ''}
+    </div>`;
+  }
+  return `<div class="stack-l">
+    <div class="stack"><a class="small ext" href="#partier">Alle partier</a>
+      <div class="phead">${tile(p.id, 'xl', true)}<h1>${esc(p.name)}</h1><div class="row"><span class="tag${GOV.has(p.id) ? ' gov' : ''}">${roleOf(p.id)}</span><span class="tag">${seatOf(p.id)} mandater</span><span class="tag">${num(res.pct, 1)} % ved valget</span><span class="small muted">${esc(p.leader.name)}</span></div></div>
+      <p class="lead">${esc(p.oneLiner)}</p></div>
+    <div class="tabs" role="tablist">${tabs.map(([k, n]) => `<button type="button" role="tab" data-act="ptab" data-v="${k}" aria-selected="${S.ptab === k}">${n}</button>`).join('')}</div>
+    ${body}
+    ${srcs(p.sources) ? `<div class="stack" style="gap:6px"><hr class="hr">${srcs(p.sources)}</div>` : ''}
+  </div>`;
+}
+
+/* ---------- view: sammenlign ---------- */
+function axisAvg(p, ids) { const xs = ids.map(i => p.positions && p.positions[i] && p.positions[i].score).filter(x => typeof x === 'number'); return xs.length ? xs.reduce((a, b) => a + b, 0) / xs.length : 3; }
+function compass() {
+  const W = 520, pad = 46, sc = v => pad + (v - 1) / 4 * (W - 2 * pad);
+  const pts = T.parties.map(p => ({ p, x: sc(axisAvg(p, ['oekonomi', 'arbejdsmarked', 'velfaerd', 'sundhed', 'bolig'])), y: W - sc(axisAvg(p, ['udlaendinge', 'ret'])) }));
+  for (let it = 0; it < 60; it++) for (let i = 0; i < pts.length; i++) for (let j = i + 1; j < pts.length; j++) { const a = pts[i], b = pts[j]; let dx = b.x - a.x, dy = b.y - a.y; const d = Math.hypot(dx, dy) || 0.01; if (d < 36) { const k = (36 - d) / 2; if (d < 0.5) { dx = 1; dy = (i % 2 ? 1 : -1); } a.x -= dx / d * k; a.y -= dy / d * k; b.x += dx / d * k; b.y += dy / d * k; } }
+  return `<svg class="compass" viewBox="0 0 ${W} ${W}" role="img" aria-label="Politisk kompas med de 12 partier">
+    <line x1="${pad}" y1="${W / 2}" x2="${W - pad}" y2="${W / 2}"/><line x1="${W / 2}" y1="${pad}" x2="${W / 2}" y2="${W - pad}"/>
+    <text class="ax" x="${W / 2}" y="${pad - 16}" text-anchor="middle">Strammere udlændinge- og retspolitik</text><text class="ax" x="${W / 2}" y="${W - pad + 26}" text-anchor="middle">Lempeligere udlændinge- og retspolitik</text>
+    ${pts.map(o => `<a href="#parti-${o.p.id}"><circle cx="${o.x.toFixed(1)}" cy="${o.y.toFixed(1)}" r="16" fill="${o.p.color}"><title>${esc(o.p.name)}</title></circle><text class="lt" x="${o.x.toFixed(1)}" y="${o.y.toFixed(1)}" fill="${o.p.on}">${esc(o.p.letter)}</text></a>`).join('')}</svg><div class="ends" style="max-width:560px;margin-inline:auto;font-size:13px;font-weight:600"><span>← Mere omfordeling</span><span>Mere marked →</span></div>`;
+}
+function viewCompare() {
+  const modes = [['emne', 'Emne for emne'], ['duel', 'Parti mod parti'], ['kompas', 'Kompas'], ['flertal', 'Byg et flertal']];
+  let body = '';
+  if (S.cmp === 'emne') {
+    const t = TOP[S.cmpTopic];
+    const cols = [1, 2, 3, 4, 5].map(sv => ORDER.filter(p => p.positions && p.positions[t.id] && p.positions[t.id].score === sv));
+    const sorted = ORDER.slice().filter(p => p.positions && p.positions[t.id]).sort((a, b) => a.positions[t.id].score - b.positions[t.id].score || a.order - b.order);
+    body = `<div class="chips" role="group" aria-label="Emne">${T.topics.map(x => `<button class="chip" type="button" data-act="cmp-topic" data-v="${x.id}" aria-pressed="${S.cmpTopic === x.id}">${esc(x.name)}</button>`).join('')}</div>
+      <section class="stack"><div class="cols5">${cols.map((c, i) => `<div><small>${i + 1}</small>${c.map(p => tile(p.id)).join('')}</div>`).join('')}</div><div class="ends" style="font-size:13.5px;font-weight:600"><span>${esc(t.lo)}</span><span>${esc(t.hi)}</span></div></section>
+      <section>${sorted.map(p => `<div class="topic" style="grid-template-columns:minmax(0,190px) minmax(0,1fr)"><div class="row" style="gap:10px;align-items:flex-start">${tile(p.id)}<div><a href="#parti-${p.id}" style="font-weight:700;text-decoration:none">${esc(p.nick)}</a><div style="margin-top:6px">${dots(p.positions[t.id].score, p.color)}</div></div></div><p>${esc(p.positions[t.id].text)}</p></div>`).join('')}</section>`;
+  } else if (S.cmp === 'duel') {
+    const A = P[S.a], B = P[S.b];
+    const sel = (k, v) => `<select data-act="duel-sel" data-k="${k}" id="duel-${k}" aria-label="Vælg parti">${ORDER.map(p => `<option value="${p.id}"${p.id === v ? ' selected' : ''}>${esc(p.name)} (${esc(p.letter)})</option>`).join('')}</select>`;
+    const diff = T.topics.map(t => ({ t, d: Math.abs((A.positions[t.id] || {}).score - (B.positions[t.id] || {}).score) })).filter(x => !isNaN(x.d));
+    const far = diff.slice().sort((x, y) => y.d - x.d).slice(0, 3).filter(x => x.d > 0), near = diff.filter(x => x.d === 0).slice(0, 4);
+    body = `<div class="grid2e" style="align-items:end"><label class="f">Parti 1${sel('a', S.a)}</label><label class="f">Parti 2${sel('b', S.b)}</label></div>
+      <div class="grid2e"><div class="stack" style="gap:6px"><h4>Længst fra hinanden</h4><p>${far.length ? far.map(x => esc(x.t.name)).join(', ') : 'Ingen store forskelle på skalaen.'}</p></div><div class="stack" style="gap:6px"><h4>Tættest på hinanden</h4><p>${near.length ? near.map(x => esc(x.t.name)).join(', ') : 'Ingen emner med samme placering.'}</p></div></div>
+      <div class="duel"><div class="row" style="border-top:0">${tile(A.id, 'l')}<b>${esc(A.name)}</b></div><div class="mid" style="border-top:0"></div><div class="row" style="border-top:0">${tile(B.id, 'l')}<b>${esc(B.name)}</b></div>
+      ${T.topics.map(t => { const x = A.positions[t.id], y = B.positions[t.id]; if (!x || !y) return ''; return `<p>${esc(x.text)}</p><div class="mid">${esc(t.name)}<br>${dots(x.score, A.color)}${dots(y.score, B.color)}</div><p>${esc(y.text)}</p>`; }).join('')}</div>`;
+  } else if (S.cmp === 'kompas') {
+    body = `<p class="prose muted small">Vandret: gennemsnit af partiets placering på økonomi, arbejdsmarked, velfærd, sundhed og bolig. Lodret: udlændinge og retspolitik. Det er en grov forenkling beregnet ud fra skalaerne her på siden, men den viser hvorfor fx DF og Enhedslisten kan være enige om pension og uenige om næsten alt andet.</p>${compass()}`;
+  } else {
+    const seats = seatsNow(), ids = ORDER.map(p => p.id).concat(['na']);
+    const sum = ids.filter(i => S.coal.has(i)).reduce((n, i) => n + (seats[i] || 0), 0);
+    const presets = [['Regeringen', T.government.parties], ['Regering + støtte', T.government.parties.concat(T.government.support)], ['Blå blok', ORDER.filter(p => p.blok === 'blå').map(p => p.id)], ['Blå blok + M', ORDER.filter(p => p.blok === 'blå').map(p => p.id).concat(['m'])], ['Nulstil', []]];
+    body = `<p class="prose" style="color:var(--ink-2)">Vælg partier og se, om de tilsammen når 90 mandater. Det er sådan hver eneste lov bliver til: nogen skal tælle til 90.</p>
+      <div class="chips">${presets.map(([n, l]) => `<button class="chip" type="button" data-act="coal-set" data-v="${l.join(',')}">${n}</button>`).join('')}</div>
+      <div class="row" style="gap:16px;align-items:baseline"><span class="big">${sum}</span><b style="font-size:17px;color:${sum >= 90 ? 'var(--good)' : 'var(--ink-2)'}">${sum >= 90 ? 'Flertal med ' + (sum - 89) + ' i overskud' : 'Mangler ' + (90 - sum) + ' mandater'}</b></div>
+      <div><div class="meter">${ids.filter(i => S.coal.has(i)).map(i => `<span style="width:${(seats[i] || 0) / 179 * 100}%;background:${meta(i).color}" title="${esc(meta(i).name)}"></span>`).join('')}</div><div class="meter-line"></div></div>
+      <div class="coal" style="margin-top:22px">${ids.map(i => `<button type="button" data-act="coal" data-v="${i}" aria-pressed="${S.coal.has(i)}">${tile(i, '', true)}<span>${esc(meta(i).nick || meta(i).short || meta(i).name)}</span><b>${seats[i] || 0}</b></button>`).join('')}</div>
+      ${seats.ufg ? `<p class="small muted">${seats.ufg} medlemmer står uden for grupperne og er ikke talt med.</p>` : ''}`;
+  }
+  return `<div class="stack-l"><div class="stack"><h1>Sammenlign</h1><p class="lead">Se partierne op mod hinanden, emne for emne.</p></div>
+    <div class="tabs" role="tablist">${modes.map(([k, n]) => `<button type="button" role="tab" data-act="cmp" data-v="${k}" aria-selected="${S.cmp === k}">${n}</button>`).join('')}</div>${body}</div>`;
+}
+
+/* ---------- view: debatter ---------- */
+function viewDebates() {
+  let N = nat().slice().sort((a, b) => (b.heat || 0) - (a.heat || 0) || String(b.lastDevelopment).localeCompare(String(a.lastDevelopment)));
+  let Pd = pdeb().map((d, i) => ({ d, key: 'p-' + d.party + '-' + pdeb().filter(x => x.party === d.party).indexOf(d) }));
+  if (S.debTopic !== 'alle') { N = N.filter(d => d.topic === S.debTopic); Pd = Pd.filter(x => x.d.topic === S.debTopic); }
+  if (S.debParty !== 'alle') { Pd = Pd.filter(x => x.d.party === S.debParty); }
+  Pd.sort((a, b) => String(b.d.date).localeCompare(String(a.d.date)));
+  const used = new Set(nat().map(d => d.topic).concat(pdeb().map(d => d.topic)));
+  return `<div class="stack-l">
+    <div class="between"><div class="stack"><h1>Debatterne lige nu</h1><p class="lead">De sager partierne slås om i denne uge. Åbn en debat for at se, hvem der mener hvad, og tallene bag.</p></div>${liveBadge()}</div>
+    <div class="stack"><div class="chips scroll" role="group" aria-label="Emne"><button class="chip" type="button" data-act="deb-topic" data-v="alle" aria-pressed="${S.debTopic === 'alle'}">Alle emner</button>${T.topics.filter(t => used.has(t.id)).map(t => `<button class="chip" type="button" data-act="deb-topic" data-v="${t.id}" aria-pressed="${S.debTopic === t.id}">${esc(t.name)}</button>`).join('')}</div></div>
+    <section class="stack"><h2>De store slagsmål</h2>${N.length ? `<div>${N.map(d => debateAcc(d, 'n-' + d.id)).join('')}</div>` : (nat().length ? '<p class="note">Ingen store debatter under det emne lige nu.</p>' : liveNote('de aktuelle debatter'))}</section>
+    <section class="stack"><div class="between"><h2>Parti for parti</h2><div class="row"><button class="chip" type="button" data-act="deb-party" data-v="alle" aria-pressed="${S.debParty === 'alle'}">Alle</button>${ORDER.map(p => `<button type="button" class="pl" style="--pc:${p.color};--pt:${p.on};border:0;${S.debParty === p.id ? 'outline:2px solid var(--ink);outline-offset:2px' : (S.debParty !== 'alle' ? 'opacity:.4' : '')}" data-act="deb-party" data-v="${p.id}" title="${esc(p.name)}" aria-label="${esc(p.name)}" aria-pressed="${S.debParty === p.id}">${esc(p.letter)}</button>`).join('')}</div></div>
+      ${Pd.length ? `<div>${Pd.map(x => debateAcc(x.d, x.key, { party: x.d.party })).join('')}</div>` : (pdeb().length ? '<p class="note">Ingen sager med det filter.</p>' : liveNote('partiernes sager'))}</section>
+  </div>`;
+}
+
+/* ---------- AI ---------- */
+const AI = { fn: undefined, ready: null };
+const AIERR = { not_granted: 'Du har sagt nej til, at siden bruger Claude. Funktionen er slået fra, indtil du genindlæser siden.', rate_limited: 'Der er brugt mange kald lige nu. Vent lidt og prøv igen.', session_expired: 'Log ind på claude.ai igen for at bruge funktionen.', refused: 'Claude ville ikke svare på den formulering. Prøv at skrive det på en anden måde.', sampling_disabled: 'Claude er ikke slået til for denne konto.', prompt_too_large: 'Der blev sendt for meget tekst. Prøv et kortere input.', cancelled: '' };
+const aiErr = e => (e && e.code in AIERR) ? AIERR[e.code] : 'Noget gik galt undervejs. Prøv igen.';
+const aiOff = () => `<p class="small muted">Funktionen bruger Claude og virker, når du åbner siden logget ind på claude.ai.</p>`;
+async function aiCall(input, opts) { if (AI.fn === undefined && AI.ready) await AI.ready; if (!AI.fn) throw { code: 'unavailable' }; return AI.fn(input, opts || {}); }
+function partyBrief(p, topicId) {
+  const pos = topicId && p.positions && p.positions[topicId] ? `Holdning til ${topicName(topicId)}: ${p.positions[topicId].text}\n` : '';
+  return `${p.name} (${p.nick}, bogstav ${p.letter}, ${roleOf(p.id).toLowerCase()}): ${p.summary}\n${pos}Mærkesager: ${arr(p.keyIssues).map(k => k.title + ': ' + k.detail).join(' | ')}\nTypiske argumenter: ${arr(p.typicalArguments).map(a => a.claim).join(' | ')}`;
+}
+function sourceOptions() {
+  const o = [];
+  nat().forEach(d => o.push({ key: 'n-' + d.id, label: d.title, group: 'Store debatter' }));
+  pdeb().forEach(d => { const i = pdeb().filter(x => x.party === d.party).indexOf(d); o.push({ key: 'p-' + d.party + '-' + i, label: P[d.party] ? P[d.party].nick + ': ' + d.title : d.title, group: 'Partiernes sager' }); });
+  arr(T.dfExtra && T.dfExtra.argumentBank).forEach((b, i) => o.push({ key: 'bank-' + i, label: b.question, group: 'DF-argumentbanken' }));
+  return o;
+}
+function sourceBrief(key) {
+  if (!key) return null;
+  if (key.startsWith('n-')) { const d = nat().find(x => 'n-' + x.id === key); if (!d) return null; return { title: d.title, topic: d.topic, text: `${d.summary}\nPartiernes holdninger: ${ORDER.filter(p => d.partyPositions && d.partyPositions[p.id]).map(p => p.short + ': ' + d.partyPositions[p.id]).join(' | ')}\nFAKTA (kun disse tal må bruges): ${arr(d.keyFacts).map(f => f.fact + (f.source ? ' [' + f.source.title + ']' : '')).join(' | ') || 'ingen'}` }; }
+  if (key.startsWith('p-')) { const m = key.split('-'), d = pdeb().filter(x => x.party === m[1])[+m[2]]; if (!d) return null; return { title: d.title, topic: d.topic, text: `${d.summary}\nHoldninger: ${arr(d.positions).map(x => x.who + ': ' + x.says).join(' | ')}\n${d.whyItMatters || ''}` }; }
+  if (key.startsWith('bank-')) { const b = arr(T.dfExtra && T.dfExtra.argumentBank)[+key.slice(5)]; if (!b) return null; return { title: b.question, topic: b.topic, text: `DF's linje: ${b.dfPosition}\nDF's stærkeste argument: ${b.dfBestArgument}\nStærkeste modargument: ${b.bestCounter}\nDF's svar: ${b.dfReply || ''}\nFAKTA (kun disse tal må bruges): ${arr(b.facts).map(f => f.fact + (f.source ? ' [' + f.source.title + ']' : '')).join(' | ') || 'ingen'}\nFaldgrube: ${b.pitfall || ''}` }; }
+  return null;
+}
+function dfLine(topicId) {
+  const b = arr(T.dfExtra && T.dfExtra.argumentBank).filter(x => x.topic === topicId).slice(0, 2).map(x => `${x.question} DF: ${x.dfPosition} Argument: ${x.dfBestArgument} Modargument: ${x.bestCounter}`).join('\n');
+  return partyBrief(P.df, topicId) + (b ? '\n' + b : '');
+}
+function fmtScript(text) {
+  const lines = String(text || '').replace(/\*\*/g, '').replace(/^#+\s*/gm, '').split('\n');
+  let html = '', inList = false;
+  const close = () => { if (inList) { html += '</ul>'; inList = false; } };
+  lines.forEach(raw => {
+    const l = raw.trim(); if (!l) { close(); return; }
+    let m;
+    if (/^[A-ZÆØÅ0-9 +'’,&-]{4,44}:?$/.test(l) && !/^(PERSON|DF'ER|DF’ER):/.test(l)) { close(); html += `<h4>${esc(l.replace(/:$/, ''))}</h4>`; }
+    else if ((m = l.match(/^(PERSON|DF'ER|DF’ER)\s*:\s*(.*)$/i))) { close(); const df = /^DF/i.test(m[1]); html += `<div class="ln"><span class="who${df ? ' df' : ''}">${df ? "DF'ER" : 'PERSON'}</span><span>${esc(m[2])}</span></div>`; }
+    else if ((m = l.match(/^\[(.*)\]$/))) { close(); html += `<div class="ln"><span class="who scr">SKÆRM</span><span class="muted">${esc(m[1].replace(/^SKÆRM\s*:\s*/i, ''))}</span></div>`; }
+    else if ((m = l.match(/^[-•]\s+(.*)$/)) || (m = l.match(/^\d+[.)]\s+(.*)$/))) { if (!inList) { html += '<ul>'; inList = true; } html += `<li>${esc(m[1])}</li>`; }
+    else { close(); html += `<p>${esc(l)}</p>`; }
+  });
+  close(); return html;
+}
+let genCtl = null;
+async function runGen() {
+  const g = S.gen, src = sourceBrief(g.src), topic = (g.custom || '').trim();
+  if (!src && !topic) { g.err = 'Vælg en debat eller skriv et emne først.'; render(true); return; }
+  const secs = +g.len || 45;
+  const prompt = `Du skriver manus til korte danske debatvideoer (TikTok, Reels, Shorts).
+FORMAT: "Vilkårlig person mod DF'er". Én skaber spiller begge roller i samme video.
+REGLER:
+- Mundret dansk. Korte replikker, højst to sætninger ad gangen.
+- De første 3 sekunder er hooket: en indvending eller ét tal. Ingen præsentation.
+- Begge sider får deres stærkeste argument. Ingen stråmænd.
+- DF'eren siger kun ting, der passer med DF's faktiske politik i baggrunden. Opfind aldrig tal, citater eller fakta. Brug kun tal fra FAKTA. Mangler der et tal, så skriv [TJEK TAL: hvad der skal slås op].
+- Kritik går på politik og handlinger, aldrig på grupper af mennesker. Skeln tydeligt mellem kriminelle og lovlydige, velintegrerede borgere.
+- Længde: cirka ${secs} sekunder, altså omkring ${Math.round(secs * 2.4)} ord i replikkerne.
+- Tone: ${g.tone}. Udfald: ${g.win}.
+OUTPUT som ren tekst uden markdown, med præcis disse overskrifter i versaler på egen linje:
+HOOK
+ALTERNATIVE HOOKS
+MANUS
+SLUTSPØRGSMÅL
+FAKTATJEK
+CAPTION
+Under MANUS starter hver linje med "PERSON:" eller "DF'ER:", og skærmtekst står som [SKÆRM: tekst] på egen linje. Under ALTERNATIVE HOOKS giver du tre som punktliste. Under FAKTATJEK en punktliste med hver faktuel påstand i manus og hvor den kan tjekkes. Under CAPTION en kort caption og fem hashtags.
+
+EMNE: ${src ? src.title : topic}${src && topic ? '\nVINKEL FRA SKABEREN: ' + topic : ''}
+DEN VILKÅRLIGE PERSON: ${g.person}
+BAGGRUND:
+${src ? src.text : 'Ingen baggrund valgt. Hold dig til det, der står om DF nedenfor, og markér alt andet med [TJEK TAL].'}
+DF'S LINJE:
+${dfLine(src ? src.topic : null)}`;
+  g.text = ''; g.err = ''; S.busy = true; genCtl = new AbortController(); render(true);
+  const out = () => document.getElementById('genout');
+  try {
+    const r = await aiCall(prompt, { cache: false, signal: genCtl.signal, onText: ({ text }) => { g.text = text; const o = out(); if (o) o.innerHTML = fmtScript(text); } });
+    g.text = r.text; if (r.truncated) g.err = 'Svaret blev afkortet. Vælg en kortere længde og prøv igen.';
+  } catch (e) { if (e && e.text) g.text = e.text; g.err = e && e.code === 'unavailable' ? 'Manusgeneratoren virker, når du åbner siden logget ind på claude.ai.' : aiErr(e); }
+  S.busy = false; genCtl = null; render(true);
+}
+async function runAsk(pid, q) {
+  const p = P[pid], a = S.ask[pid] = { q, text: 'Tænker …', err: '' }; S.busy = true;
+  const out = () => document.getElementById('askout-' + pid); if (out()) out().textContent = a.text;
+  const ctx = JSON.stringify({ navn: p.name, leder: p.leader, rolle: p.roleNote, resume: p.summary, maerkesager: p.keyIssues, holdninger: p.positions, historie: p.history, folk: p.people, vaelgere: p.voters, valg2026: p.election2026, spaendinger: p.internalTensions, argumenter: p.typicalArguments, forholdTilDF: p.vsDF, ord: p.vocabulary }).slice(0, 24000);
+  try {
+    const r = await aiCall(`Du svarer på spørgsmål om et dansk parti til en, der er ved at lære dansk politik. Svar på dansk, højst 130 ord, konkret og neutralt. Brug kun baggrunden. Dækker baggrunden ikke spørgsmålet, så sig det ligeud og foreslå hvor man kan slå det op.\n\nBAGGRUND (JSON):\n${ctx}\n\nSPØRGSMÅL: ${q}`, { onText: ({ text }) => { a.text = text; const o = out(); if (o) o.textContent = text; } });
+    a.text = r.text;
+  } catch (e) { a.text = (e && e.text) || ''; a.err = e && e.code === 'unavailable' ? 'Funktionen virker, når du åbner siden logget ind på claude.ai.' : aiErr(e); if (out()) out().textContent = a.text || a.err; }
+  S.busy = false; flush();
+}
+
+/* ---------- view: video ---------- */
+function ideaCard(v) {
+  const open = S.open.has('v-' + v.id), st = My.data.status[v.id] || 'idé';
+  const whoCls = w => /df/i.test(w) ? 'who df' : /tekst|skærm/i.test(w) ? 'who scr' : 'who';
+  return `<article class="acc idea"${open ? ' data-open' : ''} id="acc-v-${esc(v.id)}"><button type="button" data-act="toggle" data-v="v-${esc(v.id)}" aria-expanded="${open}"><div><p class="hook"><span class="mark">${esc(v.hook)}</span></p><div class="sub"><span>${esc(v.title)}</span><span>${esc(topicName(v.topic))}</span>${v.length ? `<span>${esc(v.length)}</span>` : ''}${st !== 'idé' ? `<span class="tag">${esc(st)}</span>` : ''}</div></div><span class="chev" aria-hidden="true">+</span></button>
+    ${open ? `<div class="acc-b">
+      <p class="prose" style="color:var(--ink-2)">${esc(v.angle || '')}</p>
+      ${v.person ? `<p><b>Den vilkårlige person:</b> <span style="color:var(--ink-2)">${esc(v.person)}</span></p>` : ''}
+      ${arr(v.beats).length ? `<div class="stack" style="gap:8px"><h4>Sådan forløber den</h4><div class="beats">${arr(v.beats).map(b => `<time>${esc(b.t)}</time><span class="${whoCls(b.who || '')}">${esc(b.who || '')}</span><span>${esc(b.line)}</span>`).join('')}</div></div>` : ''}
+      ${arr(v.altHooks).length ? `<div class="stack" style="gap:6px"><h4>Andre hooks</h4><ul class="bul">${arr(v.altHooks).map(h => `<li>${esc(h)}</li>`).join('')}</ul></div>` : ''}
+      <div class="pair"><div><h4>Det smarte træk</h4><p>${esc(v.smartMove || '')}</p></div><div><h4>Stærkeste modargument</h4><p>${esc(v.strongestCounter || '')}</p></div></div>
+      ${arr(v.facts).length ? `<div class="stack" style="gap:8px"><h4>Tal til skærmen</h4>${arr(v.facts).map(f => `<p class="fact">${esc(f.fact)} ${f.source && safeUrl(f.source.url) ? '<span class="small">(' + ext(f.source.url, f.source.title || 'kilde') + ')</span>' : ''}</p>`).join('')}</div>` : ''}
+      ${v.risk ? `<p><b>Pas på:</b> <span style="color:var(--ink-2)">${esc(v.risk)}</span></p>` : ''}
+      ${v.caption ? `<p class="fact"><b style="color:var(--ink)">Caption:</b> ${esc(v.caption)} <span class="muted">${esc(arr(v.hashtags).join(' '))}</span></p>` : ''}
+      <div class="between"><div class="status" role="group" aria-label="Status">${['idé', 'skrevet', 'optaget', 'postet'].map(s => `<button type="button" data-act="vstatus" data-v="${esc(v.id)}" data-s="${s}" aria-pressed="${st === s}">${s.charAt(0).toUpperCase() + s.slice(1)}</button>`).join('')}</div>
+        <div class="row"><button class="btn ghost sm" type="button" data-act="copy-idea" data-v="${esc(v.id)}">Kopiér</button>${HASAI ? `<button class="btn sm" type="button" data-act="idea-gen" data-v="${esc(v.id)}">Skriv fuldt manus</button>` : ''}</div></div>
+    </div>` : ''}</article>`;
+}
+function viewVideo() {
+  const tabs = [['ideer', 'Idéer'], ['manus', 'Manusværksted'], ['greb', 'Hooks og greb']].filter(t => t[0] !== 'manus' || HASAI);
+  if (S.vtab === 'manus' && !HASAI) S.vtab = 'ideer';
+  const f = T.format; let body = '';
+  if (S.vtab === 'ideer') {
+    const V = vids(), counts = { idé: 0, skrevet: 0, optaget: 0, postet: 0 };
+    V.forEach(v => { counts[My.data.status[v.id] || 'idé']++; });
+    body = `<div class="grid2"><section class="stack"><div class="between"><h2>Idéer til ugens debatter</h2>${V.length ? `<span class="small muted">${counts.idé} nye · ${counts.skrevet + counts.optaget} i gang · ${counts.postet} postet</span>` : ''}</div>
+        ${V.length ? `<div>${V.map(ideaCard).join('')}</div>` : liveNote('videoidéer')}</section>
+      <aside class="stack-l"><div class="card stack"><h4>Formatet</h4><h3 style="font-family:var(--display);font-size:20px">${esc(f.name)}</h3><p class="small" style="color:var(--ink-2)">${esc(f.pitch)}</p><ul class="bul">${f.rules.map(r => `<li>${esc(r)}</li>`).join('')}</ul></div>
+        <div class="stack"><h4>Før du poster</h4><ul class="check">${T.checklist.map((c, i) => `<li><input type="checkbox" id="chk-${i}" data-act="check" data-v="${i}"${S.checks[i] ? ' checked' : ''}><label for="chk-${i}">${esc(c)}</label></li>`).join('')}</ul></div></aside></div>`;
+  } else if (S.vtab === 'manus') {
+    const g = S.gen, opts = sourceOptions(), groups = [...new Set(opts.map(o => o.group))];
+    const sel = (id, label, list, cur) => `<label class="f">${label}<select id="${id}" data-act="gen-set" data-k="${id.slice(4)}">${list.map(x => `<option${x === cur ? ' selected' : ''}>${esc(x)}</option>`).join('')}</select></label>`;
+    body = `<div class="grid2"><section class="stack">
+        <div class="card stack"><h2>Skriv et manus</h2>
+          <label class="f">Hvilken debat?<select id="gen-src" data-act="gen-set" data-k="src"><option value="">Eget emne (skriv nedenfor)</option>${groups.map(gr => `<optgroup label="${esc(gr)}">${opts.filter(o => o.group === gr).map(o => `<option value="${esc(o.key)}"${g.src === o.key ? ' selected' : ''}>${esc(o.label)}</option>`).join('')}</optgroup>`).join('')}</select></label>
+          <label class="f">Din vinkel eller dit eget emne (valgfrit)<textarea id="gen-custom" data-act="gen-input" data-k="custom" placeholder="Fx: Personen er en sygeplejerske med tyrkiske forældre, som er træt af at blive slået i hartkorn med bandemedlemmer.">${esc(g.custom)}</textarea></label>
+          <div class="formgrid">${sel('gen-person', 'Hvem er den vilkårlige person?', ['Studerende', 'Sygeplejerske', 'Håndværker', 'Pensionist', 'Landmand', 'Iværksætter', 'Velintegreret dansker med udenlandske forældre', 'Klimaaktivist', 'Socialdemokratisk kernevælger', 'LA-ung'], g.person)}${sel('gen-len', 'Længde i sekunder', ['30', '45', '60', '90'], g.len)}${sel('gen-tone', 'Tone', ['Skarp men fair', 'Hyggelig og nysgerrig', 'Humor og selvironi', 'Alvorlig'], g.tone)}${sel('gen-win', 'Hvem lander pointen?', ['Uafgjort, seeren dømmer', "DF'eren lander pointen", 'Personen lander pointen'], g.win)}</div>
+          <div class="row">${S.busy && genCtl ? `<button class="btn" type="button" data-act="gen-stop">Stop</button>` : `<button class="btn" type="button" data-act="gen-run"${AI.fn === null ? ' disabled' : ''}>Skriv manus</button>`}${g.text && !S.busy ? `<button class="btn ghost" type="button" data-act="gen-copy">Kopiér</button><button class="btn ghost" type="button" data-act="gen-save">Gem</button>` : ''}</div>
+          ${AI.fn === null ? aiOff() : `<p class="small muted">Claude skriver ud fra debatten, DF's linje og tallene her på siden. Tjek altid tal mod kilden, før du optager.</p>`}
+          ${g.err ? `<p class="small" style="color:var(--bad);font-weight:600">${esc(g.err)}</p>` : ''}</div>
+        ${(g.text || S.busy) ? `<div class="script" id="genout">${g.text ? fmtScript(g.text) : '<p class="muted">Tænker …</p>'}</div>` : ''}
+      </section>
+      <aside class="stack"><h2>Mine manus</h2>${arr(My.data.scripts).length ? arr(My.data.scripts).map((s, i) => { const key = 'ms-' + i, open = S.open.has(key); return `<article class="acc"${open ? ' data-open' : ''}><button type="button" data-act="toggle" data-v="${key}" aria-expanded="${open}"><div><h3>${esc(s.title)}</h3><div class="sub"><span>${esc(dshort(s.date))}</span></div></div><span class="chev" aria-hidden="true">+</span></button>${open ? `<div class="acc-b"><div class="script" style="border:0;padding:0">${fmtScript(s.text)}</div><div class="row"><button class="btn ghost sm" type="button" data-act="ms-copy" data-v="${i}">Kopiér</button><button class="btn ghost sm" type="button" data-act="ms-del" data-v="${i}">Slet</button></div></div>` : ''}</article>`; }).join('') : '<p class="note">Manus du gemmer, lander her og følger med dig på tværs af enheder.</p>'}</aside></div>`;
+  } else {
+    body = `<div class="grid2e"><section class="stack"><h2>10 hooks der virker i politik</h2><div>${T.hooks.map(h => `<div class="hookcard"><h3>${esc(h.name)}</h3><p class="small" style="color:var(--ink-2)">${esc(h.how)}</p><q><span class="mark">${esc(h.ex)}</span></q></div>`).join('')}</div></section>
+      <section class="stack"><h2>Smarte træk</h2><div>${T.moves.map(m => `<div class="issue"><h3>${esc(m.name)}</h3><p>${esc(m.text)}</p></div>`).join('')}</div></section></div>`;
+  }
+  return `<div class="stack-l"><div class="between"><div class="stack"><h1>Videoværksted</h1><p class="lead">Idéer der rammer ugens debatter, med hook, forløb, modargument og tal. Formatet er dit: en vilkårlig person mod en DF'er.</p></div>${liveBadge()}</div>
+    <div class="tabs" role="tablist">${tabs.map(([k, n]) => `<button type="button" role="tab" data-act="vtab" data-v="${k}" aria-selected="${S.vtab === k}">${n}</button>`).join('')}</div>${body}</div>`;
+}
+
+/* ---------- view: træn ---------- */
+function scrub(text, p) { let t = String(text || ''); [p.name, p.short].concat(p.id === 'k' ? ['Konservative', 'De Konservative'] : [], p.id === 'el' ? ['Enhedslisten'] : [], p.id === 'rv' ? ['Radikale', 'De Radikale'] : [], p.id === 's' ? ['Socialdemokraterne'] : []).filter(n => n && n.length > 1).sort((a, b) => b.length - a.length).forEach(n => { t = t.split(n + "'s").join('partiets').split(n + 's ').join('partiets ').split(n).join('partiet'); }); return t; }
+function makeQ() {
+  const all = T.parties, p = all[Math.floor(Math.random() * all.length)];
+  const others = n => shuffle(all.filter(x => x.id !== p.id)).slice(0, n);
+  const byName = (corr, wrongs) => shuffle([{ l: corr.name, ok: true, id: corr.id }].concat(wrongs.map(w => ({ l: w.name, id: w.id }))));
+  const kinds = shuffle(['letter', 'leader', 'leader2', 'one', 'issue', 'seats', 'vocab', 'gov', 'support', 'topic', 'pitch']);
+  for (const k of kinds) {
+    if (k === 'letter') return { party: p.id, q: `Hvilket parti har bogstavet ${p.letter} på stemmesedlen?`, o: byName(p, others(3)), why: `${p.name} er liste ${p.letter}.` };
+    if (k === 'leader' && p.leader) return { party: p.id, q: `Hvem står i spidsen for ${p.name}?`, o: shuffle([{ l: p.leader.name, ok: true }].concat(others(3).map(w => ({ l: w.leader.name })))), why: `${p.leader.name} er ${(p.leader.title || 'leder').toLowerCase()}${p.leader.since ? ' siden ' + p.leader.since : ''}.` };
+    if (k === 'leader2' && p.leader) return { party: p.id, q: `Hvilket parti leder ${p.leader.name}?`, o: byName(p, others(3)), why: `${p.leader.name} leder ${p.name}.` };
+    if (k === 'one' && p.oneLiner) return { party: p.id, q: `Hvilket parti passer beskrivelsen på? »${scrub(p.oneLiner, p)}«`, o: byName(p, others(3)), why: p.summary.split('. ')[0] + '.' };
+    if (k === 'issue' && arr(p.keyIssues).length) { const ki = p.keyIssues[Math.floor(Math.random() * p.keyIssues.length)]; return { party: p.id, q: `Hvem har den her mærkesag? »${scrub(ki.title, p)}: ${scrub(ki.detail, p)}«`, o: byName(p, others(3)), why: `Det er en af mærkesagerne hos ${p.name}.` }; }
+    if (k === 'seats') { const n = T.election.results[p.id].seats; const nums = shuffle([...new Set(all.map(x => T.election.results[x.id].seats).filter(x => x !== n))]).slice(0, 3); return { party: p.id, q: `Hvor mange mandater fik ${p.name} ved valget i marts 2026?`, o: shuffle([{ l: String(n), ok: true }].concat(nums.map(x => ({ l: String(x) })))), why: `${p.name} fik ${num(T.election.results[p.id].pct, 1)} % og ${n} mandater.` }; }
+    if (k === 'vocab') { const vs = arr(p.vocabulary).filter(v => scrub(v.term, p) === v.term && v.term.length > 3); if (vs.length) { const v = vs[Math.floor(Math.random() * vs.length)]; return { party: p.id, q: `Hvilket parti forbinder man med udtrykket »${v.term}«?`, o: byName(p, others(3)), why: v.meaning }; } }
+    if (k === 'gov') { const g = shuffle([...GOV])[0], w = shuffle(all.filter(x => !GOV.has(x.id))).slice(0, 3); return { party: g, q: 'Hvilket af de her partier sidder i regeringen?', o: byName(P[g], w), why: `Regeringen består af ${[...GOV].map(i => P[i].name).join(', ')}.` }; }
+    if (k === 'support') { const g = shuffle([...SUP])[0], w = shuffle(all.filter(x => !SUP.has(x.id) && !GOV.has(x.id))).slice(0, 3); return { party: g, q: 'Hvilket af de her partier er støtteparti for regeringen?', o: byName(P[g], w), why: `Støttepartierne er ${[...SUP].map(i => P[i].name).join(' og ')}. De er ikke med i regeringen, men sikrer den flertal.` }; }
+    if (k === 'topic') { const t = T.topics[Math.floor(Math.random() * T.topics.length)], four = shuffle(all).slice(0, 4), sc = x => x.positions && x.positions[t.id] ? x.positions[t.id].score : 3, mx = Math.max(...four.map(sc)), tops = four.filter(x => sc(x) === mx); if (tops.length === 1) return { party: tops[0].id, q: `${t.name}: Hvilket af de her partier ligger længst mod »${t.hi.toLowerCase()}«?`, o: shuffle(four.map(x => ({ l: x.name, id: x.id, ok: x.id === tops[0].id }))), why: tops[0].positions[t.id].text }; }
+    if (k === 'pitch' && p.pitch) return { party: p.id, q: `Hvem ville sælge sig selv sådan? »${scrub(p.pitch, p).slice(0, 230)}«`, o: byName(p, others(3)), why: `Sådan beskriver ${p.name} sig selv.` };
+  }
+  return { party: p.id, q: `Hvilket parti har bogstavet ${p.letter} på stemmesedlen?`, o: byName(p, others(3)), why: `${p.name} er liste ${p.letter}.` };
+}
+function nextQ(seen) { let q = makeQ(); for (let i = 0; i < 12 && seen.has(q.q); i++) q = makeQ(); seen.add(q.q); return q; }
+function newQuiz() { const seen = new Set(); S.quiz = { n: 0, score: 0, seen, cur: nextQ(seen), picked: null, done: false, missed: [] }; }
+function viewTrain() {
+  const tabs = [['quiz', 'Quiz']].concat(HASAI ? [['sparring', 'Debatsparring']] : []); if (!HASAI) S.ttab = 'quiz'; let body = '';
+  if (S.ttab === 'quiz') {
+    if (!S.quiz) newQuiz();
+    const z = S.quiz, q = z.cur, mq = My.data.quiz || {};
+    if (z.done) {
+      const weak = Object.entries(mq.wrong || {}).sort((a, b) => b[1] - a[1]).slice(0, 3).filter(x => x[1] > 0 && P[x[0]]);
+      body = `<div class="quiz stack-l"><div class="stack"><span class="big">${z.score} / 10</span><p class="lead">${z.score === 10 ? 'Fejlfri runde.' : z.score >= 7 ? 'Solidt. Du har styr på det meste.' : 'Godt begyndt. Læs op på de partier, du missede, og tag en runde til.'}</p><p class="small muted">Bedste runde: ${mq.best || 0} / 10 · ${mq.rounds || 0} runder spillet</p></div>
+        ${z.missed.length ? `<div class="stack"><h4>Dem missede du i denne runde</h4><div class="quick">${[...new Set(z.missed)].map(i => `<a class="chip" href="#parti-${i}">${tile(i, 's', true)}${esc(P[i].nick)}</a>`).join('')}</div></div>` : ''}
+        ${weak.length ? `<div class="stack"><h4>Dem misser du oftest</h4><div class="quick">${weak.map(([i, n]) => `<a class="chip" href="#parti-${i}">${tile(i, 's', true)}${esc(P[i].nick)} · ${n} fejl</a>`).join('')}</div></div>` : ''}
+        <div class="row"><button class="btn" type="button" data-act="quiz-new">Ny runde</button></div></div>`;
+    } else {
+      body = `<div class="quiz stack-l"><div class="stack" style="gap:8px"><div class="between"><span class="small muted">Spørgsmål ${z.n + 1} af 10</span><span class="small muted">${z.score} rigtige</span></div><div class="prog"><i style="width:${z.n * 10}%"></i></div></div>
+        <h2 style="font-size:clamp(20px,2.6vw,25px);line-height:1.25">${esc(q.q)}</h2>
+        <div class="opts">${q.o.map((o, i) => `<button type="button" data-act="quiz-pick" data-v="${i}"${z.picked != null ? ' disabled' : ''} class="${z.picked != null && o.ok ? 'right' : (z.picked === i ? 'wrong' : '')}">${o.id ? tile(o.id, '', true) : ''}<span>${esc(o.l)}</span></button>`).join('')}</div>
+        ${z.picked != null ? `<div class="stack"><p><b style="color:${q.o[z.picked].ok ? 'var(--good)' : 'var(--bad)'}">${q.o[z.picked].ok ? 'Rigtigt.' : 'Ikke helt.'}</b> <span style="color:var(--ink-2)">${esc(q.why)}</span></p><div class="row"><button class="btn" type="button" data-act="quiz-next">${z.n >= 9 ? 'Se resultat' : 'Næste'}</button><a class="btn ghost" href="#parti-${q.party}">Læs om ${esc(P[q.party].nick)}</a></div></div>` : ''}</div>`;
+    }
+  } else {
+    const sp = S.spar, opp = sp.me === 'df' ? P[sp.opp] : P.df;
+    const started = sp.turns.length > 0;
+    body = `<div class="grid2"><section class="stack">
+        ${started ? `<div class="chat" id="chat">${sp.turns.map((t, i) => { if (t.role === 'user') return t.hidden ? '' : `<div class="bub me">${esc(t.content)}</div>`; const [say, coach] = String(t.content).split(/\n-{3,}\n?/); return `<div class="bub">${esc(say.trim())}</div>${coach ? `<div class="coach">${esc(coach.replace(/^\s*TRÆNER\s*:\s*/i, '').trim())}</div>` : ''}`; }).join('')}${S.busy ? '<div class="bub" id="sparlive"><span class="muted">Tænker …</span></div>' : ''}</div>
+          <form class="send" data-form="spar"><textarea id="sparmsg" name="m" placeholder="Skriv din replik …" rows="2"${S.busy ? ' disabled' : ''}></textarea><button class="btn" type="submit"${S.busy ? ' disabled' : ''}>Send</button></form>
+          ${sp.err ? `<p class="small" style="color:var(--bad);font-weight:600">${esc(sp.err)}</p>` : ''}
+          <div class="row"><button class="btn ghost sm" type="button" data-act="spar-reset">Start forfra</button></div>`
+        : `<div class="card stack"><h2>Øv dig mod en modstander</h2><p class="small" style="color:var(--ink-2)">Claude spiller modparten og svarer, som partiets folk typisk ville. Efter hver replik får du en kort træner-note om, hvad der virkede, og hvad du kan skærpe.</p>
+          <div class="formgrid"><label class="f">Din rolle<select id="spar-me" data-act="spar-set" data-k="me"><option value="df"${sp.me === 'df' ? ' selected' : ''}>Jeg er DF'eren</option><option value="person"${sp.me === 'person' ? ' selected' : ''}>Jeg er den kritiske person</option></select></label>
+            ${sp.me === 'df' ? `<label class="f">Modstanderen stemmer<select id="spar-opp" data-act="spar-set" data-k="opp">${ORDER.filter(p => p.id !== 'df').map(p => `<option value="${p.id}"${sp.opp === p.id ? ' selected' : ''}>${esc(p.name)}</option>`).join('')}</select></label>` : ''}
+            <label class="f">Emne<select id="spar-topic" data-act="spar-set" data-k="topic">${T.topics.map(t => `<option value="${t.id}"${sp.topic === t.id ? ' selected' : ''}>${esc(t.name)}</option>`).join('')}</select></label></div>
+          <div class="row"><button class="btn" type="button" data-act="spar-start"${AI.fn === null ? ' disabled' : ''}>Start debatten</button></div>${AI.fn === null ? aiOff() : ''}${sp.err ? `<p class="small" style="color:var(--bad);font-weight:600">${esc(sp.err)}</p>` : ''}</div>`}
+      </section>
+      <aside class="stack"><h4>Du møder</h4><div class="row" style="gap:12px">${tile(opp.id, 'l')}<div><b>${sp.me === 'df' ? 'En vælger fra ' + esc(opp.name) : "En DF'er"}</b><br><span class="small muted">${esc(topicName(sp.topic))}</span></div></div>
+        <p class="small" style="color:var(--ink-2)">${esc(opp.positions && opp.positions[sp.topic] ? opp.positions[sp.topic].text : '')}</p>
+        <h4 style="margin-top:6px">De plejer at sige</h4><ul class="bul">${arr(opp.typicalArguments).slice(0, 3).map(a => `<li>${esc(a.claim)}</li>`).join('')}</ul></aside></div>`;
+  }
+  return `<div class="stack-l"><div class="stack"><h1>Træn</h1><p class="lead">${HASAI ? 'Test om du kan partierne udenad, og øv dine argumenter mod en modstander, før kameraet kører.' : 'Test om du kan de 12 partier udenad: bogstaver, ledere, mærkesager og hvem der mener hvad.'}</p></div>
+    ${tabs.length > 1 ? `<div class="tabs" role="tablist">${tabs.map(([k, n]) => `<button type="button" role="tab" data-act="ttab" data-v="${k}" aria-selected="${S.ttab === k}">${n}</button>`).join('')}</div>` : '<hr class="hr">'}${body}</div>`;
+}
+function sparRules() {
+  const sp = S.spar, t = sp.topic, me = sp.me === 'df' ? "en DF'er" : 'en kritisk person, som er uenig med Dansk Folkeparti';
+  const you = sp.me === 'df' ? `en vælger, der stemmer ${P[sp.opp].name}, og som argumenterer ud fra det partis holdninger` : "en dygtig DF'er, der argumenterer ud fra Dansk Folkepartis faktiske politik";
+  const bg = sp.me === 'df' ? partyBrief(P[sp.opp], t) + '\n\nBRUGERENS SIDE (DF):\n' + dfLine(t) : dfLine(t);
+  return `Du er sparringspartner i en debatøvelse på dansk. Brugeren spiller ${me}. Du spiller ${you}. Emne: ${topicName(t)}.
+Svar HVER gang i præcis dette format:
+Din replik i rollen: 2-4 sætninger, mundret, skarp og saglig. Slut gerne med et modspørgsmål.
+---
+TRÆNER: 1-2 sætninger uden for rollen om brugerens seneste replik: hvad var stærkt, hvad var svagt, og ét konkret råd. Ret faktuelle fejl, hvis brugeren sagde noget, der ikke passer med baggrunden.
+REGLER: Opfind ikke tal eller citater. Hold dig til baggrunden. Ingen nedladende tale om grupper af mennesker. Når brugeren skriver "start", åbner du debatten med din første replik og udelader TRÆNER-linjen.
+BAGGRUND FOR DIN ROLLE:
+${bg}`;
+}
+async function sparSend(text, hidden) {
+  const sp = S.spar; sp.err = ''; sp.turns.push({ role: 'user', content: text, hidden: !!hidden }); S.busy = true; render(true);
+  const live = () => document.getElementById('sparlive');
+  const turns = [{ role: 'user', content: sparRules() }].concat(sp.turns.slice(-14).map(t => ({ role: t.role, content: t.content })));
+  try {
+    const r = await aiCall(turns, { cache: false, onText: ({ text }) => { const o = live(); if (o) o.textContent = text.split(/\n-{3,}/)[0]; } });
+    sp.turns.push({ role: 'assistant', content: r.text });
+  } catch (e) { sp.turns.pop(); sp.err = e && e.code === 'unavailable' ? 'Sparring virker, når du åbner siden logget ind på claude.ai.' : aiErr(e); }
+  S.busy = false; render(true);
+  const c = document.getElementById('sparmsg'); if (c) c.focus();
+}
+
+/* ---------- view: vejen ind ---------- */
+function viewCareer() {
+  const c = T.career || {}, j = (T.dfExtra && T.dfExtra.joinDF) || {};
+  return `<div class="stack-l">
+    <div class="stack"><h1>Vejen ind i politik</h1><p class="lead">Hvad det kræver at blive valgt, hvad det giver i løn, og hvordan videoer og partiarbejde kan trække i samme retning.</p></div>
+    <section class="stack"><h2>Din plan for det første år</h2><div class="steps">${T.plan.map(s => `<div><small>${esc(s.when)}</small><h3 style="margin:4px 0 6px">${esc(s.title)}</h3><ul class="bul">${s.items.map(i => `<li>${esc(i)}</li>`).join('')}</ul></div>`).join('')}</div></section>
+    ${arr(c.pay).length ? `<section class="stack"><h2>Hvad tjener man?</h2><div class="scrollx"><table class="paytable"><thead><tr><th>Post</th><th>Løn</th><th>Det skal du vide</th></tr></thead><tbody>${arr(c.pay).map(r => `<tr><td>${esc(r.role)}</td><td>${esc(r.amount)}</td><td style="color:var(--ink-2)">${esc(r.details)} ${r.source && safeUrl(r.source.url) ? '<span class="small">(' + ext(r.source.url, r.source.title || 'kilde') + ')</span>' : ''}</td></tr>`).join('')}</tbody></table></div></section>` : ''}
+    <div class="grid2e">
+      ${c.howCandidatesAreChosen ? `<section class="stack"><h2>Sådan bliver man kandidat</h2><p class="prose" style="color:var(--ink-2)">${esc(c.howCandidatesAreChosen)}</p></section>` : ''}
+      ${c.honestOdds ? `<section class="stack"><h2>Oddsene, helt ærligt</h2><p class="prose" style="color:var(--ink-2)">${esc(c.honestOdds)}</p></section>` : ''}
+    </div>
+    ${arr(c.typicalRoutes).length ? `<section class="stack"><h2>Veje andre har taget</h2><div>${arr(c.typicalRoutes).map(r => `<div class="issue"><h3>${esc(r.route)}</h3><p>${esc(r.details)} ${r.source && safeUrl(r.source.url) ? '<span class="small">(' + ext(r.source.url, r.source.title || 'kilde') + ')</span>' : ''}</p></div>`).join('')}</div></section>` : ''}
+    <div class="grid2e">
+      ${arr(c.socialMediaRoutes).length ? `<section class="stack"><h2>Dem der brugte sociale medier</h2><ul>${arr(c.socialMediaRoutes).map(r => `<li class="person"><b>${esc(r.name)}</b><p>${esc(r.note)} ${r.source && safeUrl(r.source.url) ? '<span class="small">(' + ext(r.source.url, r.source.title || 'kilde') + ')</span>' : ''}</p></li>`).join('')}</ul></section>` : ''}
+      ${arr(c.youngestMFs).length ? `<section class="stack"><h2>De yngste i Folketinget</h2><ul>${arr(c.youngestMFs).map(r => `<li class="person"><b>${esc(r.name)}${r.age ? ', ' + esc(r.age) : ''}</b><small>${esc(r.party)}</small><p>${esc(r.howTheyGotIn)}</p></li>`).join('')}</ul></section>` : ''}
+    </div>
+    ${(j.membership || j.dfu || j.localOrg) ? `<section class="stack"><h2>Ind i Dansk Folkeparti</h2><div class="steps">${j.membership ? `<div><small>Medlemskab</small><p>${esc(j.membership)}</p></div>` : ''}${j.dfu ? `<div><small>Ungdomspartiet</small><p>${esc(j.dfu)}</p></div>` : ''}${j.localOrg ? `<div><small>Lokalforening og opstilling</small><p>${esc(j.localOrg)}</p></div>` : ''}</div>${arr(j.youngProfiles).length ? `<ul>${arr(j.youngProfiles).map(y => `<li class="person"><b>${esc(y.name)}</b><p>${esc(y.note)}</p></li>`).join('')}</ul>` : ''}${srcs(j.sources)}</section>` : ''}
+    <div class="grid2e">
+      ${arr(c.upcomingElections).length ? `<section class="stack"><h2>De næste valg</h2><dl class="tl" style="grid-template-columns:minmax(0,130px) minmax(0,1fr)">${arr(c.upcomingElections).map(e => `<dt style="font-size:14.5px">${esc(e.when)}</dt><dd><b style="color:var(--ink)">${esc(e.what)}</b>${e.note ? '<br>' + esc(e.note) : ''}</dd>`).join('')}</dl></section>` : ''}
+      ${arr(c.otherPoliticalJobs).length ? `<section class="stack"><h2>Andre job i politik</h2><ul>${arr(c.otherPoliticalJobs).map(r => `<li class="person"><b>${esc(r.job)}</b>${r.pay ? `<small>${esc(r.pay)}</small>` : ''}<p>${esc(r.note || '')}</p></li>`).join('')}</ul></section>` : ''}
+    </div>
+    ${c.contentLandscape ? `<section class="stack"><h2>Politisk video i Danmark</h2><p class="prose" style="color:var(--ink-2)">${esc(c.contentLandscape.summary)}</p>${c.contentLandscape.rules ? `<p class="fact"><b style="color:var(--ink)">Regler du skal kende:</b> ${esc(c.contentLandscape.rules)}</p>` : ''}${srcs(c.contentLandscape.sources)}</section>` : ''}
+    ${srcs(c.sources)}
+  </div>`;
+}
+
+/* ---------- render + routing ---------- */
+function render(keep) {
+  const y = window.scrollY;
+  const html = S.route === 'parti' ? viewParty() : S.route === 'partier' ? viewParties() : S.route === 'sammenlign' ? viewCompare() : S.route === 'debatter' ? viewDebates() : S.route === 'video' ? viewVideo() : S.route === 'traen' ? viewTrain() : S.route === 'vejen' ? viewCareer() : viewToday();
+  view.innerHTML = html;
+  document.getElementById('nav').innerHTML = VIEWS.map(([k, n]) => `<a href="#${k}"${(S.route === k || (k === 'partier' && S.route === 'parti')) ? ' aria-current="page"' : ''}>${n}</a>`).join('');
+  if (keep) window.scrollTo(0, y); else window.scrollTo(0, 0);
+  const cur = document.querySelector('#nav a[aria-current]'); if (cur && cur.scrollIntoView) cur.scrollIntoView({ block: 'nearest', inline: 'nearest' });
+  const chat = document.getElementById('chat'); if (chat && chat.lastElementChild) chat.lastElementChild.scrollIntoView({ block: 'nearest' });
+  S.pending = false;
+}
+function flush() { if (S.pending) refresh(); }
+function refresh() {
+  const el = document.activeElement, typing = el && /^(INPUT|TEXTAREA|SELECT)$/.test(el.tagName) && el.type !== 'checkbox' && view.contains(el);
+  if (S.busy || typing) { S.pending = true; return; }
+  render(true);
+}
+function route() {
+  const h = (location.hash || '').slice(1);
+  if (h.startsWith('parti-') && P[h.slice(6)]) { if (S.party !== h.slice(6) && !S.keepTab) S.ptab = 'overblik'; S.keepTab = false; S.route = 'parti'; S.party = h.slice(6); }
+  else if (VIEWS.some(v => v[0] === h)) S.route = h; else S.route = 'i-dag';
+  S.feedN = 12; render(false);
+  if (S.scrollTo) { const el = document.getElementById(S.scrollTo); S.scrollTo = null; if (el) setTimeout(() => el.scrollIntoView({ block: 'start', behavior: 'smooth' }), 30); }
+}
+function go(hash) { if (location.hash === '#' + hash) route(); else location.hash = hash; }
+window.addEventListener('hashchange', route);
+view.addEventListener('focusout', () => setTimeout(flush, 60));
+
+function saveMy() {
+  store.set('my', My.data);
+  if (!My.ref) return;
+  if (My.saving) { My.dirty = true; return; }
+  My.saving = true;
+  My.ref.set(JSON.parse(JSON.stringify(My.data))).catch(() => { }).then(() => { My.saving = false; if (My.dirty) { My.dirty = false; saveMy(); } });
+}
+
+/* ---------- events ---------- */
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-act]'); if (!b || b.tagName === 'SELECT' || b.tagName === 'TEXTAREA' || (b.tagName === 'INPUT' && b.type !== 'checkbox')) return;
+  const act = b.dataset.act, v = b.dataset.v;
+  switch (act) {
+    case 'toggle': S.open.has(v) ? S.open.delete(v) : S.open.add(v); render(true); break;
+    case 'feed-kind': S.feedKind = v; S.feedN = 12; render(true); break;
+    case 'feed-party': S.feedParty = v; S.feedN = 12; render(true); break;
+    case 'feed-more': S.feedN += 14; render(true); break;
+    case 'psort': S.psort = v; render(true); break;
+    case 'ptab': S.ptab = v; S.feedKind = 'alle'; S.feedN = 12; render(true); break;
+    case 'cmp': S.cmp = v; render(true); break;
+    case 'cmp-topic': S.cmpTopic = v; S.cmp = 'emne'; if (S.route !== 'sammenlign') go('sammenlign'); else render(true); break;
+    case 'duel': S.a = 'df'; S.b = v; S.cmp = 'duel'; go('sammenlign'); break;
+    case 'coal': S.coal.has(v) ? S.coal.delete(v) : S.coal.add(v); render(true); break;
+    case 'coal-set': S.coal = new Set(v ? v.split(',') : []); render(true); break;
+    case 'deb-topic': S.debTopic = v; render(true); break;
+    case 'deb-party': S.debParty = v; render(true); break;
+    case 'open-debate': e.preventDefault(); S.open.add('n-' + v); S.debTopic = 'alle'; S.scrollTo = 'acc-n-' + v; go('debatter'); break;
+    case 'open-idea': S.open.add('v-' + v); S.vtab = 'ideer'; S.scrollTo = 'acc-v-' + v; go('video'); break;
+    case 'make-video': S.gen.src = v; S.gen.text = ''; S.gen.err = ''; S.vtab = 'manus'; go('video'); break;
+    case 'idea-gen': { const i = vids().find(x => x.id === v); if (i) { S.gen.src = i.debateRef && sourceBrief(i.debateRef) ? i.debateRef : ''; S.gen.custom = `${i.title}. Hook: ${i.hook} Vinkel: ${i.angle || ''}`; if (i.person) S.gen.person = S.gen.person; S.gen.text = ''; S.gen.err = ''; S.vtab = 'manus'; render(false); } break; }
+    case 'spar-on': { const src = sourceBrief(v); if (src && TOP[src.topic]) S.spar.topic = src.topic; S.spar.turns = []; S.ttab = 'sparring'; go('traen'); break; }
+    case 'spar-party': S.spar.me = 'df'; S.spar.opp = v; S.spar.turns = []; S.ttab = 'sparring'; go('traen'); break;
+    case 'vtab': S.vtab = v; render(true); break;
+    case 'ttab': S.ttab = v; render(true); break;
+    case 'vstatus': My.data.status[v] = b.dataset.s; saveMy(); render(true); break;
+    case 'copy-idea': { const i = vids().find(x => x.id === v); if (i) copyText(`${i.title}\n\nHOOK: ${i.hook}\n\n${arr(i.beats).map(x => `${x.t} ${x.who}: ${x.line}`).join('\n')}\n\nCAPTION: ${i.caption || ''} ${arr(i.hashtags).join(' ')}\n\nKILDER:\n${arr(i.facts).map(f => '- ' + f.fact + (f.source ? ' (' + f.source.url + ')' : '')).join('\n')}`); break; }
+    case 'check': S.checks[v] = b.checked; break;
+    case 'gen-run': runGen(); break;
+    case 'gen-stop': if (genCtl) genCtl.abort(); break;
+    case 'gen-copy': copyText(S.gen.text); break;
+    case 'gen-save': { const src = sourceBrief(S.gen.src); My.data.scripts = [{ title: (src ? src.title : (S.gen.custom || 'Manus')).slice(0, 90), date: new Date().toISOString().slice(0, 10), text: S.gen.text.slice(0, 7000) }].concat(arr(My.data.scripts)).slice(0, 20); saveMy(); toast('Gemt under Mine manus'); render(true); break; }
+    case 'ms-copy': copyText(My.data.scripts[+v].text); break;
+    case 'ms-del': My.data.scripts.splice(+v, 1); S.open.delete('ms-' + v); saveMy(); render(true); break;
+    case 'quiz-pick': { const z = S.quiz; if (z.picked != null) break; z.picked = +v; const ok = !!z.cur.o[+v].ok; if (ok) z.score++; else { z.missed.push(z.cur.party); const mq = My.data.quiz = My.data.quiz || { best: 0, rounds: 0, wrong: {} }; mq.wrong = mq.wrong || {}; mq.wrong[z.cur.party] = (mq.wrong[z.cur.party] || 0) + 1; } render(true); break; }
+    case 'quiz-next': { const z = S.quiz; z.n++; z.picked = null; if (z.n >= 10) { z.done = true; const mq = My.data.quiz = My.data.quiz || { best: 0, rounds: 0, wrong: {} }; mq.best = Math.max(mq.best || 0, z.score); mq.rounds = (mq.rounds || 0) + 1; saveMy(); } else z.cur = nextQ(z.seen); render(true); break; }
+    case 'quiz-new': newQuiz(); render(true); break;
+    case 'spar-start': S.spar.turns = []; sparSend('start', true); break;
+    case 'spar-reset': S.spar.turns = []; S.spar.err = ''; render(true); break;
+  }
+});
+document.addEventListener('change', e => {
+  const b = e.target.closest('[data-act]'); if (!b) return;
+  const act = b.dataset.act, k = b.dataset.k;
+  if (act === 'duel-sel') { S[k] = b.value; render(true); }
+  else if (act === 'gen-set') { S.gen[k] = b.value; }
+  else if (act === 'spar-set') { S.spar[k] = b.value; render(true); }
+});
+document.addEventListener('input', e => { const b = e.target.closest('[data-act="gen-input"]'); if (b) S.gen[b.dataset.k] = b.value; });
+document.addEventListener('submit', e => {
+  const f = e.target.closest('[data-form]'); if (!f) return; e.preventDefault();
+  if (f.dataset.form === 'ask') { const q = (f.elements.q.value || '').trim(); if (q && !S.busy) runAsk(f.dataset.v, q); }
+  if (f.dataset.form === 'spar') { const m = (f.elements.m.value || '').trim(); if (m && !S.busy) sparSend(m); }
+});
+document.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey && e.target.id === 'sparmsg') { e.preventDefault(); e.target.form.requestSubmit(); } });
+view.addEventListener('mouseover', e => { const a = e.target.closest('[data-hl]'); const h = document.getElementById('hemi'); if (!h) return; const id = a && a.dataset.hl; h.querySelectorAll('circle').forEach(c => { c.style.opacity = !id || c.dataset.p === id ? '' : '.15'; }); });
+
+/* ---------- search ---------- */
+const sbox = document.getElementById('search'), sq = document.getElementById('sq'), sres = document.getElementById('sres');
+function sindex() {
+  const ix = [];
+  T.parties.forEach(p => {
+    ix.push({ k: 'Parti', l: p.name, s: `Liste ${p.letter} · ${p.leader.name}`, x: p.short + ' ' + p.letter, go: () => go('parti-' + p.id) });
+    arr(p.people).forEach(x => ix.push({ k: 'Person', l: x.name, s: `${x.role} · ${p.short}`, go: () => { S.ptab = 'folk'; S.keepTab = true; go('parti-' + p.id); } }));
+    arr(p.keyIssues).forEach(x => ix.push({ k: 'Mærkesag', l: x.title, s: p.name, x: x.detail, go: () => go('parti-' + p.id) }));
+    arr(p.vocabulary).forEach(x => ix.push({ k: 'Ord', l: x.term, s: `${p.short}: ${x.meaning}`, go: () => { S.ptab = 'debat'; S.keepTab = true; go('parti-' + p.id); } }));
+    arr(L.ft && L.ft.members && L.ft.members[p.id]).forEach(n => ix.push({ k: 'MF', l: n, s: 'Folketingsmedlem · ' + p.short, go: () => { S.ptab = 'folk'; S.keepTab = true; go('parti-' + p.id); } }));
+  });
+  T.government.ministers.forEach(m => ix.push({ k: 'Minister', l: m.name, s: m.post, go: () => go('partier') }));
+  T.topics.forEach(t => ix.push({ k: 'Emne', l: t.name, s: 'Sammenlign alle partier', go: () => { S.cmp = 'emne'; S.cmpTopic = t.id; go('sammenlign'); } }));
+  nat().forEach(d => ix.push({ k: 'Debat', l: d.title, s: topicName(d.topic), x: d.summary, go: () => { S.open.add('n-' + d.id); S.scrollTo = 'acc-n-' + d.id; go('debatter'); } }));
+  vids().forEach(v => ix.push({ k: 'Video', l: v.title, s: v.hook, go: () => { S.open.add('v-' + v.id); S.vtab = 'ideer'; S.scrollTo = 'acc-v-' + v.id; go('video'); } }));
+  arr(T.dfExtra && T.dfExtra.argumentBank).forEach((b, i) => ix.push({ k: 'Argument', l: b.question, s: 'DF-argumentbanken', go: () => { S.ptab = 'bank'; S.keepTab = true; S.open.add('bank-' + i); go('parti-df'); } }));
+  return ix;
+}
+let shits = [];
+function ssearch() {
+  const q = sq.value.trim().toLowerCase(); if (!q) { sres.innerHTML = '<p class="small muted" style="padding:14px 18px">Skriv et partinavn, en politiker, et emne eller et ord som »remigration«.</p>'; shits = []; return; }
+  const ix = sindex(), sc = o => { const l = o.l.toLowerCase(); return l === q ? 0 : l.startsWith(q) ? 1 : l.includes(q) ? 2 : ((o.x || '') + ' ' + (o.s || '')).toLowerCase().includes(q) ? 3 : 9; };
+  shits = ix.map(o => ({ o, r: sc(o) })).filter(x => x.r < 9).sort((a, b) => a.r - b.r).slice(0, 24).map(x => x.o);
+  sres.innerHTML = shits.length ? shits.map((o, i) => `<a href="#" data-si="${i}"><span class="k">${esc(o.k)}</span><b>${esc(o.l)}</b><small>${esc(String(o.s || '').slice(0, 110))}</small></a>`).join('') : '<p class="small muted" style="padding:14px 18px">Ingen resultater.</p>';
+}
+function sopen() { sbox.hidden = false; sq.value = ''; ssearch(); sq.focus(); }
+function sclose() { sbox.hidden = true; }
+document.getElementById('sopen').addEventListener('click', sopen);
+sq.addEventListener('input', ssearch);
+sq.addEventListener('keydown', e => { if (e.key === 'Enter' && shits[0]) { sclose(); shits[0].go(); } });
+sbox.addEventListener('click', e => { const a = e.target.closest('[data-si]'); if (a) { e.preventDefault(); sclose(); shits[+a.dataset.si].go(); } else if (e.target === sbox) sclose(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && !sbox.hidden) sclose(); else if (e.key === '/' && sbox.hidden && !/^(INPUT|TEXTAREA|SELECT)$/.test((e.target.tagName || ''))) { e.preventDefault(); sopen(); } });
+
+/* ---------- footer + boot ---------- */
+document.getElementById('foot').innerHTML = `<p>Talerstolen samler partiernes politik, Folketingets egne data og aktuelle debatter ét sted. Skalaerne fra 1 til 5 er en forenklet vurdering og erstatter ikke partiernes egne ord. Afstemninger, forslag og mandater kommer fra ${ext('https://www.ft.dk/da/dokumenter/aabne_data', 'Folketingets åbne data')}. Partiprofilerne er skrevet ${esc(dlong(T.built))} og bygger på de kilder, der står nederst på hver side. ${SITE.video ? 'Tjek altid tal mod kilden, før du bruger dem i en video.' : 'Tjek altid tal mod kilden, før du bruger dem.'}${HOSTED ? '' : ' Talerstolen er et privat projekt og er ikke tilknyttet noget parti.'}</p>`;
+route();
+
+(async function boot() {
+  const c = window.claude;
+  if (!HOSTED) {
+    AI.fn = null;
+    const names = ['meta', 'ft', 'national', 'partydebates', 'news'].concat(SITE.video ? ['videos'] : []);
+    const stamp = new Date().toISOString().slice(0, 13);
+    const res = await Promise.all(names.map(n => fetch('live/' + n + '.json?h=' + stamp).then(r => r.ok ? r.json() : null).catch(() => null)));
+    names.forEach((n, i) => { if (res[i]) L[n] = res[i]; });
+    L.status = res.some(Boolean) ? 'ok' : 'off'; refresh(); return;
+  }
+  AI.ready = c.use('sample').then(fn => { AI.fn = fn || null; if (!fn) refresh(); }).catch(() => { AI.fn = null; });
+  let db = null, user = null;
+  try { [db, user] = await Promise.all([c.use('db'), c.use('user')]); } catch (e) { }
+  if (!db) { L.status = 'off'; refresh(); return; }
+  const timer = setTimeout(() => { if (L.status === 'loading') { L.status = 'slow'; refresh(); } }, 10000);
+  try {
+    db.collection('live').onSnapshot(snap => {
+      snap.docs.forEach(d => { if (d.id in L && d.id !== 'status') L[d.id] = d.data(); });
+      if (!snap.metadata || !snap.metadata.fromCache) clearTimeout(timer);
+      L.status = snap.empty ? 'empty' : 'ok'; refresh();
+    }, () => { clearTimeout(timer); L.status = 'off'; refresh(); });
+  } catch (e) { clearTimeout(timer); L.status = 'off'; refresh(); }
+  try {
+    const id = user && await user.id();
+    if (id) {
+      My.ref = db.doc('data/users/' + id + '/state');
+      const s = await My.ref.get();
+      if (s.exists) { const d = s.data(); My.data = { status: Object.assign({}, My.data.status, d.status), scripts: arr(d.scripts).length ? arr(d.scripts).slice() : My.data.scripts, quiz: Object.assign({ best: 0, rounds: 0, wrong: {} }, My.data.quiz, d.quiz) }; refresh(); }
+    }
+  } catch (e) { My.ref = null; }
+})();
+})();
+</script>
+</body>
+</html>

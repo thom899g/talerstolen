@@ -1,0 +1,176 @@
+{
+  "id": "rv",
+  "letter": "B",
+  "name": "Radikale Venstre",
+  "short": "RV",
+  "founded": "1905",
+  "foundedNote": "Partiet blev stiftet 21. maj 1905 i Odense. Det brød ud af Venstre og var et liberalt reformparti, der ville have demokrati, skoler og social reform. Det har siden været et midterparti, der har båret både rød og blå regeringer.",
+  "leader": {"name": "Martin Lidegaard", "title": "Partiformand / politisk leder", "since": "2022", "bio": "Var klima- og energiminister 2011-2014 og udenrigsminister 2014-2015. Blev valgt til politisk leder 3. november 2022. I 2026 er han erhvervs- og konkurrencekraftsminister i firkløverregeringen (lex.dk), og han har sagt, at uddannelse og energi er partiets to hovedkrav."},
+  "role": "regering",
+  "roleNote": "Radikale Venstre er en af fire partier i firkløverregeringen, der blev præsenteret 3. juni 2026. Partiet har tre ministre: Martin Lidegaard (erhverv), Samira Nawa (klima, energi og forsyning) og Zenia Stampe (kultur). Regeringen er et mindretal og er afhængig af støtte fra Enhedslisten og Alternativet.",
+  "ideology": ["liberalt", "midterparti", "europæisk", "klimaorienteret"],
+  "euGroup": "Renew Europe",
+  "youth": {"name": "Radikal Ungdom", "note": "Partiets ungdomsorganisation."},
+  "website": "https://www.radikale.dk",
+  "oneLiner": "Liberalt midterparti, der vil have grøn omstilling, stærk uddannelse og et samarbejdende Europa.",
+  "summary": "Radikale Venstre vil have en grøn omstilling, stærkere uddannelse og et åbent, europæisk samarbejde. Partiet kombinerer liberale værdier med en stærk stat på områder som uddannelse og klima. I regeringen har Lidegaard gjort energi og uddannelse til partiets to hovedkrav. Det adskiller partiet fra Moderaterne ved at lægge større vægt på klima og fordeling, og fra SF ved at være mere markedsorienteret i erhvervspolitikken.",
+  "pitch": "Vi vil have en grøn omstilling, der er fair, og et uddannelsessystem, der giver alle en chance. Vi har sikret, at Danmark har en regering med en klimapolitik, der har en retning. Vi står for et åbent, europæisk og liberalt Danmark.",
+  "critique": "Kritikerne mener, at Radikale Venstre har gået på kompromis med sine klimaambitioner for at få plads i regeringen. Lidegaard har selv sagt, at partiet som et af fire regeringspartier ikke kan garantere, at klimapolitikken bliver gennemført, bl.a. udfasningen af olie og gas efter 2042. Modstanderne peger også på, at partiet må stå på mål for en økonomisk linje, det ikke selv har skrevet.",
+  "keyIssues": [
+    {"title": "Grøn energi og elektrificering", "detail": "Lidegaard har sagt, at energipolitikken er et af partiets to hovedkrav. Det omfatter mere elektrificering, nye havvindudbud og en bedre elnet (Altinget, 20. mar. 2026). Lovforslag L 12 om elproduktionsanlæg på havet og L 14 om EU's brint- og gasmarkedspakke er i Folketinget nu."},
+    {"title": "Uddannelse og folkeskole", "detail": "Uddannelse var Lidegaards første 'absolutte hovedkrav' (Altinget, 20. mar. 2026). Regeringsgrundlaget afsætter 1 mia. kr. varigt til uddannelse og forskning. Lovforslag L 5 forhøjer SU-fribeløbet, og L 88 indfører en mundtlig eksamination på hf."},
+    {"title": "Klimalov og klimaneutralitet", "detail": "Regeringen vil indskrive klimaneutralitet i 2045 og 110 pct. reduktion i 2050 i klimaloven. Samira Nawa er klima-, energi- og forsyningsminister og deltog i COP31 i Antalya i november 2026."},
+    {"title": "Fordeling og tech-skat", "detail": "Regeringsgrundlaget vil øge beskatningen af store arvesummer og indføre en tech-skat på 1 mia. kr. årligt. Det er Radikale Venstres linje på fordeling i regeringen."},
+    {"title": "Europa og NATO", "detail": "Regeringen vil gå forrest i det europæiske samarbejde og indfri NATO-målet allerede i 2030. Radikale stemte 27. aug. 2026 for at gennemføre dele af EU's migrationspagt (L 15)."}
+  ],
+  "positions": {
+    "udlaendinge": {"score": 2, "text": "Regeringsgrundlaget siger: 'Vi står fast på udlændingepolitikken, så der er styr på antallet, der kommer til Danmark – samtidig med, at vi løfter vores ansvar internationalt.' Radikale stemte for skærpede udvisningsregler (L 17 A, 3. sept. 2026) og for at gennemføre dele af EU's migrationspagt (L 15, 27. aug.), men imod forbud mod højtalerforstærket bøn (B 11) og imod forbud mod kønsopdelt svømning (B 13)."},
+    "oekonomi": {"score": 2, "text": "Partiet vil have en mere fordelende økonomi: øget beskatning af store arvesummer og en tech-skat på 1 mia. kr. årligt. Radikale har også accepteret lavere selskabsskat som del af regeringens økonomiske politik. Partiet stemte for nulmoms på bøger (L 36, 12. nov. 2026)."},
+    "arbejdsmarked": {"score": 2, "text": "Regeringsgrundlaget vil lempe modregningen for efterløn og tidlig pension og hæve Arne-pensionen med 3.162 kr. om måneden (L 98, opdateret 13. nov. 2026). Partiet vægter tryghed og uddannelse, især for dem, der mangler en uddannelse."},
+    "velfaerd": {"score": 2, "text": "Regeringen vil gøre tandpleje gratis som ambition og starter med sårbare grupper og førtidspensionister. Lovforslag L 64 indfører vederlagsfri tandpleje for kontanthjælpsmodtagere. Radikale vil have offentlig velfærd, der er lige for alle."},
+    "sundhed": {"score": 2, "text": "Regeringsgrundlaget har fokus på gratis tandpleje for sårbare grupper og på offentlig sundhed. Lovforslag L 58 gennemfører værdighedsreformen for ældreplejen."},
+    "klima": {"score": 1, "text": "Partiet vil have den hurtigste og mest vidtgående grønne omstilling. Klimaneutralitet i 2045 og 110 pct. reduktion i 2050 skal skrives ind i klimaloven, og olie- og gasfyr skal væk i 2035. Lidegaard har stillet et grønt hovedkrav til regeringen og sagt, at det ville være 'tudetosset ikke at gå den her vej' (Altinget, 20. mar. 2026)."},
+    "natur_landbrug": {"score": 2, "text": "Den grønne trepart skal fortsætte, og der skal omlægges 390.000 hektar landbrugsareal. Lovforslag L 33 gennemfører IE-ændringsdirektivet på husdyrbrugområdet. Radikale vil have en klar linje for naturen, men har også ansvar over for erhvervet."},
+    "eu": {"score": 1, "text": "Radikale er et af de mest EU-positive partier i Danmark. Regeringen vil gå forrest i det europæiske samarbejde og arbejde for europæisk autonomi."},
+    "forsvar": {"score": 3, "text": "Regeringen vil have forsvar og beredskab på mindst 5 pct. af BNP i 2030, heraf 3,5 pct. til forsvar. Radikale har accepteret det som en del af regeringsgrundlaget."},
+    "ret": {"score": 2, "text": "Regeringen vil fremsætte en udvisningsreform for kriminelle udlændinge og ændre reglerne for straffesagsgæld, så det kan betale sig at tage uddannelse eller få job efter afsoning. Radikale vægter forebyggelse og resocialisering."},
+    "bolig": {"score": 2, "text": "Boligplan 2030 med en forpligtende aftale om boligbyggeri i hovedstaden og en kommission om boligbeskatning. Radikale vil have, at boligmarkedet er fair."},
+    "uddannelse": {"score": 2, "text": "1 mia. kr. varigt til uddannelse og forskning, en tech-skat til finansiering og en ny finansiering af folkeskolen, så midlerne går til almenområdet. Lovforslag L 46 gennemfører dele af aftalen fra 6. maj 2025 om erhvervsuddannelserne. Lidegaard har kaldt uddannelse et 'absolut hovedkrav'."}
+  },
+  "history": [
+    {"year": "1905", "event": "Radikale Venstre stiftes 21. maj 1905 i Odense som et liberalt reformparti, der brød ud af Venstre."},
+    {"year": "2011", "event": "Radikale Venstre er med i den rød-grønne regering, hvor Martin Lidegaard bliver klima- og energiminister (2011-2014)."},
+    {"year": "2014", "event": "Lidegaard bliver udenrigsminister i 2014-2015."},
+    {"year": "2022", "event": "Efter valget i 2022 står Radikale uden for regeringen. Partiet er næsten halveret ved valget, ifølge en Altinget-kommentar fra december 2022."},
+    {"year": "2022", "event": "3. november 2022 vælges Martin Lidegaard som politisk leder."},
+    {"year": "2026", "event": "Ved valget 24. marts 2026 får Radikale 5,8 pct. og 10 mandater."},
+    {"year": "2026", "event": "3. juni 2026 præsenteres firkløverregeringen. Radikale kommer tilbage i regering med Lidegaard som erhvervsminister, Nawa som klimaminister og Stampe som kulturminister."}
+  ],
+  "people": [
+    {"name": "Martin Lidegaard", "role": "partiformand / erhvervs- og konkurrencekraftsminister", "note": "Har gjort energi og uddannelse til partiets to hovedkrav i regeringsforhandlingerne (Altinget, 20. mar. 2026)."},
+    {"name": "Samira Nawa", "role": "klima-, energi- og forsyningsminister", "note": "Fik 10.372 personlige stemmer ved valget i 2026, det højeste personlige stemmetal for Radikale (lex.dk). Ansvarlig for klimapolitikken."},
+    {"name": "Zenia Stampe", "role": "kulturminister", "note": "Radikale Venstre-minister for kultur og ansvarlig for Slots- og Kulturstyrelsen og Det Kongelige Teater (lex.dk)."},
+    {"name": "Katrine Robsøe", "role": "folketingsmedlem", "note": "Medlem af Radikale Venstres folketingsgruppe efter valget i 2026."},
+    {"name": "Stinus Lindgreen", "role": "folketingsmedlem", "note": "Medlem af Radikale Venstres folketingsgruppe efter valget i 2026."}
+  ],
+  "voters": {"summary": "Radikale Venstres vælgere er typisk liberale og grønne, med mange offentligt ansatte og akademikere. De stemmer på partiet for europæisk samarbejde, grøn omstilling og en fair fordeling. Partiet har historisk fået stemmer fra vælgere, der vil have et midterparti uden en fast blok.", "strongholds": "Radikale er typisk stærkest i de store byer, især i og omkring København og Aarhus. Partiet har færre vælgere i landdistrikterne.", "demographics": "Vælgerne er typisk højtuddannede, yngre og bosiddende i byerne. Der er flere kvinder og flere offentligt ansatte end blandt Moderaterne."},
+  "election2026": {"note": "Radikale Venstre fik 5,8 pct. og 10 mandater ved valget 24. marts 2026. Ved valget i 2022 var partiet næsten halveret (ifølge Altinget), og 2026-resultatet er en tilbagevenden. Radikale stod uden for regeringen i 2022, men er i 2026 med i regeringen efter 69 dages forhandlinger."},
+  "strengths": [
+    "Tilbage i regering med tre ministre",
+    "Energi og uddannelse er klare kernesager med Lidegaard som erfaren forhandler",
+    "Stærk europæisk profil, der passer til regeringens EU-politik"
+  ],
+  "weaknesses": [
+    "Kun 5,8 pct. og 10 mandater, og partiet er et af fire i regeringen",
+    "Lidegaard har sagt, at partiet ikke kan garantere klimapolitikken, bl.a. udfasningen af olie og gas efter 2042",
+    "Svært at profilere sig, når regeringen samlet har en økonomisk linje, partiet er uenig i"
+  ],
+  "internalTensions": [
+    {"title": "Klima versus kompromis", "detail": "Lidegaard har sagt, at partiet ikke kan garantere klimapolitikken i regeringen, fordi de er et af fire partier. Det skaber spænding mellem ambitioner og kompromiser."},
+    {"title": "Økonomisk linje", "detail": "Altinget skriver, at firkløverpartierne endnu ikke er blevet enige om, hvordan regeringens økonomiske politik skal defineres. Det kan give Radikale en udfordring med at forsvare regeringens skatte- og erhvervspolitik."}
+  ],
+  "typicalArguments": [
+    {"claim": "Klimaet kan ikke vente. Vi skal skrive klimaneutralitet 2045 ind i loven, og det skal ske nu.", "counter": "Kritikere mener, at de grønne prioriteter er for små i forhold til ambitionerne, og at klimapolitikken fylder for lidt i den samlede regeringspolitik."},
+    {"claim": "Uddannelse er den bedste investering i fremtiden, og Danmark skal have stærke skoler og universiteter.", "counter": "Kritikerne siger, at midler til folkeskolen ofte bliver brugt til at dække andre udgifter, så de ikke når almenområdet."},
+    {"claim": "Vi er et europæisk parti, og Danmark skal være med i det europæiske samarbejde.", "counter": "DF og andre EU-skeptiske partier mener, at EU tager for meget suverænitet, og at Danmark skal have større selvbestemmelse."},
+    {"claim": "Vi vil have en fordelende økonomi, hvor de største formuer bidrager mere.", "counter": "Kritikere, herunder erhvervsorganisationer, mener, at skatter på formuer og arv giver for lille råderum for erhvervslivet og investeringer."}
+  ],
+  "vsDF": {
+    "agree": [
+      "Nulmoms på bøger (L 36, vedtaget 12. nov. 2026): både Radikale Venstre og Dansk Folkeparti stemte for.",
+      "Udvisning af kriminelle udlændinge (L 17 A, 3. sept. 2026): både Radikale Venstre og Dansk Folkeparti stemte for skærpelsen.",
+      "Rettet indkomstmodtager (B 27, 1. okt. 2026): begge partier stemte for forslaget om, at ingen samlet skal betale mere i skat end de tjener."
+    ],
+    "disagree": [
+      "Store bededag (B 3, 1. okt. 2026): Dansk Folkeparti stemte for at genindføre den, Radikale stemte imod.",
+      "Koranloven (B 6, 1. okt. 2026): Dansk Folkeparti stemte for at afskaffe den, Radikale stemte imod.",
+      "Kønsopdelt svømning (B 13, 3. sept. 2026): Dansk Folkeparti stemte for at forbyde den, Radikale stemte imod.",
+      "EU's migrationspagt (L 15, 27. aug. 2026): Radikale stemte for at gennemføre dele af den, Dansk Folkeparti stemte imod."
+    ],
+    "note": "Radikale og Dansk Folkeparti er enige om skat og udvisning, men modsatte på religion, helligdage, EU-migration og kønsopdelte svømmehaller. Afstemningerne viser en klar værdikløft."
+  },
+  "vocabulary": [
+    {"term": "Den grønne trepart", "meaning": "Aftale mellem regeringen, landbruget og miljøorganisationer om at omlægge landbrugsjord og reducere CO2-udledningen fra landbruget."},
+    {"term": "Tech-skat", "meaning": "En ny skat på teknologivirksomheder, som regeringen vil indføre for at finansiere uddannelse og forskning (1 mia. kr. årligt)."},
+    {"term": "Klimaneutralitet 2045", "meaning": "Målet om, at Danmark ikke udleder mere CO2, end landet kan binde, i 2045. Regeringen vil indskrive det i klimaloven."},
+    {"term": "Seniorpension", "meaning": "En ordning, der giver mulighed for at gå tidligere på pension for dem, der har arbejdet længe. Regeringen vil stramme den for at finansiere Arne-pensionen fra 2027."},
+    {"term": "Nulmoms", "meaning": "Momsfritagelse, hvor virksomheden ikke opkræver moms på varen, men stadig kan trække købsmoms fra. Regeringen vil indføre nulmoms på bøger (L 36)."}
+  ],
+  "funFacts": [
+    "Radikale Venstre blev stiftet 21. maj 1905 i Odense og er et af Danmarks ældste partier.",
+    "Samira Nawa fik 10.372 personlige stemmer ved valget i 2026, det højeste personlige stemmetal for Radikale.",
+    "Lidegaard var klima- og energiminister 2011-2014 og senere udenrigsminister, inden han i 2026 blev erhvervsminister."
+  ],
+  "currentDebates": [
+    {
+      "title": "Samira Nawa til COP31 i Antalya",
+      "date": "2026-11-06",
+      "topic": "klima",
+      "summary": "Klima-, energi- og forsyningsminister Samira Nawa rejser til FN's klimakonference COP31 i Antalya i Tyrkiet. Hun deltager i konferencen fra 8.-10. november og igen fra 16.-20. november. Hendes prioriteter er at holde 1,5-gradersmålet i Parisaftalen inden for rækkevidde, sætte CO2-reduktioner på dagsordenen og fremme elektrificering, men kun med grøn energi og ikke fossile brændstoffer.",
+      "positions": [
+        {"who": "Samira Nawa (RV)", "says": "'For vi er nødt til at skubbe på for, at vi fortsat sigter mod 1,5 gradersmålet i Parisaftalen.' (Ministeriets pressemeddelelse, 6. nov. 2026)"}
+      ],
+      "whyItMatters": "Viser, hvordan Radikale prioriterer klimapolitik i en regering, hvor partiet er et af fire, og om firkløverregeringen kan føre en ambitiøs international klimalinje.",
+      "sources": [
+        {"title": "Ritzau: Klima-, energi- og forsyningsminister Samira Nawa rejser til COP31", "url": "https://via.ritzau.dk/pressemeddelelse/15274516/klima-energi-og-forsyningsminister-samira-nawa-rejser-til-cop31?publisherId=9426318"}
+      ]
+    },
+    {
+      "title": "Nulmoms på bøger og afskaffelse af kaffeafgiften vedtaget (L 36)",
+      "date": "2026-11-12",
+      "topic": "oekonomi",
+      "summary": "Folketinget vedtog 12. november 2026 L 36 om nulmoms på bøger, afskaffelse af kaffeafgiften og et motions- og musikundervisningsfradrag. Radikale Venstre stemte for sammen med Socialdemokratiet, SF, Venstre, Moderaterne, Dansk Folkeparti, Konservative, Enhedslisten, Alternativet og Borgernes Parti. Liberal Alliance og Danmarksdemokraterne stemte imod nulmomsen.",
+      "positions": [
+        {"who": "Radikale Venstre", "says": "Stemte for (folketingsafstemning, 12. nov. 2026)."},
+        {"who": "Liberal Alliance og Danmarksdemokraterne", "says": "Stemte imod nulmomsen på bøger."}
+      ],
+      "whyItMatters": "Viser, at Radikale kan finde flertal på tværs af blokkene, når forslaget har lavt konfliktniveau.",
+      "sources": [
+        {"title": "Folketinget: L 36 om nulmoms på bøger og afskaffelse af kaffeafgiften", "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"}
+      ]
+    },
+    {
+      "title": "Store bededag og koranloven forkastet (B 3 og B 6)",
+      "date": "2026-10-01",
+      "topic": "andet",
+      "summary": "Folketinget forkastede 1. oktober 2026 to Dansk Folkeparti-forslag: B 3 om at genindføre store bededag som helligdag og B 6 om at afskaffe koranloven. Radikale stemte imod begge sammen med Socialdemokratiet, SF, Venstre og Moderaterne. Dansk Folkeparti, Liberal Alliance, Konservative, Enhedslisten, Danmarksdemokraterne, Alternativet og Borgernes Parti stemte for.",
+      "positions": [
+        {"who": "Radikale Venstre", "says": "Stemte imod begge forslag (afstemninger, 1. okt. 2026)."},
+        {"who": "Dansk Folkeparti", "says": "Stemte for begge forslag (afstemninger, 1. okt. 2026)."}
+      ],
+      "whyItMatters": "Viser, hvor Radikale og Dansk Folkeparti er uenige om værdipolitik.",
+      "sources": [
+        {"title": "Folketinget: B 3 om at genindføre store bededag som helligdag", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B3/index.htm"},
+        {"title": "Folketinget: B 6 om at afskaffe koranloven", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B6/index.htm"}
+      ]
+    },
+    {
+      "title": "Finanslov for 2027 (L 73)",
+      "date": "2026-10-09",
+      "topic": "oekonomi",
+      "summary": "Regeringen præsenterede sit finanslovsforslag for 2027, L 73, den 9. oktober 2026. Radikale Venstre er en del af regeringen og står bag udspillet. Dansk Erhverv roste erhvervstiltag, men kritiserede planen om at hæve Arne-pensionen. Regeringen skal nu forhandle med resten af Folketinget om et flertal.",
+      "positions": [
+        {"who": "Radikale Venstre (regeringspart)", "says": "Står bag finansloven som del af firkløverregeringen."},
+        {"who": "Dansk Erhverv", "says": "Roser erhvervstiltag, men kritiserer planen om at hæve Arne-pensionen."}
+      ],
+      "whyItMatters": "Finansloven viser, om Radikale kan få sin klima- og uddannelsespolitik igennem i en regering, hvor de kun er et af fire partier.",
+      "sources": [
+        {"title": "Folketinget: L 73 Forslag til finanslov for 2027", "url": "https://www.ft.dk/samling/20261/lovforslag/L73/index.htm"},
+        {"title": "Dansk Erhverv: Stærke tiltag for erhvervslivet i regeringens forslag til ny finanslov", "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/"}
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Lex.dk: Regeringen Mette Frederiksen III (ministerliste)", "url": "https://lex.dk/Regeringen_Mette_Frederiksen_III"},
+    {"title": "Det politiske grundlag for firkløverregeringen (PDF, stm.dk)", "url": "https://stm.dk/media/rc1ktdmg/det-politiske-grundlag-for-firkloeverregeringen.pdf"},
+    {"title": "Folketinget: L 36 om nulmoms på bøger (afstemning 12. nov. 2026)", "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"},
+    {"title": "Folketinget: L 73 Forslag til finanslov for 2027", "url": "https://www.ft.dk/samling/20261/lovforslag/L73/index.htm"},
+    {"title": "Folketinget: L 98 om forhøjelse af ydelsen på tidlig pension", "url": "https://www.ft.dk/samling/20261/lovforslag/L98/index.htm"},
+    {"title": "Altinget: Lidegaard stiller nyt grønt regeringskrav (20. mar. 2026)", "url": "https://www.altinget.dk/klima/artikel/lidegaard-kommer-med-groent-hovedkrav-til-ny-regering-det-vil-vaere-tudetosset-ikke-at-gaa-den-her-vej"},
+    {"title": "Altinget: Lidegaard: Her er mine tre vigtigste opgaver som erhvervsminister (3. jun. 2026)", "url": "https://www.altinget.dk/forsyning/artikel/lidegaard-her-er-mine-tre-vigtigste-opgaver-som-erhvervsminister"},
+    {"title": "Altinget: Radikales exit fra regeringsforhandlingerne er en befrielse for Lidegaard (14. dec. 2022)", "url": "https://www.altinget.dk/artikel/radikales-exit-fra-regeringforhandlingerne-er-en-befrielse-for-lidegaard"},
+    {"title": "Ritzau: Samira Nawa rejser til COP31 (6. nov. 2026)", "url": "https://via.ritzau.dk/pressemeddelelse/15274516/klima-energi-og-forsyningsminister-samira-nawa-rejser-til-cop31?publisherId=9426318"},
+    {"title": "Dansk Erhverv: Stærke tiltag for erhvervslivet i regeringens forslag til ny finanslov", "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/"},
+    {"title": "Da.wikipedia: Radikale Venstre", "url": "https://da.wikipedia.org/wiki/Radikale_Venstre"}
+  ]
+}

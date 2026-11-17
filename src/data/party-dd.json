@@ -1,0 +1,421 @@
+{
+  "id": "dd",
+  "letter": "Æ",
+  "name": "Danmarksdemokraterne",
+  "short": "DD",
+  "founded": "2022",
+  "foundedNote": "Partiet blev stiftet 23. juni 2022 af Inger Støjberg, efter at hun i 2021 var idømt 60 dages fængsel i en ministeransvarssag og havde afsonet med fodlænke. Det fik bogstavet Æ i juli 2022 og 14 mandater ved første valg 1. november 2022.",
+  "leader": {
+    "name": "Inger Støjberg",
+    "title": "Partiformand",
+    "since": "2022",
+    "born": "1973",
+    "bio": "Født 1973 i Hjerk ved Skive. Medlem af Venstres Ungdom fra 1993 og næstformand i Venstre, indtil hun trådte tilbage i december 2020 og forlod partiet i februar 2021. Blev i december 2021 idømt 60 dages fængsel i en ministeransvarssag og afsonede med fodlænke. Stiftede Danmarksdemokraterne i juni 2022 og har været partiets klare figur siden."
+  },
+  "role": "opposition",
+  "roleNote": "Danmarksdemokraterne er uden for regeringen og er ikke formelt støtteparti for firkløverregeringen. Partiet har i maj 2026 sagt, at det vil være støtteparti for en regering ledet af den borgerlige side. I efteråret 2026 fremsætter partiet forslag om udlændinge, afgifter og kultur og stemmer ofte sammen med DF og LA.",
+  "ideology": [
+    "Nationalkonservatisme",
+    "Liberalisme",
+    "Højrepopulisme"
+  ],
+  "euGroup": "ECR (Europæiske Konservative og Reformister), med ét mandat i Europa-Parlamentet valgt i 2024",
+  "youth": {
+    "name": "Danmarksdemokraternes Ungdom",
+    "note": "Partiets ungdomsorganisation."
+  },
+  "website": "https://danmarksdemokraterne.dk",
+  "oneLiner": "Stram udlændingepolitik, nær sundhed og produktion i hele landet, fra Inger Støjbergs parti stiftet i 2022.",
+  "summary": "Danmarksdemokraterne vil have en markant stram udlændingepolitik, hvor udlændinge skal tilpasse sig dansk kultur og samfund. Partiet vil flytte fokus fra de store byer til provinsen med bedre adgang til læger, mobildækning og veje. Det vil bruge høje skatteindtægter til velfærd som ældrepleje og fastholde den såkaldte Arne-pension for mennesker, der er slidt ned tidligt. Klimapolitik må ikke unødigt ramme erhverv og landbrug, og partiet taler om Produktionsdanmark med vægt på små og mellemstore virksomheder. Efter valgnederlaget i marts 2026 vil Støjberg udvide partiets base ud over Jylland.",
+  "pitch": "Vi tager udlændingeproblemet alvorligt og siger det højt. Vi vil have læger, mobildækning og veje i hele landet, ikke kun i storbyerne. Dem der har slidt sig op, skal kunne gå tidligt på pension, og de høje skatter skal bruges på ældreplejen. Hvis du vil have en stram udlændingepolitik og en stemme for provinsen, er det her, vi står.",
+  "critique": "Kritikerne siger, at partiet næsten kun har ét stort emne, nemlig udlændingepolitik, og at det ikke har en bred nok profil til at blive et regeringsparti. De peger på, at partiet har mistet over en fjerdedel af sine stemmer fra 2022 til 2026 (8,1 pct. til 5,8 pct.), og at Støjbergs dom fra 2021 gør hende svag som leder for et parti, der vil være med til at regere. Altinget-kommentatorer mener, at partiet ikke har råd til at profilere sig på andet end udlændinge.",
+  "keyIssues": [
+    {
+      "title": "Hjemsendelse og asyl",
+      "detail": "Partiet har i november 2026 fremsat forslaget B 57 om en håndfast hjemsendelsespolitik og forslaget B 52 om at fjerne muligheden for at søge spontant asyl i Danmark. Asylansøgere skal i stedet henvises til et dansk modtagecenter i et tredjeland."
+    },
+    {
+      "title": "Stram linje over for ekstremisme",
+      "detail": "Partiet har fremsat forslaget B 61 om forbud mod Hizb ut-Tahrir (13. november 2026)."
+    },
+    {
+      "title": "Lavere brændstofafgifter",
+      "detail": "Forslaget B 58 vil sænke benzin-, diesel- og gasafgifterne og forlænge det forhøjede befordringsfradrag (13. november 2026). Partiet har også spurgt regeringen, om den er enig i at sænke afgifterne (F 1, 21. oktober 2026)."
+    },
+    {
+      "title": "Velfærd og ældrepleje",
+      "detail": "Partiet vil have nationale standarder for dansk i ældreplejen (B 19) og ældres ret til at vælge kød i måltiderne (B 20). Det har også spurgt til underernæring blandt ældre (F 6, 12. november 2026)."
+    },
+    {
+      "title": "Provinsen og nærhed",
+      "detail": "Partiet vil flytte ressourcer og opmærksomhed fra de store byer til provinsen med bedre adgang til læger, mobildækning og veje."
+    }
+  ],
+  "positions": {
+    "udlaendinge": {
+      "score": 5,
+      "text": "Partiet vil have en markant stram udlændingepolitik og forventer, at udlændinge tilpasser sig dansk kultur og samfund. Det vil fjerne muligheden for spontan asyl i Danmark (B 52), gennemføre en håndfast hjemsendelsespolitik (B 57) og have Mohamed Abdirahman Kahn udvist (B 11)."
+    },
+    "oekonomi": {
+      "score": 4,
+      "text": "Partiet vil sænke benzin-, diesel- og gasafgifterne og forlænge det forhøjede befordringsfradrag (B 58). Partiet stemte i november 2026 imod nulmoms på bøger (L 36 B) og imod L 5 om gødskning i land- og skovbruget og L 16 om beløbsordningen. Det går ind for Produktionsdanmark, dvs. små og mellemstore virksomheder og selvstændige."
+    },
+    "arbejdsmarked": {
+      "score": 2,
+      "text": "Partiet vil fastholde Arne-pensionen, den tidlige pension for mennesker, der er slidt ned. Det giver tryghed for slidte, men partiet har ikke fremsat forslag om at øge arbejdsudbuddet."
+    },
+    "velfaerd": {
+      "score": 2,
+      "text": "Partiet vil bruge høje skatteindtægter på velfærd, fx ældrepleje. Det har fremsat forslag om danskkundskaber for medarbejdere i ældreplejen (B 19) og ældres ret til kød i madservicen (B 20)."
+    },
+    "sundhed": {
+      "score": 2,
+      "text": "Partiet lægger vægt på 'nær sundhed' og bedre adgang til læger i provinsen. Forslag i 2026 handler om hjemtransport af afdøde patienter (B 43), at BPA-hjælpere må udføre lette sundhedsopgaver (B 7) og om at gøre ledsagerordningen for blinde permanent (B 9)."
+    },
+    "klima": {
+      "score": 4,
+      "text": "Partiet vil ikke have klimapolitik, der unødigt rammer erhverv og landbrug. Det vil afskaffe reparationsgrænsen for elbiler (B 10) og genindføre dispensation til højtryksspuling af asbesttage (B 3)."
+    },
+    "natur_landbrug": {
+      "score": 4,
+      "text": "Partiet vil have færre krav til landbruget. Det stemte imod gødningsloven (L 5) og vil frakende Danmarks Naturfredningsforening retten til alene at rejse fredningssager (B 27)."
+    },
+    "eu": {
+      "score": 4,
+      "text": "Partiet sidder i ECR-gruppen i Europa-Parlamentet, en EU-kritisk gruppe. I Folketinget stemte partiet imod EU's migrations- og asylpagt (L 15, 27. august 2026)."
+    },
+    "forsvar": {
+      "score": 3,
+      "text": "Partiet har ikke fremsat forsvarsforslag i efteråret 2026, og forsvar er ikke et af partiets profilområder."
+    },
+    "ret": {
+      "score": 4,
+      "text": "Partiet vil forbyde Hizb ut-Tahrir (B 61) og udvide børneattesten til at omfatte seksuelle overgreb og vold mod personer under 18 år (B 8). Det har også fremsat et tildækningsforbud på uddannelsessteder (L 41)."
+    },
+    "bolig": {
+      "score": 4,
+      "text": "Partiet vil have 15.000 flere parkeringspladser i Københavns Kommune inden 2035 og undtage kommunale parkeringsanlæg fra anlægsloftet (B 37). Partiet går ind for mindre regulering af boligsektoren."
+    },
+    "uddannelse": {
+      "score": 4,
+      "text": "Partiet vil forbyde kommuner at udbyde modersmålsundervisning i sprog uden for EU/EØS (B 15) og har fremsat et tildækningsforbud på uddannelsessteder (L 41). Kampagnen 'DE SKAL UD!' retter sig mod dominanskultur på erhvervsuddannelserne."
+    }
+  },
+  "history": [
+    {
+      "year": "2020",
+      "event": "Støjberg trækker sig som næstformand i Venstre i december og forlader Venstre i februar 2021."
+    },
+    {
+      "year": "2021",
+      "event": "Støjberg idømmes i december 60 dages fængsel i en ministeransvarssag og erklæres uskikket til at sidde i Folketinget."
+    },
+    {
+      "year": "2022",
+      "event": "Partiet stiftes 23. juni 2022 og får bogstavet Æ 7. juli. Ved valget 1. november 2022 får det 8,1 pct. og 14 mandater."
+    },
+    {
+      "year": "2024",
+      "event": "I marts kommer Mads Fuglede fra Venstre og Kim Edberg som løsgænger, og partiet har 16 mandater. Ved EP-valget vinder partiet ét mandat med Kristoffer Storm som spidskandidat."
+    },
+    {
+      "year": "2025",
+      "event": "Partiet får 123 byrådsmandater og 7 regionsrådsmandater ved kommunalvalget. I september præsenterer partiet udspillet 'Flere hjem, færre hertil' med 45 udlændingestramninger på landsmødet i Herning."
+    },
+    {
+      "year": "2026",
+      "event": "Ved folketingsvalget 24. marts 2026 falder partiet til 5,8 pct. og 10 mandater, en tilbagegang på fire mandater."
+    },
+    {
+      "year": "2026",
+      "event": "I maj 2026 meldte Støjberg ud, at partiet vil være støtteparti for en borgerlig-ledet regering og ikke vil sidde i regeringen."
+    },
+    {
+      "year": "2026",
+      "event": "Ved landsmødet i Herning i oktober 2026 lægger Støjberg størstedelen af sin tale på udlændingepolitik og siger, at partiet vil udvide sin base ud over Jylland."
+    },
+    {
+      "year": "2026",
+      "event": "I november 2026 stemmer partiet imod nulmoms på bøger sammen med LA, og det fremsætter forslag om benzinafgiften og Hizb ut-Tahrir."
+    }
+  ],
+  "people": [
+    {
+      "name": "Inger Støjberg",
+      "role": "Partiformand og folketingsmedlem",
+      "note": "Partiets dominerende figur, dømt i 2021 og stifter af partiet i 2022."
+    },
+    {
+      "name": "Susie Jessen",
+      "role": "Politisk ordfører og folketingsmedlem",
+      "note": "Har fremsat lovforslaget om tildækningsforbud på uddannelsessteder (L 41) og fik partiets mandat i Sjælland ved valget 2026."
+    },
+    {
+      "name": "Dennis Flydtkjær",
+      "role": "Folketingsmedlem",
+      "note": "Fremsætter forslag om hjemsendelse, asyl og Hizb ut-Tahrir."
+    },
+    {
+      "name": "Hans Kristian Skibby",
+      "role": "Folketingsmedlem",
+      "note": "Står bag forslaget om lavere benzin- og dieselafgifter (B 58) og forslaget om elbil-reparation (B 10)."
+    },
+    {
+      "name": "Mads Fuglede",
+      "role": "Folketingsmedlem, kom fra Venstre i 2024",
+      "note": "Fremsatte forslaget om en ny national strategi for bølgekraft (B 46)."
+    },
+    {
+      "name": "Karina Adsbøl",
+      "role": "Folketingsmedlem",
+      "note": "Har fremsat forslag om ledsagerordningen for blinde og om Familieretshuset (F 5)."
+    },
+    {
+      "name": "Marlene Harpsøe",
+      "role": "Folketingsmedlem",
+      "note": "Fremsætter forslag om ældreplejen, herunder underernæring blandt ældre (F 6)."
+    }
+  ],
+  "voters": {
+    "summary": "Danmarksdemokraternes vælgere er typisk ældre og bor uden for de største byer. Partiet kom fra Venstre og DF og har især vundet vælgere, der vil have en stram udlændingepolitik. I Voxmeter 9. nov. 2026 står partiet til 6,1 pct., lidt over valgresultatet fra marts.",
+    "strongholds": "Jylland og provinsen er partiets oprindelige stærke område, og Støjberg vil nu udvide basen til andre dele af landet.",
+    "demographics": "Vælgerne er typisk ældre og har ofte tilknytning til små virksomheder, håndværk og landbrug, som det ses for nationalkonservative partier i almindelighed."
+  },
+  "election2026": {
+    "note": "Partiet fik 5,8 pct. og 10 mandater ved valget 24. marts 2026, ned fra 8,1 pct. og 14 mandater i 2022. Altinget (26. marts 2026) tilskriver tilbagegangen primært Dansk Folkeparti, der kørte en stærk kampagne med en velfyldt kampagnekasse. Støjberg har selv sagt, at kampagnevilkårene ikke var gunstige, og at partiet må udvide sin base."
+  },
+  "strengths": [
+    "Klar profil på udlændingepolitik, som gør partiet genkendeligt",
+    "Fremgang i målinger og ny medlemstilgang efter valget: 6,1 pct. i Voxmeter 9. nov. 2026",
+    "Samlet ledelse under Støjberg uden synlige fløjkampe, ifølge Altinget"
+  ],
+  "weaknesses": [
+    "Har mistet over en fjerdedel af stemmerne siden 2022",
+    "Afhængig af Støjberg som den eneste stærke profil",
+    "Begrænset profil uden for udlændingepolitik, ifølge en Altinget-kommentar"
+  ],
+  "internalTensions": [
+    {
+      "title": "Støjberg som dominerende skikkelse",
+      "detail": "Partiet er samlet om Støjberg, men det er sårbart, hvis hun træder tilbage. Altinget beskriver partiet som uden fløjkampe, men med hende som den klare figur."
+    },
+    {
+      "title": "Udvidelse af basen",
+      "detail": "Støjberg vil bredde partiet ud over 'jydepartiet'-stemplet. En Altinget-kommentator mener, at partiet ikke har råd til at profilere sig på andet end udlændinge."
+    }
+  ],
+  "typicalArguments": [
+    {
+      "claim": "Udlændinge skal tilpasse sig dansk kultur og samfund, og udlændingepolitikken skal strammes markant.",
+      "counter": "Kritikere siger, at partiet har ét stort emne, og at en stram linje alene ikke løser de udfordringer, partiet peger på."
+    },
+    {
+      "claim": "Provinsen er blevet glemt af storbyerne, og ressourcerne skal flyttes ud.",
+      "counter": "Modstandere siger, at flytning af ressourcer uden konkrete budgetter er et løfte uden indhold."
+    },
+    {
+      "claim": "Høje skatteindtægter skal bruges på velfærd som ældrepleje.",
+      "counter": "Kritikere mener, at høje skatter svækker erhvervslivet, og at det modsiger partiets egen linje om småerhverv og lavere brændstofafgifter."
+    },
+    {
+      "claim": "Klimapolitikken må ikke unødigt ramme erhverv og landbrug.",
+      "counter": "Modstandere mener, at landbrugets udledning kræver krav, og at en svækket klimaindsats koster mere på sigt."
+    },
+    {
+      "claim": "Brændstofafgifterne skal sænkes, så almindelige familier kan betale for at køre på arbejde.",
+      "counter": "Kritikere mener, at lavere afgifter øger forbruget og klimaudledningen, og at effekten er midlertidig."
+    }
+  ],
+  "vsDF": {
+    "agree": [
+      "Forslaget om afskaffelse af koranloven fik støtte fra både DD og DF, men blev forkastet 1. oktober 2026.",
+      "Begge partier stemte imod EU's migrations- og asylpagt (L 15, 27. august 2026), imod gødningsloven (L 5) og imod V 1, statsministerens åbningsredegørelse (8. oktober 2026)."
+    ],
+    "disagree": [
+      "Nulmoms på bøger (L 36 B, 12. november 2026): DD stemte imod sammen med LA, mens DF stemte for.",
+      "Statsrevisorernes valg (B 16, 3. september 2026): DD stemte alene imod, mens DF stemte for.",
+      "Benzin- og dieselafgift: DF fik i november 2026 en aftale med regeringen om en midlertidig sænkning på ca. 2 kr. pr. liter. DD er ikke med i aftalen og har selv fremsat forslaget B 58.",
+      "EU-gruppe: DD sidder i ECR, mens DF sidder i ID-gruppen."
+    ],
+    "note": "DD og DF konkurrerer om de samme udlændingefokuserede vælgere. Altinget (26. marts 2026) tilskriver DD's tilbagegang til DF's kampagne. DF har en parlamentarisk aftale med regeringen om afgifter, mens DD står udenfor og forsøger at vinde pladsen som det borgerlige støtteparti ved at fremsætte egne forslag."
+  },
+  "vocabulary": [
+    {
+      "term": "Produktionsdanmark",
+      "meaning": "Partiets begreb for en produktionsdrevet dansk økonomi med fokus på små og mellemstore virksomheder og selvstændige."
+    },
+    {
+      "term": "Flere hjem, færre hertil",
+      "meaning": "Titlen på partiets udspil med 45 udlændingestramninger, præsenteret i september 2025."
+    },
+    {
+      "term": "Arne-pensionen",
+      "meaning": "Tidlig pension for mennesker, der er slidt ned, som partiet vil fastholde."
+    },
+    {
+      "term": "DE SKAL UD!",
+      "meaning": "Kampagne på partiets forside mod dominanskultur på erhvervsuddannelserne."
+    }
+  ],
+  "funFacts": [
+    "Støjberg blev i 2021 idømt 60 dages fængsel i en ministeransvarssag og afsonede med fodlænke hjemme i Hadsund. Det er baggrunden for partiets stiftelse.",
+    "Partiet fik bogstavet Æ 7. juli 2022, kort efter stiftelsen.",
+    "Partiets forside beskriver det som et parti for hele Danmark, ikke kun for storbyerne."
+  ],
+  "currentDebates": [
+    {
+      "title": "Håndfast hjemsendelse, fjernelse af spontan asyl og forbud mod Hizb ut-Tahrir",
+      "date": "2026-11-13",
+      "topic": "udlaendinge",
+      "summary": "Danmarksdemokraterne har på én dag fremsat tre forslag på udlændingeområdet: B 57 om en håndfast hjemsendelsespolitik, B 52 om at fjerne muligheden for at søge spontant asyl i Danmark og B 61 om forbud mod Hizb ut-Tahrir. Partiet vil i stedet oprette et dansk modtagecenter i et tredjeland. Forslagene blev opdateret i Folketingets system 13. november 2026.",
+      "positions": [
+        {
+          "who": "Dennis Flydtkjær (DD)",
+          "says": "Fremsætter forslag om at fjerne spontan asyl og oprette et dansk modtagecenter i et tredjeland (B 52)."
+        },
+        {
+          "who": "Dennis Flydtkjær (DD)",
+          "says": "Fremsætter forslag om forbud mod Hizb ut-Tahrir (B 61)."
+        }
+      ],
+      "whyItMatters": "Det viser partiets linje efter valget: udlændingepolitik er stadig dets kerneområde, og det vil have konkrete lovforslag frem for generelle udtalelser.",
+      "sources": [
+        {
+          "title": "B 52: Om at fjerne muligheden for at søge spontant asyl i Danmark (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B52/index.htm"
+        },
+        {
+          "title": "B 61: Om forbud mod Hizb ut-Tahrir (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B61/index.htm"
+        },
+        {
+          "title": "B 57: Om at gennemføre en håndfast hjemsendelsespolitik (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B57/index.htm"
+        }
+      ]
+    },
+    {
+      "title": "Lavere benzin-, diesel- og gasafgifter",
+      "date": "2026-11-13",
+      "topic": "oekonomi",
+      "summary": "Danmarksdemokraterne fremsatte 13. november 2026 forslaget B 58 om at sænke benzin-, diesel- og gasafgifterne og forlænge det forhøjede befordringsfradrag. Partiet havde 21. oktober 2026 spurgt regeringen i forespørgslen F 1, om den var enig i at sænke afgifterne. DF fik i november 2026 en aftale med regeringen om en midlertidig sænkning af benzin- og dieselafgiften.",
+      "positions": [
+        {
+          "who": "Hans Kristian Skibby (DD)",
+          "says": "Forslaget går ud på at sænke benzin-, diesel- og gasafgifterne og forlænge det forhøjede befordringsfradrag (B 58)."
+        },
+        {
+          "who": "Dansk Folkeparti og regeringen",
+          "says": "Har aftalt en midlertidig sænkning af benzin- og dieselafgiften på ca. 2 kr. pr. liter."
+        }
+      ],
+      "whyItMatters": "Det er en sag, hvor DD og DF har samme ønske, men hvor DF har nået en aftale, og DD står udenfor.",
+      "sources": [
+        {
+          "title": "B 58: Om at sænke benzin-, diesel- og gasafgifterne (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B58/index.htm"
+        },
+        {
+          "title": "F 1: Om de stigende priser på benzin og diesel (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/forespoergsel/F1/index.htm"
+        },
+        {
+          "title": "Benzin og diesel bliver billigere med ny skatteaftale (ing.dk)",
+          "url": "https://ing.dk/artikel/medie-benzin-og-diesel-bliver-billigere-med-ny-skatteaftale"
+        }
+      ]
+    },
+    {
+      "title": "Nulmoms på bøger: DD stemte imod sammen med LA",
+      "date": "2026-11-12",
+      "topic": "oekonomi",
+      "summary": "Folketinget vedtog 12. november 2026 L 36 B om nulmoms på bøger med 93 stemmer. Danmarksdemokraterne og Liberal Alliance stemte imod, mens DF, Socialdemokratiet og Enhedslisten stemte for.",
+      "positions": [
+        {
+          "who": "Danmarksdemokraterne og LA",
+          "says": "Stemte imod nulmoms på bøger (L 36 B)."
+        },
+        {
+          "who": "Dansk Folkeparti",
+          "says": "Stemte for nulmoms på bøger (L 36 B)."
+        }
+      ],
+      "whyItMatters": "Det er en af få sager, hvor DD og DF står på hver sin side af en afstemning, og det viser DD's forsøg på at tegne en økonomisk profil.",
+      "sources": [
+        {
+          "title": "L 36 B: Om indførelse af nulmoms på bøger (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"
+        }
+      ]
+    },
+    {
+      "title": "Støjberg vil udvide basen før landsmødet",
+      "date": "2026-10-23",
+      "topic": "udlaendinge",
+      "summary": "Inden landsmødet i Herning i oktober 2026 sagde Støjberg, at partiet ikke er et jydsk parti og vil udvide sin base. Hun lagde størstedelen af sin tale på udlændingepolitik. Altinget skrev samme dag, at partiet er udfordret efter tabet i marts, men at nye medlemmer og fremgang i målinger er på vej.",
+      "positions": [
+        {
+          "who": "Inger Støjberg (DD)",
+          "says": "Partiet er ikke et jydsk parti, og det vil udvide sin base. Udlændingepolitik er det første emne."
+        }
+      ],
+      "whyItMatters": "Det viser, om DD kan gå fra at være et ét-emne-parti til et bredere alternativ, og om det kan vinde vælgere tilbage fra DF.",
+      "sources": [
+        {
+          "title": "Efter vælgerlussing vil Støjberg udvide basen: Vi er ikke et jydeparti (Altinget, 23. okt. 2026)",
+          "url": "https://www.altinget.dk/artikel/efter-vaelgerlussing-vil-stoejberg-udvide-basen-vi-er-ikke-et-jydeparti"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Danmarksdemokraterne, forside",
+      "url": "https://danmarksdemokraterne.dk/forside"
+    },
+    {
+      "title": "Danmarksdemokraterne (da.wikipedia)",
+      "url": "https://da.wikipedia.org/wiki/Danmarksdemokraterne"
+    },
+    {
+      "title": "Inger Støjberg (lex.dk)",
+      "url": "https://lex.dk/Inger_Støjberg"
+    },
+    {
+      "title": "Folketingets forslag og forespørgsler fra DD (oda.ft.dk)",
+      "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B57/index.htm"
+    },
+    {
+      "title": "Folketingets afstemninger (oda.ft.dk)",
+      "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"
+    },
+    {
+      "title": "Efter vælgerlussing vil Støjberg udvide basen (Altinget, 23. okt. 2026)",
+      "url": "https://www.altinget.dk/artikel/efter-vaelgerlussing-vil-stoejberg-udvide-basen-vi-er-ikke-et-jydeparti"
+    },
+    {
+      "title": "Holstein missede ét svar (Altinget, 23. okt. 2026)",
+      "url": "https://www.altinget.dk/artikel/holstein-missede-et-svar-kender-du-stoejbergs-vaelgere-bedre-end-ham"
+    },
+    {
+      "title": "DFs benzinstunt og kampagnekasse stjal DDs momentum (Altinget, 26. mar. 2026)",
+      "url": "https://www.altinget.dk/christiansborg/artikel/dfs-benzinstunt-og-velpolstrede-kampagnekasse-stjal-danmarksdemokraternes-momentum-siger-partiprofiler"
+    },
+    {
+      "title": "Støjberg og Vanopslagh nedtoner stridigheder med V (Altinget, 12. maj 2026)",
+      "url": "https://www.altinget.dk/christiansborg/artikel/stoejberg-og-vanopslagh-nedtoner-stridigheder-med-v-vi-har-et-ultimativt-krav-og-det-er-en-blaa-statsminister"
+    },
+    {
+      "title": "I Herning søgte Støjberg tilbage til sit yndlingsemne (Altinget, 27. sep. 2025)",
+      "url": "https://www.altinget.dk/klima/artikel/i-herning-soegte-stoejberg-tilbage-til-sit-yndlingsemne-vi-har-brug-for-at-smide-den-fodlaenke"
+    },
+    {
+      "title": "Benzin og diesel bliver billigere med ny skatteaftale (ing.dk)",
+      "url": "https://ing.dk/artikel/medie-benzin-og-diesel-bliver-billigere-med-ny-skatteaftale"
+    },
+    {
+      "title": "Voxmeter-målinger (politpro.eu)",
+      "url": "https://politpro.eu/da/danmark/analyseinstitutter/voxmeter"
+    }
+  ]
+}

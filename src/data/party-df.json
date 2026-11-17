@@ -1,0 +1,537 @@
+{
+  "id": "df",
+  "letter": "O",
+  "name": "Dansk Folkeparti",
+  "short": "DF",
+  "founded": "1995",
+  "foundedNote": "Partiet blev stiftet 6. oktober 1995, da Pia Kjærsgaard og Kristian Thulesen Dahl brød ud af Fremskridtspartiet. De kritiserede partiets anarkistiske tilstand og 'alt eller intet'-politik og ville have en parlamentarisk linje med udlændingekritik og velfærd i centrum.",
+  "leader": {
+    "name": "Morten Messerschmidt",
+    "title": "Formand for Dansk Folkeparti",
+    "since": "2022",
+    "born": "1980",
+    "bio": "Messerschmidt blev valgt til formand på et ekstraordinært årsmøde i Herning i januar 2022 med 499 af 828 delegerede stemmer og tiltrådte 23. januar 2022 efter Kristian Thulesen Dahl. Han var medlem af Europa-Parlamentet fra 2009 til 2019, medlem af Folketinget 2005-2009 og igen fra 2019. Ved valget 24. marts 2026 fik han 50.819 personlige stemmer i Sjællands Storkreds, det højeste antal personlige stemmer i valget."
+  },
+  "role": "opposition",
+  "roleNote": "DF er ikke regeringsparti. Firkløverregeringen (Socialdemokratiet, SF, Moderaterne og Radikale Venstre) har været regering siden 3. juni 2026 med støtte fra Enhedslisten og Alternativet. DF har 16 mandater efter valget 2026 og forhandler enkeltsager med regeringen, senest om brændstofafgiften.",
+  "ideology": [
+    "udlændingekritisk",
+    "EU-skeptisk",
+    "velfærdsnationalistisk",
+    "ældre- og prisfokus",
+    "nationalkonservativ"
+  ],
+  "euGroup": "Patriots for Europe (partiets ene mandat i Europa-Parlamentet efter valget i 2024)",
+  "youth": {
+    "name": "Dansk Folkepartis Ungdom (DFU)",
+    "note": "DFU er partiets ungdomsorganisation. Christian Bülow blev valgt til landsformand i 2022. Aldersgrænser og kontingent for DFU er beskrevet i df-extra.json."
+  },
+  "membersCount": "under 10.000 (september 2021)",
+  "website": "https://danskfolkeparti.dk/",
+  "oneLiner": "Udlændingekritisk velfærdsparti med EU-skepsis, prisfokus og ældre i fokus. Fik 9,1 % ved valget 2026.",
+  "summary": "Dansk Folkeparti vil først og fremmest begrænse indvandringen, især fra ikke-vestlige lande, og bevare den danske velfærdsstat til dem, der har tilknytning til landet. Partiet vil have Danmark ud af de dybere dele af EU-samarbejdet og beholde kronen. Partiets mærkesager på hjemmesiden er Udlændinge, Priser, Ældre og Familie. I 2026 har DF især gjort billigere benzin og diesel til sin økonomiske profil. Forskellen til Venstre og Liberal Alliance er, at DF vægter velfærd og udlændingepolitik højere end skattelettelser og marked. Forskellen til Socialdemokratiet er, at DF vil stramme udlændingepolitikken langt mere og er EU-skeptisk. Partiet kalder sig selv 'blå bloks bløde hjerte' på sin hjemmeside.",
+  "pitch": "Vi siger det, mange tænker: Danmark skal være Danmark, og vi skal have styr på indvandringen. Vi vil have billigere benzin og diesel, flere penge til de ældre og en pension, man kan leve af. Vi vil ikke have EU's dybere samarbejde og vil beholde kronen. Vi er ikke bange for at sige det højt, og 16 mandater efter valget 2026 viser, at mange danskere er enige.",
+  "critique": "Kritikerne mener, at DF's udlændingepolitik rammer langt bredere end kriminelle og ikke-integrerede. Forslag som den retroaktive fjernelse af permanent opholdstilladelse kan ramme også lovligt bosatte og velintegrerede. De peger på, at 'remigration' er et begreb, DF har lånt fra bevægelsen Generation Identitær, og at partiets tone har ændret sig over for ikke-vestlige danskere. De siger også, at DF's skiftende standpunkter om pensionsalder og regeringsdeltagelse viser et parti, der vil have magt uden at stå ved sine løfter.",
+  "keyIssues": [
+    {
+      "title": "Udlændinge og remigration",
+      "detail": "DF har fremlagt en 22-punkts plan for remigration, som blev præsenteret før valgudskrivelsen i 2026. Den 19. marts 2026 foreslog partiet at afskaffe permanent opholdstilladelse for de fleste udlændinge, der ikke er tæt familie til en dansk statsborger. Nye tilladelser skal kun fornys med ren straffeattest og selvforsørgelse, og udlændinge uden arbejde skal kunne udvises. Kritikere og jurister peger på, at forslaget kan have retroaktiv virkning, og at det er uklart, om dansk ret tillader det."
+    },
+    {
+      "title": "Priser og afgifter på benzin og diesel",
+      "detail": "Billigere brændstof er DF's vigtigste økonomiske mærkesag i 2026. Den 8. maj 2026 lancerede partiet et borgerforslag om at sænke afgifterne på benzin og diesel og momsen til EU's minimumsniveau. Aftalen med regeringen fra 11.–12. november 2026 sænker afgiften med omkring 2 kroner pr. liter fra 2027 i et år. Den finansieres ved en senere indfasning af selskabsskatten og mellemskatten."
+    },
+    {
+      "title": "Ældre og velfærd",
+      "detail": "DF har 'Ældre' som en af fire mærkesager på sin hjemmeside med målet 'En værdig behandling af vores ældre'. Partiet har gentagne gange krævet flere penge til ældre og sundhedsvæsen og prioriterer velfærd over skattelettelser."
+    },
+    {
+      "title": "Pension og seniorpension",
+      "detail": "DF vil have en lavere pensionsalder for dem med nedslidte job og har sagt nej til at hæve pensionsalderen. Partiet er en af tre partier, der i oktober 2026 meldte ud, at de vil blokere regeringens forslag om skærpede krav til seniorpension. Regeringen regner med en besparelse på omkring 800 mio. kr. om året."
+    },
+    {
+      "title": "EU-skepsis og suverænitet",
+      "detail": "DF er EU-skeptisk. Partiet vil ikke afgive suverænitet til EU, er imod euroen og vil beholde kronen, og er imod EU-medlemskab for Tyrkiet. Partiets ene mandat i Europa-Parlamentet sidder i Patriots for Europe-gruppen. DF fik 6,37 % ved EU-valget i 2024."
+    },
+    {
+      "title": "Forsvar og Ukraine",
+      "detail": "DF støtter ikke ubegrænset hjælp til Ukraine. Partiet har sagt, at støtten til Ukraine har en 'udløbsdato', og er imod Ukraines NATO-medlemskab, så længe krigen står på. I 2025 gik Messerschmidt ind for at skalere ned den danske militære støtte. Alex Ahrendtsen er partiets forsvarsordfører."
+    },
+    {
+      "title": "Islam, tørklæde og religiøse praksisser",
+      "detail": "I marts 2026 stillede Messerschmidt krav om, at DF kun skulle indgå i en regering, hvis flere muslimer forlod Danmark, end der kom. Venstres leder Troels Lund Poulsen afviste kravet med, at religion ikke skal styre dansk indvandringspolitik."
+    }
+  ],
+  "positions": {
+    "udlaendinge": {
+      "score": 5,
+      "text": "Den strammeste linje i Folketinget. DF vil kraftigt reducere ikke-vestlig indvandring, afskaffe permanent opholdstilladelse for de fleste udlændinge uden tæt dansk familietilknytning og indføre remigration. Partiet vil også revurdere statsborgerskaber givet inden for de seneste 20 år og udvise udlændinge uden arbejde."
+    },
+    "oekonomi": {
+      "score": 3,
+      "text": "Blandet linje. DF vil sænke afgifterne på brændstof og finansiere det ved at indfase selskabsskat og mellemskat senere. Partiet vil bruge det offentlige til ældre og velfærd og er hverken et klassisk liberalt skatteparti eller et socialdemokratisk omfordelingsparti."
+    },
+    "arbejdsmarked": {
+      "score": 2,
+      "text": "Mere tryghed end arbejdsudbud. DF vil have en lavere pensionsalder for nedslidte, er imod at hæve pensionsalderen og er i oktober 2026 gået imod skærpede krav til seniorpension sammen med Venstre og Liberal Alliance. Partiet vil samtidig have, at udlændinge uden arbejde skal kunne udvises."
+    },
+    "velfaerd": {
+      "score": 2,
+      "text": "Mere offentligt, men kun til dem med tilknytning. DF kalder sig forsvarer af velfærdsstaten. Partiets forslag fra marts 2026 går ud på at udelukke udlændinge fra visse ydelser, fx førtidspension."
+    },
+    "sundhed": {
+      "score": 2,
+      "text": "Offentlig sundhed med flere midler. DF har støttet øgede udgifter til pensioner og sundhed. Partiets sundhedsordfører er Jan Herskov, der har ansvaret for sundhed og psykiatri."
+    },
+    "klima": {
+      "score": 4,
+      "text": "Prisfokus frem for hurtig omstilling. DF's klimapolitik i 2026 handler især om billigere benzin og diesel. Aftalen med regeringen i november 2026 sænker afgiften midlertidigt i ét år fra 2027. Partiet vil have, at almindelige familier ikke skal betale for en klimapolitik, de ikke har været med til at bestemme."
+    },
+    "natur_landbrug": {
+      "score": 3,
+      "text": "Frivillig beskyttelse af grundvand. Partiets miljø- og landbrugsordfører er Rune Bønnelykke, og klimaordfører er Malte Larsen. Ifølge en kronik fra Danva i marts 2026 er DF med på en frivillig model under grøn trepart, hvor landmænd og vandværker selv holder særligt sårbare grundvandsområder fri for sprøjtning. Josephine Alstrup Kofod er partiets dyrevelfærdsordfører. Partiet går ind for hårdere straffe for dyremishandling."
+    },
+    "eu": {
+      "score": 5,
+      "text": "Den mest EU-skeptiske gruppe i Folketinget. DF vil have Danmark ud af det dybere EU-samarbejde, beholde kronen, er imod euroen og er imod Tyrkiets optagelse i EU. Partiets mandat i Europa-Parlamentet sidder i Patriots for Europe-gruppen. Malte Larsen er partiets EU-ordfører, og Mette Thiesen er udenrigsordfører."
+    },
+    "forsvar": {
+      "score": 3,
+      "text": "Skeptisk over for mere hjælp til Ukraine, men ikke imod dansk forsvar som sådan. DF har sagt, at støtten til Ukraine har en udløbsdato, og Messerschmidt gik i 2025 ind for at skalere ned den militære støtte. Alex Ahrendtsen er partiets forsvarsordfører."
+    },
+    "ret": {
+      "score": 4,
+      "text": "Hårdere udvisning og strengere krav til udlændinge. Forslagene fra marts 2026 kræver ren straffeattest for at få fornyet opholdstilladelse. I november 2026 har 16 DF-medlemmer fremsat B 16 og B 17, der vil stramme adgangen til dansk indfødsret og gøre det muligt at frakende indfødsret for kriminalitet. Anders Vistisen er finans- og retsordfører. Partiets hjemmeside lover 'mere tryghed i hverdagen'."
+    },
+    "bolig": {
+      "score": 3,
+      "text": "Mærkesagen Priser er i 2026 knyttet til brændstof og ikke til boliger. De seneste dokumenterede boligudspil fra DF er fra 2018 og 2019. I 2019 foreslog partiet at fordoble puljen til renovering af almene boliger fra 10 til 20 mia. kr., finansieret af Landsbyggefonden. I 2018 afviste DF, at almindelige lejere skulle betale for regeringens 'ghettoudspil'. Christian Kirk er partiets boligordfører."
+    },
+    "uddannelse": {
+      "score": 3,
+      "text": "Josephine Alstrup Kofod er partiets børne- og undervisningsordfører. Alex Ahrendtsen var i 2024 undervisningsordfører og foreslog, at skolerne selv kan give karakterer fra 4. klasse. I 2026 har DF fremsat B 42, der vil opdatere skolernes sikkerhedsberedskab og udarbejde undervisningsforløb om Muhammedkrisen til folkeskolen."
+    }
+  },
+  "history": [
+    {
+      "year": "1995",
+      "event": "6. oktober: Pia Kjærsgaard og Kristian Thulesen Dahl bryder med Fremskridtspartiet, og Dansk Folkeparti stiftes. Det første landsmøde i Vissenbjerg 1. juni 1996 valgte Kjærsgaard som formand."
+    },
+    {
+      "year": "2001",
+      "event": "DF får 12,0 % og 22 mandater og støtter Venstre-Konservative-regeringen under Anders Fogh Rasmussen uden at gå ind i regeringen, mod at udlændingepolitikken strammes. Støtten holder til valget i 2011."
+    },
+    {
+      "year": "2007",
+      "event": "Folketingsvalget giver 13,9 % og 25 mandater. Det er partiets højeste resultat før 2015."
+    },
+    {
+      "year": "2011",
+      "event": "12,3 % og 22 mandater. Det er første tilbagegang efter fremgangen fra 2007."
+    },
+    {
+      "year": "2015",
+      "event": "DF får 21,1 % og 37 mandater, partiets bedste valg nogensinde, og bliver det næststørste parti i Folketinget."
+    },
+    {
+      "year": "2019",
+      "event": "8,7 % og 16 mandater, et tab på 21 mandater. DF rykker ned på tredjepladsen og går i opposition."
+    },
+    {
+      "year": "2022",
+      "event": "Januar: Morten Messerschmidt vinder formandsvalget på et ekstraordinært årsmøde i Herning med 499 af 828 delegerede stemmer og tiltræder 23. januar efter Kristian Thulesen Dahl."
+    },
+    {
+      "year": "2022",
+      "event": "Folketingsvalget giver partiets værste resultat: 2,6 % og 5 mandater. Peter Skaarup og flere andre folketingsmedlemmer forlader partiet og slutter sig til Danmarksdemokraterne."
+    },
+    {
+      "year": "2024",
+      "event": "Europa-Parlamentsvalget giver 6,37 % og 1 mandat. DF tilslutter sig Patriots for Europe-gruppen efter valget."
+    },
+    {
+      "year": "2026",
+      "event": "24. marts: DF får 9,1 % og 16 mandater, vokser i alle 92 kredse og mere end tredobler sin tilslutning fra 2022. Messerschmidt siger efter valget, at kampagnen fortsætter, og at valget var et delmål for ham."
+    }
+  ],
+  "people": [
+    {
+      "name": "Morten Messerschmidt",
+      "role": "Formand",
+      "note": "Formand siden 23. januar 2022 og medlem af Folketinget for Sjællands Storkreds. Han har bestemt partiets kurs efter 2022, herunder den hårdere remigrationslinje. Han var DF's politiske ordfører, indtil Peter Kofod overtog rollen 14. april 2026."
+    },
+    {
+      "name": "Alex Ahrendtsen",
+      "role": "Gruppeformand (fra april 2026) og forsvarsordfører",
+      "note": "Overtog gruppeformandsposten fra Peter Kofod i april 2026, ifølge Altinget. Han er partiets forsvarsordfører og var tidligere undervisningsordfører."
+    },
+    {
+      "name": "Peter Kofod",
+      "role": "Politisk ordfører (fra 14. april 2026), på barsel fra oktober 2026",
+      "note": "Var gruppeformand fra november 2022 og overtog posten som politisk ordfører i april 2026. Han er gået på barsel fra oktober 2026, og Christian Kirk har overtaget posten i hans sted. Derfor står han ikke på gruppens liste lige nu."
+    },
+    {
+      "name": "Christian Kirk",
+      "role": "Stedfortræder for Peter Kofod, boligordfører",
+      "note": "Er suppleant for Peter Kofod i Folketinget og har midlertidigt overtaget rollen som politisk ordfører under barslen. Han er partiets boligordfører."
+    },
+    {
+      "name": "Mikkel Bjørn",
+      "role": "Udlændinge-, indfødsrets- og integrationsordfører",
+      "note": "Er partiets ordfører for udlændinge, indfødsret og integration. Han er en af hovedpersonerne bag forslagene om at frakende indfødsret for kriminalitet og om at ændre adgangen til statsborgerskab."
+    },
+    {
+      "name": "Anders Vistisen",
+      "role": "Finans- og retsordfører og chief whip",
+      "note": "Er partiets finans- og retsordfører og chief whip ifølge Altinget i juli 2026. Han har fremsat forslaget om at indlede en opløsningssag mod Hizb ut-Tahrir og vil ifølge Altinget have DF op på omkring 20 % ved næste valg."
+    },
+    {
+      "name": "Pia Kjærsgaard",
+      "role": "Stifter og tidligere formand (1996-2012)",
+      "note": "Var DF's første formand og den person, der byggede partiets udlændingelinje op. Hun annoncerede i september 2024, at hun ikke genopstiller, og hun står ikke på DF's folketingsliste efter valget i 2026. Hun er regionsrådsmedlem i Region Østdanmark."
+    }
+  ],
+  "voters": {
+    "summary": "DF's fremgang i 2026 kom især fra andre partiers vælgere. Ifølge TV 2 i oktober 2026 har 11 % af Liberal Alliances vælgere, 19 % af Danmarksdemokraternes vælgere og 8 % af Venstres vælgere skiftet til DF, og 67 % af Borgernes Parti's vælgere siger, at de nu stemmer DF. 91 % af dem, der stemte DF i marts, vil gøre det igen. Anders Vistisen peger på SF- og socialdemokratiske vælgere som næste målgruppe (Altinget, 16. juli 2026).",
+    "strongholds": "Messerschmidt blev valgt i Sjællands Storkreds, og DF gik frem i alle 92 kredse ved valget i 2026.",
+    "demographics": "Der er ikke offentliggjort en fordeling af DF's vælgere efter alder, køn eller uddannelse for valget i 2026 i de kilder, der ligger til grund for denne fil. Valgundersøgelser fra DR, TV 2 eller Epinion efter valget vil kunne give den fordeling."
+  },
+  "election2026": {
+    "note": "Ved folketingsvalget 24. marts 2026 fik DF 9,1 % og 16 mandater, op fra 2,6 % og 5 mandater i 2022. DF var ifølge Altinget den klare vinder og gik frem i alle 92 kredse. Siden valget er vælgere kommet fra Venstre, Liberal Alliance, Danmarksdemokraterne og Borgernes Parti. Messerschmidt kaldte valget et delmål, og DF er ikke med i firkløverregeringen."
+  },
+  "strengths": [
+    "Et klart og genkendeligt budskab om udlændinge, priser og ældre, som mange vælgere forstår.",
+    "Et tydeligt budskab, der er let at dele, også på sociale medier.",
+    "Faste lokalforeninger og storkredsforeninger med vedtægter, der gør organisationen forudsigelig for medlemmer og vælgere.",
+    "Et stærkt resultat i 2026 med 16 mandater, lige så mange som Liberal Alliance, og fremgang i alle kredse."
+  ],
+  "weaknesses": [
+    "Stor afhængighed af formanden, og flere interne opgør om kurs og personer siden 2021.",
+    "Juridisk tvivl om flere forslag, herunder retroaktive ændringer af opholdstilladelser.",
+    "Kritikere, også borgerlige som Simon Emil Ammitzbøll-Bille i Altinget, mener, at DF er blevet et fløjparti, der har mistet indflydelse på finansloven.",
+    "Uklare svar på konkrete spørgsmål, fx om pensionsalderen, hvor DF ikke kunne give et entydigt svar i en Altinget-artikel fra 2026."
+  ],
+  "internalTensions": [
+    {
+      "title": "Uro om udlændingepolitikken i 2021",
+      "detail": "Den 19. september 2021 skrev Altinget, at Pia Kjærsgaard ærgrede sig over uro i partiet og spurgte, hvorfor 'vores allervigtigste mærkesag' skulle sættes spørgsmålstegn ved. Hun ville have stoppet den offentlige debat om partiets udlændingelinje, fordi den ifølge hende skadede målingerne."
+    },
+    {
+      "title": "Formandsvalget i 2022",
+      "detail": "Før Messerschmidt blev valgt i januar 2022, var der et opgør mellem ham og Martin Henriksen. Kjærsgaard støttede Messerschmidt, mens Marie Krarup og Bent Bøgsted støttede Henriksen. Henriksen sagde, at Kjærsgaard ikke ville være med i ledelsen, hvis han blev formand."
+    },
+    {
+      "title": "Kritik af kursen i 2024",
+      "detail": "Simon Emil Ammitzbøll-Bille, tidligere LA-politiker, skrev i Altinget 28. august 2024, at Messerschmidt flytter DF længere til højre og har 'soldet arven op' efter Kjærsgaard. Det er en meningsytring fra en modstander, men den viser den indre debat om kursen."
+    },
+    {
+      "title": "Rollefordelingen i 2026",
+      "detail": "Den 14. april 2026 overtog Peter Kofod den politiske ordførerpost fra Messerschmidt. Altinget skrev, at det er nyt for DF at adskille ordførerposten fra formandsposten. I oktober 2026 gik Kofod på barsel, og Christian Kirk overtog posten."
+    }
+  ],
+  "typicalArguments": [
+    {
+      "claim": "Vi har fået tilliden, fordi vi siger det, andre ikke tør. Når danskerne giver os 16 mandater, er det et mandat til at stramme udlændingepolitikken.",
+      "counter": "Vælgerne har stemt på DF's prismål og ældrepolitik, ikke nødvendigvis på remigration. Et forslag om at fjerne permanent ophold for lovlige borgere, der har boet i landet i årevis, er ikke en del af et klart valgløfte."
+    },
+    {
+      "claim": "Vi vil bare have, at den, der kommer hertil, bidrager til velfærdsstaten, og at kriminelle udlændinge skal ud.",
+      "counter": "Forslag, der rammer alle med udenlandsk statsborgerskab eller opholdstilladelse, rammer også mange, der aldrig har begået kriminalitet. Kriminalitetsstatistikken fordelt på herkomst bør læses med hensyn til alder, køn og social baggrund."
+    },
+    {
+      "claim": "Vi er ikke imod folk. Vi er imod, at Danmark bliver for stort og for forskelligt for vores velfærd.",
+      "counter": "Det er svært at se forskellen i praksis, når forslagene retter sig mod permanent ophold, statsborgerskab og tørklæder. Kritikere siger, at DF's retorik rammer danskere med udenlandsk baggrund, der er velintegrerede."
+    },
+    {
+      "claim": "Vi har sænket afgifterne på benzin og diesel, så almindelige familier får mere i lønningsposen.",
+      "counter": "Afgiftssænkningen er midlertidig i ét år og skal finansieres ved en senere indfasning af selskabsskat og mellemskat. Det betyder, at pengene skal hentes andre steder, og det rammer også pensionister, som Faglige Seniorer har peget på."
+    },
+    {
+      "claim": "Vi er det eneste borgerlige parti, der vil have en lavere pensionsalder for dem, der er nedslidte.",
+      "counter": "Modstandere argumenterer for, at en højere pensionsalder er nødvendig for at holde velfærdsstaten bæredygtig. DF har ikke givet et klart svar på, om partiet selv ville hæve pensionsalderen, hvis det sad i en regering."
+    }
+  ],
+  "vsDF": null,
+  "vocabulary": [
+    {
+      "term": "Remigration",
+      "meaning": "DF's betegnelse for at få udlændinge, der ikke er integreret eller ikke har arbejde, til at forlade Danmark. Kritikere peger på, at begrebet kommer fra bevægelsen Generation Identitær."
+    },
+    {
+      "term": "Mærkesag",
+      "meaning": "En sag, partiet prioriterer højest. DF's hjemmeside nævner fire: Udlændinge, Priser, Ældre og Familie."
+    },
+    {
+      "term": "Blå bloks bløde hjerte",
+      "meaning": "DF's selvbeskrivelse på hjemmesiden. Partiet ser sig selv som den blå blok's velfærds- og folkelige side."
+    },
+    {
+      "term": "Ikke de fremmede, ikke EU, ikke eksperterne - danskerne!",
+      "meaning": "Et slogan fra Messerschmidt, som står i banneret på DF's hjemmeside. Det sætter danskerne op mod både udlændinge, EU og eksperter."
+    },
+    {
+      "term": "Fløjparti",
+      "meaning": "Et parti, der står uden for regeringsdannelse og finanslov, men som påvirker debatten. Det er Ammitzbøll-Bille's ord om DF i 2024."
+    },
+    {
+      "term": "Borgerforslag",
+      "meaning": "Et forslag, der kræver 50.000 underskrifter for at komme til behandling i Folketinget. DF lancerede et sådant om brændstofafgifter den 8. maj 2026."
+    }
+  ],
+  "funFacts": [
+    "DF's 2015-resultat på 21,1 % og 37 mandater er partiets bedste valg nogensinde og gjorde det til det næststørste parti i Folketinget. I 2022 faldt det til 2,6 % og 5 mandater.",
+    "Partiet blev stiftet i 1995, efter at to folketingsmedlemmer brød ud af Fremskridtspartiet i en konflikt om kurs og ledelse.",
+    "Ved valget i 2026 fik Messerschmidt 50.819 personlige stemmer i Sjællands Storkreds, det højeste antal personlige stemmer i valget."
+  ],
+  "currentDebates": [
+    {
+      "title": "Afgiftssænkning på benzin og diesel",
+      "date": "2026-11-12",
+      "topic": "klima",
+      "summary": "Regeringen og DF har indgået en aftale, der sænker afgiften på benzin og diesel med omkring 2 kroner pr. liter fra 2027. Sænkningen gælder i ét år og finansieres ved en senere indfasning af selskabsskatten og mellemskatten. Enhedslisten og Alternativet ville ikke støtte regeringens skatteforslag, og aftalen kom i stedet med DF.",
+      "positions": [
+        {
+          "who": "Morten Messerschmidt (DF)",
+          "says": "Vi har lavet en aftale med regeringen. Mener, at det er danskerne, der har fået en sejr."
+        },
+        {
+          "who": "Faglige Seniorer",
+          "says": "Aftalen kan ramme pensionister, og Faglige Seniorer har peget på det."
+        }
+      ],
+      "whyItMatters": "Det er DF's største konkrete resultat efter valget og viser, hvordan partiet bruger prismål til at få indflydelse uden at være i regering.",
+      "sources": [
+        {
+          "title": "nyheder.dk: Afgift på benzin og diesel sænkes med to kroner i ny skatteaftale (12. november 2026)",
+          "url": "https://www.nyheder.dk/nyheder/saenker-afgifter-pa-benzin-og-diesel/2539451"
+        },
+        {
+          "title": "ing.dk: Benzin og diesel bliver billigere med ny skatteaftale",
+          "url": "https://ing.dk/artikel/medie-benzin-og-diesel-bliver-billigere-med-ny-skatteaftale"
+        },
+        {
+          "title": "Dansk Folkeparti: forside med nyheder",
+          "url": "https://danskfolkeparti.dk/"
+        }
+      ]
+    },
+    {
+      "title": "Frakendelse af indfødsret for kriminelle og snyd med statsborgerskab",
+      "date": "2026-11-13",
+      "topic": "udlaendinge",
+      "summary": "DF har fremsat B 17, der beder regeringen om at frakende dansk indfødsret på grund af kriminalitet, og B 16, der vil forhindre, at man kan snyde sig til dansk statsborgerskab. Begge forslag er fremsat af alle 16 DF-medlemmer af Folketinget, og de er registreret 13. november 2026. Forslag om indfødsret behandles i Indfødsretsudvalget, og regeringens stilling til forslagene er ikke angivet her.",
+      "positions": [
+        {
+          "who": "Dansk Folkeparti",
+          "says": "Forslagene skal sikre, at kriminelle og dem, der har snydt sig til statsborgerskab, kan fratages det."
+        },
+        {
+          "who": "Kritikere",
+          "says": "Kritikere peger på, at forslag om at fratage statsborgerskab kan ramme også dem, der er født i Danmark eller har boet her længe."
+        }
+      ],
+      "whyItMatters": "Det er DF's mest konkrete juridiske forslag om indfødsret i 2026, og det vil blive debatteret i Indfødsretsudvalget.",
+      "sources": [
+        {
+          "title": "Folketingets sagsdata: B 17, frakendelse af indfødsret på grund af kriminalitet",
+          "url": "https://oda.ft.dk/api/Sag(106183)"
+        },
+        {
+          "title": "Folketingets sagsdata: B 16, snyd med dansk statsborgerskab",
+          "url": "https://oda.ft.dk/api/Sag(106185)"
+        }
+      ]
+    },
+    {
+      "title": "Opløsningssag mod Hizb ut-Tahrir",
+      "date": "2026-11-13",
+      "topic": "andet",
+      "summary": "DF har fremsat B 60, der beder regeringen om at indlede en opløsningssag mod Hizb ut-Tahrir efter grundlovens § 78, stk. 2. Anders Vistisen er først på listen over forslagsstillere, og flere DF-medlemmer er medforslagsstillere. Danmarksdemokraterne har et parallelt forslag, B 61, om et forbud mod Hizb ut-Tahrir, fremsat af bl.a. Inger Støjberg.",
+      "positions": [
+        {
+          "who": "Anders Vistisen (DF)",
+          "says": "DF vil have en opløsningssag mod Hizb ut-Tahrir, så bevægelsen kan forbydes efter grundlovens regler."
+        },
+        {
+          "who": "Danmarksdemokraterne",
+          "says": "Partiet har fremsat et parallelt forslag om et direkte forbud mod Hizb ut-Tahrir."
+        }
+      ],
+      "whyItMatters": "Forslaget er et eksempel på, hvordan DF og Danmarksdemokraterne konkurrerer om de samme vælgere på udlændinge- og sikkerhedsområdet.",
+      "sources": [
+        {
+          "title": "Folketingets sagsdata: B 60, opløsningssag mod Hizb ut-Tahrir",
+          "url": "https://oda.ft.dk/api/Sag(106714)"
+        },
+        {
+          "title": "Folketingets sagsdata: B 61, forbud mod Hizb ut-Tahrir",
+          "url": "https://oda.ft.dk/api/Sag(71525)"
+        }
+      ]
+    },
+    {
+      "title": "Undervisning om Muhammedkrisen og skolernes sikkerhed",
+      "date": "2026-11-12",
+      "topic": "uddannelse",
+      "summary": "DF har fremsat B 42, der beder regeringen om at opdatere skolernes sikkerhedsberedskabsplaner og udarbejde undervisningsforløb om Muhammedkrisen til folkeskolen. Josephine Alstrup Kofod er en af forslagsstillerne, sammen med Helena Artmann Andresen, Lise Bertelsen og Marlene Harpsøe.",
+      "positions": [
+        {
+          "who": "Josephine Alstrup Kofod (DF)",
+          "says": "Forslaget skal sikre, at skolerne er forberedt, og at eleverne lærer om Muhammedkrisen."
+        }
+      ],
+      "whyItMatters": "Forslaget viser, hvordan DF bruger skolepolitik til at sætte fokus på islam, ytringsfrihed og sikkerhed for lærere og elever.",
+      "sources": [
+        {
+          "title": "Folketingets sagsdata: B 42, skolernes sikkerhedsberedskab og undervisningsforløb om Muhammedkrisen",
+          "url": "https://oda.ft.dk/api/Sag(106411)"
+        }
+      ]
+    },
+    {
+      "title": "Regeringens finanslov for 2027 og seniorpension",
+      "date": "2026-10-16",
+      "topic": "arbejdsmarked",
+      "summary": "Regeringens forslag til finanslov for 2027 (L 73) indeholder skærpede krav til seniorpension, som ville gøre det sværere at få seniorpension, og som ifølge regeringen sparer omkring 800 mio. kr. om året. Venstre, Liberal Alliance og DF har udtalt, at de vil blokere forslaget.",
+      "positions": [
+        {
+          "who": "Dansk Folkeparti",
+          "says": "DF er imod de skærpede krav til seniorpension og vil blokere regeringens forslag på det område."
+        },
+        {
+          "who": "Regeringen",
+          "says": "Regeringen mener, at de skærpede krav er nødvendige for at begrænse udgifterne til seniorpension."
+        }
+      ],
+      "whyItMatters": "Finansloven er den største politiske prøve i Folketinget, og DF's stemmer er en af de afgørende faktorer for, om regeringen får sin finanslov igennem.",
+      "sources": [
+        {
+          "title": "Arbejderen: Finanslovsforslaget for 2027 indeholder både store investeringer og hårde nedskæringer (16. oktober 2026)",
+          "url": "https://www.arbejderen.dk/indland/finanslovsforslaget-for-2027-indeholder-baade-store-investeringer-og-haarde-nedskaeringer/"
+        },
+        {
+          "title": "Altinget: L 73 (Finansministeriet), 9. oktober 2026",
+          "url": "https://www.altinget.dk/artikel/l-73-finansministeriet"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dansk Folkeparti: forside",
+      "url": "https://danskfolkeparti.dk/"
+    },
+    {
+      "title": "Dansk Folkeparti: politik og ordførere",
+      "url": "https://danskfolkeparti.dk/politik"
+    },
+    {
+      "title": "Dansk Folkeparti: bliv medlem",
+      "url": "https://danskfolkeparti.dk/bliv-medlem"
+    },
+    {
+      "title": "Dansk Folkeparti: 'DF brager frem til valget 2026'",
+      "url": "https://danskfolkeparti.dk/nyheder/df-brager-frem-til-valget-2026/"
+    },
+    {
+      "title": "Wikipedia (da): Dansk Folkeparti",
+      "url": "https://da.wikipedia.org/wiki/Dansk_Folkeparti"
+    },
+    {
+      "title": "Wikipedia (da): Morten Messerschmidt",
+      "url": "https://da.wikipedia.org/wiki/Morten_Messerschmidt"
+    },
+    {
+      "title": "Wikipedia (en): Danish People's Party",
+      "url": "https://en.wikipedia.org/wiki/Danish_People%27s_Party"
+    },
+    {
+      "title": "Wikipedia (en): Peter Kofod",
+      "url": "https://en.wikipedia.org/wiki/Peter_Kofod"
+    },
+    {
+      "title": "Altinget: Peter Kofod erstatter Morten Messerschmidt som politisk ordfører i DF (14. april 2026)",
+      "url": "https://www.altinget.dk/christiansborg/artikel/peter-kofod-erstatter-morten-messerschmidt-som-politisk-ordfoerer-i-df"
+    },
+    {
+      "title": "Altinget: DF's politiske ordfører går på barsel (9. oktober 2026)",
+      "url": "https://www.altinget.dk/artikel/dfs-politiske-ordfoerer-gaar-paa-barsel"
+    },
+    {
+      "title": "Altinget: Overblik over DF's ordførerskaber (23. april 2026)",
+      "url": "https://www.altinget.dk/christiansborg/artikel/overblik-dansk-folkeparti-praesenterer-ordfoererskaber"
+    },
+    {
+      "title": "Altinget: Peter Kofod bliver gruppeformand i DF (8. november 2022)",
+      "url": "https://www.altinget.dk/artikel/peter-kofod-bliver-gruppeformand-i-df"
+    },
+    {
+      "title": "Altinget: Messerschmidt blev valgets stemmesluger (25. marts 2026)",
+      "url": "https://www.altinget.dk/artikel/messerschmidt-blev-valgets-stemmesluger-kampagnen-fortsaetter-det-her-valg-var-et-delmaal-for-ham"
+    },
+    {
+      "title": "Altinget: Messerschmidts nye indpisker har en plan (16. juli 2026)",
+      "url": "https://www.altinget.dk/artikel/messerschmidts-nye-indpisker-har-en-plan-der-skal-lokke-utilfredse-sfere-og-socialdemokrater-over-til-df"
+    },
+    {
+      "title": "Altinget: Pia Kjærsgaard ærgrer sig over uro i partiet (19. september 2021)",
+      "url": "https://www.altinget.dk/artikel/pia-kjaersgaard-aergrer-sig-over-uro-i-partiet-hvorfor-skal-der-saettes-spoergsmaalstegn-ved-vores-allervigtigste-maerkesag"
+    },
+    {
+      "title": "Altinget: Efter formandsopgøret venter et endnu mere destruktivt drama i DF (11. januar 2022)",
+      "url": "https://www.altinget.dk/artikel/efter-formandsopgoeret-venter-et-endnu-mere-destruktivt-drama-i-dansk-folkeparti"
+    },
+    {
+      "title": "Altinget: Messerschmidt svigter Pia Kjærsgaard (28. august 2024)",
+      "url": "https://www.altinget.dk/artikel/messerschmidt-svigter-pia-kjaersgaard"
+    },
+    {
+      "title": "Altinget: Pia Kjærsgaard genopstiller ikke til Folketinget (13. september 2024)",
+      "url": "https://www.altinget.dk/artikel/pia-kjaersgaard-genopstiller-ikke-til-folketinget"
+    },
+    {
+      "title": "Altinget: Når DF taler om remigration, henter de ordene fra en højreradikal bevægelse (9. marts 2026)",
+      "url": "https://www.altinget.dk/etik/artikel/naar-dansk-folkeparti-taler-om-remigration-henter-de-ordene-fra-kontroversiel-hoejreradikal-bevaegelse"
+    },
+    {
+      "title": "The Local: Danish far-right party wants to strip permanent residency (19. marts 2026)",
+      "url": "https://www.thelocal.dk/20260319/danish-far-right-party-wants-to-strip-permanent-residency-from-foreign-nationals"
+    },
+    {
+      "title": "TV 2: Venstre bløder vælgere til to overraskende partier (oktober 2026)",
+      "url": "https://nyheder.tv2.dk/politik/2026-10-23-venstre-bloeder-vaelgere-til-to-overraskende-partier"
+    },
+    {
+      "title": "Arbejderen: Finanslovsforslaget for 2027 (16. oktober 2026)",
+      "url": "https://www.arbejderen.dk/indland/finanslovsforslaget-for-2027-indeholder-baade-store-investeringer-og-haarde-nedskaeringer/"
+    },
+    {
+      "title": "nyheder.dk: Afgift på benzin og diesel sænkes med to kroner (12. november 2026)",
+      "url": "https://www.nyheder.dk/nyheder/saenker-afgifter-pa-benzin-og-diesel/2539451"
+    },
+    {
+      "title": "Folketingets sagsdata (oda.ft.dk): B 16, B 17, B 42, B 60, B 61",
+      "url": "https://oda.ft.dk/api/Sag(106183)"
+    },
+    {
+      "title": "Altinget: DF bløder medlemmer (18. september 2021)",
+      "url": "https://www.altinget.dk/artikel/df-bloeder-medlemmer-rammer-laveste-antal-i-14-aar"
+    },
+    {
+      "title": "Altinget: DF vil give karakterer fra 4. klasse (9. februar 2024)",
+      "url": "https://www.altinget.dk/artikel/df-vil-give-karakterer-fra-4-klasse"
+    },
+    {
+      "title": "Tekniq: DF vil fordoble pulje til renovering (11. oktober 2019)",
+      "url": "https://www.tekniq.dk/nyheder/df-vil-fordoble-pulje-til-renovering/"
+    },
+    {
+      "title": "Altinget: DF: Ghetto-regning skal ikke bare sendes videre til lejerne (17. april 2018)",
+      "url": "https://www.altinget.dk/artikel/df-ghetto-regning-skal-ikke-bare-sendes-videre-til-lejerne"
+    },
+    {
+      "title": "Altinget/Danva: Sprøjteforbud (18. marts 2026)",
+      "url": "https://www.altinget.dk/foedevarer/artikel/danva-massivt-vaelgerflertal-vil-have-sproejteforbud"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "argumentBank": [
+    {
+      "topic": "udlaendinge",
+      "question": "Er 'remigration' bare et pænt ord for at sende folk ud af landet, også dem der er her lovligt og har boet her i årevis?",
+      "dfPosition": "DF vil have en markant lavere indvandring, især fra ikke-vestlige lande, og en remigrationspolitik, der får flere udlændinge til at vende tilbage. Partiets 22-punkts plan blev præsenteret kort før valget i 2026. Den 19. marts 2026 foreslog DF, at permanent opholdstilladelse kun gives til udlændinge tæt knyttet til en dansk statsborger, og at alle andre får fornyelige tilladelser, der kræver ren straffeattest og selvforsørgelse.",
+      "dfBestArgument": "Danske borgere har ret til at bestemme, hvor mange der kommer til landet, og hvem der får lov til at blive. Velfærdsstaten bygger på, at de, der bor her, også bidrager til den. Hvis et samfund ikke kan styre sin indvandring, mister det tilliden, og så rammer det også dem, der har integreret sig godt og skal konkurrere med dem, der ikke har.",
+      "bestCounter": "Forslaget om at fjerne permanent ophold for mange lovligt bosatte er retroaktivt, og det er uklart, om dansk ret tillader det. Det rammer også dem, der har fået opholdet efter mange års lovlig ophold, og som er i arbejde og uden kriminalitet. Kritikere mener, at begrebet 'remigration' er lånt fra bevægelsen Generation Identitær. En kronikør i Altinget (9. marts 2026) hævder, at næsten halvdelen af DF's forslag kan genfindes i en liste, bevægelsen sendte til Folketingets medlemmer i 2020.",
+      "dfReply": "Vi har ikke en retroaktiv hensigt. Vi vil have en model, der gør det tydeligt, hvem der kan blive. De fleste, der har boet her længe og passer deres arbejde og er uden kriminalitet, har ikke noget at frygte. Vi vil have, at Folketinget tager ansvar for indvandringen, og så kan vi diskutere, hvordan det konkret gøres. Hvad angår ordet, er det et begreb, der bruges i den offentlige debat, og vi lader os ikke bestemme af dem, der vil bruge det som skræmmebillede.",
+      "facts": [
+        {
+          "fact": "Den 19. marts 2026 foreslog DF, at permanent opholdstilladelse skal afskaffes for de fleste udlændinge, der ikke er tæt knyttet til en dansk statsborger, og at gældende tilladelser kan trækkes tilbage retroaktivt. DF havde ikke et tal for, hvor mange der ville blive ramt, og det er uklart, om loven tillader det.",
+          "source": {"title": "The Local: Danish far-right party wants to strip permanent residency from foreign nationals (19. marts 2026)", "url": "https://www.thelocal.dk/20260319/danish-far-right-party-wants-to-strip-permanent-residency-from-foreign-nationals"}
+        },
+        {
+          "fact": "DF præsenterede en 22-punkts plan for remigration kort før valgudskrivelsen i 2026. Kronikøren Mathias Hee Pedersen hævder, at næsten halvdelen af planens punkter kan genfindes i en liste med 30 forslag, som bevægelsen Generation Identitær sendte til alle folketingsmedlemmer i 2020.",
+          "source": {"title": "Altinget: Når DF taler om remigration, henter de ordene fra en højreradikal bevægelse (9. marts 2026)", "url": "https://www.altinget.dk/etik/artikel/naar-dansk-folkeparti-taler-om-remigration-henter-de-ordene-fra-kontroversiel-hoejreradikal-bevaegelse"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF vil 'smide alle indvandrere ud', og det er lige så forkert at sige, at DF kun vil have kriminelle ud. DF's konkrete forslag i marts 2026 rammer særligt permanente opholdstilladelser og statsborgerskab. Forslaget er et forslag, ikke en lov."
+    },
+    {
+      "topic": "ret",
+      "question": "Hvad siger tallene om udlændinge og kriminalitet, og hvorfor skal DF så stramme så meget?",
+      "dfPosition": "DF mener, at udlændinge med kriminelle domme skal udvises, og at der skal være ren straffeattest for at blive i landet. Mikkel Bjørn og Anders Vistisen har i november 2026 fremsat forslag om at frakende indfødsret for kriminalitet (B 17).",
+      "dfBestArgument": "Staten har en pligt til at beskytte borgerne, og en udvisning af dem, der bryder loven, er både retfærdig og logisk. Tilliden til retssystemet falder, hvis man ikke tager udvisning alvorligt.",
+      "bestCounter": "Forskelle i kriminalitet forklares i høj grad af alder, køn, social baggrund og bopæl, og når man tager højde for det, bliver forskellen mindre. Forslag, der rammer alle med udenlandsk statsborgerskab, rammer desuden dem, der aldrig har begået kriminalitet. Justitsministeriets rapport 'Kriminalitet og herkomst 2023' er et officielt grundlag for debatten.",
+      "dfReply": "Vi siger ikke, at alle udlændinge er kriminelle. Vi siger, at de, der er dømt, skal ud, og at det ikke må være svært at få det gennemført. Tallene viser, at der er et problem, og vi kan ikke løse det ved at lade være med at kigge på dem. Hvis kriminaliteten er højere, skal vi gøre noget ved det, uanset om forklaringen er alder, køn eller bopæl.",
+      "facts": [
+        {
+          "fact": "Justitsministeriet har udgivet rapporten 'Kriminalitet og herkomst 2023', som ser på kriminalitet fordelt på herkomst og er en af de officielle kilder til debatten.",
+          "source": {"title": "Justitsministeriet: Kriminalitet og herkomst 2023 (pdf)", "url": "https://www.justitsministeriet.dk/wp-content/uploads/2025/05/Kriminalitet-og-herkomst-2023-WT.pdf"}
+        },
+        {
+          "fact": "B 17 fra DF, 'frakendelse af indfødsret på grund af kriminalitet', blev registreret 13. november 2026 og er fremsat af 16 DF-medlemmer, herunder Mikkel Bjørn og Anders Vistisen.",
+          "source": {"title": "Folketingets sagsdata: B 17 (oda.ft.dk)", "url": "https://oda.ft.dk/api/Sag(106183)"}
+        }
+      ],
+      "pitfall": "Den ene side siger, at 'udlændinge begår mest kriminalitet', og den anden siger, at 'der er ingen forskel'. Begge dele er for skarpe. Forskellen i de officielle tal er reel, men den skal forklares med alder, køn og social baggrund. Tjek altid, om der er tale om dømte, sigtede eller anmeldte, og hvilken periode tallet dækker."
+    },
+    {
+      "topic": "udlaendinge",
+      "question": "DF siger, at de ikke er imod folk, der er integreret. Men hvad med velintegrerede danskere med udenlandsk baggrund, som føler sig forkert set? Er DF imod dem?",
+      "dfPosition": "DF hævder, at partiet ikke er imod enkeltpersoner, men imod at Danmark bliver for forskelligt, og at integrationen mislykkes. Partiet taler om kriminelle og ikke-integrerede. DF's forslag fra marts 2026 om permanent ophold og statsborgerskab rammer ifølge partiet systemet, ikke enkeltpersoner.",
+      "dfBestArgument": "Der findes mange velintegrerede danskere med udenlandsk baggrund, og de bidrager til samfundet. Men en lov skal laves til alle, og når man kun kigger på den enkelte, mister man overblikket. Hvis vi ikke styrer indvandringen, bliver integrationen sværere for alle, også for dem, der allerede har gjort det godt.",
+      "bestCounter": "Forslagene rammer velintegrerede, fordi de er bygget op om opholdstid, statsborgerskab og ydelser, ikke om integration i praksis. Den nuværende ordning kræver allerede 4 til 8 års lovligt ophold til permanent ophold, og borgere med en fængselsstraf over seks måneder kan ikke få statsborgerskab. Hvis DF vil stramme yderligere, rammer det også dem, der har været i arbejde i årevis.",
+      "dfReply": "Vi er ikke imod dem. Vi er imod, at man kan blive dansk og have ret til at blive her, uden at have vist, at man vil være her. Hvis man har et job, er ren i straffeattesten og bidrager, så har man ikke noget at frygte. De, der har det hårdt, er dem, der ikke passer ind, og det er dem, vi vil have fokus på.",
+      "facts": [
+        {
+          "fact": "Den nuværende regel er permanent ophold efter 4 til 8 års lovligt ophold alt efter forhold. Statsborgerskab nægtes til personer med en fængselsstraf over seks måneder, og ansøgere skal have arbejdet fuld tid i mindst 3,5 af de seneste 4 år.",
+          "source": {"title": "The Local: Danish far-right party wants to strip permanent residency from foreign nationals (19. marts 2026)", "url": "https://www.thelocal.dk/20260319/danish-far-right-party-wants-to-strip-permanent-residency-from-foreign-nationals"}
+        },
+        {
+          "fact": "Knap 4.800 syrere har fået permanent opholdstilladelse siden 2015, og 1.845 syrere fik statsborgerskab mellem 2014 og 2025 (Ritzau-tal, gengivet af The Local). DF's forslag vil ramme netop denne gruppe, og Anders Vistisen sagde, at den store gruppe af syrere i landet vil blive sendt hjem.",
+          "source": {"title": "The Local: Danish far-right party wants to strip permanent residency from foreign nationals (19. marts 2026)", "url": "https://www.thelocal.dk/20260319/danish-far-right-party-wants-to-strip-permanent-residency-from-foreign-nationals"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF's forslag kun rammer 'ikke-integrerede'. Forslagene handler om formelle kriterier som opholdstid, statsborgerskab og ydelser, og de rammer også velintegrerede, der ikke har dansk familie. Det er også forkert at sige, at DF slet ikke skelner: DF taler om kriminelle og 'ikke-integrerede' og skriver ren straffeattest som krav. Spørgsmålet er, om kriterierne er præcise nok til at skelne."
+    },
+    {
+      "topic": "andet",
+      "question": "Hvad er DF's holdning til islam og muslimer, og er det ikke bare islamofobi?",
+      "dfPosition": "DF fokuserer på indvandring og ikke på religion som sådan, men i marts 2026 stillede Messerschmidt krav om, at DF kun skulle indgå i en regering, hvis flere muslimer forlod Danmark, end der kom.",
+      "dfBestArgument": "DF siger, at det ikke er religionen, men integrationen og indvandringen, der er problemet. Et samfund har ret til at sætte krav til dem, der bliver borgere, og kravet om netto-udvandring er et forsøg på at få kontrol med indvandringen, der også er en demokratisk prioritet.",
+      "bestCounter": "Venstres leder Troels Lund Poulsen afviste kravet med, at religion ikke skal styre dansk indvandringspolitik. Kritikere mener, at et krav om netto-udvandring af muslimer i praksis rammer en bestemt religion, og at det er svært at adskille fra religiøs diskrimination.",
+      "dfReply": "Vi taler om indvandring og ikke om tro. Vi er ikke imod, at folk praktiserer deres religion. Vi siger, at vi vil have færre indvandrere fra lande, hvor integrationen ikke er lykkedes godt nok. Det er en politisk vurdering, ikke en religiøs.",
+      "facts": [
+        {
+          "fact": "Messerschmidt krævede i marts 2026, at DF kun skulle indgå i en regering, hvis den kunne sikre, at flere muslimske indvandrere forlod Danmark, end der kom. Venstres leder Troels Lund Poulsen afviste kravet.",
+          "source": {"title": "The Local: Danish far-right party wants to strip permanent residency from foreign nationals (19. marts 2026)", "url": "https://www.thelocal.dk/20260319/danish-far-right-party-wants-to-strip-permanent-residency-from-foreign-nationals"}
+        },
+        {
+          "fact": "Kronikøren Mathias Hee Pedersen skriver, at Messerschmidts ultimatum blev fremsat den 1. marts 2026.",
+          "source": {"title": "Altinget: Når DF taler om remigration, henter de ordene fra en højreradikal bevægelse (9. marts 2026)", "url": "https://www.altinget.dk/etik/artikel/naar-dansk-folkeparti-taler-om-remigration-henter-de-ordene-fra-kontroversiel-hoejreradikal-bevaegelse"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF vil forbyde 'islam' eller 'muslimer' i Danmark. DF's konkrete forslag handler om indvandring og opholdstid. Omvendt er det forkert at sige, at DF slet ikke har en religiøs dimension, når det drejer sig om kravet om netto-udvandring af muslimer fra marts 2026."
+    },
+    {
+      "topic": "eu",
+      "question": "Hvordan kan et parti, der vil have Danmark ud af det dybere EU-samarbejde, have en ret til at tale om Danmarks interesser?",
+      "dfPosition": "DF er EU-skeptisk og vil ikke have, at Danmark giver mere suverænitet til EU. Partiet er imod euroen, vil beholde kronen og er imod EU-medlemskab for Tyrkiet. DF mener, at de vigtige beslutninger skal tages i Folketinget og ikke i Bruxelles.",
+      "dfBestArgument": "Danske vælgere har ret til at afgøre, hvem der laver lovene i Danmark. EU's indflydelse vokser, og det er en demokratisk udfordring, når beslutninger træffes længere væk fra borgerne. Kronen har givet Danmark stabilitet, og en folkeafstemning i 2000 viste, at danskerne ikke ønskede euroen.",
+      "bestCounter": "Danmark har en undtagelse fra euroen, og de fleste danske beslutninger om EU-regler er fortsat taget i Folketinget. Erhvervslivet og eksporten er tæt knyttet til det indre marked, og en større distance kan koste jobs. Kritikere siger, at DF's EU-kritik er en parolesag, der ikke svarer på, hvad alternativet til EU er.",
+      "dfReply": "Vi vil ikke melde os ud af EU, men vi vil have, at Folketinget bestemmer mere. Det indre marked kan man godt have uden at give afkald på sin egen lovgivning. Og hvis erhvervslivet skal være med, skal de ikke være bange for, at vi tager vores beslutninger selv.",
+      "facts": [
+        {
+          "fact": "DF fik 6,37 % og 1 mandat ved Europa-Parlamentsvalget i 2024 og er i gruppen Patriots for Europe. Partiet er imod euroen, vil beholde kronen og er imod Tyrkiets EU-medlemskab.",
+          "source": {"title": "Wikipedia (en): Danish People's Party", "url": "https://en.wikipedia.org/wiki/Danish_People%27s_Party"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF vil melde Danmark ud af EU. Partiet vil have Danmark ud af de dybere dele af samarbejdet, ikke ud af EU. Og det er forkert at sige, at Danmark ingen indflydelse har i EU, fordi Danmark selv er med i beslutningsprocessen."
+    },
+    {
+      "topic": "velfaerd",
+      "question": "DF siger, at de vil passe på de ældre. Men hvordan betaler man det, når skatteprocenten skal sænkes?",
+      "dfPosition": "DF vil have mere penge til ældre og sundhed og kalder sig velfærdsstatens forsvarer. 'Ældre' er en af fire mærkesager på partiets hjemmeside, med målet 'En værdig behandling af vores ældre'. DF vil udelukke udlændinge fra visse ydelser for at beskytte velfærden for danskere.",
+      "dfBestArgument": "Det er de ældre, der har bygget Danmark, og de skal have en værdig alderdom. Hvis man lægger en stor del af udgifterne over på skatteyderne uden at sikre dem, der virkelig har brug for det, svigter man dem. Velfærden skal være til danskerne, og den må ikke blive en ydelse, der står åben for alle uanset tilknytning.",
+      "bestCounter": "Det er ikke kun et spørgsmål om vilje, men om finansiering: skatter og afgifter, der sænkes, samtidig med at udgifterne vokser, skal dækkes et andet sted. Kritikere mener, at DF's regnestykker mangler, især på finansieringssiden. Forslaget om at udelukke udlændinge fra visse ydelser rammer også ældre udlændinge, der har betalt skat.",
+      "dfReply": "Vi har prioriteret ældre over skattelettelser i vores politik, og vi vil bruge det offentlige til at sikre de ældre. Hvis der skal findes penge, skal det være ved at stramme på dem, der ikke har tilknytning, og ved at fjerne unødvendige udgifter. Vi siger også, at vi vil have ansvar for finansieringen, og vi er klar til at diskutere det.",
+      "facts": [
+        {
+          "fact": "DF's hjemmeside nævner 'En værdig behandling af vores ældre' som en af partiets fire mærkesager.",
+          "source": {"title": "Dansk Folkeparti: forside", "url": "https://danskfolkeparti.dk/"}
+        },
+        {
+          "fact": "DF har støttet øgede udgifter til pensioner og sundhed, og partiet beskriver sig som forsvarer af velfærdsstaten, som det mener skal beskyttes ved at udelukke indvandrere fra den.",
+          "source": {"title": "Wikipedia (en): Danish People's Party", "url": "https://en.wikipedia.org/wiki/Danish_People%27s_Party"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF ikke har nogen plan for finansieringen. Partiets økonomiske forslag findes, men de skal læses kritisk. Og det er forkert at sige, at velfærdsudgifter til ældre automatisk bliver billigere, hvis man stopper udlændinge. Ældreudgifter er høje for alle og stiger med alderen."
+    },
+    {
+      "topic": "arbejdsmarked",
+      "question": "Hvorfor er DF imod at hæve pensionsalderen, når vi lever længere og har færre i arbejde?",
+      "dfPosition": "DF vil have en lavere pensionsalder for dem med nedslidte job og er imod at hæve pensionsalderen. I oktober 2026 var DF en af tre partier, der meldte ud, at de vil blokere regeringens skærpede krav til seniorpension.",
+      "dfBestArgument": "Det er ikke rimeligt, at en murer eller en plejemedarbejder skal arbejde til 70, fordi nogle andre har kontorjob. Der er mange, der slides ned, og de har ret til at gå tidligere på pension. Det er en retfærdighedsdebat, ikke bare et regnestykke.",
+      "bestCounter": "Når folk lever længere, er det rimeligt, at pensionsalderen følger med, ellers bliver velfærdsstaten dyrere. Hvis man sænker pensionsalderen generelt, rammer det arbejdsudbuddet, og det skal de unge og de ældre betale for. Regeringen anslår, at de skærpede krav til seniorpension sparer omkring 800 mio. kr. om året.",
+      "dfReply": "Vi siger ikke, at pensionsalderen skal være 60 for alle. Vi siger, at der skal være en ordning for dem, der har slidt sig op. Vi vil ikke have, at de, der har lavet hårdt fysisk arbejde, skal konkurrere om pensionen på lige fod med dem, der sidder ved et skrivebord. Det kan godt være dyrere, men det er retfærdigt.",
+      "facts": [
+        {
+          "fact": "I oktober 2024 truede Messerschmidt med at stemme imod en højere pensionsalder og med at trække DF ud af velfærdsforliget. Da DF blev spurgt, om partiet ville støtte en pensionsalder på 70, svarede Peter Kofod, at det 'ikke er et spørgsmål, vi har diskuteret i denne valgperiode'.",
+          "source": {"title": "Altinget: Messerschmidt truede med at nedlægge veto (30. oktober 2024)", "url": "https://www.altinget.dk/arbejdsmarked/artikel/messerschmidt-truede-med-at-nedlaegge-veto-nu-kan-df-ikke-svare-paa-om-partiet-vil-forhoeje-danskernes-pension"}
+        },
+        {
+          "fact": "Venstre, Liberal Alliance og DF har udtalt, at de vil blokere regeringens forslag om skærpede krav til seniorpension. Regeringen anslår en besparelse på omkring 800 mio. kr. om året.",
+          "source": {"title": "Arbejderen: Finanslovsforslaget for 2027 (16. oktober 2026)", "url": "https://www.arbejderen.dk/indland/finanslovsforslaget-for-2027-indeholder-baade-store-investeringer-og-haarde-nedskaeringer/"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF vil have alle på pension ved 60. Partiet taler om nedslidte og om at gå tidligere på pension i særlige tilfælde. Og det er forkert at sige, at DF ikke har en pensionspolitik. Den er kontroversiel, og partiet har ikke entydigt svaret på, om pensionsalderen skal hæves."
+    },
+    {
+      "topic": "klima",
+      "question": "Hvordan kan DF kalde sig et ansvarligt parti, når de vil sænke afgifterne på benzin og diesel?",
+      "dfPosition": "DF vil have billigere brændstof og har gjort det til sin vigtigste økonomiske sag i 2026. Partiet lancerede i maj 2026 et borgerforslag om at sænke afgifter og moms til EU's minimumsniveau. Partiet mener, at almindelige familier ikke skal betale for en klimapolitik, de ikke har været med til at bestemme.",
+      "dfBestArgument": "Mange danskere bruger bil hver dag, og de har ikke råd til højere brændstofpriser. Når priserne stiger, rammer det dem, der bor langt fra arbejdet, og det er ikke rimeligt. Afgifter skal være til at forstå, og de skal ikke være en skjult skat på dem, der har mindst.",
+      "bestCounter": "Brændstofafgifter er et af de få værktøjer til at styre CO2-udledning, og en midlertidig sænkning gør det dyrere at nå klimamålene. Sænkningen er finansieret ved en senere indfasning af selskabsskatten og mellemskatten, og den gælder i et år. Kritikere siger, at afgiftssænkningen er en måde at vinde støtte på, ikke en varig løsning.",
+      "dfReply": "Vi har en klimapolitik, der ikke rammer almindelige mennesker først. Vi vil ikke have, at danskerne skal betale mere for at køre på deres eget arbejde, før der findes alternativer. Og vi har lovet, at afgiftssænkningen er midlertidig, og det er den.",
+      "facts": [
+        {
+          "fact": "Regeringen og DF har indgået en aftale om at sænke afgiften på benzin og diesel med omkring 2 kroner pr. liter fra 2027. Sænkningen gælder et år og finansieres ved en senere indfasning af selskabsskatten og mellemskatten.",
+          "source": {"title": "nyheder.dk: Afgift på benzin og diesel sænkes med to kroner i ny skatteaftale (12. november 2026)", "url": "https://www.nyheder.dk/nyheder/saenker-afgifter-pa-benzin-og-diesel/2539451"}
+        },
+        {
+          "fact": "DF lancerede i maj 2026 et borgerforslag om at sænke afgiften på benzin og diesel og momsen til EU's minimumsniveau. Partiets egen side nævner den største prissænkelse i Danmarks historie den 13. november 2026.",
+          "source": {"title": "Dansk Folkeparti: forside", "url": "https://danskfolkeparti.dk/"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF vil afskaffe brændstofafgiften helt. Forslaget er at sænke den til EU's minimum, og aftalen med regeringen sænker afgiften med omkring 2 kroner pr. liter i et år. Og det er forkert at sige, at afgiftssænkningen ikke har nogen effekt på klimaet. Det er en afvejning, og begge sider kan vise tal, der støtter deres synspunkt."
+    },
+    {
+      "topic": "forsvar",
+      "question": "Hvorfor vil DF ikke støtte Ukraine fuldt ud, når Rusland har invaderet et europæisk land?",
+      "dfPosition": "DF siger, at støtten til Ukraine har en udløbsdato, og er imod, at Ukraine bliver medlem af NATO, så længe krigen står på. Messerschmidt gik i 2025 ind for at skalere ned den danske militære støtte. Alex Ahrendtsen er partiets forsvarsordfører.",
+      "dfBestArgument": "Danmark kan ikke give alt til alle. Vi skal først sikre vores eget forsvar og vores velfærd, og vi skal have en tydelig strategi, der tager hensyn til vores budget. Det er en ansvarlig holdning, og mange danskere deler bekymringen for statens udgifter.",
+      "bestCounter": "Ukraine kæmper for sin egen sikkerhed og for Europas sikkerhed, og en lukning af støtten kan gøre det lettere for Rusland at vinde. Det er også billigere at støtte Ukraine nu end at skulle forsvare Europa senere. Kritikere mener, at DF's linje er populistisk og underminerer dansk sikkerhedspolitik.",
+      "dfReply": "Vi er ikke imod Ukraine, men vi er imod et ubegrænset blankocheck. Vi vil have en klar plan, en slutdato og en diskussion om, hvad der er en rimelig andel af vores budget. Og vi vil have en plan for vores eget forsvar, så vi ikke står uden.",
+      "facts": [
+        {
+          "fact": "DF har sagt, at støtten til Ukraine har en udløbsdato, og partiet er imod Ukraines NATO-medlemskab, så længe krigen står på. I 2025 gik Messerschmidt ind for at skalere ned den danske militære støtte.",
+          "source": {"title": "Wikipedia (en): Danish People's Party", "url": "https://en.wikipedia.org/wiki/Danish_People%27s_Party"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF er imod at støtte Ukraine helt. Partiets linje er, at støtten skal begrænses og have en udløbsdato. Og det er forkert at sige, at DF er for Rusland. Det er en politisk afvejning, ikke en støtte til angriberen."
+    },
+    {
+      "topic": "bolig",
+      "question": "DF vil passe på lejerne, men har de faktisk sagt noget om boligpriser og almene boliger?",
+      "dfPosition": "DF's dokumenterede boligudspil er fra 2018 og 2019. I 2018 afviste partiet, at almindelige lejere i almene boliger skulle betale for regeringens 'ghettoudspil'. I 2019 foreslog partiet at fordoble puljen til renovering af almene boliger fra 10 til 20 mia. kr. Christian Kirk er partiets boligordfører.",
+      "dfBestArgument": "Almene boliger skal være til dem, der har brug for dem, og lejerne har allerede betalt til deres egen renovering. Det er urimeligt at lade lejerne betale for en politik, der handler om at ændre bolig- og bebyggelsesmønstre, og de ældre og de svageste bør beskyttes mod at blive presset ud.",
+      "bestCounter": "Renovering af almene boliger er dyrt, og en fordobling af puljen kræver penge, der enten skal findes andre steder eller lånes. Kritikere mener, at 'ghettoudspillet' i praksis skulle finansieres via Landsbyggefonden, hvor lejerne betaler gennem deres indbetalinger.",
+      "dfReply": "Vi har sagt, at lejerne ikke skal betale for regeringens ghettopolitik, og vi vil have, at renoveringen af de almene boliger bliver prioriteret. Det er ikke kun et spørgsmål om penge, men om at sikre, at de boliger, der findes, også er gode og sikre at bo i.",
+      "facts": [
+        {
+          "fact": "I 2019 foreslog DF at fordoble puljen til renovering af almene boliger fra 10 til 20 mia. kr., finansieret via Landsbyggefonden, hvor det årlige beløb skal hæves fra 2,5 mia. kr. til 5 mia. kr. over fire år.",
+          "source": {"title": "Tekniq: DF vil fordoble pulje til renovering (11. oktober 2019)", "url": "https://www.tekniq.dk/nyheder/df-vil-fordoble-pulje-til-renovering/"}
+        },
+        {
+          "fact": "I april 2018 skrev DF's erhvervspolitiske ordfører Hans Kristian Skibby, at DF ikke vil støtte regeringens finansiering af 'ghettoudspillet', som tager 12 mia. kr. fra Landsbyggefonden, og at DF ikke vil have, at almindelige lejere betaler regningen.",
+          "source": {"title": "Altinget: DF: Ghetto-regning skal ikke bare sendes videre til lejerne (17. april 2018)", "url": "https://www.altinget.dk/artikel/df-ghetto-regning-skal-ikke-bare-sendes-videre-til-lejerne"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at DF ikke har sagt noget om boliger, fordi partiet har lagt sin 2026-vægt på brændstof. Og det er forkert at sige, at DF vil have boligpriserne helt frit. De konkrete udspil er fra 2018 og 2019, og de er ikke opdateret til 2026."
+    },
+    {
+      "topic": "andet",
+      "question": "Messerschmidt er jo dømt for EU-svindel, ikke? Hvordan kan man stole på ham?",
+      "dfPosition": "Messerschmidt har været genstand for sager om EU-midler, og han er blevet frifundet i Meld/Feld-sagen.",
+      "dfBestArgument": "En person er uskyldig, indtil det modsatte er bevist, og Messerschmidt er blevet frifundet i den sag, der afgjorde hans ansvar i Meld/Feld-sagen. Politiske modstandere bruger ofte gamle sager som våben, og det er ikke rimeligt at bedømme ham på det.",
+      "bestCounter": "Sagen om EU-midler har været politisk omstridt, og det er en alvorlig sag for en partiformand, også selv om han blev frifundet i Meld/Feld-sagen.",
+      "dfReply": "Der er en frifindelse i Meld/Feld-sagen, og anklagemyndigheden valgte ikke at anke den. Det er den konklusion, vi står ved. Vi vil ikke lade gamle sager bestemme vores politik.",
+      "facts": [
+        {
+          "fact": "Altinget skrev den 3. januar 2023, at Messerschmidt blev frifundet i Meld/Feld-sagen i byretten, og at anklagemyndigheden efter 14 dages betænkningstid besluttede ikke at anke frifindelsen.",
+          "source": {"title": "Altinget: Messerschmidt-sagen er slut: Anklagemyndigheden anker ikke dommen (3. januar 2023)", "url": "https://www.altinget.dk/eu/artikel/messerschmidt-sagen-er-slut-anklagemyndigheden-anker-ikke-dommen"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at Messerschmidt er 'dømt for EU-svindel' uden at nævne, at han blev frifundet i Meld/Feld-sagen, og at anklagemyndigheden ikke ankede. Tjek domstolenes afgørelser, før du bruger det i en video."
+    },
+    {
+      "topic": "uddannelse",
+      "question": "Skal børn i folkeskolen have karakterer fra 4. klasse, og hvad vil DF med skolerne?",
+      "dfPosition": "DF vil give skolerne mulighed for at give karakterer fra 4. klasse, hvor skolerne selv beslutter, hvornår eleverne får karakterer. DF har i 2026 fremsat B 42, der vil opdatere skolernes sikkerhedsberedskab og udarbejde undervisningsforløb om Muhammedkrisen.",
+      "dfBestArgument": "Karakterer fra 4. klasse giver forældrene og eleverne et klart billede af, hvor de står, og skolerne kan selv vurdere, hvornår det giver mening. Det er et valg for den enkelte skole, og det er ikke en nationalt pålagt ordning.",
+      "bestCounter": "Kritikere siger, at karakterer i en tidlig alder skaber mere præstationspres, og at det især rammer børn, der har brug for tid. Det er uklart, om forslaget vil bidrage til bedre læring.",
+      "dfReply": "Det er et valg for skolen, og vi vil evaluere ordningen, før den eventuelt bliver landsdækkende. Vi vil have, at skolerne har mulighed for at gøre det, hvis de mener, det er rigtigt for deres elever.",
+      "facts": [
+        {
+          "fact": "DF foreslog i februar 2024, at skolerne må give karakterer fra 4. klasse. I dag må skolerne ikke give karakterer før 8. klasse. Ordningen skulle evalueres efter nogle år, før den eventuelt blev landsdækkende. Alex Ahrendtsen var DF's undervisningsordfører.",
+          "source": {"title": "Altinget: DF vil give karakterer fra 4. klasse (9. februar 2024)", "url": "https://www.altinget.dk/artikel/df-vil-give-karakterer-fra-4-klasse"}
+        },
+        {
+          "fact": "B 42, 'skolesikkerhedsberedskabsplanerne og undervisningsforløb om Muhammedkrisen', blev registreret 12. november 2026, og Josephine Alstrup Kofod er en af forslagsstillerne.",
+          "source": {"title": "Folketingets sagsdata: B 42 (oda.ft.dk)", "url": "https://oda.ft.dk/api/Sag(106411)"}
+        }
+      ],
+      "pitfall": "Det er forkert at sige, at karakterer fra 4. klasse er et krav fra DF til alle skoler. Forslaget er, at skolerne selv kan vælge at give karakterer, og at ordningen først skal evalueres. Det er også forkert at sige, at tidlige karakterer automatisk giver mere pres. Det er en af de centrale uenigheder i debatten."
+    }
+  ],
+  "joinDF": {
+    "membership": "Medlemskab af Dansk Folkeparti koster 300 kr. om året. Tilmelding sker på partiets medlemsside, hvor man opretter en konto med sine personlige oplysninger og betaler kontingentet. Medlemmer får adgang til partiets arrangementer, en stemme i partiets politik og valg af kandidater, medlemsbladet Dansk Folkeblad og nyheder fra Christiansborg. Medlemmers aldersgrænse og krav om dansk statsborgerskab står i partiets vedtægter.",
+    "dfu": "Dansk Folkepartis Ungdom er partiets ungdomsorganisation. Aldersgrænse, kontingent og den nuværende landsformand fremgår af DFU's egne vedtægter og på dfu.dk.",
+    "localOrg": "Dansk Folkeparti er centralt styret, og kritikere peger på, at magten er koncentreret i toppen. Medlemmer har ifølge partiets egen side en stemme i valget af kandidater, og partiets forsvarere siger, at den centrale linje giver en ensartet politik og større gennemslagskraft. Altinget beskrev i 2022 ledelseskampen som et opgør om kurs og personer, ikke om lokal opbakning.",
+    "youngProfiles": [
+      {
+        "name": "Chris Bjerknæs",
+        "note": "Blev i februar 2017 valgt til landsformand for Dansk Folkepartis Ungdom på DFU's årsmøde."
+      },
+      {
+        "name": "Mads Korsholm",
+        "note": "Er kampagnechef for Dansk Folkeparti, ifølge Altinget i december 2024. Han har tidligere været kampagnechef i Liberal Alliance og står bag partiets humoristiske og provokerende sociale medier."
+      }
+    ],
+    "sources": [
+      {"title": "Dansk Folkeparti: bliv medlem", "url": "https://danskfolkeparti.dk/bliv-medlem"},
+      {"title": "Altinget: DFU's nye formand (13. februar 2017)", "url": "https://www.altinget.dk/artikel/dansk-folkepartis-ungdom-har-faaet-ny-formand"},
+      {"title": "Altinget: Han gjorde Vanopslagh til TikTok-konge og blev fyret. Nu vil Mads Korsholm gøre Messerschmidt populær (3. december 2024)", "url": "https://www.altinget.dk/christiansborg/artikel/han-gjorde-vanopslagh-til-kongen-af-tiktok-og-blev-fyret-nu-vil-mads-korsholm-skabe-en-fest-i-df-og-goere-messerschmidt-populaer"},
+      {"title": "Altinget: Peter Kofod bliver gruppeformand i DF (8. november 2022)", "url": "https://www.altinget.dk/artikel/peter-kofod-bliver-gruppeformand-i-df"}
+    ]
+  },
+  "dfOnSocialMedia": "Altinget skrev i december 2024, at DF har en strategi, der bruger vrede, forargelse og humor på de sociale medier for at få nye vælgere. Mads Korsholm, DF's kampagnechef, siger: 'Man er nødt til at gøre noget vildt, hvis man vil ud med sine budskaber.' Artiklen nævner ikke TikTok, Facebook, Instagram eller YouTube som separate kanaler i det synlige uddrag og har ikke tal for følgere eller rækkevidde. Partiets resultater på de sociale medier kan derfor ikke måles ud fra de kilder, der ligger til grund for denne fil.",
+  "sources": [
+    {"title": "Dansk Folkeparti: forside", "url": "https://danskfolkeparti.dk/"},
+    {"title": "Dansk Folkeparti: politik og ordførere", "url": "https://danskfolkeparti.dk/politik"},
+    {"title": "Altinget: Peter Kofod erstatter Morten Messerschmidt som politisk ordfører i DF (14. april 2026)", "url": "https://www.altinget.dk/christiansborg/artikel/peter-kofod-erstatter-morten-messerschmidt-som-politisk-ordfoerer-i-df"},
+    {"title": "Altinget: Messerschmidt truede med at nedlægge veto (30. oktober 2024)", "url": "https://www.altinget.dk/arbejdsmarked/artikel/messerschmidt-truede-med-at-nedlaegge-veto-nu-kan-df-ikke-svare-paa-om-partiet-vil-forhoeje-danskernes-pension"},
+    {"title": "Altinget: Når DF taler om remigration (9. marts 2026)", "url": "https://www.altinget.dk/etik/artikel/naar-dansk-folkeparti-taler-om-remigration-henter-de-ordene-fra-kontroversiel-hoejreradikal-bevaegelse"},
+    {"title": "The Local: Danish far-right party wants to strip permanent residency (19. marts 2026)", "url": "https://www.thelocal.dk/20260319/danish-far-right-party-wants-to-strip-permanent-residency-from-foreign-nationals"},
+    {"title": "Justitsministeriet: Kriminalitet og herkomst 2023", "url": "https://www.justitsministeriet.dk/wp-content/uploads/2025/05/Kriminalitet-og-herkomst-2023-WT.pdf"},
+    {"title": "nyheder.dk: Afgift på benzin og diesel sænkes med to kroner (12. november 2026)", "url": "https://www.nyheder.dk/nyheder/saenker-afgifter-pa-benzin-og-diesel/2539451"},
+    {"title": "Arbejderen: Finanslovsforslaget for 2027 (16. oktober 2026)", "url": "https://www.arbejderen.dk/indland/finanslovsforslaget-for-2027-indeholder-baade-store-investeringer-og-haarde-nedskaeringer/"},
+    {"title": "Altinget: Messerschmidt-sagen er slut (3. januar 2023)", "url": "https://www.altinget.dk/eu/artikel/messerschmidt-sagen-er-slut-anklagemyndigheden-anker-ikke-dommen"},
+    {"title": "Altinget: DF vil give karakterer fra 4. klasse (9. februar 2024)", "url": "https://www.altinget.dk/artikel/df-vil-give-karakterer-fra-4-klasse"},
+    {"title": "Tekniq: DF vil fordoble pulje til renovering (11. oktober 2019)", "url": "https://www.tekniq.dk/nyheder/df-vil-fordoble-pulje-til-renovering/"},
+    {"title": "Altinget: DF: Ghetto-regning skal ikke bare sendes videre til lejerne (17. april 2018)", "url": "https://www.altinget.dk/artikel/df-ghetto-regning-skal-ikke-bare-sendes-videre-til-lejerne"},
+    {"title": "Wikipedia (en): Danish People's Party", "url": "https://en.wikipedia.org/wiki/Danish_People%27s_Party"},
+    {"title": "Folketingets sagsdata (oda.ft.dk): B 17", "url": "https://oda.ft.dk/api/Sag(106183)"},
+    {"title": "Folketingets sagsdata (oda.ft.dk): B 42", "url": "https://oda.ft.dk/api/Sag(106411)"}
+  ]
+}

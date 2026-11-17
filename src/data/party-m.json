@@ -1,0 +1,182 @@
+{
+  "id": "m",
+  "letter": "M",
+  "name": "Moderaterne",
+  "short": "M",
+  "founded": "2022",
+  "foundedNote": "Lars Løkke Rasmussen forlod Venstre 1. januar 2021 efter en intern konflikt om partiledelsen. Navnet Moderaterne blev præsenteret 5. juni 2021, og partiet blev officielt stiftet på et stiftende årsmøde 5. juni 2022.",
+  "leader": {"name": "Lars Løkke Rasmussen", "title": "Partiformand / politisk leder", "since": "2022", "born": "1964", "bio": "Har været Venstre-formand og statsminister, før han forlod Venstre i 2021 og stiftede Moderaterne. Ved valget i 2026 var Moderaterne afgørende for flertallet, og Løkke fik stor indflydelse på regeringsdannelsen. Han er udenrigsminister i firkløverregeringen fra 3. juni 2026 (lex.dk)."},
+  "role": "regering",
+  "roleNote": "Moderaterne sidder i firkløverregeringen sammen med Socialdemokratiet, SF og Radikale Venstre, præsenteret 3. juni 2026. Regeringen har 82 mandater og er afhængig af støtte fra Enhedslisten og Alternativet.",
+  "ideology": ["liberalt", "midterparti", "økonomisk liberalt", "vækstorienteret"],
+  "euGroup": "Renew Europe",
+  "youth": {"name": "Unge Moderater", "note": "Partiets ungdomsorganisation."},
+  "website": "https://www.moderaterne.dk",
+  "oneLiner": "Midterparti, der vil lavere skat, vækst og en midterregering, der kan samle både rød og blå.",
+  "summary": "Moderaterne vil skabe vækst, sænke skatten på arbejde og erhverv og sikre, at velfærden kan betales. Partiet vil være bindeled mellem rød og blå side, og Løkke har været den, der afgør flertal. I firkløverregeringen har partiet fået flere erhvervs- og skatteønsker med, herunder lavere selskabsskat og afskaffelse af mellemskat og toptopskat. Det adskiller partiet fra SF og Radikale ved at lægge mere vægt på skattelettelser og arbejdsudbud, og fra de blå partier ved at sidde i en regering med S.",
+  "pitch": "Vi sørger for, at der er råd til velfærden, fordi vi skaber vækst. Vi sænker skatten for dem, der arbejder og investerer, og vi tager ansvar for, at Danmark har et stærkt erhvervsliv. Vi er den midterkraft, der kan få en regering til at fungere.",
+  "critique": "Kritikerne mener, at Moderaterne har købt sig til magt ved at gå ind i en rød regering, og at partiet ikke har fået de skattelettelser igennem, det lovede. Ifølge en Altinget-kommentar fra 22. maj 2026 har Løkke tabt magtkampen med de blå og må nu give slip på skattelettelser for at få flertal med S og SF. Dansk Folkeparti har afvist samarbejde med Moderaterne, uanset hvem der leder partiet (Ekstra Bladet via Ground News, nov. 2025).",
+  "keyIssues": [
+    {"title": "Lavere selskabsskat og erhvervsvenlig økonomi", "detail": "Regeringsgrundlaget sænker selskabsskatten med 3 procentpoint over tre år. Lempelserne finansieres bl.a. ved at fastholde chokolade- og sukkerafgiften, skære 1,5 mia. kr. i erhvervsstøtte og indføre et loft over rentefradraget på 150.000 kr. for enlige."},
+    {"title": "Afskaffelse af mellemskat og toptopskat", "detail": "Skattesystemet skal bestå af en bundskat op til 777.900 kr. og derefter en topskat på 15 procentpoint. Toptopskatten afskaffes og finansieres med en ny hovedaktionærmodel."},
+    {"title": "Arbejdsudbud og senere tilbagetrækning", "detail": "Regeringen vil lempe modregningen for efterløn og tidlig pension og sætte et mål om 35.000 flere fuldtidspersoner i strukturel beskæftigelse i 2035. Lovforslag L 98 hæver Arne-pensionen med 3.162 kr. om måneden og fastholder en tilgangsalder på 64 år for årgang 1963-1965."},
+    {"title": "Udvisning af kriminelle udlændinge", "detail": "Regeringen vil sikre, at flere kriminelle udlændinge udvises, og har fremsat en udvisningsreform. Regeringsgrundlaget siger samtidig, at regeringen vil respektere eventuelle domme fra Den Europæiske Menneskerettighedsdomstol."},
+    {"title": "Forsvar og NATO-mål", "detail": "Udgifter til forsvar og beredskab skal udgøre mindst 5 pct. af BNP i 2030, heraf 3,5 pct. til forsvar. NATO-målet indfris allerede i 2030."}
+  ],
+  "positions": {
+    "udlaendinge": {"score": 3, "text": "Regeringsgrundlaget siger: 'Vi står fast på udlændingepolitikken, så der er styr på antallet, der kommer til Danmark – samtidig med, at vi løfter vores ansvar internationalt.' Moderaterne stemte 3. sept. 2026 for skærpede udvisningsregler (L 17 A) og 27. aug. for at gennemføre dele af EU's migrationspagt (L 15)."},
+    "oekonomi": {"score": 4, "text": "Moderaterne vil sænke selskabsskatten, afskaffe mellemskat og toptopskat og halvere momsen på fødevarer, så snart det er muligt. Løkke har selv kaldt skatte- og arbejdsudbudspolitik for 'blå politik' (Altinget, 20. aug. 2026). Partiet stemte 12. nov. 2026 for nulmoms på bøger (L 36)."},
+    "arbejdsmarked": {"score": 3, "text": "Regeringen vil lempe modregningsreglerne for efterløn og tidlig pension, give mulighed for at sætte ratepension på pause og udvide pensionsudbetalingsalderen til fem år før folkepensionsalderen. Store bededag genindføres som helligdag fra 2030, og Moderaterne stemte imod at genindføre den straks (B 3, 1. okt. 2026)."},
+    "velfaerd": {"score": 3, "text": "Regeringen har som ambition, at tandpleje skal være gratis for alle, og starter med sårbare grupper og førtidspensionister. Lovforslag L 64 indfører vederlagsfri tandpleje for kontanthjælpsmodtagere. Der afsættes 5 mia. kr. varigt til 'Børnenes Danmark'."},
+    "sundhed": {"score": 2, "text": "Regeringsgrundlaget lægger vægt på offentligt finansieret sundhed og gratis tandpleje. Der er ikke lagt op til privat inddragelse i sundhedsvæsenet i regeringsgrundlaget. Lovforslag L 58 gennemfører værdighedsreformen for ældreplejen."},
+    "klima": {"score": 2, "text": "Regeringen vil indskrive klimaneutralitet i 2045 og 110 pct. reduktion i 2050 i klimaloven samt en reduktion på mindst 85 pct. i 2035. Regeringsgrundlaget vægter vækst og erhvervslivets konkurrenceevne højt ('Vi skal sikre vækst i økonomien')."},
+    "natur_landbrug": {"score": 3, "text": "Den grønne trepart skal fortsætte, og der skal omlægges 390.000 hektar landbrugsareal. Regeringen vil udfase gas- og oliefyr, så der i 2035 ikke er boliger, der opvarmes med naturgas eller olie. Moderaterne stemte 3. sept. 2026 for L 5 om næringsstoffer i land- og skovbrug."},
+    "eu": {"score": 2, "text": "Regeringsgrundlaget siger, at Danmark 'går forrest i det europæiske samarbejde'. Moderaterne har foreslået en ny vækstpagt for EU med ti forslag (Altinget)."},
+    "forsvar": {"score": 4, "text": "Forsvar og beredskab skal udgøre mindst 5 pct. af BNP i 2030, heraf 3,5 pct. til forsvar. NATO-målet indfris allerede i 2030."},
+    "ret": {"score": 3, "text": "Regeringen vil fremsætte en udvisningsreform for kriminelle udlændinge og flere midler til politiet. Den vil ændre reglerne for straffesagsgæld, så det i højere grad kan betale sig at tage en uddannelse eller få et job efter afsoning."},
+    "bolig": {"score": 3, "text": "Regeringen vil lave en 'Boligplan 2030' med en forpligtende aftale om boligbyggeri i hovedstaden og en kommission om en ny boligbeskatning. Boligmarkedet skal i højere grad fungere efter markedsvilkår, med særlig støtte til unge og studerende."},
+    "uddannelse": {"score": 3, "text": "Regeringen vil afsætte 1 mia. kr. varigt til uddannelse og forskning og indføre en tech-skat på 1 mia. kr. årligt. Lovforslag L 5 forhøjer SU-fribeløbet for elever på ungdomsuddannelser, og L 46 gennemfører dele af erhvervsuddannelsesaftalen fra 2025."}
+  },
+  "history": [
+    {"year": "2021", "event": "Lars Løkke Rasmussen forlader Venstre 1. januar 2021 efter en intern konflikt om partiledelsen og starter en politisk forening."},
+    {"year": "2021", "event": "Navnet Moderaterne præsenteres 5. juni 2021 som navn på det nye midterparti."},
+    {"year": "2022", "event": "Moderaterne stiftes officielt på et stiftende årsmøde den 5. juni 2022."},
+    {"year": "2025", "event": "I november 2025 afviser Dansk Folkeparti samarbejde med Moderaterne, uanset om Løkke er leder (Ekstra Bladet via Ground News)."},
+    {"year": "2026", "event": "Ved folketingsvalget 24. marts 2026 får Moderaterne 14 mandater (7,7 pct.) og bliver afgørende for, hvem der kan danne regering."},
+    {"year": "2026", "event": "22. maj 2026 opgiver Troels Lund Poulsen at danne en blå regering, efter at Løkke har afvist at støtte den (Altinget)."},
+    {"year": "2026", "event": "3. juni 2026 præsenteres firkløverregeringen efter 69 dage. Moderaterne får Løkke som udenrigsminister, Jakob Engel-Schmidt som minister for skatte- og vækst og Monika Rubin som socialminister (lex.dk)."},
+    {"year": "2026", "event": "6. oktober 2026 trækker Alternativet støtten til Henrik Frandsen (M) som formand for Folketinget."},
+    {"year": "2026", "event": "12. nov. 2026 vedtages L 36 om nulmoms på bøger og afskaffelse af kaffeafgiften, med stemmer fra Moderaterne."}
+  ],
+  "people": [
+    {"name": "Lars Løkke Rasmussen", "role": "partiformand / udenrigsminister", "note": "Afgørende for regeringsdannelsen i 2026 og den person, der har sat kursen for Moderaterne siden 2021."},
+    {"name": "Jakob Engel-Schmidt", "role": "minister for skatte- og vækstministeriet", "note": "Står for skatte- og vækstområdet, herunder skattereformen og de nye skattelettelser (lex.dk)."},
+    {"name": "Henrik Frandsen", "role": "folketingsmedlem", "note": "Blev i oktober 2026 udpeget som kandidat til formand for Folketinget, men mistede Alternativets støtte."},
+    {"name": "Lars Aagaard", "role": "folketingsmedlem og tidligere klimaminister", "note": "Har været klimaminister og er nu en del af Moderaternes folketingsgruppe."},
+    {"name": "Monika Rubin", "role": "socialminister og minister for nordisk samarbejde", "note": "Repræsenterer Moderaterne på det sociale område i regeringen (lex.dk)."}
+  ],
+  "voters": {"summary": "Moderaternes vælgere er typisk midterorienterede og skattebevidste. De stemmer på partiet, fordi de vil have vækst og lavere skat uden en ren blå regering. Mange kommer fra Venstre og Konservative. Partiet kan også tiltrække vælgere, der er trætte af blokpolitik.", "strongholds": "Moderaterne har ingen klar geografisk hovedbastion. Støtten er spredt over hele landet, og partiet er ofte stærkest i de dele af landet, hvor Venstre har haft sine bedste resultater.", "demographics": "Vælgerne er typisk erhvervsaktive midaldrende og ældre med mellemlange eller lange uddannelser. Partiet har en tendens til flere mænd og flere vælgere med erhvervsbaggrund end RV og ALT."},
+  "election2026": {"note": "Moderaterne fik 7,7 pct. og 14 mandater ved valget 24. marts 2026, og partiets mandater blev afgørende for, hvem der kunne danne regering. Løkke valgte at gå sammen med S, SF og Radikale i stedet for en blå regering under Troels Lund Poulsen. Altinget skriver, at Løkke ikke havde den stærkeste forhandlingsposition over for den blå side, og at blå kommentatorer mener, at han tabte magtkampen."},
+  "strengths": [
+    "Afgørende placering i Folketinget efter valget 2026",
+    "Har fået skatte- og erhvervsønsker igennem i regeringsgrundlaget",
+    "Løkke er erfaren og kan samle både rød og blå side"
+  ],
+  "weaknesses": [
+    "Lille parti med 7,7 pct. og 14 mandater",
+    "Svært at få skattelettelser igennem i en regering med S og SF",
+    "Kan opfattes som et parti, der har skiftet side, og som DF afviser at samarbejde med"
+  ],
+  "internalTensions": [
+    {"title": "Blå eller rød kurs", "detail": "Løkke har afvist en blå regering under Troels Lund Poulsen, men kalder samtidig skattepolitik for 'blå politik'. Det skaber spænding mellem midterlinje og blå identitet."},
+    {"title": "Økonomisk fortælling", "detail": "Altinget skriver, at firkløverpartierne endnu ikke er blevet enige om, hvordan regeringens økonomiske politik skal defineres. Det kan give konflikt om, hvem der bestemmer kursen."}
+  ],
+  "typicalArguments": [
+    {"claim": "Vi sænker skatten på arbejde og erhverv, og det skaber vækst, der kan betale velfærden.", "counter": "Kritikere peger på, at lavere selskabsskat og afskaffelse af toptopskatten primært giver mest til de rigeste, og at finansieringen er usikker."},
+    {"claim": "Vi står fast på udlændingepolitikken, så antallet styres, og vi overholder internationale forpligtelser.", "counter": "Dansk Folkeparti mener, at regeringens udlændingepolitik ikke er stram nok, og at alle partier bag regeringen holder fast i et system, der underminerer udlændingepolitikken (Pia Kjærsgaard, Altinget)."},
+    {"claim": "Vi har været med til at samle en regering, der kan få flertal, og som ikke kun er blå eller rød.", "counter": "Blå kommentatorer mener, at Løkke har tabt magtkampen med de blå, og at han nu må give slip på skattelettelser for at få flertal med S og SF (Helle Ib, Altinget, 22. maj 2026)."},
+    {"claim": "Arne-pensionen løftes med 3.162 kr. om måneden fra 2027, fordi det er rimeligt for dem, der har slidt.", "counter": "Dansk Folkeparti afviser at stramme seniorpensionen, som er en del af finansieringen. Enhedslisten siger, at de ikke vil forringe seniorpensionen (sn.dk, 9. okt. 2026)."},
+    {"claim": "Vi vil have en grøn omstilling, der ikke koster vækst.", "counter": "Kritikere mener, at klimapolitikken fylder for lidt i den samlede regeringspolitik, og at vækst og klima ikke trækker samme vej."}
+  ],
+  "vsDF": {
+    "agree": [
+      "Nulmoms på bøger (L 36, vedtaget 12. nov. 2026): både Moderaterne og Dansk Folkeparti stemte for.",
+      "Udvisning af kriminelle udlændinge (L 17 A, 3. sept. 2026): både Moderaterne og Dansk Folkeparti stemte for skærpelsen.",
+      "Rettet indkomstmodtager (B 27, 1. okt. 2026): begge partier stemte for forslaget om, at ingen samlet skal betale mere i skat end de tjener."
+    ],
+    "disagree": [
+      "Store bededag (B 3, 1. okt. 2026): Dansk Folkeparti stemte for at genindføre den, Moderaterne stemte imod.",
+      "Koranloven (B 6, 1. okt. 2026): Dansk Folkeparti stemte for at afskaffe den, Moderaterne stemte imod.",
+      "Kønsopdelt svømning (B 13, 3. sept. 2026): Dansk Folkeparti stemte for at forbyde den, Moderaterne stemte imod.",
+      "EU's migrationspagt (L 15, 27. aug. 2026): Moderaterne stemte for at gennemføre dele af den, Dansk Folkeparti stemte imod."
+    ],
+    "note": "Moderaterne og Dansk Folkeparti stemmer sammen om skat og udvisning, men er modsatte på religion, forsvar af helligdage, EU-migration og seniorpension. Det er den mest konkrete uenighed i de seneste afstemninger."
+  },
+  "vocabulary": [
+    {"term": "Blå politik", "meaning": "Løkkes betegnelse for skattelettelser og tiltag, der øger arbejdsudbuddet. Han sagde i august 2026, at økonomisk politik med skattelettelser er 'blå politik' (Altinget)."},
+    {"term": "Firkløverregeringen", "meaning": "Det uofficielle navn for regeringen S, SF, M og Radikale Venstre, præsenteret 3. juni 2026."},
+    {"term": "Mellemskat og toptopskat", "meaning": "Mellemskatten er et skattetrin mellem bundskat og topskat. Toptopskatten er en ekstra skat for de højeste indkomster. Begge skal afskaffes ifølge regeringsgrundlaget."},
+    {"term": "Seniorpension", "meaning": "En ordning, der giver mulighed for at gå tidligere på pension for dem, der har arbejdet længe. Regeringen vil stramme den for at finansiere Arne-pensionen fra 2027."},
+    {"term": "Arne-pension", "meaning": "Tidlig pension for dem, der har slidt sig op i nedslidende job. Regeringen hæver ydelsen med 3.162 kr. om måneden (L 98)."},
+    {"term": "Kongerunde", "meaning": "Et møde, hvor en kongelig undersøger drøfter med partierne, hvem der kan danne regering. Regeringsdannelsen i 2026 havde tre kongerunder."}
+  ],
+  "funFacts": [
+    "Moderaterne fik 14 mandater ved valget 24. marts 2026, og Altinget skriver, at partiets mandater var afgørende for flertallet.",
+    "Regeringsdannelsen tog 69 dage og tre kongerunder. Altinget skriver, at forhandlingerne var de længste nogensinde efter et folketingsvalg.",
+    "Løkke nominerede Troels Lund Poulsen som kongelig undersøger i maj 2026, men Troels Lund opgav at danne en blå regering den 22. maj 2026."
+  ],
+  "currentDebates": [
+    {
+      "title": "Finanslov for 2027 (L 73)",
+      "date": "2026-10-09",
+      "topic": "oekonomi",
+      "summary": "Regeringen præsenterede sit finanslovsforslag for 2027, L 73, den 9. oktober 2026. Dansk Erhverv roste erhvervstiltag, men kritiserede planen om at hæve Arne-pensionen. Overnatningsafgiften i de to største byer er ikke med i det endelige udspil. Moderaterne er en del af regeringen, der nu skal forhandle om et flertal med resten af Folketinget.",
+      "positions": [
+        {"who": "Dansk Erhverv", "says": "Roser erhvervstiltag i finansloven, men kritiserer planen om at hæve Arne-pensionen."},
+        {"who": "Lars Løkke Rasmussen (M)", "says": "Har sagt, at skattelettelser og tiltag for arbejdsudbud er 'blå politik' (Altinget, 20. aug. 2026)."}
+      ],
+      "whyItMatters": "Finansloven viser, om Moderaterne kan få sine skatte- og erhvervsønsker igennem i en regering med S og SF.",
+      "sources": [
+        {"title": "Folketinget: L 73 Forslag til finanslov for 2027", "url": "https://www.ft.dk/samling/20261/lovforslag/L73/index.htm"},
+        {"title": "Dansk Erhverv: Stærke tiltag for erhvervslivet i regeringens forslag til ny finanslov", "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/"}
+      ]
+    },
+    {
+      "title": "Arne-pensionen hæves med 3.162 kr. om måneden (L 98)",
+      "date": "2026-11-13",
+      "topic": "velfaerd",
+      "summary": "Regeringens lovforslag L 98 hæver ydelsen på tidlig pension (Arne-pensionen) permanent med 3.162 kr. om måneden, så den kommer på niveau med seniorpensionen for gifte og samlevende. Aldersgrænsen for årgang 1963-1965 fastholdes til 64 år, så de kan gå på tidlig pension i op til fire år mod hidtil tre. Forslaget er en del af finanslovspakken.",
+      "positions": [
+        {"who": "Regeringen (S, SF, M, RV)", "says": "Hæver Arne-pensionen med 3.162 kr. og fastholder tilgangsalderen på 64 år for årgang 1963-1965 (L 98, opdateret 13. nov. 2026)."},
+        {"who": "Dansk Folkeparti", "says": "Afviser at stramme seniorpensionen, som er en del af finansieringen (sn.dk, 9. okt. 2026)."}
+      ],
+      "whyItMatters": "Det er et af regeringens største velfærdsløfter, og det afhænger af, om støttepartierne accepterer finansieringen.",
+      "sources": [
+        {"title": "Folketinget: L 98 om forhøjelse af ydelsen på tidlig pension", "url": "https://www.ft.dk/samling/20261/lovforslag/L98/index.htm"},
+        {"title": "sn.dk: Forligspartier og EL siger nej til strammere krav for seniorpension", "url": "https://www.sn.dk/art6658489/koebenhavn-kommune/politik/forligspartier-og-el-siger-nej-til-strammere-krav-for-seniorpension"}
+      ]
+    },
+    {
+      "title": "Nulmoms på bøger og afskaffelse af kaffeafgiften vedtaget (L 36)",
+      "date": "2026-11-12",
+      "topic": "oekonomi",
+      "summary": "Folketinget vedtog 12. november 2026 L 36 om nulmoms på bøger, afskaffelse af kaffeafgiften og et motions- og musikundervisningsfradrag. Moderaterne stemte for sammen med Socialdemokratiet, SF, Venstre, Dansk Folkeparti, Konservative, Enhedslisten, Radikale, Alternativet og Borgernes Parti. Liberal Alliance og Danmarksdemokraterne stemte imod nulmomsen.",
+      "positions": [
+        {"who": "Moderaterne", "says": "Stemte for (folketingsafstemning, 12. nov. 2026)."},
+        {"who": "Liberal Alliance og Danmarksdemokraterne", "says": "Stemte imod nulmomsen på bøger."}
+      ],
+      "whyItMatters": "Viser, at Moderaterne kan finde flertal på tværs af blokkene, når forslaget er lavt konfliktniveau.",
+      "sources": [
+        {"title": "Folketinget: L 36 om nulmoms på bøger og afskaffelse af kaffeafgiften", "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"}
+      ]
+    },
+    {
+      "title": "Store bededag og koranloven forkastet (B 3 og B 6)",
+      "date": "2026-10-01",
+      "topic": "andet",
+      "summary": "Folketinget forkastede 1. oktober 2026 to af Dansk Folkeparti-forslag: B 3 om at genindføre store bededag som helligdag og B 6 om at afskaffe koranloven. Moderaterne stemte imod begge forslag sammen med Socialdemokratiet, SF, Venstre og Radikale. Dansk Folkeparti, Liberal Alliance, Konservative, Enhedslisten, Danmarksdemokraterne, Alternativet og Borgernes Parti stemte for.",
+      "positions": [
+        {"who": "Moderaterne", "says": "Stemte imod begge forslag (afstemninger, 1. okt. 2026)."},
+        {"who": "Dansk Folkeparti", "says": "Stemte for begge forslag (afstemninger, 1. okt. 2026)."}
+      ],
+      "whyItMatters": "Viser, hvor Moderaterne og Dansk Folkeparti er uenige, og at Moderaterne ikke vil lade DF's værdipolitik gå igennem i regeringsflertallet.",
+      "sources": [
+        {"title": "Folketinget: B 3 om at genindføre store bededag som helligdag", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B3/index.htm"},
+        {"title": "Folketinget: B 6 om at afskaffe koranloven", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B6/index.htm"}
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Lex.dk: Regeringen Mette Frederiksen III (ministerliste)", "url": "https://lex.dk/Regeringen_Mette_Frederiksen_III"},
+    {"title": "Det politiske grundlag for firkløverregeringen (PDF, stm.dk)", "url": "https://stm.dk/media/rc1ktdmg/det-politiske-grundlag-for-firkloeverregeringen.pdf"},
+    {"title": "Folketinget: Afstemninger i folketingsåret 2026-27 (oda.ft.dk)", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B3/index.htm"},
+    {"title": "Folketinget: L 73 Forslag til finanslov for 2027", "url": "https://www.ft.dk/samling/20261/lovforslag/L73/index.htm"},
+    {"title": "Folketinget: L 98 om forhøjelse af ydelsen på tidlig pension", "url": "https://www.ft.dk/samling/20261/lovforslag/L98/index.htm"},
+    {"title": "Altinget: Løkke afviser at ny regering trækker økonomien i en rødere retning (20. aug. 2026)", "url": "https://www.altinget.dk/artikel/loekke-afviser-at-ny-regering-traekker-oekonomien-i-en-roedere-retning-vi-skaerper-ambitionerne-paa-blaa-markoerer"},
+    {"title": "Altinget: Løkke tabte magtkampen med de blå (Helle Ib, 22. maj 2026)", "url": "https://www.altinget.dk/christiansborg/artikel/loekke-tabte-magtkampen-med-de-blaa-nu-bliver-hans-sejre-paa-de-roedes-naade"},
+    {"title": "Altinget: Alternativet trækker støtten til Henrik Frandsen som ny folketingsformand (6. okt. 2026)", "url": "https://www.altinget.dk/artikel/alternativet-traekker-stoetten-til-henrik-frandsen-foer-aabning"},
+    {"title": "sn.dk: Forligspartier og EL siger nej til strammere krav for seniorpension (9. okt. 2026)", "url": "https://www.sn.dk/art6658489/koebenhavn-kommune/politik/forligspartier-og-el-siger-nej-til-strammere-krav-for-seniorpension"},
+    {"title": "Dansk Erhverv: Stærke tiltag for erhvervslivet i regeringens forslag til ny finanslov", "url": "https://www.danskerhverv.dk/presse-og-nyheder/nyheder/2026/oktober/dansk-erhverv-starke-tiltag-for-erhvervslivet-i-regeringens-forslag-til-ny-finanslov--men-ogsa-skarpe-tidsler/"},
+    {"title": "Da.wikipedia: Moderaterne", "url": "https://da.wikipedia.org/wiki/Moderaterne"}
+  ]
+}

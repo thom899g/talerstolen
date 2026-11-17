@@ -1,0 +1,409 @@
+{
+ "id": "k",
+ "letter": "C",
+ "name": "Det Konservative Folkeparti",
+ "short": "Konservative",
+ "founded": "1916",
+ "foundedNote": "Det Konservative Folkeparti blev stiftet 22. februar 1916 og er et af Danmarks ældste partier.",
+ "leader": {
+  "name": "Mona Juul",
+  "title": "Formand for Det Konservative Folkeparti",
+  "since": "2024",
+  "born": "1967",
+  "bio": "Mona Juul er født 20. september 1967 i Aarhus. Hun blev valgt til formand 21. april 2024 på et ekstraordinært landsråd i Herning uden modkandidater, efter at Søren Pape Poulsen døde i marts 2024. I oktober 2025 valgte hun at støtte SVM-regeringens finanslov for 2026 med partiets mandater, hvilket brød med den blå alliance. Hun er fortsat formand i november 2026, og i oktober 2026 kritiserede hun regeringens plan om at loft over rentefradraget i Folketingets åbningsdebat."
+ },
+ "role": "opposition",
+ "roleNote": "Konservative er i opposition til firkløverregeringen (S, SF, M og RV). Partiet har gået tættere på midten end de andre blå partier og har sagt, at det ønsker et bedre samarbejde i dansk politik.",
+ "ideology": [
+  "konservatisme",
+  "borgerlig midte",
+  "retsstat og tryghed",
+  "ansvarlig økonomi"
+ ],
+ "euGroup": "EPP (Det Europæiske Folkeparti)",
+ "youth": {
+  "name": "Konservativ Ungdom",
+  "note": "Partiets ungdomsorganisation for unge medlemmer."
+ },
+ "membersCount": "10.900 (2024)",
+ "website": "https://www.konservative.dk",
+ "oneLiner": "Borgerligt parti med fokus på tryghed, ansvar og en stærk retsstat, der har gået tættere på midten end de andre blå partier.",
+ "summary": "Konservative vil have et Danmark med tryghed, ansvar og en stærk retsstat, hvor folk får hjælp, men også tager ansvar for sig selv. Partiet lægger vægt på kriminalitetsbekæmpelse, en stram udlændingepolitik og en ansvarlig økonomi. Konservative er mindre liberale end Liberal Alliance på skat og marked og mere traditionelle i værdispørgsmål og velfærd. Partiet har vist vilje til at samarbejde med midten, hvilket har gjort det svært at placere præcist i den blå blok.",
+ "pitch": "Konservative står for tryghed, ansvar og en stærk stat, der gør det, den skal. Vi vil have færre kriminelle på gaden, en ordentlig udlændingepolitik og en økonomi, der holder. Vi er et parti, der tør tage ansvar, også når det er svært.",
+ "critique": "Kritikerne siger, at Konservative har flirtet med midten og er gået væk fra den blå blok. I oktober 2025 valgte partiet at støtte SVM-regeringens finanslov, og det blev af Altinget beskrevet som et brud med det borgerlige samarbejde, der styrkede Venstre. Kritikerne mener også, at partiets profil er uklar, og at de konkrete forslag ofte er uklare.",
+ "keyIssues": [
+  {
+   "title": "Retsstat og tryghed",
+   "detail": "Konservative vil have hårdere straf for alvorlig kriminalitet og tiltag mod ungdomskriminalitet. Partiet har foreslået at straffe forældre, hvis deres børn begår alvorlig vold, ifølge Sjællandske."
+  },
+  {
+   "title": "Narkotika og unge",
+   "detail": "Mona Juul har fremlagt et narkotikaudspil, der skal stoppe unges brug af narkotika. Det går bl.a. ud på hårdere reaktioner over for gentagen besiddelse til eget forbrug, fordi det kan vise et mønster af misbrug."
+  },
+  {
+   "title": "Ansvarlig økonomi og finanslov",
+   "detail": "Konservative støttede i oktober 2025 SVM-regeringens finanslov for 2026 med partiets mandater. Partiet vil have en stabil økonomi og lavere skat på arbejde."
+  },
+  {
+   "title": "Rentefradrag og boligmarked",
+   "detail": "I Folketingets åbningsdebat 8. oktober 2026 kritiserede Mona Juul regeringens plan om et loft over rentefradraget, som hun mener vil gøre det dyrere at eje sin bolig og sværere at komme ind på boligmarkedet."
+  },
+  {
+   "title": "Blå blok og samarbejde",
+   "detail": "Mona Juul har peget på Troels Lund Poulsen som borgerlig statsministerkandidat, og har kritiseret Lars Løkke Rasmussen og Morten Messerschmidt for at blokere for en borgerlig regering efter valget i marts 2026."
+  }
+ ],
+ "positions": {
+  "udlaendinge": {
+   "score": 4,
+   "text": "Konservative vil have en stram udlændingepolitik med krav til integration og arbejde. Partiet har foreslået, at forældre kan straffes, hvis deres børn begår alvorlig vold."
+  },
+  "oekonomi": {
+   "score": 3,
+   "text": "Konservative vil have en stabil økonomi og lavere skat på arbejde, men er mindre liberale end LA. Partiet støttede i 2025 SVM's finanslov, hvilket viser en pragmatisk linje."
+  },
+  "arbejdsmarked": {
+   "score": 3,
+   "text": "Konservative vil have flere i arbejde og en fleksibel arbejdsmarkedsmodel, med tryghed for lønmodtagere."
+  },
+  "velfaerd": {
+   "score": 3,
+   "text": "Konservative vil have en stærk velfærd, der er målrettet dem, der har brug for hjælp, og vil have mere valgfrihed. Partiet står for en blanding af offentlig drift og privat medvirken."
+  },
+  "sundhed": {
+   "score": 3,
+   "text": "Konservative vil have en offentlig sundhedssektor med mere valgfrihed og privat medvirken, især hvor ventetiderne er lange. Partiet fremlagde et sundhedsudspil på sommergruppemødet i september 2025."
+  },
+  "klima": {
+   "score": 3,
+   "text": "Konservative støtter den grønne omstilling, men vil have den til at ramme erhvervsliv og forbrugere så lidt som muligt."
+  },
+  "natur_landbrug": {
+   "score": 3,
+   "text": "Konservative vil have balance mellem landbrugets vilkår og natur og miljø. Partiets linje er mindre firkantet end Venstres."
+  },
+  "eu": {
+   "score": 2,
+   "text": "Konservative er positive over for EU og det indre marked. Partiet er ikke EU-skeptisk, men vil have nationalt selvstyre i udlændinge- og retspolitik."
+  },
+  "forsvar": {
+   "score": 4,
+   "text": "Konservative vil have en stærk forsvarsindsats og en større oprustning."
+  },
+  "ret": {
+   "score": 4,
+   "text": "Konservative vil have hårdere straffe for alvorlig kriminalitet og mere politi, og lægger vægt på tryghed. Partiet vil samtidig have retssikkerhed for borgerne."
+  },
+  "bolig": {
+   "score": 3,
+   "text": "Konservative vil have en blanding af marked og regulering på boligområdet. Partiet kritiserer et loft over rentefradraget, fordi det gør boligejerskab dyrere."
+  },
+  "uddannelse": {
+   "score": 3,
+   "text": "Konservative vil have en uddannelse med krav og faglige standarder og mere valgfrihed for elever og studerende."
+  }
+ },
+ "history": [
+  {
+   "year": "1916",
+   "event": "Det Konservative Folkeparti stiftes 22. februar 1916."
+  },
+  {
+   "year": "2019",
+   "event": "Konservative er i opposition efter valget i 2019 og presser på for en stram skatte- og retspolitik."
+  },
+  {
+   "year": "2022",
+   "event": "Konservative får 5,5 % og 10 mandater ved folketingsvalget 2022."
+  },
+  {
+   "year": "2024",
+   "event": "Søren Pape Poulsen dør i marts 2024, og 21. april 2024 vælges Mona Juul til formand på et ekstraordinært landsråd i Herning uden modkandidater."
+  },
+  {
+   "year": "2025",
+   "event": "I september 2025 fremlægger LA, DD, DF og Konservative sammen 50 forslag til en borgerlig regering, der skal gennemføres i de første 100 dage."
+  },
+  {
+   "year": "2025",
+   "event": "23. oktober 2025 indgår Konservative en finanslovsaftale med SVM-regeringen om finansloven for 2026, som den eneste af de blå partier. Mona Juul bryder dermed med den blå alliance."
+  },
+  {
+   "year": "2026",
+   "event": "Ved valget 24. marts 2026 får Konservative 7,6 % og 13 mandater."
+  },
+  {
+   "year": "2026",
+   "event": "7. april 2026 vælges Mette Abildgaard som gruppeformand for folketingsgruppen og afløser Mona Juul på posten. Helle Bonnesen fortsætter som næstformand."
+  },
+  {
+   "year": "2026",
+   "event": "5. maj 2026 udpeger partiet Frederik Bloch Münster som ny politisk ordfører."
+  },
+  {
+   "year": "2026",
+   "event": "8. oktober 2026 kritiserer Mona Juul i Folketingets åbningsdebat regeringens plan om et loft over rentefradraget."
+  }
+ ],
+ "people": [
+  {
+   "name": "Mona Juul",
+   "role": "Formand",
+   "note": "Partiets formand siden 2024 og den borgerlige politiker, der i 2025 valgte at støtte SVM-regeringens finanslov."
+  },
+  {
+   "name": "Mette Abildgaard",
+   "role": "Gruppeformand (siden 7. april 2026)",
+   "note": "Leder folketingsgruppen og er familieordfører, og har afløst Mona Juul som gruppeformand."
+  },
+  {
+   "name": "Helle Bonnesen",
+   "role": "Næstformand for folketingsgruppen",
+   "note": "Næstformand i folketingsgruppen, som fortsatte i posten efter gruppeformandsskiftet i april 2026."
+  },
+  {
+   "name": "Frederik Bloch Münster",
+   "role": "Politisk ordfører (udpeget 5. maj 2026)",
+   "note": "Partiets politiske ordfører efter Mette Abildgaard. Han er den, der fører partiets politiske linje i Folketinget."
+  },
+  {
+   "name": "Mai Mercado",
+   "role": "Folketingsmedlem, tidligere børne- og socialminister (2016-2019)",
+   "note": "En af partiets mest erfarne profiler og et kendt ansigt i debatter om familie, børn og socialpolitik."
+  },
+  {
+   "name": "Marcus Knuth",
+   "role": "Folketingsmedlem",
+   "note": "Skiftede fra Venstre til Konservative i 2019 og er en af partiets skarpeste stemmer i udlændingedebatten."
+  },
+  {
+   "name": "Sofie Therese Svendsen",
+   "role": "Folketingsmedlem, yngste medlem af Folketinget",
+   "note": "Blev valgt 24. marts 2026 som 23-årig og er det yngste medlem af det nye Folketing."
+  }
+ ],
+ "voters": {
+  "summary": "Konservative har en vælgerbase af borgerlige, der lægger vægt på tryghed, ansvar og en stærk retsstat. Partiet har mistet vælgere til LA og Venstre gennem de senere år, men har vist sig som et stabilt parti i midten af den blå blok.",
+  "strongholds": "Storbyernes forstæder og de sjællandske områder har historisk været stærke for Konservative.",
+  "demographics": "Vælgerne er typisk ældre og middelklasse, med en overrepræsentation af selvstændige og folk med erhvervsuddannelser."
+ },
+ "election2026": {
+  "note": "Konservative fik 7,6 % og 13 mandater ved valget 24. marts 2026, mod 5,5 % og 10 mandater i 2022. Fremgangen skyldtes ifølge analyser, at partiet samlede borgerlige vælgere, men den blå blok samlede sig ikke om én linje. Efter valget er partiet i opposition, og målinger i efteråret 2026 viser cirka 9,9 %."
+ },
+ "strengths": [
+  "Tryghed og retsstat er et klart profilpunkt",
+  "Stærk forankring i middelklassen og blandt selvstændige",
+  "Mona Juul er en af de få blå ledere, som Statsministeren har rost i Folketinget",
+  "Partiet kan samarbejde både med midten og den blå blok"
+ ],
+ "weaknesses": [
+  "Lille vælgerbase og svag tilslutning i målinger",
+  "Uklar profil efter støtten til SVM-regeringens finanslov",
+  "Finanslovsaftalen i 2025 gav kritik fra den blå blok",
+  "Afhængig af at den blå blok samler sig om en statsministerkandidat"
+ ],
+ "internalTensions": [
+  {
+   "title": "Midten eller den blå blok",
+   "detail": "Konservative har flirtet med midten og støttede SVM's finanslov i 2025, mens LA og DF holder fast i en blå linje. Det skaber spændinger om, hvor partiet hører hjemme."
+  },
+  {
+   "title": "Tryghed mod samarbejde",
+   "detail": "Mona Juul vil have et bedre samarbejde i dansk politik, mens kritikere mener, at partiet svækker den blå blok, når det samarbejder med midten."
+  }
+ ],
+ "typicalArguments": [
+  {
+   "claim": "Vi vil have tryghed og hårdere straf, så folk kan føle sig trygge.",
+   "counter": "Kritikere mener, at hårdere straf ikke alene løser kriminalitet, og at forebyggelse og resocialisering virker bedre."
+  },
+  {
+   "claim": "Vi tager ansvar, også når det er svært, og støtter regeringen, når det gavner landet.",
+   "counter": "Kritikere siger, at partiet svigtede den blå blok, da det støttede SVM's finanslov i 2025."
+  },
+  {
+   "claim": "Et loft over rentefradraget gør det dyrere at eje sin bolig, og det rammer almindelige boligejere.",
+   "counter": "Regeringen mener, at et loft skal dæmpe boligpriserne og gøre fordelingen mere rimelig."
+  },
+  {
+   "claim": "Vi vil have et bedre samarbejde i dansk politik, så Danmark kan få en borgerlig regering.",
+   "counter": "Kritikere mener, at samarbejde med midten svækker den blå blok, der har brug for en fælles linje for at vinde valget."
+  }
+ ],
+ "vsDF": {
+  "agree": [
+   "Begge partier vil have en stram udlændingepolitik og krav til integration",
+   "Begge er for en stærk retsstat og hårdere straf for alvorlig kriminalitet"
+  ],
+  "disagree": [
+   "Konservative er mere positive over for EU og det indre marked, mens DF er EU-skeptisk",
+   "Konservative har vist vilje til at samarbejde med midten og SVM, mens DF holder fast i en blå linje"
+  ],
+  "note": "Konservative og DF er begge borgerlige partier, men Konservative er mere pragmatiske i samarbejdet og i EU-spørgsmål, mens DF lægger større vægt på velfærd og er mere EU-skeptisk. I november 2026 indgik regeringen en skatteaftale med DF, som Konservative ikke var en del af."
+ },
+ "vocabulary": [
+  {
+   "term": "Retsstat",
+   "meaning": "At staten følger lovene, og at borgerne har rettigheder over for magten. Konservative bruger begrebet om tryghed og retssikkerhed."
+  },
+  {
+   "term": "Ansvar",
+   "meaning": "Partiets begreb for, at borgerne skal tage ansvar for sig selv og deres familie, og at staten træder til, når det er nødvendigt."
+  },
+  {
+   "term": "Blå familie",
+   "meaning": "Mona Juuls begreb for de blå partier. Hun har sagt, at det kræver mere arbejde at samle den blå familie."
+  }
+ ],
+ "funFacts": [
+  "I oktober 2025 var Konservative det eneste blå parti, der indgik finanslovsaftale med SVM-regeringen.",
+  "Mona Juul blev valgt til formand 21. april 2024 uden modkandidater."
+ ],
+ "currentDebates": [
+  {
+   "title": "Mona Juul kritiserer loft over rentefradraget i åbningsdebatten",
+   "date": "2026-10-08",
+   "topic": "bolig",
+   "summary": "I Folketingets åbningsdebat 8. oktober 2026 svarede Mona Juul statsminister Mette Frederiksen og kritiserede regeringens plan om et loft over rentefradraget. Hun advarede om, at planen gør boligejerskab dyrere og sværere at komme ind på boligmarkedet. Mette Frederiksen roste hendes tale som dagens bedste ordførertale fra oppositionen.",
+   "positions": [
+    {
+     "who": "Mona Juul",
+     "says": "Loftet over rentefradraget gør det dyrere at eje sin bolig og sværere at komme ind på boligmarkedet."
+    }
+   ],
+   "whyItMatters": "Debatten viser, at Konservative prøver at markere sig som et ansvarligt oppositionsparti med en klar linje på boligpolitik.",
+   "sources": [
+    {
+     "title": "Folketingets åbningsdebat (TV 2, 8. okt. 2026)",
+     "url": "https://nyheder.tv2.dk/live/politik/2026-10-08-folketingets-aabningsdebat"
+    }
+   ]
+  },
+  {
+   "title": "Konservative er størst af de gamle borgerlige partier i målingerne",
+   "date": "2026-11-09",
+   "topic": "andet",
+   "summary": "Voxmeters måling fra 9. november 2026 giver Konservative 10,7 procent. Ved valget i marts fik partiet 7,6 procent. Dermed står Konservative over både Liberal Alliance (9,2) og Venstre (5,8), og kun Dansk Folkeparti (13,4) er større i blå blok. Fremgangen falder sammen med Venstres krise og giver Mona Juul et stærkere kort i kampen om, hvem der skal lede de borgerlige.",
+   "positions": [
+    {
+     "who": "Konservative",
+     "says": "Partiet har lagt sig som det rolige, regeringsduelige alternativ, mens Venstre slås med sig selv."
+    },
+    {
+     "who": "Dansk Folkeparti",
+     "says": "Står til 13,4 procent og er klart størst i blå blok, så Konservative er stadig nummer to."
+    }
+   ],
+   "whyItMatters": "Hvis tallene holder, er det Konservative og ikke Venstre eller LA, der kan gøre krav på at samle de borgerlige vælgere, som ikke vil stemme DF.",
+   "sources": [
+    {
+     "title": "Voxmeter: politiske meningsmålinger",
+     "url": "https://voxmeter.dk/meningsmalinger/"
+    }
+   ]
+  },
+  {
+   "title": "Konservative vil bevare 10. klasse",
+   "date": "2026-10-22",
+   "topic": "uddannelse",
+   "summary": "Konservative har fremsat beslutningsforslag B 31 om at bevare 10. klasse. Forslaget er partiets eget og er fremsat af Lise Bertelsen sammen med flere konservative folketingsmedlemmer. Det er et af de få forslag i denne samling, hvor Konservative går alene uden de andre borgerlige partier.",
+   "positions": [
+    {
+     "who": "Konservative",
+     "says": "10. klasse skal bestå som et tilbud til de unge, der har brug for et ekstra år, før de vælger ungdomsuddannelse."
+    }
+   ],
+   "whyItMatters": "Uddannelse er et område, hvor Konservative forsøger at skille sig ud fra både Venstre og Liberal Alliance.",
+   "sources": [
+    {
+     "title": "Folketinget: B 31 om at bevare 10. klasse",
+     "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B31/index.htm"
+    }
+   ]
+  },
+  {
+   "title": "Stemte for at få store bededag tilbage",
+   "date": "2026-10-01",
+   "topic": "arbejdsmarked",
+   "summary": "Da Folketinget 1. oktober 2026 stemte om beslutningsforslag B 3 om at genindføre store bededag som helligdag, stemte Konservative for sammen med DF, Liberal Alliance, Danmarksdemokraterne og Borgernes Parti. Forslaget blev forkastet med 37 stemmer for, 62 imod og 10 hverken for eller imod. Venstre, som var med til at afskaffe dagen i SVM-regeringen, stemte hverken for eller imod.",
+   "positions": [
+    {
+     "who": "Konservative",
+     "says": "Stemte for at genindføre store bededag."
+    },
+    {
+     "who": "Venstre",
+     "says": "Stemte hverken for eller imod."
+    },
+    {
+     "who": "Regeringspartierne, Enhedslisten og Alternativet",
+     "says": "Stemte imod."
+    }
+   ],
+   "whyItMatters": "Afstemningen viser en af de tydelige forskelle mellem Konservative og Venstre, som ellers ligner hinanden på mange områder.",
+   "sources": [
+    {
+     "title": "Folketinget: B 3 om at genindføre store bededag",
+     "url": "https://www.ft.dk/samling/20252/beslutningsforslag/B3/index.htm"
+    }
+   ]
+  },
+  {
+   "title": "Skat skal ikke kunne anke, når borgeren vinder",
+   "date": "2026-11-11",
+   "topic": "oekonomi",
+   "summary": "Konservative har sammen med Venstre og Liberal Alliance fremsat B 47, der vil begrænse skattemyndighedernes adgang til at anke domme og til at indbringe afgørelser fra det administrative klagesystem for domstolene. Forslaget er fremsat 11. november 2026 med Marie Brixtofte (V) som første forslagsstiller.",
+   "positions": [
+    {
+     "who": "Konservative, Venstre og Liberal Alliance",
+     "says": "Borgere og virksomheder, der har fået medhold over for skattevæsenet, skal ikke trækkes gennem nye retssager af staten."
+    }
+   ],
+   "whyItMatters": "Retssikkerhed på skatteområdet er en klassisk borgerlig mærkesag og et af de steder, hvor de tre gamle borgerlige partier stadig arbejder sammen.",
+   "sources": [
+    {
+     "title": "Folketinget: B 47",
+     "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B47/index.htm"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "Folketingets åbningsdebat (TV 2, 8. okt. 2026)",
+   "url": "https://nyheder.tv2.dk/live/politik/2026-10-08-folketingets-aabningsdebat"
+  },
+  {
+   "title": "Det Konservative Folkeparti (Wikipedia)",
+   "url": "https://da.wikipedia.org/wiki/Det_Konservative_Folkeparti"
+  },
+  {
+   "title": "Mona Juul (Wikipedia)",
+   "url": "https://da.wikipedia.org/wiki/Mona_Juul"
+  },
+  {
+   "title": "Folketingsvalget 2026 (Wikipedia)",
+   "url": "https://da.wikipedia.org/wiki/Folketingsvalget_2026"
+  },
+  {
+   "title": "Folketingsvalget 2022 (Wikipedia)",
+   "url": "https://da.wikipedia.org/wiki/Folketingsvalget_2022"
+  },
+  {
+   "title": "Mona Juul (lex.dk)",
+   "url": "https://lex.dk/Mona_Juul"
+  },
+  {
+   "title": "Regeringen indgår finanslovsaftale med Konservative (Altinget, 23. okt. 2025)",
+   "url": "https://www.altinget.dk/artikel/regeringen-indgaar-finanslovsaftale-med-konservative-stor-strategisk-sejr-for-venstre-siger-politisk-redaktoer"
+  },
+  {
+   "title": "Støjberg og Vanopslagh nedtoner stridigheder med V (Altinget, 12. maj 2026)",
+   "url": "https://www.altinget.dk/christiansborg/artikel/stoejberg-og-vanopslagh-nedtoner-stridigheder-med-v-vi-har-et-ultimativt-krav-og-det-er-en-blaa-statsminister"
+  },
+  {
+   "title": "Konservative vil straffe indvandrerforældre for børnenes kriminalitet (Sjællandske)",
+   "url": "https://www.sn.dk/art6645845/koebenhavn-kommune/politik/konservative-vil-straffe-indvandrerforaeldre-for-boernenes-kriminalitet"
+  }
+ ]
+}

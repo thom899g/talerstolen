@@ -1,0 +1,189 @@
+{
+  "id": "alt",
+  "letter": "Å",
+  "name": "Alternativet",
+  "short": "ALT",
+  "founded": "2013",
+  "foundedNote": "Alternativet blev præsenteret 27. november 2013 på en pressekonference på Christiansborg. Uffe Elbæk stiftede partiet sammen med Josephine Fock. Det ville have en grøn, værdibaseret politik uden for de traditionelle blokke.",
+  "leader": {"name": "Franciska Rosenkilde", "title": "Partiformand / politisk leder", "since": "2021", "bio": "Tidligere kultur- og fritidsborgmester i København. Blev valgt til politisk leder i februar 2021, efter at Josephine Fock havde trukket sig i november 2020. Hun er stadig leder i 2026 (Altinget, maj og sommer 2026). I januar 2026 sagde hun, at hun ser Pia Olsen Dyhr som mere oplagt partner end Mette Frederiksen."},
+  "role": "støtteparti",
+  "roleNote": "Alternativet er støtteparti for firkløverregeringen (S, SF, M og RV), der blev dannet 3. juni 2026. Partiet har ingen ministre, men er en del af det flertal, regeringen skal bruge for at få sine forslag igennem.",
+  "ideology": ["grønt", "værdibaseret", "trivselspolitik", "dyrevelfærd"],
+  "euGroup": "ingen MEP (partiet har ingen mandater i Europa-Parlamentet)",
+  "youth": {"name": "Alternativets Unge", "note": "Partiets ungdomsorganisation, stiftet i december 2016."},
+  "website": "https://alternativet.dk",
+  "oneLiner": "Grønt parti, der vil måle politik på trivsel, klima og fællesskab, ikke kun på økonomi.",
+  "summary": "Alternativet vil have politik, der giver trivsel, grøn omstilling og et stærkt fællesskab. Partiet vil ikke kun vurdere politik ud fra økonomisk effekt, men også ud fra om det skaber trivsel og gavner klimaet og miljøet. Partiet står for dyrevelfærd, stærkere kontrol med landbruget og en mere åben udlændingepolitik end S. Det adskiller partiet fra andre grønne ved at lægge vægt på trivsel frem for vækst, og fra de traditionelle partier ved at være et bevidst værdiparti. Alternativet fik 5 mandater ved valget i 2026 og er støtteparti for regeringen.",
+  "pitch": "Vi siger det, de andre ikke siger: at økonomi er et middel og ikke et mål. Vi vil have politik, der gør danskerne trives, passer på naturen og klimaet og styrker fællesskabet. Og vi er klar til at støtte en regering, der lytter til os.",
+  "critique": "Kritikerne peger på, at Alternativet ikke har en færdig økonomisk politik. Partiets økonomiske hovedkrav om gennemgående økonomisk omstilling er ifølge Altinget (12. maj 2026) endnu ikke konkret. Tidligere folketingsmedlem Christina Olumeko har spurgt, om partiet har andet end grise på dagsordenen (Altinget). Kritikerne mener også, at partiet er for lille til at betyde reelt noget, når det står uden for regeringen.",
+  "keyIssues": [
+    {"title": "Dyrevelfærd og kontrol", "detail": "Alternativet vil afsætte 200 mio. kr. til at styrke kontrollen med dyrevelfærd i finansloven for 2027. Rosenkilde har kaldt det 'dybt kritisk', at omkring 1.500 opfølgende kontroller fra 2025 og første halvdel af 2026 ikke er udført, og kalder grisesagen en rød linje (sn.dk)."},
+    {"title": "Trivsel som målestok for politik", "detail": "Alternativet vil have politik vurderet ud fra trivsel, klima og fællesskab, ikke kun ud fra økonomisk effekt. Rosenkilde har sagt, at partiet kan 'bøje sig' på andre økonomiske tiltag, hvis de får det (Altinget, 12. maj 2026)."},
+    {"title": "Datacentre og grøn omstilling", "detail": "Alternativet har stillet forespørgsel F 4 (opdateret 4. nov. 2026) om, hvordan regeringen vil sikre, at nye datacentre dækker reelle samfundsbehov, og at deres energiforbrug ikke underminerer den grønne omstilling."},
+    {"title": "Udlændingepolitik", "detail": "Rosenkilde har sagt, at et samarbejde med S kræver 'markante ændringer' i udlændingeretorikken (Altinget, 6. jan. 2026). Alternativet stemte imod skærpede udvisningsregler (L 17 A, 3. sept. 2026)."},
+    {"title": "Landdistrikter", "detail": "Alternativet foreslår 50.000 kr. ekstra til lokalområdet, hver gang en familie flytter permanent til et mindre landdistrikt (sn.dk)."}
+  ],
+  "positions": {
+    "udlaendinge": {"score": 1, "text": "Alternativet vil have en mere åben og menneskelig udlændingepolitik end S. Rosenkilde har sagt, at et samarbejde med S kræver markante ændringer i udlændingeretorikken (Altinget, 6. jan. 2026). Partiet stemte 3. sept. 2026 imod skærpede udvisningsregler (L 17 A) og imod en styrkelse af hjemrejsestøtten (L 17 B)."},
+    "oekonomi": {"score": 2, "text": "Alternativet vil vurdere politik ud fra trivsel, klima og fællesskab, ikke kun økonomisk effekt. Partiet har et økonomisk hovedkrav om gennemgående økonomisk omstilling, og Rosenkilde har sagt, at partiet kan give køb på andre økonomiske tiltag, hvis de får det (Altinget, 12. maj 2026). Partiet stemte for nulmoms på bøger (L 36, 12. nov. 2026)."},
+    "arbejdsmarked": {"score": 2, "text": "Alternativet lægger vægt på trivsel og fællesskab i arbejdslivet. Partiets vigtigste økonomiske og sociale prioritet i 2026 har været trivsel og en mere bred vurdering af politik."},
+    "velfaerd": {"score": 2, "text": "Alternativet vægter trivsel og fællesskab højt og har fremsat forslag om 50.000 kr. ekstra til lokalområder ved tilflytning til mindre landdistrikter (sn.dk). Partiet har fokus på dyrevelfærd og kontrol med landbruget."},
+    "sundhed": {"score": 2, "text": "Rosenkilde har gjort sig selv til partiets sundhedsprofil i en Altinget-artikel. Partiets fokus er trivsel og forebyggelse."},
+    "klima": {"score": 1, "text": "Alternativet vil prioritere klimaet i finansloven og have en grøn akutpakke. Partiet mener, at den grønne omstilling er gået helt i stå under den forrige regering (Altinget)."},
+    "natur_landbrug": {"score": 1, "text": "Alternativet vil have stærkere kontrol med dyrevelfærd og landbrug. Rosenkilde har kaldt grisesagen en rød linje, og partiet vil afsætte 200 mio. kr. til at styrke kontrollen i finansloven for 2027 (sn.dk)."},
+    "eu": {"score": 2, "text": "Alternativet er et europæisk orienteret parti, men har ingen mandater i Europa-Parlamentet. Partiet stemte 27. aug. 2026 imod at gennemføre dele af EU's migrationspagt (L 15)."},
+    "forsvar": {"score": 3, "text": "Alternativet har ikke fremsat en særlig forsvarsplan i 2026. Partiet har tidligere været skeptisk over for store forsvarsudgifter."},
+    "ret": {"score": 2, "text": "Alternativet er generelt optaget af forebyggelse og trivsel. Partiet stemte 3. sept. 2026 imod skærpede udvisningsregler (L 17 A) og imod, at en ung gerningspersons alder ikke skal kunne formildende (B 8)."},
+    "bolig": {"score": 2, "text": "Alternativet har ikke fremsat en særlig boligpolitik i 2026. Partiets prioriteter ligger i trivsel, klima og dyrevelfærd."},
+    "uddannelse": {"score": 2, "text": "Alternativet stemte imod L 21 om misbrug af studieophold 3. sept. 2026 og lægger generelt vægt på trivsel og fællesskab i uddannelse."}
+  },
+  "history": [
+    {"year": "2013", "event": "Alternativet præsenteres 27. november 2013 på Christiansborg af Uffe Elbæk og Josephine Fock."},
+    {"year": "2016", "event": "Alternativets Unge stiftes i december 2016."},
+    {"year": "2020", "event": "Josephine Fock træder tilbage som politisk leder i november 2020."},
+    {"year": "2021", "event": "Franciska Rosenkilde vælges som ny politisk leder på et ekstraordinært landsmøde i februar 2021."},
+    {"year": "2022", "event": "Efter valget i 2022 sidder Alternativet i opposition med 6 mandater og 3,3 pct. af stemmerne."},
+    {"year": "2026", "event": "Ved valget 24. marts 2026 får Alternativet 2,6 pct. og 5 mandater, 1 mandat mindre end i 2022."},
+    {"year": "2026", "event": "3. juni 2026 bliver Alternativet støtteparti for firkløverregeringen efter 69 dages regeringsforhandlinger."},
+    {"year": "2026", "event": "3. sept. 2026 stemmer Alternativet imod skærpede udvisningsregler (L 17 A) og imod en styrkelse af hjemrejsestøtten (L 17 B)."},
+    {"year": "2026", "event": "6. oktober 2026 trækker Alternativet støtten til Henrik Frandsen (M) som formand for Folketinget."}
+  ],
+  "people": [
+    {"name": "Franciska Rosenkilde", "role": "politisk leder", "note": "Partiets ansigt udadtil og den person, der forhandler om støtte til regeringen. Var kultur- og fritidsborgmester i København før sin tid i Folketinget."},
+    {"name": "Torsten Gejl", "role": "folketingsmedlem", "note": "Oplyste 6. oktober 2026 over for TV 2, at partiet trækker støtten til Henrik Frandsen (M) som formand for Folketinget."},
+    {"name": "Elise Sydendal", "role": "folketingsmedlem", "note": "Har stillet forespørgsel F 4 om datacentre og den grønne omstilling (opdateret 4. nov. 2026)."},
+    {"name": "Anna Bjerre", "role": "folketingsmedlem", "note": "Medlem af Alternativets folketingsgruppe efter valget i 2026."},
+    {"name": "Signe Wenneberg", "role": "folketingsmedlem", "note": "Medlem af Alternativets folketingsgruppe efter valget i 2026."}
+  ],
+  "voters": {"summary": "Alternativets vælgere er typisk unge, grønne og urbane, og mange har en højere uddannelse. De stemmer på partiet for klima, dyrevelfærd og en mere værdibaseret politik. Partiet har svært ved at nå ud til vælgere uden for de store byer.", "strongholds": "Alternativet er stærkest i de store byer og universitetsbyerne, især i København og Aarhus.", "demographics": "Vælgerne er typisk under 45 år, har længere uddannelse og er ofte kvinder. Partiet har færre vælgere blandt ældre og lavt uddannede."},
+  "election2026": {"note": "Alternativet fik 2,6 pct. og 5 mandater ved valget 24. marts 2026, mod 6 mandater og 3,3 pct. i 2022. Partiet gik tilbage under valgkampen. Rosenkilde har efterfølgende opfordret partiet til at være mere tydeligt og insisterende og vise, at det har mere politik end det grønne (Altinget, 11. maj 2026)."},
+  "strengths": [
+    "Støtteparti for regeringen, som giver mulighed for indflydelse på finansloven",
+    "Stærk profil på dyrevelfærd og trivsel",
+    "Stabil ledelse under Rosenkilde siden 2021"
+  ],
+  "weaknesses": [
+    "Kun 5 mandater og tæt på spærregrænsen på 2 pct.",
+    "Står uden for regeringen og må forhandle om indflydelse",
+    "Økonomisk hovedkrav er endnu ikke konkretiseret"
+  ],
+  "internalTensions": [
+    {"title": "Grøn spændetrøje", "detail": "Altinget har skrevet om, at Alternativet i Vejle forsøgte at slippe sin grønne spændetrøje. Det afspejler en spænding mellem partiets grønne kerne og ønsket om en bredere politik."},
+    {"title": "Partiets retning", "detail": "Tidligere folketingsmedlem Christina Olumeko har kaldt på selvransagelse i partiet. Spørgsmålet er, om partiet vil være et bredt værdiparti eller et grønt specialparti."}
+  ],
+  "typicalArguments": [
+    {"claim": "Politik skal måles på trivsel, ikke kun på økonomisk vækst.", "counter": "Kritikere mener, at trivsel er svært at måle, og at en økonomi uden vækst har svært ved at finansiere velfærden."},
+    {"claim": "Dyrevelfærd og kontrol skal prioriteres, og 200 mio. kr. skal sikre det.", "counter": "Kritikere mener, at dyrevelfærd ikke er et stort nok emne i en finanslov med store udfordringer, og at pengene bør gå til klima eller sundhed."},
+    {"claim": "Vi har indflydelse som støtteparti, og vi bruger den til at presse regeringen på klima og udlændinge.", "counter": "Kritikere siger, at Alternativet er for lille til at betyde reelt noget, og at støtten giver regeringen flertal, uden at partiet får det, det vil have."},
+    {"claim": "Vi siger nej, når vi mener, det er nødvendigt, også til poster i Folketinget.", "counter": "Kritikere mener, at partiet ved at trække støtten til Henrik Frandsen skaber usikkerhed om, hvor pålidelige støttepartierne er for regeringen."},
+    {"claim": "Vi vil ikke være bundet af regeringen.", "counter": "Partiet er støtteparti, og Rosenkilde har sagt, at Alternativet 'ikke kun er bundet til at lave politik med regeringen' (sommer 2026), hvilket kan opfattes som uklart over for vælgerne."}
+  ],
+  "vsDF": {
+    "agree": [
+      "Nulmoms på bøger (L 36, vedtaget 12. nov. 2026): både Alternativet og Dansk Folkeparti stemte for.",
+      "Koranloven (B 6, 1. okt. 2026): både Alternativet og Dansk Folkeparti stemte for at afskaffe den.",
+      "Hjemrejsestøtten (L 17 B, 3. sept. 2026): både Alternativet og Dansk Folkeparti stemte imod forslaget.",
+      "EU's migrationspagt (L 15, 27. aug. 2026): både Alternativet og Dansk Folkeparti stemte imod at gennemføre dele af den, men af helt forskellige grunde."
+    ],
+    "disagree": [
+      "Udvisning (L 17 A, 3. sept. 2026): Dansk Folkeparti stemte for skærpelsen, Alternativet stemte imod.",
+      "Store bededag (B 3, 1. okt. 2026): Dansk Folkeparti stemte for at genindføre den, Alternativet stemte imod.",
+      "Højtalerforstærket bøn (B 11, 3. sept. 2026): Dansk Folkeparti stemte for forbuddet, Alternativet stemte imod.",
+      "Tobaks- og alderskontrol (L 12 B, 27. aug. 2026): Alternativet stemte for, Dansk Folkeparti stemte imod."
+    ],
+    "note": "Alternativet og Dansk Folkeparti stemmer sammen i nogle værdispørgsmål som koranloven, men er modsatte på udvisning, religiøse helligdage og de fleste stramninger over for udlændinge."
+  },
+  "vocabulary": [
+    {"term": "Trivsel", "meaning": "Alternativets nøglebegreb: politik skal vurderes ud fra, om den gør danskerne trives, ikke kun ud fra økonomisk effekt."},
+    {"term": "Grøn spændetrøje", "meaning": "Et udtryk, Altinget har brugt om Alternativets forsøg på at slippe for at være et rent grønt parti."},
+    {"term": "Blokpolitik", "meaning": "Når partier vælger at støtte eller modsætte sig en politik ud fra, hvilken blok de tilhører, og ikke ud fra indhold. Alternativet og Enhedslisten har anklaget regeringen for blokpolitik ved forhandlingsbordet (Altinget, 24. jul. 2025)."},
+    {"term": "Spærregrænsen", "meaning": "Den 2 pct.-grænse, et parti skal over for at få mandater i Folketinget. Alternativet har ligget tæt på den."}
+  ],
+  "funFacts": [
+    "Josephine Fock var politisk leder før Franciska Rosenkilde, som blev valgt i februar 2021 efter Focks afgang i november 2020.",
+    "Alternativet fik 91.770 stemmer ved valget i 2026 og 117.567 i 2022. Partiet har ingen mandater i Europa-Parlamentet.",
+    "Alternativet har været støtteparti for regeringen, men er ikke i regering, og partiet har ingen ministre."
+  ],
+  "currentDebates": [
+    {
+      "title": "Udvisning og skærpede regler for udlændinge (L 17 A og L 17 B)",
+      "date": "2026-09-03",
+      "topic": "udlaendinge",
+      "summary": "Folketinget vedtog 3. september 2026 L 17 A om skærpede regler for udvisning ved ubetinget fængselsstraf på mindst et år for visse former for alvorlig kriminalitet. Alternativet stemte imod sammen med Enhedslisten. Samme dag vedtog Folketinget L 17 B om styrkelse af hjemrejsestøtten, hvor Alternativet stemte imod sammen med Dansk Folkeparti.",
+      "positions": [
+        {"who": "Alternativet", "says": "Stemte imod både L 17 A og L 17 B (Folketingets afstemninger, 3. sept. 2026)."},
+        {"who": "Dansk Folkeparti", "says": "Stemte for L 17 A og imod L 17 B (Folketingets afstemninger, 3. sept. 2026)."}
+      ],
+      "whyItMatters": "Viser, hvor Alternativet står i udlændingespørgsmålet, når støttepartiet skal vælge mellem regeringens linje og Dansk Folkeparti.",
+      "sources": [
+        {"title": "Folketinget: L 17 om skærpelse af regler om udvisning", "url": "https://www.ft.dk/samling/20261/lovforslag/L17/index.htm"}
+      ]
+    },
+    {
+      "title": "Koranloven forkastet (B 6)",
+      "date": "2026-10-01",
+      "topic": "andet",
+      "summary": "Folketinget forkastede 1. oktober 2026 B 6 om at afskaffe koranloven. Alternativet stemte for forslaget sammen med Dansk Folkeparti, Liberal Alliance, Konservative, Enhedslisten, Danmarksdemokraterne og Borgernes Parti. Forslaget faldt, fordi Socialdemokratiet, SF, Venstre, Moderaterne og Radikale stemte imod.",
+      "positions": [
+        {"who": "Alternativet", "says": "Stemte for at afskaffe koranloven (Folketingets afstemninger, 1. okt. 2026)."},
+        {"who": "Socialdemokratiet, SF, Venstre, Moderaterne og Radikale", "says": "Stemte imod forslaget (Folketingets afstemninger, 1. okt. 2026)."}
+      ],
+      "whyItMatters": "Viser, at Alternativet i nogle værdisager stemmer sammen med Dansk Folkeparti, men ikke med regeringspartierne.",
+      "sources": [
+        {"title": "Folketinget: B 6 om at afskaffe koranloven", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B6/index.htm"}
+      ]
+    },
+    {
+      "title": "Alternativet trækker støtten til Henrik Frandsen (M) som Folketingets formand",
+      "date": "2026-10-06",
+      "topic": "andet",
+      "summary": "Alternativet trak 6. oktober 2026, få timer før Folketingets åbning, støtten til Henrik Frandsen (M) som ny formand. Torsten Gejl (ALT) sagde til TV 2, at Frandsen 'alt i alt har udvist for dårlig dømmekraft'. Det viser, at Alternativet er villig til at bruge sin støtte som pressmiddel, selv om partiet støtter regeringen.",
+      "positions": [
+        {"who": "Alternativet (Torsten Gejl)", "says": "Frandsen har alt i alt udvist for dårlig dømmekraft, og posten som formand er 'en meget ærefuld stilling' (Altinget, 6. okt. 2026)."}
+      ],
+      "whyItMatters": "Viser, at støttepartierne kan sige nej til poster, selv om de er en del af regeringens flertal.",
+      "sources": [
+        {"title": "Altinget: Alternativet trækker støtten til Henrik Frandsen som ny folketingsformand", "url": "https://www.altinget.dk/artikel/alternativet-traekker-stoetten-til-henrik-frandsen-foer-aabning"}
+      ]
+    },
+    {
+      "title": "Datacentre og den grønne omstilling (F 4)",
+      "date": "2026-11-04",
+      "topic": "klima",
+      "summary": "Alternativet har stillet forespørgsel F 4 til regeringen om udfordringer ved etablering af datacentre. Forespørgslen spørger, hvordan regeringen vil sikre, at nye datacentre dækker reelle samfundsbehov, og at deres store energi- og ressourceforbrug ikke underminerer den grønne omstilling. Forespørgslen er af Elise Sydendal m.fl.",
+      "positions": [
+        {"who": "Alternativet (Elise Sydendal m.fl.)", "says": "Spørger, hvordan regeringen vil sikre, at datacentre ikke underminerer den grønne omstilling (F 4, opdateret 4. nov. 2026)."}
+      ],
+      "whyItMatters": "Viser, at Alternativet bruger sin rolle i Folketinget til at stille regeringen konkrete krav om klima og energi, også uden for finansloven.",
+      "sources": [
+        {"title": "Folketinget: F 4 om udfordringer forbundet med etablering af datacentre", "url": "https://www.ft.dk/samling/20261/forespoergsel/F4/index.htm"}
+      ]
+    },
+    {
+      "title": "Nulmoms på bøger vedtaget (L 36)",
+      "date": "2026-11-12",
+      "topic": "oekonomi",
+      "summary": "Folketinget vedtog 12. november 2026 L 36 om nulmoms på bøger, afskaffelse af kaffeafgiften og et motions- og musikundervisningsfradrag. Alternativet stemte for sammen med Socialdemokratiet, SF, Venstre, Moderaterne, Radikale, Dansk Folkeparti og Konservative. Liberal Alliance og Danmarksdemokraterne stemte imod nulmomsen.",
+      "positions": [
+        {"who": "Alternativet", "says": "Stemte for (folketingsafstemning, 12. nov. 2026)."},
+        {"who": "Liberal Alliance og Danmarksdemokraterne", "says": "Stemte imod nulmomsen på bøger."}
+      ],
+      "whyItMatters": "Viser, at Alternativet som støtteparti kan stemme sammen med regeringspartierne, når forslaget ikke er omstridt.",
+      "sources": [
+        {"title": "Folketinget: L 36 om nulmoms på bøger og afskaffelse af kaffeafgiften", "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"}
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Folketinget: Forslag og forespørgsler fra Alternativet (F 4)", "url": "https://www.ft.dk/samling/20261/forespoergsel/F4/index.htm"},
+    {"title": "Folketinget: L 17 om udvisning (3. sept. 2026)", "url": "https://www.ft.dk/samling/20261/lovforslag/L17/index.htm"},
+    {"title": "Folketinget: B 6 om at afskaffe koranloven", "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B6/index.htm"},
+    {"title": "Folketinget: L 36 om nulmoms på bøger", "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"},
+    {"title": "Altinget: Alternativet stiller økonomisk hovedkrav til nye regeringsforhandlinger (12. maj 2026)", "url": "https://www.altinget.dk/artikel/efter-afbrudte-forhandlinger-stiller-alternativet-nyt-hovedkrav-om-dansk-oekonomi"},
+    {"title": "Altinget: Franciska Rosenkilde: Pia Olsen Dyhr er klart mere oplagt for os end Mette Frederiksen (6. jan. 2026)", "url": "https://www.altinget.dk/christiansborg/artikel/franciska-rosenkilde-pia-olsen-dyhr-er-klart-mere-oplagt-for-os-end-mette-frederiksen"},
+    {"title": "Altinget: Alternativet trækker støtten til Henrik Frandsen som ny folketingsformand (6. okt. 2026)", "url": "https://www.altinget.dk/artikel/alternativet-traekker-stoetten-til-henrik-frandsen-foer-aabning"},
+    {"title": "sn.dk: Alternativet vil afsætte 200 millioner kroner til dyrevelfærden", "url": "https://www.sn.dk/art6638371/koebenhavn-kommune/politik/alternativet-vil-afsaette-200-millioner-til-dyrevelfaerden"},
+    {"title": "Da.wikipedia: Alternativet", "url": "https://da.wikipedia.org/wiki/Alternativet"},
+    {"title": "Lex.dk: Regeringen Mette Frederiksen III (ministerliste)", "url": "https://lex.dk/Regeringen_Mette_Frederiksen_III"}
+  ]
+}

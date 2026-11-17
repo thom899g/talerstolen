@@ -1,0 +1,819 @@
+{
+ "updatedAt": "2026-11-16T00:00:00Z",
+ "items": [
+  {
+   "id": "v-benzinaftalen",
+   "date": "2026-11-16",
+   "title": "Solgte DF ud for 2 kroner literen?",
+   "topic": "oekonomi",
+   "debateRef": "n-skatteaftale-df-benzin",
+   "length": "55 sek.",
+   "hook": "DF har lige lavet skatteaftale med Mette Frederiksen. Resten af blå blok stod udenfor og kiggede på.",
+   "altHooks": [
+    "2 kroner billigere benzin. I ét år. Var det prisen for at splitte blå blok?",
+    "Venstre fik nul. LA fik nul. DF fik billigere benzin. Hvem spillede bedst?",
+    "Ja eller nej: Er det okay at lave aftaler med modstanderen, hvis du får dit valgløfte hjem?"
+   ],
+   "person": "Borgerlig vælger, der stemte Venstre eller LA og føler sig snydt af, at DF gik alene til regeringen.",
+   "angle": "DF valgte et resultat frem for sammenhold i blå blok. Videoen lægger begge regnestykker frem og lader seeren dømme, om det var det værd.",
+   "beats": [
+    {
+     "t": "0–3",
+     "who": "PERSON",
+     "line": "I lavede aftale med de røde. Hvad fik I for det?"
+    },
+    {
+     "t": "3–12",
+     "who": "DF'ER",
+     "line": "2 kroner billigere benzin og diesel pr. liter i 2027. Det gik vi til valg på, og nu står det i en aftale."
+    },
+    {
+     "t": "12–15",
+     "who": "SKÆRM",
+     "line": "−2 kr. pr. liter i 2027. Kilde: DR og TV 2"
+    },
+    {
+     "t": "15–28",
+     "who": "PERSON",
+     "line": "I ét år. Bagefter er lettelsen væk, men de højere gebyrer bliver. Ejerafgiften går op til mindst 650 kroner hvert halve år."
+    },
+    {
+     "t": "28–42",
+     "who": "DF'ER",
+     "line": "Det er rigtigt, benzinprisen skal forhandles igen. Men spørg dig selv, hvad dem der blev udenfor fik med hjem. Ingenting."
+    },
+    {
+     "t": "42–50",
+     "who": "PERSON",
+     "line": "Eller også har Mette lige splittet blå blok, og I holdt døren for hende."
+    },
+    {
+     "t": "50–55",
+     "who": "SKÆRM",
+     "line": "Resultat nu, eller sammenhold til næste valg? Hvad ville du vælge?"
+    }
+   ],
+   "smartMove": "Indrøm det billige point selv: sig højt, at lettelsen kun gælder 2027. Så har modparten ikke noget at afsløre, og du kan bruge resten af tiden på dit eget argument.",
+   "strongestCounter": "Benzinlettelsen er midlertidig, mens højere ejerafgift og motorgebyrer er permanente. Samme aftale fjerner toptopskatten, som mest gavner de højeste indkomster.",
+   "facts": [
+    {
+     "fact": "Benzin- og dieselafgiften sænkes med 2 kr. pr. liter inkl. moms i 2027. Skattelettelserne i aftalen er samlet på 11 mia. kr.",
+     "source": {
+      "title": "TV 2, 12. nov. 2026",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-12-ny-skatteaftale-paa-plads"
+     }
+    },
+    {
+     "fact": "Billigere benzin gælder i et år, mens højere afgifter og gebyrer er permanente. Den mindste halvårlige ejerafgift stiger til 650 kr. fra 2027.",
+     "source": {
+      "title": "DR, nov. 2026",
+      "url": "https://www.dr.dk/nyheder/politik/aftale-giver-bilister-billigere-benzin-i-et-aar-men-hoejere-afgifter-og-gebyrer-permanent"
+     }
+    },
+    {
+     "fact": "Aftalen er indgået mellem regeringen og DF. De øvrige blå partier er ikke med.",
+     "source": {
+      "title": "DR, 11. nov. 2026",
+      "url": "https://www.dr.dk/nyheder/politik/reels/blaa-blok-maa-se-til-regeringen-indgaar-skatteaftale-med-df"
+     }
+    }
+   ],
+   "risk": "Sig aldrig bare »billigere benzin« uden årstallet 2027. Det er den detalje, kommentarfeltet vil hænge dig op på.",
+   "caption": "DF fik billigere benzin. Resten af blå blok fik ingenting. Hvem vandt?",
+   "hashtags": [
+    "#dkpol",
+    "#benzin",
+    "#df",
+    "#skat",
+    "#folketinget"
+   ]
+  },
+  {
+   "id": "v-velintegreret",
+   "date": "2026-11-16",
+   "title": "Hvem er det egentlig, DF vil sende hjem?",
+   "topic": "udlaendinge",
+   "length": "60 sek.",
+   "hook": "Jeg er født i Danmark, har arbejde og en ren straffeattest. Hvor står jeg i jeres remigrationsplan?",
+   "altHooks": [
+    "Ja eller nej: Skal en sygeplejerske, der har boet her i 15 år, kunne miste sin opholdstilladelse?",
+    "Folk siger, DF er imod indvandrere. Her er, hvad partiet faktisk har foreslået.",
+    "Giv mig 40 sekunder til at forklare forskellen på en indvandrer og en kriminel."
+   ],
+   "person": "Velintegreret dansker med udenlandske forældre. Rolig, velformuleret og træt af at blive slået i hartkorn med bandemedlemmer.",
+   "angle": "Kernen i hele dit format. Personen stiller det spørgsmål, tusindvis sidder med, og DF'eren skal svare præcist: hvem rammer politikken, og hvem rammer den ikke.",
+   "beats": [
+    {
+     "t": "0–4",
+     "who": "PERSON",
+     "line": "Jeg er født her, betaler skat og har aldrig fået så meget som en bøde. Hvor står jeg i jeres plan?"
+    },
+    {
+     "t": "4–16",
+     "who": "DF'ER",
+     "line": "Du står, hvor alle andre danskere står. Den, der arbejder og overholder loven, er ikke problemet. Det har aldrig været dig, det handler om."
+    },
+    {
+     "t": "16–30",
+     "who": "PERSON",
+     "line": "Men jeres forslag om permanent ophold og statsborgerskab skelner ikke på, om man opfører sig ordentligt. De rammer min mor, som har gjort rent her i 30 år."
+    },
+    {
+     "t": "30–45",
+     "who": "DF'ER",
+     "line": "Så lad os tage din mor. Hvad er det helt konkret i forslaget, der rammer hende? Lad os læse det sammen."
+    },
+    {
+     "t": "45–52",
+     "who": "SKÆRM",
+     "line": "Forslaget står i DF's argumentbank her på siden. Læs ordlyden op."
+    },
+    {
+     "t": "52–60",
+     "who": "PERSON",
+     "line": "Hvis det ikke handler om mig, hvorfor er det så altid mig, der skal forklare mig?"
+    }
+   ],
+   "smartMove": "Skel skarpt, og gør det konkret. Læs den faktiske ordlyd af forslaget op i stedet for at diskutere stemninger. Den, der har teksten, vinder troværdigheden.",
+   "strongestCounter": "Forslag, der knytter ophold og statsborgerskab til herkomst eller til hvornår man kom, rammer også mennesker, der har gjort alt rigtigt. Og tonen i debatten rammer alle, der ligner.",
+   "facts": [
+    {
+     "fact": "DF har i november 2026 fremsat B 17: personer, der har fået dansk indfødsret ved lov, skal have den frakendt, hvis de bagefter idømmes betinget eller ubetinget fængsel efter straffeloven.",
+     "source": {
+      "title": "Folketinget, B 17",
+      "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B17/index.htm"
+     }
+    }
+   ],
+   "risk": "Lad DF'eren kun sige det, partiet faktisk har foreslået. Slå ordlyden op under Dansk Folkeparti, Argumentbank, før du optager.",
+   "caption": "Er DF imod mig? Jeg spurgte.",
+   "hashtags": [
+    "#dkpol",
+    "#integration",
+    "#df",
+    "#udlændingepolitik",
+    "#debat"
+   ],
+   "debateRef": "bank-2"
+  },
+  {
+   "id": "v-statsborgerskab",
+   "date": "2026-11-16",
+   "title": "Kan du miste dit danske pas for en betinget dom?",
+   "topic": "udlaendinge",
+   "debateRef": "n-udlaendinge-hjemsendelse",
+   "length": "50 sek.",
+   "hook": "Hvis DF får sit nye forslag igennem, findes der to slags danske statsborgere. Dem, der kan miste passet. Og dem, der ikke kan.",
+   "altHooks": [
+    "Samme forbrydelse. Samme dom. Den ene mister også sit land.",
+    "DF kalder statsborgerskab en gave. Kan en gave tages tilbage?"
+   ],
+   "person": "Dansker, der selv fik statsborgerskab ved lov som voksen.",
+   "angle": "En af de sværeste for DF'eren, og derfor en af de bedste. Princippet om lighed for loven står over for princippet om, at statsborgerskab forpligter.",
+   "beats": [
+    {
+     "t": "0–4",
+     "who": "PERSON",
+     "line": "Jeg fik mit pas i Folketinget. Du fik dit på fødegangen. Er mit mindre værd?"
+    },
+    {
+     "t": "4–15",
+     "who": "DF'ER",
+     "line": "Nej. Men dit blev givet ved lov, på betingelser. Den, der bagefter får en fængselsdom, har brudt den aftale."
+    },
+    {
+     "t": "15–18",
+     "who": "SKÆRM",
+     "line": "B 17, fremsat november 2026. Gælder også betingede domme."
+    },
+    {
+     "t": "18–32",
+     "who": "PERSON",
+     "line": "Så to mænd begår det samme. Den ene får en betinget dom. Den anden får dommen og mister sit land. Kalder du det lighed for loven?"
+    },
+    {
+     "t": "32–44",
+     "who": "DF'ER",
+     "line": "Jeg kalder det konsekvens. Du lovede noget, da du fik passet. Det gjorde han ikke, for han blev født med det."
+    },
+    {
+     "t": "44–50",
+     "who": "SKÆRM",
+     "line": "Er statsborgerskab en ret eller en aftale? Skriv hvad du mener."
+    }
+   ],
+   "smartMove": "Lad personen vinde denne. Seerne kan mærke, når en kamp er ærlig, og det giver dig troværdighed de gange, DF'eren vinder.",
+   "strongestCounter": "Lighed for loven: samme handling skal give samme straf. Og Danmark må som udgangspunkt ikke gøre nogen statsløs, så reglen ville i praksis kun ramme dem med to statsborgerskaber.",
+   "facts": [
+    {
+     "fact": "B 17: personer, som har fået dansk indfødsret ved lov, skal have den frakendt, hvis de efterfølgende idømmes en betinget eller ubetinget fængselsstraf for overtrædelse af straffeloven. Fremsat af Mikkel Bjørn (DF) m.fl.",
+     "source": {
+      "title": "Folketinget, B 17",
+      "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B17/index.htm"
+     }
+    },
+    {
+     "fact": "DF har samtidig fremsat B 16 om, at den, der ikke opfyldte betingelserne, aldrig skal anses for at have fået indfødsret.",
+     "source": {
+      "title": "Folketinget, B 16",
+      "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B16/index.htm"
+     }
+    }
+   ],
+   "risk": "Forslaget er fremsat, ikke vedtaget. Sig »DF foreslår«, aldrig »nu kan man«.",
+   "caption": "To slags danskere? DF's nye forslag om statsborgerskab.",
+   "hashtags": [
+    "#dkpol",
+    "#statsborgerskab",
+    "#df",
+    "#retspolitik",
+    "#debat"
+   ]
+  },
+  {
+   "id": "v-store-bededag",
+   "date": "2026-11-16",
+   "title": "Hvem stemte nej til at få store bededag tilbage?",
+   "topic": "arbejdsmarked",
+   "length": "45 sek.",
+   "hook": "1. oktober kunne Folketinget have givet dig store bededag tilbage. 62 stemte nej.",
+   "altHooks": [
+    "37 for. 62 imod. 10 turde ikke vælge side. Sådan gik det, da store bededag var til afstemning.",
+    "Du mistede en fridag i 2023. Her er de partier, der lige har sagt nej til at give dig den igen."
+   ],
+   "person": "Håndværker, der stadig er sur over den tabte fridag, men ikke tror på, at politikerne mener det.",
+   "angle": "Ren primærkilde. Afstemningen fandt sted, tallene er offentlige, og de færreste har set dem.",
+   "beats": [
+    {
+     "t": "0–4",
+     "who": "PERSON",
+     "line": "Store bededag er væk. Hvorfor bliver I ved med at snakke om den?"
+    },
+    {
+     "t": "4–12",
+     "who": "DF'ER",
+     "line": "Fordi vi stemte om at få den tilbage 1. oktober. Vil du se, hvem der sagde nej?"
+    },
+    {
+     "t": "12–20",
+     "who": "SKÆRM",
+     "line": "For: DF, LA, K, DD, BP. Imod: S, SF, M, EL, RV, ALT. Venstre: hverken for eller imod."
+    },
+    {
+     "t": "20–32",
+     "who": "PERSON",
+     "line": "Pengene gik til forsvaret. Hvor vil du så finde dem henne?"
+    },
+    {
+     "t": "32–40",
+     "who": "DF'ER",
+     "line": "Det er det rigtige spørgsmål. Og det er dér, debatten burde stå, i stedet for at lade som om sagen er lukket."
+    },
+    {
+     "t": "40–45",
+     "who": "SKÆRM",
+     "line": "En fridag eller et stærkere forsvar? Hvad vælger du?"
+    }
+   ],
+   "smartMove": "Brug primærkilden. Vis partibogstaverne på skærmen og lad dem stå i tre sekunder. Du behøver ikke kommentere dem.",
+   "strongestCounter": "Afskaffelsen i 2023 var en del af finansieringen af forsvaret. Den, der vil have dagen tilbage, skal pege på, hvor pengene så kommer fra.",
+   "facts": [
+    {
+     "fact": "B 3 om at genindføre store bededag som helligdag blev forkastet 1. oktober 2026 med 37 stemmer for, 62 imod og 10 hverken for eller imod. For: DF, LA, K, DD, BP. Imod: S, SF, M, EL, RV, ALT. Venstre stemte hverken for eller imod.",
+     "source": {
+      "title": "Folketinget, B 3",
+      "url": "https://www.ft.dk/samling/20252/beslutningsforslag/B3/index.htm"
+     }
+    }
+   ],
+   "risk": "SF og Enhedslisten var imod afskaffelsen i 2023 og stemte alligevel nej nu. Find deres begrundelse, før du bruger det imod dem.",
+   "caption": "62 stemte nej til at give dig store bededag tilbage. Her er de.",
+   "hashtags": [
+    "#dkpol",
+    "#storebededag",
+    "#folketinget",
+    "#df",
+    "#fridag"
+   ],
+   "debateRef": "n-store-bededag"
+  },
+  {
+   "id": "v-koranloven",
+   "date": "2026-11-16",
+   "title": "DF og Enhedslisten stemte sammen. Om Koranen.",
+   "topic": "ret",
+   "length": "50 sek.",
+   "hook": "Hvad har DF, Enhedslisten, LA og Alternativet til fælles? 1. oktober stemte de alle for at afskaffe den samme lov.",
+   "altHooks": [
+    "30 sekunder, hvor en DF'er og en fra Enhedslisten er enige. Nyd det.",
+    "Koranloven: 45 ville af med den. 64 ville beholde den. Gæt hvem der stod hvor."
+   ],
+   "person": "Venstreorienteret studerende, der stemmer Enhedslisten.",
+   "angle": "Rollebyttet i praksis. De to er enige om ytringsfriheden af helt forskellige grunde, og videoen finder stedet, hvor de skilles.",
+   "beats": [
+    {
+     "t": "0–4",
+     "who": "PERSON",
+     "line": "Jeg stemmer Enhedslisten. Du stemmer DF. Og vi stemte det samme 1. oktober."
+    },
+    {
+     "t": "4–14",
+     "who": "DF'ER",
+     "line": "Koranloven. Vi vil begge af med den. Staten skal ikke straffe folk for, hvad de gør ved en bog."
+    },
+    {
+     "t": "14–18",
+     "who": "SKÆRM",
+     "line": "For at afskaffe: DF, LA, K, EL, DD, ALT, BP. Imod: S, SF, V, M, RV. Forkastet 45–64."
+    },
+    {
+     "t": "18–32",
+     "who": "PERSON",
+     "line": "Men jeg vil af med den, fordi ytringsfrihed gælder alle. Du vil af med den, fordi det er Koranen. Det er ikke det samme."
+    },
+    {
+     "t": "32–44",
+     "who": "DF'ER",
+     "line": "Jeg vil af med den, fordi Danmark ikke skal ændre sine love efter pres udefra. Det burde vi også være enige om."
+    },
+    {
+     "t": "44–50",
+     "who": "SKÆRM",
+     "line": "Sikkerhed eller ytringsfrihed. Hvad vejer tungest?"
+    }
+   ],
+   "smartMove": "Start med enighed. Det er så sjældent i politisk video, at folk bliver hængende for at se, hvornår det går galt.",
+   "strongestCounter": "Regeringens argument i 2023 var sikkerhed: koranafbrændingerne øgede terrortruslen mod Danmark og mod danskere i udlandet.",
+   "facts": [
+    {
+     "fact": "B 6 om at afskaffe koranloven blev forkastet 1. oktober 2026 med 45 stemmer for og 64 imod. For: DF, LA, K, EL, DD, ALT, BP. Imod: S, SF, V, M, RV.",
+     "source": {
+      "title": "Folketinget, B 6",
+      "url": "https://www.ft.dk/samling/20252/beslutningsforslag/B6/index.htm"
+     }
+    }
+   ],
+   "risk": "Videoen handler om loven og ytringsfriheden. Hold den fri af udsagn om muslimer som gruppe.",
+   "caption": "Den ene gang DF og Enhedslisten var enige.",
+   "hashtags": [
+    "#dkpol",
+    "#ytringsfrihed",
+    "#koranloven",
+    "#df",
+    "#enhedslisten"
+   ],
+   "debateRef": "n-islam-i-det-offentlige-rum"
+  },
+  {
+   "id": "v-seks-mod-seks",
+   "date": "2026-11-16",
+   "title": "Svømmehal, bønnekald og håndtryk",
+   "topic": "udlaendinge",
+   "length": "55 sek.",
+   "hook": "Kønsopdelt svømning. Bønnekald. Håndtryk. Folketinget stemte om alle tre samme dag, og partierne delte sig præcis ens hver gang.",
+   "altHooks": [
+    "Tre forslag. Tre gange seks partier mod seks. Her går den egentlige skillelinje i dansk politik.",
+    "Glem rød og blå blok. Den her afstemning viser, hvem der hører sammen."
+   ],
+   "person": "Velintegreret dansker med muslimsk baggrund, som går både i moske og i svømmehal.",
+   "angle": "Viser den værdipolitiske skillelinje med tre konkrete afstemninger, og lader en, det handler om, spørge, hvem lovene er rettet mod.",
+   "beats": [
+    {
+     "t": "0–5",
+     "who": "SKÆRM",
+     "line": "3. september 2026. Tre afstemninger. Samme resultat."
+    },
+    {
+     "t": "5–16",
+     "who": "PERSON",
+     "line": "Jeg har aldrig hørt et bønnekald i Danmark. Hvem er det, I lovgiver imod?"
+    },
+    {
+     "t": "16–28",
+     "who": "DF'ER",
+     "line": "Ikke dig. Det handler om, hvad det offentlige skal lægge rum til. Hvad du gør privat, blander vi os ikke i."
+    },
+    {
+     "t": "28–40",
+     "who": "PERSON",
+     "line": "Men det er mig, folk kigger på bagefter. Når I bruger en hel dag i Folketinget på det, tror folk, det er et kæmpe problem."
+    },
+    {
+     "t": "40–50",
+     "who": "DF'ER",
+     "line": "Så lad os måle det. Hvor mange svømmehaller har kønsopdelte hold? Det tal skylder vi begge at kende."
+    },
+    {
+     "t": "50–55",
+     "who": "SKÆRM",
+     "line": "For: V, DF, LA, K, DD, BP. Imod: S, SF, M, EL, RV, ALT."
+    }
+   ],
+   "smartMove": "Sig hvad du ikke ved. Slut med et tal, I begge mangler, og lov at finde det til næste video. Det giver en grund til at følge dig.",
+   "strongestCounter": "Symbolpolitik: forslagene retter sig mod problemer, der næsten ikke findes, og efterlader indtrykket af, at muslimer generelt er et problem.",
+   "facts": [
+    {
+     "fact": "3. september 2026 forkastede Folketinget B 13 (forbud mod kønsopdelt svømning i offentlige svømmehaller) med 48–62, B 11 (forbud mod højtalerforstærket bønnekald i det offentlige rum) med 47–63 og B 9 (krav om håndtryk) med 48–62. For alle tre: V, DF, LA, K, DD, BP. Imod: S, SF, M, EL, RV, ALT.",
+     "source": {
+      "title": "Folketinget, B 13",
+      "url": "https://www.ft.dk/samling/20252/beslutningsforslag/B13/index.htm"
+     }
+    }
+   ],
+   "risk": "Tal om, hvad det offentlige skal tillade. Tal ikke om en gruppe mennesker.",
+   "caption": "Tre afstemninger, der viser hvor skillelinjen i dansk politik faktisk går.",
+   "hashtags": [
+    "#dkpol",
+    "#værdipolitik",
+    "#folketinget",
+    "#df",
+    "#debat"
+   ],
+   "debateRef": "n-islam-i-det-offentlige-rum"
+  },
+  {
+   "id": "v-toptopskat",
+   "date": "2026-11-16",
+   "title": "De almindelige danskeres parti fjernede toptopskatten",
+   "topic": "oekonomi",
+   "debateRef": "n-skatteaftale-df-benzin",
+   "length": "50 sek.",
+   "hook": "DF kalder sig de almindelige danskeres parti. I sidste uge var de med til at fjerne skatten for dem, der tjener allermest.",
+   "altHooks": [
+    "Billigere benzin til dig. Og en skattelettelse til direktøren. Samme aftale.",
+    "Er DF et højreparti eller et venstreparti? Den nye skatteaftale giver et svar."
+   ],
+   "person": "Socialdemokratisk kernevælger, fx en sygeplejerske eller pædagog.",
+   "angle": "Det gamle spørgsmål, om DF er rødt eller blåt i økonomien, får et konkret eksempel. Personen har det stærkeste kort.",
+   "beats": [
+    {
+     "t": "0–4",
+     "who": "PERSON",
+     "line": "I taler om almindelige mennesker. Hvorfor har I så lige fjernet toptopskatten?"
+    },
+    {
+     "t": "4–16",
+     "who": "DF'ER",
+     "line": "Fordi en aftale er en pakke. I samme pakke ligger billigere benzin og lavere mellemskat. Vi tog det, almindelige familier kan mærke."
+    },
+    {
+     "t": "16–20",
+     "who": "SKÆRM",
+     "line": "Toptopskatten væk fra 2028. Mellemskatten væk fra 2029. Selskabsskatten ned med 3 procentpoint."
+    },
+    {
+     "t": "20–34",
+     "who": "PERSON",
+     "line": "Skatteministeriet siger selv, at uligheden stiger. Det er sort på hvidt."
+    },
+    {
+     "t": "34–44",
+     "who": "DF'ER",
+     "line": "Lidt, ja. Spørgsmålet er, om du hellere ville have haft ingen aftale og dyrere benzin."
+    },
+    {
+     "t": "44–50",
+     "who": "SKÆRM",
+     "line": "Var det en god handel? Skriv ja eller nej."
+    }
+   ],
+   "smartMove": "Stålmand først. Lad personen sige ulighedstallet uafbrudt, før DF'eren svarer. Så kan ingen kalde videoen ensidig.",
+   "strongestCounter": "Aftalen øger uligheden ifølge Skatteministeriets egne tal, og lettelsen i toppen er permanent, mens benzinlettelsen kun gælder ét år.",
+   "facts": [
+    {
+     "fact": "Toptopskatten på 5 pct. afskaffes fra 2028, mellemskatten fra 2029, og selskabsskatten sænkes med 3 procentpoint. Skatteministeriet anslår, at Gini-koefficienten stiger med 0,18 procentpoint frem mod 2030.",
+     "source": {
+      "title": "TV 2, 12. nov. 2026",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-12-ny-skatteaftale-paa-plads"
+     }
+    }
+   ],
+   "risk": "Find DF's egen begrundelse for skattedelen i partiets udmelding fra 11.–13. november, så DF'eren ikke siger noget, partiet ikke står ved.",
+   "caption": "Billigere benzin og lavere skat i toppen. DF's nye aftale på 50 sekunder.",
+   "hashtags": [
+    "#dkpol",
+    "#skat",
+    "#df",
+    "#ulighed",
+    "#toptopskat"
+   ]
+  },
+  {
+   "id": "v-su-hjemmeboende",
+   "date": "2026-11-16",
+   "title": "SU'en ryger for nogle hjemmeboende",
+   "topic": "uddannelse",
+   "debateRef": "n-su-hjemmeboende-skatteaftale",
+   "length": "40 sek.",
+   "hook": "Bor du hjemme, og tjener dine forældre godt? Så gemmer den nye skatteaftale på en nyhed til dig.",
+   "altHooks": [
+    "Alle taler om billigere benzin. Næsten ingen taler om, hvad der sker med SU'en.",
+    "Skal staten betale SU til en 19-årig, der bor gratis hos forældre med en høj indkomst?"
+   ],
+   "person": "Gymnasieelev eller studerende, der bor hjemme.",
+   "angle": "Den del af skatteaftalen, din egen målgruppe mærker direkte. Kort, konkret og med et spørgsmål, alle unge har en mening om.",
+   "beats": [
+    {
+     "t": "0–4",
+     "who": "PERSON",
+     "line": "Vent. I tager min SU for at betale for billigere benzin?"
+    },
+    {
+     "t": "4–14",
+     "who": "DF'ER",
+     "line": "Kun hvis du bor hjemme, og dine forældre tjener omkring 700.000 kroner eller mere. De fleste bliver ikke ramt."
+    },
+    {
+     "t": "14–26",
+     "who": "PERSON",
+     "line": "Mine forældres løn er ikke min løn. Jeg er 19 og myndig."
+    },
+    {
+     "t": "26–35",
+     "who": "DF'ER",
+     "line": "Og du bor gratis. Er det så rimeligt, at kassedamen betaler dine lommepenge over skatten?"
+    },
+    {
+     "t": "35–40",
+     "who": "SKÆRM",
+     "line": "SU til alle, eller kun til dem der har brug for den?"
+    }
+   ],
+   "smartMove": "Dilemmaet. Stil spørgsmålet, så begge svar er forsvarlige. Så diskuterer kommentarfeltet med hinanden i stedet for med dig.",
+   "strongestCounter": "SU er en ret, man har som myndig borger, uafhængigt af forældrene. Den, der gør den afhængig af forældrenes løn, gør unge til børn igen.",
+   "facts": [
+    {
+     "fact": "Skatteaftalen forpligter aftalepartierne til at stemme for at afskaffe SU til hjemmeboende unge, hvis forældrenes indkomst ligger over ca. 700.000 kr.",
+     "source": {
+      "title": "TV 2, 12. nov. 2026",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-12-ny-skatteaftale-paa-plads"
+     }
+    }
+   ],
+   "risk": "Tjek den præcise indkomstgrænse og startdato, når lovforslaget bliver fremsat. Indtil da siger du »omkring 700.000 kroner«.",
+   "caption": "Den del af skatteaftalen, ingen har fortalt dig om.",
+   "hashtags": [
+    "#dkpol",
+    "#su",
+    "#studieliv",
+    "#skat",
+    "#df"
+   ]
+  },
+  {
+   "id": "v-df-maaling",
+   "date": "2026-11-16",
+   "title": "Fra 2,6 til 13,4 procent",
+   "topic": "andet",
+   "debateRef": "n-venstre-krise-landsmoede",
+   "length": "45 sek.",
+   "hook": "For fire år siden var DF næsten ude af Folketinget. I dag er partiet større end Venstre og Moderaterne tilsammen.",
+   "altHooks": [
+    "2,6. 9,1. 13,4. Tre tal, der fortæller hele historien om blå blok.",
+    "Venstre har regeret Danmark i årtier. Nu står partiet til 5,8 procent."
+   ],
+   "person": "Venstre-vælger gennem 20 år, der overvejer at skifte.",
+   "angle": "Magtskiftet i blå blok fortalt med tre tal. Personen er den vælger, alle de borgerlige partier slås om lige nu.",
+   "beats": [
+    {
+     "t": "0–6",
+     "who": "SKÆRM",
+     "line": "2022: 2,6 %. Valget 2026: 9,1 %. Måling 9. november: 13,4 %."
+    },
+    {
+     "t": "6–16",
+     "who": "PERSON",
+     "line": "Jeg har stemt Venstre hele mit liv. Hvorfor skulle jeg skifte til jer?"
+    },
+    {
+     "t": "16–28",
+     "who": "DF'ER",
+     "line": "Fordi dit parti står til 5,8 procent og bruger weekenden på at diskutere sin egen formand. Vi bruger den på at få aftaler hjem."
+    },
+    {
+     "t": "28–38",
+     "who": "PERSON",
+     "line": "En måling er ikke et valg. I har stået stærkt før og tabt det hele igen."
+    },
+    {
+     "t": "38–45",
+     "who": "DF'ER",
+     "line": "Rigtigt. Derfor spørger jeg dig i stedet for at fejre det. Hvad skal der til?"
+    }
+   ],
+   "smartMove": "Tallet. Sig de tre tal langsomt og lad dem stå alene på skærmen i to sekunder, før nogen taler.",
+   "strongestCounter": "En måling er ikke et valg. DF faldt fra 21,1 procent i 2015 til 2,6 i 2022, og 13,4 procent uden regeringsmagt er stadig opposition.",
+   "facts": [
+    {
+     "fact": "Voxmeter 9. november 2026: DF 13,4 %, Venstre 5,8 %, Moderaterne 5,6 %. Ved valget 24. marts 2026 fik DF 9,1 % og Venstre 10,1 %. I 2022 fik DF 2,6 %.",
+     "source": {
+      "title": "Voxmeter",
+      "url": "https://voxmeter.dk/meningsmalinger/"
+     }
+    },
+    {
+     "fact": "Venstre holdt landsmøde i Herning 14.–15. november 2026 midt i partiets krise.",
+     "source": {
+      "title": "TV 2, 13. nov. 2026",
+      "url": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise"
+     }
+    }
+   ],
+   "risk": "Nævn instituttet og datoen, hver gang du bruger en måling. Én måling har en usikkerhed på et par procentpoint.",
+   "caption": "Tre tal, der forklarer, hvad der sker i blå blok lige nu.",
+   "hashtags": [
+    "#dkpol",
+    "#måling",
+    "#df",
+    "#venstre",
+    "#blåblok"
+   ]
+  },
+  {
+   "id": "v-arne",
+   "date": "2026-11-16",
+   "title": "3.162 kroner mere til Arne",
+   "topic": "arbejdsmarked",
+   "length": "50 sek.",
+   "hook": "Har du arbejdet i 44 år? Så kan du snart gå fire år før alle andre, med 3.162 kroner mere om måneden.",
+   "altHooks": [
+    "Mureren får fire år tidligere. Den 25-årige får regningen. Fair?",
+    "Du har ét valg: tidligere pension til de nedslidte, eller lavere skat til de unge."
+   ],
+   "person": "25-årig iværksætter eller LA-ung, som regner på, hvem der betaler.",
+   "angle": "Generationskonflikten i ét lovforslag. DF'eren forsvarer de nedslidte, personen forsvarer dem, der skal betale i 40 år endnu.",
+   "beats": [
+    {
+     "t": "0–5",
+     "who": "SKÆRM",
+     "line": "L 98: +3.162 kr. om måneden på tidlig pension."
+    },
+    {
+     "t": "5–16",
+     "who": "PERSON",
+     "line": "Hvem betaler? Det gør jeg. Og jeg kommer selv til at arbejde, til jeg er over 70."
+    },
+    {
+     "t": "16–30",
+     "who": "DF'ER",
+     "line": "Den, der har båret tagsten siden han var 16, har betalt i 44 år. Han har ikke en ryg, der holder til 68."
+    },
+    {
+     "t": "30–42",
+     "who": "PERSON",
+     "line": "Så hjælp ham, der er nedslidt. Ordningen her spørger ikke om din ryg, kun om hvor mange år du har arbejdet."
+    },
+    {
+     "t": "42–50",
+     "who": "SKÆRM",
+     "line": "Fire år tidligere til mureren, eller lavere skat til den 25-årige?"
+    }
+   ],
+   "smartMove": "Dilemmaet. Slut med et valg, seeren ikke kan slippe udenom. Begge svar er forsvarlige, så kommentarfeltet deler sig.",
+   "strongestCounter": "Ordningen bygger på anciennitet og ikke på helbred, så den når også folk, der kunne arbejde videre. Hver person, der går tidligt, mangler på arbejdsmarkedet.",
+   "facts": [
+    {
+     "fact": "L 98 forhøjer ydelsen på tidlig pension permanent med 3.162 kr. om måneden og fastholder tilgangsalderen på 64 år for årgang 1963–1965. Med 44 års anciennitet kan man få op til 4 år på tidlig pension.",
+     "source": {
+      "title": "Folketinget, L 98",
+      "url": "https://www.ft.dk/samling/20261/lovforslag/L98/index.htm"
+     }
+    }
+   ],
+   "risk": "Lovforslaget er fremsat, ikke vedtaget. Følg afstemningen under I dag, og lav en opfølgning, når partierne har stemt.",
+   "caption": "Tidlig pension: hvem får, og hvem betaler?",
+   "hashtags": [
+    "#dkpol",
+    "#pension",
+    "#arnepension",
+    "#df",
+    "#generationer"
+   ],
+   "debateRef": "n-finansloven-2027-pension"
+  },
+  {
+   "id": "v-hizb",
+   "date": "2026-11-16",
+   "title": "Paragraffen der kan lukke en forening",
+   "topic": "ret",
+   "length": "50 sek.",
+   "hook": "Grundloven har en paragraf, der kan opløse en forening ved dom. DF vil bruge den nu.",
+   "altHooks": [
+    "Kan man forbyde en forening, fordi man hader dens holdninger? Grundloven har et svar.",
+    "Paragraf 78, stykke 2. De fleste har aldrig læst den. Her er den på 10 sekunder."
+   ],
+   "person": "Jurastuderende, der mener, at foreningsfriheden også gælder dem, man ikke kan lide.",
+   "angle": "Lærer seeren en grundlovsparagraf og sætter tryghed over for foreningsfrihed. Høj læringsværdi, lav risiko for at træde forkert.",
+   "beats": [
+    {
+     "t": "0–5",
+     "who": "SKÆRM",
+     "line": "Grundloven § 78, stk. 2: foreninger, der virker ved vold, kan opløses ved dom."
+    },
+    {
+     "t": "5–16",
+     "who": "DF'ER",
+     "line": "Vi har fremsat forslag om at rejse en opløsningssag mod Hizb ut-Tahrir. Paragraffen findes. Den skal bruges."
+    },
+    {
+     "t": "16–30",
+     "who": "PERSON",
+     "line": "Paragraffen kræver vold eller opfordring til vold. Ubehagelige meninger er ikke nok. Det er hele pointen med foreningsfrihed."
+    },
+    {
+     "t": "30–42",
+     "who": "DF'ER",
+     "line": "Så lad en domstol afgøre det. Det er jo netop, hvad forslaget går ud på."
+    },
+    {
+     "t": "42–50",
+     "who": "SKÆRM",
+     "line": "Hvor går grænsen for, hvad en forening må mene?"
+    }
+   ],
+   "smartMove": "Brug primærkilden, og lær seeren noget. En video, der forklarer en paragraf, bliver gemt og delt længe efter, debatten er glemt.",
+   "strongestCounter": "Foreningsfriheden beskytter også upopulære holdninger. Myndighederne har tidligere vurderet, at der ikke var grundlag for en sag, og politikere bør ikke afgøre, hvem der skal for retten.",
+   "facts": [
+    {
+     "fact": "DF har i november 2026 fremsat B 60 om at indlede en opløsningssag mod Hizb ut-Tahrir efter grundlovens § 78, stk. 2. Danmarksdemokraterne har fremsat et lignende forslag, B 61.",
+     "source": {
+      "title": "Folketinget, B 60",
+      "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B60/index.htm"
+     }
+    }
+   ],
+   "risk": "Tjek Rigsadvokatens seneste vurdering af sagen, før du siger noget om, hvad myndighederne mener.",
+   "caption": "Grundlovens mindst kendte paragraf, og hvorfor DF vil bruge den.",
+   "hashtags": [
+    "#dkpol",
+    "#grundloven",
+    "#df",
+    "#foreningsfrihed",
+    "#retspolitik"
+   ],
+   "debateRef": "n-islam-i-det-offentlige-rum"
+  },
+  {
+   "id": "v-nulmoms",
+   "date": "2026-11-16",
+   "title": "15 stemte imod billigere bøger",
+   "topic": "oekonomi",
+   "length": "40 sek.",
+   "hook": "93 for. 15 imod. I torsdags blev bøger billigere, og to partier stemte nej.",
+   "altHooks": [
+    "Hvem stemmer imod billigere bøger? Og har de faktisk en pointe?",
+    "30 sekunder: DF'eren skal forsvare Liberal Alliances nej. Kan han det?"
+   ],
+   "person": "LA-ung, der mener, at staten ikke skal vælge, hvilke varer der er fine nok til at slippe for moms.",
+   "angle": "En let en til de dage, hvor du vil vise, at du kan give modparten ret. DF'eren skal forklare LA's bedste argument, før han svarer.",
+   "beats": [
+    {
+     "t": "0–5",
+     "who": "SKÆRM",
+     "line": "12. november 2026: nulmoms på bøger vedtaget 93–15. Imod: LA og DD."
+    },
+    {
+     "t": "5–14",
+     "who": "DF'ER",
+     "line": "Lad mig prøve at sige jeres argument: hvis moms er dårligt, så sænk den for alle. Staten skal ikke kåre bøger som finere end mælk."
+    },
+    {
+     "t": "14–22",
+     "who": "PERSON",
+     "line": "Præcis. I dag bøger, i morgen økologi, så cykelhjelme. Det ender i et kludetæppe."
+    },
+    {
+     "t": "22–34",
+     "who": "DF'ER",
+     "line": "Fair. Men billigere er billigere, og vi stemmer for hver gang, almindelige mennesker får lidt mere i lommen."
+    },
+    {
+     "t": "34–40",
+     "who": "SKÆRM",
+     "line": "Lavere moms på udvalgte varer, eller lavere for alle?"
+    }
+   ],
+   "smartMove": "Rollebyttet. Lad DF'eren formulere modpartens argument bedre, end modparten selv gør. Det er det stærkeste bevis på, at du kan stoffet.",
+   "strongestCounter": "Forskellige momssatser giver bureaukrati og grænsesager, og pengene kunne have sænket momsen en smule for alle varer.",
+   "facts": [
+    {
+     "fact": "L 36 B om nulmoms på bøger blev vedtaget 12. november 2026 med 93 stemmer for og 15 imod. LA og DD stemte imod. Samme dag blev kaffeafgiften afskaffet (L 36 A) med 96 stemmer for og ingen imod.",
+     "source": {
+      "title": "Folketinget, L 36",
+      "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"
+     }
+    }
+   ],
+   "risk": "Find LA's og DD's egne begrundelser i debatten, før du lægger dem ord i munden.",
+   "caption": "Hvem stemmer imod billigere bøger? Og hvorfor?",
+   "hashtags": [
+    "#dkpol",
+    "#moms",
+    "#bøger",
+    "#liberalalliance",
+    "#df"
+   ],
+   "debateRef": "n-nulmoms-kaffeafgift-l36"
+  }
+ ]
+}

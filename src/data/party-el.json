@@ -1,0 +1,414 @@
+{
+  "id": "el",
+  "letter": "Ø",
+  "name": "Enhedslisten – De Rød-Grønne",
+  "short": "EL",
+  "founded": "1989",
+  "foundedNote": "Partiet blev stiftet i april 1989 som et samarbejde mellem Venstresocialisterne, Danmarks Kommunistiske Parti og Socialistisk Arbejderparti. Partiet har ingen formand men en kollektiv ledelse, og det er det eneste parti i Folketinget uden formand.",
+  "leader": {
+    "name": "Pelle Dragsted",
+    "title": "Politisk ordfører, de facto leder i den kollektive ledelse",
+    "since": "2023",
+    "born": "1975",
+    "bio": "Født 1975 i København. Historiker fra Københavns Universitet (2001) og master i retorik og kommunikation fra Aarhus Universitet (2016). Partiets internationale sekretær i 2005, pressechef i 2009 og rådgiver 2011–2015. Folketingsmedlem 2015–2019 og igen fra 2022. Efterfulgte Mai Villadsen som politisk ordfører i august 2023 og er partiets klare talsmand. Dømt i 1998 for hærværk ved Sandholm-lejren; har siden taget afstand fra vold."
+  },
+  "role": "støtteparti",
+  "roleNote": "Enhedslisten støtter firkløverregeringen (Socialdemokratiet, SF, Moderaterne og Radikale Venstre) udefra og er ikke med i regeringen. Dragsted har sagt, at målet om gratis tandlæge i 2035 står ord for ord i regeringsgrundlaget. Partiet forhandler finansloven for 2027 (L 73) og har sagt, at det ikke vil stemme for en finanslov med SU-forringelser for hjemmeboende og skærpede dagpengekrav for nyuddannede.",
+  "ideology": [
+    "Rød-grøn",
+    "Socialistisk",
+    "Ligheds- og velfærdspolitik"
+  ],
+  "euGroup": "The Left (GUE/NGL) i Europa-Parlamentet",
+  "youth": {
+    "name": "Rød-Grøn Ungdom",
+    "note": "Partiet har ingen formel ungdomsorganisation, men samarbejder med Rød-Grøn Ungdom siden 2020. Samarbejdet med Socialistisk Ungdomsfront blev ophørt i 2025."
+  },
+  "membersCount": "8.395 (2024)",
+  "website": "https://enhedslisten.dk",
+  "oneLiner": "Støtteparti for regeringen med kollektiv ledelse: gratis tandlæge, gratis transport for unge og opgør med ulighed.",
+  "summary": "Enhedslisten vil have et mere lige samfund med stærk velfærd, gratis tandlæge og gratis bus og tog for unge. Partiet vil betale for det ved at fjerne skattelettelser til høje indkomster og modsætte sig en selskabsskattesænkning fra 2030. Enhedslisten har kollektiv ledelse, og Pelle Dragsted er den klare talsmand. Partiet støtter firkløverregeringen udefra, men er ikke med i regeringen. Partiet er EU-kritisk, men i maj 2026 blev udmeldelse af EU gjort til et perspektiv i stedet for et mål i sig selv.",
+  "pitch": "Vi står for, at det ikke er rimeligt, at nogle har alt, mens andre ikke har råd til tandlæge eller bus. Vi vil have gratis tandlæge, gratis transport for unge og bedre dagpenge, og vi finansierer det ved at droppe skattelettelser til de højeste indkomster. Vi støtter regeringen, når den gør det rigtige, og siger nej, når den ikke gør.",
+  "critique": "Kritikerne siger, at kravene ikke er finansierede, og at partiet kan gøre en regering afhængig af sig uden at tage ansvar for den. De peger på interne konflikter, herunder en fraktion, der blev fordømt på en ekstraordinær generalforsamling i december 2024. Ved årsmødet i maj 2026 var der delegerede, der var kritiske over for at give Lars Løkke Rasmussen en ministerpost.",
+  "keyIssues": [
+    {
+      "title": "Gratis tandlæge",
+      "detail": "Partiet kræver en konkret plan. Dragsted siger, at målet om gratis tandlæge for alle i 2035 står ord for ord i regeringsgrundlaget, og at op til 1,5 mio. danskere skal dækkes i perioden (12. juni 2026)."
+    },
+    {
+      "title": "Gratis transport for unge",
+      "detail": "Gratis bus og tog for under 22-årige fra næste år. Regeringsgrundlaget har afsat 2 mia. kr. til gratis offentlig transport for unge under 22 år, men uden tidsplan (29. september 2026)."
+    },
+    {
+      "title": "Ingen SU- og dagpengeforringelser",
+      "detail": "Partiet vil droppe forslaget om at fjerne SU for hjemmeboende studerende, hvis forældre tjener over ca. 710.000 kr., og de skærpede dagpengekrav for nyuddannede (20. oktober 2026)."
+    },
+    {
+      "title": "Ingen skattelettelser til høje indkomster",
+      "detail": "Partiet vil droppe en skattelettelse til indkomster over ca. 58.000 kr. brutto om måneden og modsætter sig en selskabsskattesænkning på tre procentpoint fra 2030 (20. oktober 2026)."
+    },
+    {
+      "title": "Seniorpension",
+      "detail": "Partiet kalder regeringens forslag om at stramme seniorpensionen 'asocialt', og det glædede partiet, da regeringen droppede det (20. oktober 2026)."
+    }
+  ],
+  "positions": {
+    "udlaendinge": {
+      "score": 2,
+      "text": "Partiet stemte 27. august 2026 for at gennemføre dele af EU's migrations- og asylpagt (L 15) og stemte 1. oktober 2026 for at afskaffe koranloven. "
+    },
+    "oekonomi": {
+      "score": 1,
+      "text": "Partiet vil droppe skattelettelser til indkomster over ca. 58.000 kr. om måneden og modsætter sig en selskabsskattesænkning på tre procentpoint fra 2030."
+    },
+    "arbejdsmarked": {
+      "score": 1,
+      "text": "Partiet vil ikke have dagpengene forringet for nyuddannede, og det vil ikke have seniorpensionen stramt. Dragsted kalder seniorpensionsforslaget 'asocialt'. Partiet ønsker en kortere kvalifikationsperiode til dagpenge."
+    },
+    "velfaerd": {
+      "score": 1,
+      "text": "Partiets hovedkrav er gratis tandlæge og gratis bus og tog for unge under 22 år. Det er den mest offentlige linje i Folketinget."
+    },
+    "sundhed": {
+      "score": 1,
+      "text": "Gratis tandlæge for alle i 2035 er partiets krav i regeringsgrundlaget. Partiet vil have offentlig finansiering."
+    },
+    "klima": {
+      "score": 1,
+      "text": "Partiet vil have en hurtig og vidtgående grøn omstilling. Det har fremsat forslaget B 39 om et midlertidigt stop for nye datacentre (2. november 2026) og forslaget B 62 om forbud mod datacentres tilslutning til gasnettet (13. november 2026). Det står udenfor den grønne skattereform, som regeringen har indgået med andre partier."
+    },
+    "natur_landbrug": {
+      "score": 2,
+      "text": "Partiet er med i borgerforslagene om forbud mod industriel svineproduktion (B 30) og om udledning af urenset spildevand (B 29), begge fremsat i oktober 2026."
+    },
+    "eu": {
+      "score": 3,
+      "text": "Partiet er EU-kritisk, men i maj 2026 blev udmeldelse af EU gjort til et perspektiv i stedet for et mål i sig selv. Partiet stemte 27. august 2026 for EU's migrations- og asylpagt (L 15). Dragsted har skrevet, at han stemmer nej til en folkeafstemning om forsvarsforbeholdet."
+    },
+    "forsvar": {
+      "score": 3,
+      "text": "Partiet stemte i 2023 for militær oprustning og er kritisk over for forsvarsforbeholdet. Forsvar er ikke et centralt emne i partiets fremsatte forslag i efteråret 2026."
+    },
+    "ret": {
+      "score": 2,
+      "text": "Partiet stemte imod at skærpe reglerne for udvisning af udenlandske kriminelle med ubetinget fængselsstraf på mindst et år (L 17 A, 3. september 2026)."
+    },
+    "bolig": {
+      "score": 1,
+      "text": "Før valget i 2026 gjorde Dragsted huslejepriser til et topkrav for partiet, og partiet vil have lavere boligudgifter for lejere."
+    },
+    "uddannelse": {
+      "score": 1,
+      "text": "Partiet vil ikke have SU fjernet for hjemmeboende studerende, og det vil have gratis transport for unge under 22 år."
+    }
+  },
+  "history": [
+    {
+      "year": "1989",
+      "event": "Partiet stiftes i april som et samarbejde mellem Venstresocialisterne, DKP og SAP."
+    },
+    {
+      "year": "1994",
+      "event": "Partiet får 6 mandater og bliver støtteparti for Socialdemokratiets regering."
+    },
+    {
+      "year": "2001",
+      "event": "Partiet stifter sin ungdomsorganisation SUF og taber et mandat ved valget."
+    },
+    {
+      "year": "2011",
+      "event": "Partiet får 12 mandater og indgår en finanslovsaftale med den nye regering."
+    },
+    {
+      "year": "2012",
+      "event": "Partiet stemmer for en finanslov for første gang i januar. I juni stopper støtten til regeringen over en skattereform."
+    },
+    {
+      "year": "2019",
+      "event": "Partiet er en del af det parlamentariske grundlag for Mette Frederiksens regering frem til 2022."
+    },
+    {
+      "year": "2023",
+      "event": "Pelle Dragsted bliver politisk ordfører i august. En fraktion bryder ud i protest, og partiet stemmer for militær oprustning."
+    },
+    {
+      "year": "2024",
+      "event": "Ved en ekstraordinær generalforsamling 14. december fordømmes fraktionens handlinger, og reglerne for udelukkelse strammes."
+    },
+    {
+      "year": "2025",
+      "event": "Samarbejdet med Socialistisk Ungdomsfront ophører."
+    },
+    {
+      "year": "2026",
+      "event": "Ved folketingsvalget 24. marts 2026 får partiet 6,3 pct. og 11 mandater, to flere end i 2022."
+    },
+    {
+      "year": "2026",
+      "event": "I maj 2026 ved årsmødet i Valby kræver Dragsted, at de partier, der forhandler regering, nærmer sig hinanden. Ved samme årsmøde blev målet om udmeldelse af EU gjort til et perspektiv."
+    },
+    {
+      "year": "2026",
+      "event": "Firkløverregeringen dannes 3. juni 2026, og Enhedslisten støtter den udefra. I juni siger Dragsted, at gratis tandlæge i 2035 står i regeringsgrundlaget."
+    },
+    {
+      "year": "2026",
+      "event": "I september 2026 kræver Dragsted gratis bus og tog for unge som hovedkrav i finanslovsforhandlingerne. I oktober 2026 siger partiet, at det ikke vil stemme for en finanslov med SU- og dagpengeforringelser."
+    }
+  ],
+  "people": [
+    {
+      "name": "Pelle Dragsted",
+      "role": "Politisk ordfører og folketingsmedlem",
+      "note": "Partiets klare talsmand. Han forhandler finansloven med regeringen og står bag kravene om gratis tandlæge og gratis transport for unge."
+    },
+    {
+      "name": "Eva Flyvholm",
+      "role": "Folketingsmedlem og EU-ordfører",
+      "note": "Fremsætter forslaget om et midlertidigt stop for nye datacentre (B 39)."
+    },
+    {
+      "name": "Lisbeth Torfing",
+      "role": "Folketingsmedlem",
+      "note": "Fremsætter forslaget om forbud mod datacentres tilslutning til gasnettet og fossile generatorer (B 62)."
+    },
+    {
+      "name": "Peder Hvelplund",
+      "role": "Folketingsmedlem og medlem af den kollektive ledelse",
+      "note": "En af de personer, der står for partiets kollektive ledelse."
+    },
+    {
+      "name": "Sinem Dybvad Demir",
+      "role": "Folketingsmedlem",
+      "note": "Stemte imod L 15, EU's migrationspagt, mens partiet som helhed stemte for."
+    },
+    {
+      "name": "Rosa Lund",
+      "role": "Folketingsmedlem",
+      "note": "Medlem af partiets folketingsgruppe."
+    }
+  ],
+  "voters": {
+    "summary": "Enhedslistens vælgere er typisk yngre, uddannede og ofte ansat i den offentlige sektor. Partiet har en stærk position blandt vælgere, der vil have mere velfærd og større lighed. I Voxmeter 9. nov. 2026 står partiet til 8,9 pct., over valgresultatet på 6,3 pct. i marts.",
+    "strongholds": "Storbyerne, særligt de centrale bydele i København og Aarhus.",
+    "demographics": "Yngre, uddannede og offentligt ansatte er overrepræsenteret, og partiet har en stor andel af vælgere under 40 år."
+  },
+  "election2026": {
+    "note": "Partiet fik 6,3 pct. og 11 mandater ved valget 24. marts 2026, to flere end i 2022. Partiet har haft indflydelse på velfærdsspørgsmål i de seneste år og har nu sat gratis tandlæge og gratis transport for unge som sine vigtigste krav."
+  },
+  "strengths": [
+    "Stabil opbakning på 6–9 pct. og 11 mandater",
+    "Klar profil på velfærd og lighed: gratis tandlæge og transport for unge er faste krav",
+    "Stærk parlamentarisk front med Pelle Dragsted som talsmand"
+  ],
+  "weaknesses": [
+    "Ingen formand, og den kollektive ledelse gør det svært at pege på én leder",
+    "Konflikter i partiet, herunder fraktionsbruddet i 2023 og den strammede udelukkelsesregel i 2024",
+    "Støtte udefra giver begrænset indflydelse uden ministerposter",
+    "Målet om udmeldelse af EU er blødt op i maj 2026, hvilket er omstridt i partiet"
+  ],
+  "internalTensions": [
+    {
+      "title": "Regeringsstøtte og Løkke",
+      "detail": "Dragsted har bagland for at arbejde for et flertal, men ikke alle delegerede vil have en regering med Lars Løkke Rasmussen som minister (ved årsmødet i maj 2026)."
+    },
+    {
+      "title": "Fraktionskonflikt 2023–2024",
+      "detail": "En fraktion brød ud i 2023 i protest. Ved en ekstraordinær generalforsamling i december 2024 blev fraktionens handlinger fordømt, og reglerne for udelukkelse blev strammet."
+    },
+    {
+      "title": "EU-udmeldelse",
+      "detail": "Ledelsen foreslog i maj 2026 at droppe målet om udmeldelse. Kompromiset siger, at udmeldelse ikke er et mål i sig selv, men at den kan blive relevant, hvis EU bevæger sig i en centralistisk retning."
+    }
+  ],
+  "typicalArguments": [
+    {
+      "claim": "Gratis tandlæge og gratis transport for unge er ikke luksus, men lighed, og det står i regeringsgrundlaget.",
+      "counter": "Modstandere siger, at gratis ydelser koster milliarder, og at regeringen kun har afsat 2 mia. kr. til transport uden tidsplan."
+    },
+    {
+      "claim": "Skattelettelser til de højestlønnede skal væk, og pengene skal bruges på velfærd.",
+      "counter": "Kritikere mener, at høje skatter på højtlønnede svækker arbejdsudbuddet og investeringerne."
+    },
+    {
+      "claim": "Seniorpension og dagpenge må ikke forringes, for det rammer de slidte og de unge.",
+      "counter": "Modstandere mener, at stramninger er nødvendige for at holde velfærdssystemet bæredygtigt og øge arbejdsudbuddet."
+    },
+    {
+      "claim": "EU er ikke et mål i sig selv. Partiet er kritisk, men vil ikke ud, medmindre EU bliver mere centralistisk.",
+      "counter": "Kritikere mener, at en betinget udmeldelse er uklar, og at partiet ikke har en klar EU-politik."
+    },
+    {
+      "claim": "Den grønne omstilling skal være hurtig og vidtgående, og datacentre må ikke få lov til at bruge fossile generatorer.",
+      "counter": "Modstandere siger, at et stop for nye datacentre skader Danmarks digitale konkurrenceevne og investeringer."
+    }
+  ],
+  "vsDF": {
+    "agree": [
+      "Afskaffelse af koranloven: EL og DF stemte begge for (B 6, 1. oktober 2026). Forslaget blev forkastet.",
+      "Begge partier stemte imod styrkelse af hjemrejsestøtteordningen og repatrieringsordningen (L 17 B, 3. september 2026)."
+    ],
+    "disagree": [
+      "EU's migrations- og asylpagt (L 15, 27. august 2026): EL stemte for, mens DF stemte imod.",
+      "Gødningsloven (L 5, 3. september 2026): EL stemte for, mens DF stemte imod.",
+      "Beløbsordningen for certificerede virksomheder (L 16, 3. september 2026): EL stemte for, mens DF stemte imod.",
+      "EU-gruppe: EL sidder i The Left, mens DF sidder i ID-gruppen."
+    ],
+    "note": "EL og DF deler en EU-kritisk tilgang og et ønske om at beskytte de slidte ældre, men de er uenige om udlændinge, klima, skat på høje indkomster og EU-gruppe. EL står udenfor den grønne skattereform og har kritiseret, at regeringen ikke gør mere for klimaet. DF har lavet en benzinafgiftsaftale med regeringen, som EL ikke er med i."
+  },
+  "vocabulary": [
+    {
+      "term": "Kollektiv ledelse",
+      "meaning": "Partiet har ingen formand. Ledelsen er fordelt på flere personer, og den politiske ordfører er den klare talsmand."
+    },
+    {
+      "term": "Støtteparti",
+      "meaning": "Et parti, der ikke er med i regeringen, men som sikrer regeringen flertal i Folketinget."
+    },
+    {
+      "term": "Regeringsgrundlaget",
+      "meaning": "Den politiske platform, som firkløverregeringen har vedtaget. Dragsted siger, at gratis tandlæge står i den ord for ord."
+    },
+    {
+      "term": "Forståelsespapir",
+      "meaning": "En skriftlig aftale mellem partier om regeringsgrundlag eller støtte."
+    }
+  ],
+  "funFacts": [
+    "Enhedslisten er det eneste parti i Folketinget uden formand.",
+    "Partiet er med i The Left-gruppen i Europa-Parlamentet (GUE/NGL).",
+    "Partiet stemte i august 2026 for EU's migrations- og asylpagt, mens DF og DD stemte imod."
+  ],
+  "currentDebates": [
+    {
+      "title": "Midlertidigt stop for nye datacentre",
+      "date": "2026-11-02",
+      "topic": "klima",
+      "summary": "Eva Flyvholm har fremsat forslaget B 39, som pålægger regeringen at indføre et midlertidigt stop for nye tilladelser til datacentre, indtil Folketinget har vedtaget en national strategi. Strategien skal dække placering, ressourceforbrug, digital suverænitet, forsyningssikkerhed og forholdet til naboer. Forslaget er opdateret 2. november 2026 og skal være gennemført senest 1. februar 2027.",
+      "positions": [
+        {
+          "who": "Eva Flyvholm (EL)",
+          "says": "Regeringen skal senest 1. februar 2027 indføre et midlertidigt stop for nye tilladelser til datacentre (B 39)."
+        }
+      ],
+      "whyItMatters": "Det viser, at Enhedslisten bruger sin støtte til at presse på for en klimapolitik, der går ud over erhvervsinteresser.",
+      "sources": [
+        {
+          "title": "B 39: Om et midlertidigt stop for tilladelse til nye datacentre (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B39/index.htm"
+        }
+      ]
+    },
+    {
+      "title": "Datacentre og fossile generatorer",
+      "date": "2026-11-13",
+      "topic": "klima",
+      "summary": "Lisbeth Torfing har fremsat forslaget B 62 om forbud mod datacentres tilslutning til gasnettet og anvendelse af fossile generatorer. Forslaget er opdateret 13. november 2026, og det supplerer B 39 om et midlertidigt stop for nye datacentre.",
+      "positions": [
+        {
+          "who": "Lisbeth Torfing (EL)",
+          "says": "Datacentre må ikke tilsluttes gasnettet, og fossile generatorer må ikke bruges (B 62)."
+        }
+      ],
+      "whyItMatters": "Det viser partiets linje på energi og klima: fossile løsninger skal væk, også i datacentre.",
+      "sources": [
+        {
+          "title": "B 62: Om forbud mod datacentres tilslutning til gasnettet og fossile generatorer (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B62/index.htm"
+        }
+      ]
+    },
+    {
+      "title": "Enhedslisten stemte for afskaffelse af koranloven",
+      "date": "2026-10-01",
+      "topic": "udlaendinge",
+      "summary": "Forslaget B 6 om at afskaffe koranloven blev forkastet 1. oktober 2026 med 64 stemmer imod. Enhedslisten stemte for sammen med DF, K, DD, LA, ALT og BP. S, SF, V, M og RV stemte imod.",
+      "positions": [
+        {
+          "who": "Enhedslisten",
+          "says": "Stemte for at afskaffe koranloven (B 6)."
+        }
+      ],
+      "whyItMatters": "Det er en af få afstemninger, hvor EL og DF stod sammen, og den viser, at EL ikke altid følger regeringens linje på religion.",
+      "sources": [
+        {
+          "title": "B 6: Om at afskaffe koranloven (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B6/index.htm"
+        }
+      ]
+    },
+    {
+      "title": "Nulmoms på bøger: EL stemte for",
+      "date": "2026-11-12",
+      "topic": "oekonomi",
+      "summary": "Folketinget vedtog 12. november 2026 L 36 B om nulmoms på bøger med 93 stemmer. Enhedslisten stemte for sammen med S, SF, V, DF, M, K, RV, ALT og BP. DD og LA stemte imod.",
+      "positions": [
+        {
+          "who": "Enhedslisten",
+          "says": "Stemte for nulmoms på bøger (L 36 B)."
+        }
+      ],
+      "whyItMatters": "Det viser, at EL stemmer sammen med regeringens linje, når det gælder kulturpolitik og skatter, der rammer almindelige borgere.",
+      "sources": [
+        {
+          "title": "L 36 B: Om indførelse af nulmoms på bøger (Folketinget)",
+          "url": "https://www.ft.dk/samling/20261/lovforslag/L36/index.htm"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Enhedslisten (da.wikipedia)",
+      "url": "https://da.wikipedia.org/wiki/Enhedslisten"
+    },
+    {
+      "title": "Pelle Dragsted (lex.dk)",
+      "url": "https://lex.dk/Pelle_Dragsted"
+    },
+    {
+      "title": "Enhedslisten, forside",
+      "url": "https://enhedslisten.dk"
+    },
+    {
+      "title": "Folketingets forslag fra EL (oda.ft.dk)",
+      "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B39/index.htm"
+    },
+    {
+      "title": "Folketingets afstemninger (oda.ft.dk)",
+      "url": "https://www.ft.dk/samling/20261/beslutningsforslag/B6/index.htm"
+    },
+    {
+      "title": "Gratis bus og tog for unge som krav til finanslov (Ritzau, 29. sep. 2026)",
+      "url": "https://nordvestnyt.sn.dk/article/6651587/politik/stoetteparti-har-gratis-bus-og-tog-for-unge-som-hovedkrav-til-finanslov"
+    },
+    {
+      "title": "Enhedslisten vil have mere end forringelse af seniorpension væk fra finanslov (Ritzau, 20. okt. 2026)",
+      "url": "https://frederiksborgamtsavis.sn.dk/article/6664906/politik/el-vil-have-mere-end-forringelse-af-seniorpension-vaek-fra-finanslov"
+    },
+    {
+      "title": "Pelle Dragsted holder fast trods vaklen i regeringen (Altinget, 12. jun. 2026)",
+      "url": "https://www.altinget.dk/artikel/pelle-dragsted-holder-fast-trods-vaklen-i-regeringen-gratis-tandlaege-er-en-forudsaetning-for-vores-stoette"
+    },
+    {
+      "title": "Dragsted har baglandets støtte, men ikke alle ønsker en regering med Løkke (Altinget, 26. maj 2026)",
+      "url": "https://www.altinget.dk/christiansborg/artikel/dragsted-har-baglandets-stoette-men-ikke-alle-oensker-en-regering-med-loekke"
+    },
+    {
+      "title": "Enhedslisten parkerer ambitionen om et dansk farvel til EU (Altinget, maj 2026)",
+      "url": "https://www.altinget.dk/civilsamfund/artikel/enhedslisten-parkerer-ambitionen-om-et-dansk-farvel-til-eu-udmeldelse-er-ikke-et-maal-i-sig-selv"
+    },
+    {
+      "title": "Pelle Dragsted om forsvarsforbeholdet (Altinget)",
+      "url": "https://www.altinget.dk/artikel/pelle-dragsted-jeg-stemmer-nej-men-tvivlen-har-naget-mig"
+    },
+    {
+      "title": "Benzin og diesel bliver billigere med ny skatteaftale (ing.dk, 11. nov.)",
+      "url": "https://ing.dk/artikel/medie-benzin-og-diesel-bliver-billigere-med-ny-skatteaftale"
+    },
+    {
+      "title": "Voxmeter-målinger (politpro.eu)",
+      "url": "https://politpro.eu/da/danmark/analyseinstitutter/voxmeter"
+    }
+  ]
+}

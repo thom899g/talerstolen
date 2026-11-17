@@ -1,0 +1,148 @@
+{
+  "id": "v",
+  "letter": "V",
+  "name": "Venstre, Danmarks Liberale Parti",
+  "short": "Venstre",
+  "founded": "1870",
+  "foundedNote": "Venstre blev stiftet i 1870 som den politiske bevægelse for bønder, husmænd og andre, der ville have indflydelse på Christiansborg. Partiet fik sin nuværende form i 1910.",
+  "leader": {"name": "Troels Lund Poulsen", "title": "Formand for Venstre", "since": "2023", "born": "1976", "bio": "Troels Lund Poulsen er født 30. marts 1976 i Vejle. Han blev formand for Venstre 18. november 2023, efter Jakob Ellemann-Jensen. Han har været forsvarsminister i tidligere regeringer. Efter valget 24. marts 2026 fik han til opgave at forsøge at danne en borgerlig regering, men forhandlingerne brød sammen i slutningen af maj 2026, og Venstre gik i opposition. Han er fortsat formand efter landsmødet i Herning 13.-14. november 2026, hvor han fik stående ovationer."},
+  "role": "opposition",
+  "roleNote": "Venstre er i opposition til firkløverregeringen (Socialdemokratiet, SF, Moderaterne og Radikale Venstre), som er en mindretalsregering siden 3. juni 2026. Partiet skal finde flertal for hver sag.",
+  "ideology": ["liberalisme", "borgerlig midte", "erhvervs- og landbrugsvenligt", "retssikkerhed og tryghed"],
+  "euGroup": "Forny Europa (Renew Europe)",
+  "youth": {"name": "Venstres Ungdom", "note": "Partiets ungdomsorganisation for unge medlemmer."},
+  "membersCount": "20.336 (2024)",
+  "website": "https://www.venstre.dk",
+  "oneLiner": "Liberal, erhvervs- og landbrugsvenligt borgerligt parti i opposition, der kæmper for at vinde tilbage efter et historisk dårligt valg.",
+  "summary": "Venstre vil have et Danmark, hvor borgerne har frihed til at klare sig selv, og hvor skatten er lav nok til, at det kan betale sig at arbejde og drive virksomhed. Partiet står for en stram udlændingepolitik, retssikkerhed og tryghed, og har traditionelt været tæt på landbruget. Venstre har samtidig taget en grøn omstilling til sig som en del af sin profil, men Troels Lund Poulsen har sagt, at partiet ikke giver regeringen en blankocheck. Over for Liberal Alliance og Konservative er Venstre mere midterorienteret og vil samarbejde med de andre borgerlige partier om en regering. Partiet var i SVM-regeringen, og det har været en belastning for dets vælgertilslutning.",
+  "pitch": "Venstre vil have et Danmark, hvor folk kan klare sig selv, og hvor staten hjælper dem, der har brug for det, uden at blande sig i alt. Vi har været i regering og ved, hvordan man får ting gennemført. Vi vil skabe bedre rammer for virksomheder og landmænd og holde styr på udgifterne, så vi har råd til velfærden.",
+  "critique": "Modstanderne siger, at Venstre har mistet sin retning. Partiet sad i SVM-regeringen, og mange borgerlige vælgere så det som et løftebrud. Kritikerne peger på, at partiet er presset mellem Liberal Alliance og Socialdemokratiet, og at det har svært ved at vinde vælgere tilbage efter valget 2026. De peger også på intern splid om landbrugspolitikken, som har svækket partiet yderligere.",
+  "keyIssues": [
+    {"title": "Landbrug og gødskningsloven", "detail": "Venstre stemte for gødskningsloven i september 2026, som fastsætter kvoter for landbrugets kvælstofudledning. Fem af partiets 18 folketingsmedlemmer stemte imod partilinjen. Kritikken fra landbrugets bagland har været kraftig, bl.a. mod kvælstofreguleringen og mod et sprøjteforbud uden kompensation."},
+    {"title": "Grøn omstilling med troværdighed", "detail": "På landsmødet i november 2026 talte Troels Lund Poulsen om en 'grøn rejse' og om at genvinde 'grøn troværdighed'. Han sagde, at Venstre ikke giver regeringen en blankocheck, men at partiet mener, at et nationalt sprøjteforbud er nødvendigt."},
+    {"title": "Skat og retfærdighed i skatten", "detail": "Venstres forslag B 27 om rette indkomstmodtager og sikring af, at ingen samlet betaler mere i skat, end de tjener, blev vedtaget uændret i 2. behandling 1. oktober 2026. Forslaget handler om dobbeltbeskatning. Partiet vil have lavere skat på arbejde og virksomheder."},
+    {"title": "Blå statsminister og borgerlig regering", "detail": "Venstre har peget på Troels Lund Poulsen som borgerlig statsministerkandidat. Efter valget forsøgte han at danne en borgerlig regering med Liberal Alliance og Konservative, men forhandlingerne brød sammen i maj 2026. Partiet kræver fortsat en blå regering frem for en regering ledet af Socialdemokratiet."},
+    {"title": "Mindre stat og effektiv offentlig sektor", "detail": "Venstre vil have en mindre og mere effektiv offentlig sektor og mere frihed for borgerne, bl.a. i sundhed og uddannelse."}
+  ],
+  "positions": {
+    "udlaendinge": {"score": 4, "text": "Venstre vil have en stram udlændingepolitik med krav til integration, arbejde og hurtig udvisning af kriminelle udlændinge. Partiet har været med til at stramme reglerne i SVM-perioden."},
+    "oekonomi": {"score": 4, "text": "Venstre vil have lavere skat og mindre stat, og vil have det til at betale sig at arbejde og drive virksomhed. Partiet står for en stabil økonomi og en disciplineret offentlig sektor."},
+    "arbejdsmarked": {"score": 3, "text": "Venstre vil have flere i arbejde og er åben for reformer, der øger arbejdsudbuddet, uden at fjerne den danske model med trygge overenskomster."},
+    "velfaerd": {"score": 3, "text": "Venstre vil have en velfærd med fokus på resultater og effektivisering og mere valgfrihed for borgerne. Partiet vil bevare det offentlige velfærdssystem, men er åbent for privat medvirken."},
+    "sundhed": {"score": 3, "text": "Venstre vil have en offentlig sundhedssektor, men er åben for privat medvirken og valgfrihed, især hvor ventetiderne er lange."},
+    "klima": {"score": 3, "text": "Venstre støtter den grønne omstilling, men vil have den til at ramme erhvervsliv og forbrugere så lidt som muligt. Partiet er ved at genvinde sin grønne troværdighed efter splittelsen om gødskningsloven."},
+    "natur_landbrug": {"score": 4, "text": "Venstre står for landbrugets interesser og vil have færre og mere forudsigelige krav til landmænd. Partiet stemte for gødskningsloven i september 2026, men har været splittet om kvælstofreguleringen."},
+    "eu": {"score": 2, "text": "Venstre er positiv over for EU og det indre marked og er ikke EU-skeptisk. Partiet er medlem af Renew Europe-gruppen i Europa-Parlamentet."},
+    "forsvar": {"score": 3, "text": "Venstre vil styrke forsvaret og støtter oprustning, men er ikke det mest ambitiøse parti i den borgerlige blok."},
+    "ret": {"score": 4, "text": "Venstre vil have hårdere straf for alvorlig kriminalitet og mere politi, og lægger vægt på tryghed. Samtidig vil partiet have retssikkerhed for borgerne."},
+    "bolig": {"score": 4, "text": "Venstre vil have mere marked på boligområdet og færre reguleringer, og vil have kommunerne til at give plads til byggeri."},
+    "uddannelse": {"score": 3, "text": "Venstre vil have krav og valgfrihed i uddannelsessystemet og vil give institutionerne mere frihed."}
+  },
+  "history": [
+    {"year": "1870", "event": "Venstre stiftes som bevægelse for bønder, husmænd og andre, der ville have indflydelse på Christiansborg."},
+    {"year": "1910", "event": "Venstre får sin nuværende form."},
+    {"year": "2021", "event": "Stephanie Lose vælges til næstformand i Venstre, efter at Inger Støjberg trådte tilbage."},
+    {"year": "2022", "event": "Venstre får 13,3 % og 23 mandater ved folketingsvalget 2022."},
+    {"year": "2023", "event": "18. november 2023 bliver Troels Lund Poulsen formand for Venstre, efter Jakob Ellemann-Jensen."},
+    {"year": "2026", "event": "Venstre får 10,1 % og 18 mandater ved folketingsvalget 24. marts 2026. Det er partiets dårligste valgresultat i historien."},
+    {"year": "2026", "event": "Efter valget forsøger Troels Lund Poulsen at danne en borgerlig regering med LA og Konservative. Forhandlingerne bryder sammen i slutningen af maj 2026, og Venstre går i opposition til firkløverregeringen fra 3. juni 2026."},
+    {"year": "2026", "event": "1. oktober 2026: Venstres forslag B 27 om rette indkomstmodtager og skat vedtages uændret i 2. behandling."},
+    {"year": "2026", "event": "5. oktober 2026: Venstres målinger i Voxmeter er 5,9 % (feltarbejde 28. september - 4. oktober), og partiet er splittet om gødskningsloven."},
+    {"year": "2026", "event": "25. oktober 2026: Hovedbestyrelsen bakker op om ledelsen og forventer, at folketingsgruppen stemmer samlet. 27. oktober 2026 udelukkes Preben Bang Henriksen fra folketingsgruppen."},
+    {"year": "2026", "event": "13.-14. november 2026: Venstres landsmøde i Herning. Troels Lund Poulsen afviser Anders Fogh Rasmussens forslag om at fusionere liberale partier."}
+  ],
+  "people": [
+    {"name": "Troels Lund Poulsen", "role": "Formand", "note": "Partiets leder siden 2023 og borgerlig statsministerkandidat efter valget 2026."},
+    {"name": "Stephanie Lose", "role": "Næstformand", "note": "Næstformand siden 2021, og kritiseret af flere lokalforeninger i november 2026. Formanden har støttet hende skriftligt."},
+    {"name": "Marie Brixtofte", "role": "Folketingsmedlem", "note": "Fremsatte sammen med Morten Dahlin forslaget B 27 om skat, som blev vedtaget 1. oktober 2026."},
+    {"name": "Preben Bang Henriksen", "role": "Løsgænger (udelukket fra gruppen 27. oktober 2026)", "note": "Stemte imod partilinjen i gødskningsloven og blev udelukket fra folketingsgruppen, fordi han ikke ville love at stemme med flertallet."},
+    {"name": "Amanda Heitmann", "role": "Folketingsmedlem", "note": "Stemte imod partilinjen i gødskningsloven i september 2026 og har efterfølgende sagt, at hun vil følge gruppens beslutninger."},
+    {"name": "Anni Matthiesen", "role": "Folketingsmedlem", "note": "Stemte imod partilinjen i gødskningsloven i september 2026 og har efterfølgende tilsluttet sig gruppens linje."}
+  ],
+  "voters": {
+    "summary": "Venstre har historisk haft en bred vælgerbase blandt borgerlige landmænd, selvstændige og middelklassen. Siden 2022 og især efter 2026 er mange vælgere gået til Liberal Alliance og Konservative. Ifølge Altinget har LA overtaget mange utilfredse Venstre-vælgere.",
+    "strongholds": "Landdistrikterne og de jyske landområder har traditionelt været stærke for Venstre.",
+    "demographics": "Ældre vælgere og landbrugets erhverv er en vigtig del af Venstres vælgerbase. Partiet har mistet tilslutning blandt yngre og i storbyerne."
+  },
+  "election2026": {"note": "Venstre fik 10,1 % og 18 mandater ved valget 24. marts 2026, mod 13,3 % og 23 mandater i 2022. Tabet skyldes, at partiet gik ind i SVM-regeringen, og at mange borgerlige vælgere løb til LA. Efter valget er partiet i opposition og står i målingerne på omkring 6 %. I november 2026 er folketingsgruppen 17 mandater, efter at Søren Gade forlod folketinget i oktober 2026 og Preben Bang Henriksen blev udelukket."},
+  "strengths": ["Erfaring fra regeringsmagt og kendskab til Christiansborg", "Stærk tradition i landdistrikterne og blandt landbruget", "Troels Lund Poulsen har stående ovationer på landsmødet i november 2026 og et bredt netværk i den blå blok", "Klar borgerlig profil på skat, erhverv og retssikkerhed"],
+  "weaknesses": ["Historisk lav tilslutning i målinger og tab af vælgere til LA", "Intern splid om landbrugspolitik og gødskningsloven", "Uklar profil efter SVM-perioden", "Svært ved at tiltrække yngre vælgere"],
+  "internalTensions": [
+    {"title": "Gødskningsloven og landbrugets vilkår", "detail": "Fem folketingsmedlemmer stemte imod partilinjen i september 2026. Det har vist en splid om, hvor hårdt partiet skal forsvare landbrugets interesser over for klimakrav."},
+    {"title": "Lokalforeninger mod Stephanie Lose", "detail": "I november 2026 kritiserer lokalforeninger i Sønderjylland og andre steder næstformanden for at have for lidt kontakt til medlemmerne, og for at have fokus på Christiansborg. Troels Lund Poulsen har støttet hende skriftligt."},
+    {"title": "Fusion med andre liberale partier", "detail": "Anders Fogh Rasmussen foreslog i november 2026, at Venstre, LA, Moderaterne og Danmarksdemokraterne skal samles i ét parti. Troels Lund Poulsen har afvist det."}
+  ],
+  "typicalArguments": [
+    {"claim": "Vi er det eneste borgerlige parti med erfaring fra regeringsmagt, og vi ved, hvordan man får ting gennemført.", "counter": "Netop SVM-regeringen er for mange vælgere et løftebrud, og erfaring er ikke nok, hvis partiet ikke har en tydelig retning."},
+    {"claim": "Skatten skal ned, så det kan betale sig at arbejde og drive virksomhed. Ingen skal betale mere i skat, end de tjener.", "counter": "Lavere skat kan give mindre plads til velfærd, og kritikere mener, at det især gavner de rigeste."},
+    {"claim": "Landbruget skal have rimelige vilkår, og reguleringen skal være til at leve med.", "counter": "Kritikere mener, at landbrugets udledninger af kvælstof og CO2 kræver hårdere regulering, og at det ikke kan udsættes."},
+    {"claim": "Vi er et ansvarligt parti, der vil samarbejde i den blå blok og ikke vil stille urealistiske krav.", "counter": "Kritikere mener, at Venstre har vist uklarhed i sin linje og er svækket af, at partiet har stemt for regler, som dets egne vælgere ikke bakker op om."}
+  ],
+  "vsDF": {
+    "agree": ["Begge partier vil have en stram udlændingepolitik og krav til integration", "Begge står for en borgerlig regering frem for en regering ledet af Socialdemokratiet"],
+    "disagree": ["Venstre er positiv over for EU og det indre marked, mens DF er EU-skeptisk", "Venstre er mere liberal i økonomien og vil have lavere skat og mindre stat, mens DF lægger større vægt på velfærd og ældre"],
+    "note": "Venstre og DF er begge borgerlige partier, men de adskiller sig især i EU-spørgsmålet og i velfærdspolitikken. I november 2026 indgik regeringen en skatteaftale med DF, som Liberal Alliance kritiserede, og Venstre var ikke en del af aftalen."
+  },
+  "vocabulary": [
+    {"term": "Borgerlig midte", "meaning": "Det begreb Venstre bruger om sig selv: et parti mellem den konservative højre og det liberale midterfelt."},
+    {"term": "Blå statsminister", "meaning": "Kravet om, at en borgerlig politiker skal være statsminister efter næste valg."},
+    {"term": "Grøn troværdighed", "meaning": "Troels Lund Poulsens begreb for, at Venstre skal kunne stå ved sin grønne politik over for både erhvervsliv og landbrug."}
+  ],
+  "funFacts": [
+    "Venstre er et af Danmarks ældste partier, stiftet i 1870.",
+    "Venstre fik 10,1 % ved valget i marts 2026, men er i målingerne i efteråret 2026 nede på omkring 6 %."
+  ],
+  "currentDebates": [
+    {
+      "title": "Fem folketingsmedlemmer stemmer imod partilinjen i gødskningsloven",
+      "date": "2026-10-05",
+      "topic": "natur_landbrug",
+      "summary": "Gødskningsloven fastsætter kvoter for landbrugets kvælstofudledning. Partiet stemte for loven, mens fem af partiets 18 folketingsmedlemmer stemte imod. Blandt dem var Søren Gade, Anni Matthiesen, Amanda Heitmann, Peter Juel-Jensen og Preben Bang Henriksen. Splittelsen førte senere til, at Søren Gade forlod folketinget, og at Preben Bang Henriksen blev udelukket.",
+      "positions": [{"who": "Venstre", "says": "Partiet stemte for gødskningsloven. Splittelsen viste en intern uenighed om landbrugets vilkår i forhold til klimakrav."}],
+      "whyItMatters": "Splittelsen rammer Venstres troværdighed som landbrugsparti, mens partiet står i en vanskelig målingssituation.",
+      "sources": [{"title": "Venstre hænger fast i lav Voxmeter-tilslutning efter intern splid (Frederiksborg Amtsavis, 5. okt. 2026)", "url": "https://frederiksborgamtsavis.sn.dk/article/6655246/politik/venstre-haenger-fast-i-lav-voxmeter-tilslutning-efter-intern-splid"}]
+    },
+    {
+      "title": "Venstre vedtager hovedbestyrelsens støtte til ledelsen og udelukker Preben Bang Henriksen",
+      "date": "2026-10-27",
+      "topic": "andet",
+      "summary": "Hovedbestyrelsen bakkede 25. oktober 2026 op om ledelsen og forventede, at folketingsgruppen stemmer samlet. Troels Lund Poulsen sagde, at et medlem, der ikke vil følge flertallet, ikke er en del af gruppen. Den 27. oktober 2026 blev Preben Bang Henriksen udelukket fra gruppen og dermed fra partiet.",
+      "positions": [{"who": "Troels Lund Poulsen", "says": "Gruppen er et frivilligt, men forpligtende fællesskab, og et medlem, der ikke vil følge flertallet, er ikke en del af den."}],
+      "whyItMatters": "Udelukkelsen viser, at ledelsen vil håndhæve gruppedisciplin, og at partiet er splittet om retning og lederskab.",
+      "sources": [{"title": "Hovedbestyrelsen bakker op om Venstres ledelse (TV 2, 25. okt. 2026)", "url": "https://nyheder.tv2.dk/live/politik/2026-10-25-venstre-holder-ekstraordinaert-hovedbestyrelsesmoede"}]
+    },
+    {
+      "title": "Kritik af Stephanie Lose i lokalforeningerne før landsmødet",
+      "date": "2026-11-12",
+      "topic": "andet",
+      "summary": "Flere lokalforeninger, bl.a. i Sønderjylland, kritiserer næstformand Stephanie Lose for at have for lidt kontakt til medlemmerne og for at have fokus på Christiansborg. Kritikken handler også om hendes rolle i de grønne forhandlinger og om gødskningsloven. Troels Lund Poulsen har sendt en skriftlig støtteerklæring.",
+      "positions": [{"who": "Troels Lund Poulsen", "says": "Han har intet til overs for de mennesker, der kritiserer Stephanie Lose for hendes arbejde, og han vil støtte hende fuldt ud."}],
+      "whyItMatters": "Kritikken rammer partiets næstformand og viser, at der er uenighed mellem ledelsen og medlemmerne.",
+      "sources": [{"title": "Vrede retter sig mod Stephanie Lose (TV 2, 12. nov. 2026)", "url": "https://nyheder.tv2.dk/politik/2026-11-12-vrede-retter-sig-mod-stephanie-lose"}]
+    },
+    {
+      "title": "Landsmøde i Herning: uro i Venstre og afvisning af fusion",
+      "date": "2026-11-14",
+      "topic": "andet",
+      "summary": "Venstres landsmøde i MCH Herning starter lørdag 14. november 2026. Troels Lund Poulsen siger, at 2026 har været et af de mest dramatiske år i hans liv, og at partiet skal tilbage i stærkere form. Han afviser Anders Fogh Rasmussens forslag om at fusionere Venstre med andre liberale partier: 'Det har jeg ikke nogen planer om.' Kommentatorer mener ikke, at talen har fået uroen til at stilne af.",
+      "positions": [{"who": "Troels Lund Poulsen", "says": "Det er afgørende, at vi i Venstre kommer tilbage i stærkere form end i dag. Det har jeg ikke nogen planer om (om fusion)."}],
+      "whyItMatters": "Landsmødet er partiets svar på krisen efter valget og på den interne uenighed om landbrug og lederskab.",
+      "sources": [{"title": "Under de stående klapsalver ulmer uroen fortsat i Venstre (TV 2, 14. nov. 2026)", "url": "https://nyheder.tv2.dk/politik/2026-11-14-under-de-staaende-klapsalver-ulmer-uroen-fortsat-i-venstre-foelg-med-foer-an-eller-forsvind"},
+        {"title": "Det har jeg ingen planer om, siger Troels Lund om Fogh-forslag (TV 2, 13. nov. 2026)", "url": "https://nyheder.tv2.dk/live/politik/2026-11-13-venstre-holder-landsmoede-midt-i-krise/det-har-jeg-ingen-planer-om-siger-troels-lund-om-fogh-forslag"}]
+    }
+  ],
+  "sources": [
+    {"title": "Venstre hænger fast i lav Voxmeter-tilslutning efter intern splid (Frederiksborg Amtsavis)", "url": "https://frederiksborgamtsavis.sn.dk/article/6655246/politik/venstre-haenger-fast-i-lav-voxmeter-tilslutning-efter-intern-splid"},
+    {"title": "Regeringen præsenterer finanslovsforslag med sikkerhedsfokus (Frederiksborg Amtsavis, 9. okt. 2026)", "url": "https://frederiksborgamtsavis.sn.dk/article/6658310/politik/regeringen-praesenterer-finanslovsforslag-med-sikkerhedsfokus"},
+    {"title": "Venstre (Wikipedia)", "url": "https://da.wikipedia.org/wiki/Venstre"},
+    {"title": "Folketingsvalget 2026 (Wikipedia)", "url": "https://da.wikipedia.org/wiki/Folketingsvalget_2026"},
+    {"title": "Folketingsvalget 2022 (Wikipedia)", "url": "https://da.wikipedia.org/wiki/Folketingsvalget_2022"},
+    {"title": "Troels Lund Poulsen (Wikipedia)", "url": "https://da.wikipedia.org/wiki/Troels_Lund_Poulsen"},
+    {"title": "Hovedbestyrelsen bakker op om Venstres ledelse (TV 2, 25. okt. 2026)", "url": "https://nyheder.tv2.dk/live/politik/2026-10-25-venstre-holder-ekstraordinaert-hovedbestyrelsesmoede"},
+    {"title": "Preben Bang Henriksen færdig i Venstre (TV 2, 27. okt. 2026)", "url": "https://nyheder.tv2.dk/politik/2026-10-27-preben-bang-henriksen-faerdig-i-venstre"},
+    {"title": "Søren Gade stopper i Folketinget (DR)", "url": "https://www.dr.dk/nyheder/politik/soeren-gade-stopper-i-folketinget"},
+    {"title": "Beslutningsforslag B 27: rette indkomstmodtager og sikring af, at ingen samlet betaler mere i skat (Lovguiden)", "url": "https://www.lovguiden.dk/folketinget/sager/beslutningsforslag/105576"},
+    {"title": "Denmark Liberal Leader Takes Over Coalition Talks After PM Fails (Bloomberg, 9. maj 2026)", "url": "https://www.bloomberg.com/news/articles/2026-05-09/denmark-liberal-leader-takes-over-coalition-talks-after-pm-fails"},
+    {"title": "Denmark's centre-right coalition talks break down (The Star, 23. maj 2026)", "url": "https://www.thestar.com.my/news/world/2026/05/23/denmark039s-centre-right-coalition-talks-break-down-prolonging-political-deadlock"}
+  ]
+}
