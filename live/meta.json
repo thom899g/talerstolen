@@ -1,1 +1,150 @@
-{"calendar": [{"date": "2026-11-23", "event": "Danmark underskriver en bilateral partnerskabsaftale med Rwanda om udrejsecentret", "why": "Lars Løkke Rasmussen (M) har meldt datoen ud. Aftalen skal danne grundlag for, at de første afviste asylansøgere kan rejse til Rwanda i 2027."}, {"date": "2026-11-26", "event": "L 104 om billigere benzin og diesel i december: 3. behandling (eventuelt)", "why": "Folketingets plan har 2. behandling 24. november og 3. behandling 26. november, så afgiften kan falde med 2 kr. pr. liter fra 1. december."}, {"date": "2026-11-26", "event": "1. behandling af L 98 om højere tidlig pension", "why": "Lovforslaget hæver tidlig pension (Arne-pension) med 3.162 kr. om måneden og fastholder tilgangsalderen på 64 år for årgang 1963-1965."}, {"date": "2026-11-27", "event": "1. behandling af to borgerforslag: parkeringsselskaber (B 18) og urenset spildevand (B 29)", "why": "B 18 vil kræve statslig licens til private parkeringsselskaber og loft over kontrolafgifter. B 29 vil have flowmålere, åbne data og afgifter ved udledning af urenset spildevand."}, {"date": "2026-11-30", "event": "Skatte- og vækstminister Jakob Engel-Schmidt (M) går på forældreorlov", "why": "Tidligere klima-, energi- og forsyningsminister Lars Aagaard (M) varetager posten frem til 4. marts 2027, mens skatteaftalen med DF skal gennemføres."}, {"date": "2026-12-01", "event": "3. behandling af finansloven for 2027 (ventes i december)", "why": "Finansloven fastlægger rammerne for 2027, herunder velfærd, pension og grøn varme."}, {"date": "2026-12-01", "event": "Foreslået ikrafttræden for dele af L 43 om begrænsninger i ophold for personer fra Ukraine", "why": "Stramningen sidestiller fordrevne fra Ukraine med andre udlændinge i arbejdspligt og undervisning."}, {"date": "2026-12-17", "event": "Møde i Københavns Borgerrepræsentation om ventelister til botilbud", "why": "Ankestyrelsen har varslet tvangsbøder til de medlemmer, der stemmer for at fastholde kommunens ulovlige ventelister for udsatte borgere."}, {"date": "2027-01-01", "event": "Foreslået ikrafttræden for L 29 om parallelsamfund og negativ social kontrol", "why": "Udvider tildækningsforbuddet til uddannelsessteder og gør det strafbart at indgå i mæglingsråd for at unddrage strafbare forhold."}, {"date": "2027-01-01", "event": "Benzin- og dieselafgiften sænkes med 2 kr. pr. liter (ventes fra januar 2027)", "why": "Den første del af skatteaftalen med DF, der bliver mærkbar ved pumperne. Lovforslaget L 104 skal rykke sænkningen en måned frem til 1. december 2026 og blev førstebehandlet 19. november."}], "polls": {"latest": [{"date": "2026-11-16", "institute": "Voxmeter", "numbers": {"alt": 3, "bp": 0.3, "dd": 6.2, "df": 14.3, "el": 8.4, "k": 10.3, "la": 8.7, "m": 5.8, "rv": 6.4, "s": 19.7, "sf": 9.7, "v": 7}}, {"date": "2026-11-11", "institute": "Verian", "numbers": {"alt": 2.7, "bp": 0.9, "dd": 7.1, "df": 11.7, "el": 8, "k": 10.2, "la": 7.9, "m": 7.4, "rv": 6, "s": 20.6, "sf": 10.4, "v": 6.7}}, {"date": "2026-11-09", "institute": "Voxmeter", "numbers": {"alt": 2.8, "bp": 0.4, "dd": 6.1, "df": 13.4, "el": 8.9, "k": 10.7, "la": 9.2, "m": 5.6, "rv": 6.4, "s": 19.9, "sf": 10.7, "v": 5.8}}, {"date": "2026-11-02", "institute": "Voxmeter", "numbers": {"alt": 2.4, "bp": 0.9, "dd": 7, "df": 13.3, "el": 8.5, "k": 9.8, "la": 10.2, "m": 5, "rv": 6, "s": 20.8, "sf": 9.4, "v": 6.5}}], "note": "Der er ikke kommet nye målinger siden Voxmeter 16. november, hvor Socialdemokratiet står til 19,7 pct. og Dansk Folkeparti til 14,3 pct. Verian for Berlingske (indsamlet 5.-11. november, 1.014 interviewede) har Socialdemokratiet på 20,6 pct. og Dansk Folkeparti på 11,7 pct., så institutterne er enige om rækkefølgen i toppen, men ikke om DF's niveau.", "sources": [{"title": "Voxmeter: Politiske meningsmålinger (16.11.2026)", "url": "https://voxmeter.dk/meningsmalinger/"}, {"title": "Voxmeter-tabel 16.11.2026 (PNG)", "url": "https://voxmeter.dk/wp-content/uploads/2026/11/opinion-16-11-2026.png"}, {"title": "Voxmeter-tabel uge 47 2026 (PDF)", "url": "https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW472026.pdf"}, {"title": "Oversigt over målinger, herunder Verian for Berlingske 5.-11.11.2026 (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Next_Danish_general_election"}]}, "updatedAt": "2026-11-21T06:13:14Z"}
+{
+ "calendar": [
+  {
+   "date": "2026-11-23",
+   "event": "Danmark underskriver en bilateral partnerskabsaftale med Rwanda om udrejsecentret",
+   "why": "Lars Løkke Rasmussen (M) har meldt datoen ud. Aftalen skal danne grundlag for, at de første afviste asylansøgere kan rejse til Rwanda i 2027."
+  },
+  {
+   "date": "2026-11-23",
+   "event": "Regeringens stormøde om folkeskolen i Fredericia",
+   "why": "Regeringen har indkaldt til mødet for at drøfte de seneste PISA-resultater. Samtidig viser nye tal, at eleverne i snit havde 15 fraværsdage i skoleåret 2025/2026."
+  },
+  {
+   "date": "2026-11-26",
+   "event": "L 104 om billigere benzin og diesel i december: 3. behandling (eventuelt)",
+   "why": "Folketingets plan har 2. behandling 24. november og 3. behandling 26. november, så afgiften kan falde med 2 kr. pr. liter fra 1. december."
+  },
+  {
+   "date": "2026-11-26",
+   "event": "1. behandling af L 98 om højere tidlig pension",
+   "why": "Lovforslaget hæver tidlig pension (Arne-pension) med 3.162 kr. om måneden og fastholder tilgangsalderen på 64 år for årgang 1963-1965."
+  },
+  {
+   "date": "2026-11-27",
+   "event": "1. behandling af to borgerforslag: parkeringsselskaber (B 18) og urenset spildevand (B 29)",
+   "why": "B 18 vil kræve statslig licens til private parkeringsselskaber og loft over kontrolafgifter. B 29 vil have flowmålere, åbne data og afgifter ved udledning af urenset spildevand."
+  },
+  {
+   "date": "2026-11-27",
+   "event": "Fristen for Ruslands forsvarsattaché til at forlade Danmark",
+   "why": "Udenrigsminister Lars Løkke Rasmussen (M) meddelte 20. november, at attachéen udvises og skal forlade landet inden for syv dage efter sagen om det russiske attentatforsøg."
+  },
+  {
+   "date": "2026-12-01",
+   "event": "3. behandling af finansloven for 2027 (ventes i december)",
+   "why": "Finansloven fastlægger rammerne for 2027, herunder velfærd, pension og grøn varme."
+  },
+  {
+   "date": "2026-12-01",
+   "event": "Foreslået ikrafttræden for dele af L 43 om begrænsninger i ophold for personer fra Ukraine",
+   "why": "Stramningen sidestiller fordrevne fra Ukraine med andre udlændinge i arbejdspligt og undervisning."
+  },
+  {
+   "date": "2026-12-17",
+   "event": "Møde i Københavns Borgerrepræsentation om ventelister til botilbud",
+   "why": "Ankestyrelsen har varslet tvangsbøder til de medlemmer, der stemmer for at fastholde kommunens ulovlige ventelister for udsatte borgere."
+  },
+  {
+   "date": "2027-01-01",
+   "event": "Foreslået ikrafttræden for L 29 om parallelsamfund og negativ social kontrol",
+   "why": "Udvider tildækningsforbuddet til uddannelsessteder og gør det strafbart at indgå i mæglingsråd for at unddrage strafbare forhold."
+  }
+ ],
+ "polls": {
+  "latest": [
+   {
+    "date": "2026-11-16",
+    "institute": "Voxmeter",
+    "numbers": {
+     "alt": 3,
+     "bp": 0.3,
+     "dd": 6.2,
+     "df": 14.3,
+     "el": 8.4,
+     "k": 10.3,
+     "la": 8.7,
+     "m": 5.8,
+     "rv": 6.4,
+     "s": 19.7,
+     "sf": 9.7,
+     "v": 7
+    }
+   },
+   {
+    "date": "2026-11-11",
+    "institute": "Verian",
+    "numbers": {
+     "alt": 2.7,
+     "bp": 0.9,
+     "dd": 7.1,
+     "df": 11.7,
+     "el": 8,
+     "k": 10.2,
+     "la": 7.9,
+     "m": 7.4,
+     "rv": 6,
+     "s": 20.6,
+     "sf": 10.4,
+     "v": 6.7
+    }
+   },
+   {
+    "date": "2026-11-09",
+    "institute": "Voxmeter",
+    "numbers": {
+     "alt": 2.8,
+     "bp": 0.4,
+     "dd": 6.1,
+     "df": 13.4,
+     "el": 8.9,
+     "k": 10.7,
+     "la": 9.2,
+     "m": 5.6,
+     "rv": 6.4,
+     "s": 19.9,
+     "sf": 10.7,
+     "v": 5.8
+    }
+   },
+   {
+    "date": "2026-11-02",
+    "institute": "Voxmeter",
+    "numbers": {
+     "alt": 2.4,
+     "bp": 0.9,
+     "dd": 7,
+     "df": 13.3,
+     "el": 8.5,
+     "k": 9.8,
+     "la": 10.2,
+     "m": 5,
+     "rv": 6,
+     "s": 20.8,
+     "sf": 9.4,
+     "v": 6.5
+    }
+   }
+  ],
+  "note": "Seneste måling er stadig Voxmeter 16. november med Socialdemokratiet på 19,7 pct. og Dansk Folkeparti på 14,3 pct. Verian for Berlingske (5.-11. november) har Socialdemokratiet på 20,6 pct. og DF på 11,7 pct., så institutterne er enige om rækkefølgen i toppen, men ikke om DF's niveau.",
+  "sources": [
+   {
+    "title": "Voxmeter: Politiske meningsmålinger (16.11.2026)",
+    "url": "https://voxmeter.dk/meningsmalinger/"
+   },
+   {
+    "title": "Voxmeter-tabel 16.11.2026 (PNG)",
+    "url": "https://voxmeter.dk/wp-content/uploads/2026/11/opinion-16-11-2026.png"
+   },
+   {
+    "title": "Voxmeter-tabel uge 47 2026 (PDF)",
+    "url": "https://voxmeter.dk/wp-content/uploads/opiniontable/pdf/VoxmetermalingW472026.pdf"
+   },
+   {
+    "title": "Oversigt over målinger, herunder Verian for Berlingske 5.-11.11.2026 (Wikipedia)",
+    "url": "https://en.wikipedia.org/wiki/Next_Danish_general_election"
+   }
+  ]
+ },
+ "updatedAt": "2026-11-22T06:11:55Z"
+}
